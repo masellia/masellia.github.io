@@ -36,91 +36,109 @@ stats:
     group: Efficiency
     metric: Offensive EPA/play
     game: "-0.175"
+    opponent: "-0.020"
     season: "-0.175"
   - id: defensive_epa_play
     group: Efficiency
     metric: Defensive EPA/play allowed
     game: "-0.020"
+    opponent: "-0.175"
     season: "-0.020"
   - id: offensive_success_rate
     group: Efficiency
     metric: Offensive success rate
     game: "38.8%"
+    opponent: "35.6%"
     season: "38.8%"
   - id: defensive_success_rate
     group: Efficiency
     metric: Defensive success rate allowed
     game: "35.6%"
+    opponent: "38.8%"
     season: "35.6%"
   - id: dropback_epa_play
     group: Passing and rushing
     metric: Dropback EPA/play
     game: "-0.059"
+    opponent: "0.075"
     season: "-0.059"
   - id: rush_epa_play
     group: Passing and rushing
     metric: Rush EPA/play
     game: "-0.429"
+    opponent: "-0.054"
     season: "-0.429"
   - id: cpoe
     group: Passing and rushing
     metric: Completion percentage over expected
     game: "-9.7 pp"
+    opponent: "-4.9 pp"
     season: "-9.7 pp"
   - id: proe
     group: Passing and rushing
     metric: Pass rate over expected
     game: "-1.9 pp"
+    opponent: "-8.6 pp"
     season: "-1.9 pp"
   - id: explosive_play_rate
     group: Explosiveness
     metric: Explosive-play rate
     game: "13.4%"
+    opponent: "3.4%"
     season: "13.4%"
   - id: explosive_play_rate_allowed
     group: Explosiveness
     metric: Explosive-play rate allowed
     game: "3.4%"
+    opponent: "13.4%"
     season: "3.4%"
   - id: qb_hit_rate_allowed
     group: Pressure
     metric: QB-hit rate allowed
     game: "32.6%"
+    opponent: "16.1%"
     season: "32.6%"
   - id: defensive_qb_hit_rate
     group: Pressure
     metric: Defensive QB-hit rate
     game: "16.1%"
+    opponent: "32.6%"
     season: "16.1%"
   - id: sack_rate_allowed
     group: Pressure
     metric: Sack rate allowed
     game: "8.7%"
+    opponent: "10.7%"
     season: "8.7%"
   - id: defensive_sack_rate
     group: Pressure
     metric: Defensive sack rate
     game: "10.7%"
+    opponent: "8.7%"
     season: "10.7%"
   - id: third_down_efficiency
     group: Situational
     metric: Third-down efficiency
     game: "25.0%"
+    opponent: "53.3%"
     season: "25.0%"
   - id: red_zone_efficiency
     group: Situational
     metric: Red-zone touchdown efficiency
     game: "25.0%"
+    opponent: "100.0%"
     season: "25.0%"
   - id: turnover_margin
     group: Situational
     metric: Turnover margin
     game: "-1"
+    opponent: "+1"
     season: "-1"
   - id: neutral_pace
     group: Situational
     metric: Neutral-situation pace
     game: "20.9 sec/play"
+    opponent: "40.0 sec/play"
     season: "20.9 sec/play"
 tactical:
   game_script:

@@ -3382,6 +3382,10 @@ body {
   text-transform: uppercase;
 }
 
+.nfl-stats thead abbr {
+  text-decoration: none;
+}
+
 .nfl-stats tbody th {
   color: #333333;
   font-weight: 400;
@@ -3402,6 +3406,11 @@ body {
   color: #222222;
   font-family: "DINBoldCond", sans-serif;
   font-size: 19px;
+}
+
+.nfl-stats td.nfl-stats-opponent {
+  color: #777777;
+  font-size: 17px;
 }
 
 .nfl-stats th:not(:first-child),
@@ -3524,7 +3533,7 @@ body {
   }
 
   .nfl-stats {
-    min-width: 510px;
+    min-width: 600px;
   }
 
   .nfl-key-moments li {

@@ -71,6 +71,7 @@ stats:
     group: Efficiency
     metric: Offensive EPA/play
     game:
+    opponent:
     season:
 tactical:
   game_script:
@@ -80,7 +81,7 @@ key_moments: []
 ---
 ```
 
-Keep `stats_ready: false` before the game. Afterward, set it to `true`, fill each metric's `game` and `season` values, add `stats_note` with the methodology, and add labeled `stats_sources` links. Preserve metric IDs so values can be used consistently in future quantitative work.
+Keep `stats_ready: false` before the game. Afterward, set it to `true`, fill each metric's `game`, `opponent`, and `season` values, add `stats_note` with the methodology, and add labeled `stats_sources` links. The game-only `opponent` value appears in brackets under a column labeled with `opponent_abbr`; season values remain Packers-only. Preserve metric IDs so values can be used consistently in future quantitative work.
 
 Use valid run and pass plays for EPA and success rates, and report defensive values as opponent values allowed. Define explosive plays as passes gaining at least 20 yards or runs gaining at least 10. Calculate QB-hit rates per dropback and sack rates per pass attempt including sacks. Third-down and red-zone rates are conversions divided by official opportunities; turnover margin is takeaways minus giveaways. Neutral pace is the mean game-clock interval between consecutive offensive snaps in the same drive during quarters 1-3 with the score within eight points. After Week 1, the game and season-to-date values are identical.
 

@@ -7,6 +7,7 @@
         <tr>
           <th scope="col">Metric</th>
           <th scope="col">{{ nfl_stats_post.stats_game_label | default: 'Game' }}</th>
+          <th scope="col"><abbr title="{{ nfl_stats_post.opponent | escape }}">{{ nfl_stats_post.opponent_abbr | default: 'OPP' }}</abbr></th>
           <th scope="col">{{ nfl_stats_post.stats_season_label | default: 'Season' }}</th>
         </tr>
       </thead>
@@ -15,13 +16,14 @@
         {% for stat in nfl_stats %}
           {% if stat.group and stat.group != nfl_stats_group %}
             <tr class="nfl-stats-group">
-              <th colspan="3" scope="colgroup">{{ stat.group }}</th>
+              <th colspan="4" scope="colgroup">{{ stat.group }}</th>
             </tr>
             {% assign nfl_stats_group = stat.group %}
           {% endif %}
           <tr>
             <th scope="row">{{ stat.metric }}</th>
             <td>{% if stat.game != nil %}{{ stat.game }}{% else %}&mdash;{% endif %}</td>
+            <td class="nfl-stats-opponent">{% if stat.opponent != nil %}[{{ stat.opponent }}]{% else %}&mdash;{% endif %}</td>
             <td>{% if stat.season != nil %}{{ stat.season }}{% else %}&mdash;{% endif %}</td>
           </tr>
         {% endfor %}
