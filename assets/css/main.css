@@ -3417,6 +3417,29 @@ body {
   text-align: left;
 }
 
+.nfl-stats-sources {
+  margin-top: 0.35rem !important;
+  color: #777777;
+  font-size: 12px;
+  line-height: 1.45;
+  text-align: left;
+}
+
+.nfl-stats-sources span {
+  color: #555555;
+}
+
+.nfl-stats-sources a {
+  color: var(--nfl-green);
+  text-decoration-color: var(--nfl-gold);
+  text-underline-offset: 0.18em;
+}
+
+.nfl-stats-sources a:hover,
+.nfl-stats-sources a:focus-visible {
+  color: var(--nfl-gold);
+}
+
 @media (max-width: 820px) {
   .nfl-landing {
     padding-right: 7vw;

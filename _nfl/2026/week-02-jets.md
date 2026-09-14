@@ -30,7 +30,7 @@ stats:
     season:
   - id: defensive_epa_play
     group: Efficiency
-    metric: Defensive EPA/play
+    metric: Defensive EPA/play allowed
     game:
     season:
   - id: offensive_success_rate
@@ -40,7 +40,7 @@ stats:
     season:
   - id: defensive_success_rate
     group: Efficiency
-    metric: Defensive success rate
+    metric: Defensive success rate allowed
     game:
     season:
   - id: dropback_epa_play
@@ -73,14 +73,14 @@ stats:
     metric: Explosive-play rate allowed
     game:
     season:
-  - id: pressure_rate_allowed
+  - id: qb_hit_rate_allowed
     group: Pressure
-    metric: Pressure rate allowed
+    metric: QB-hit rate allowed
     game:
     season:
-  - id: defensive_pressure_rate
+  - id: defensive_qb_hit_rate
     group: Pressure
-    metric: Defensive pressure rate
+    metric: Defensive QB-hit rate
     game:
     season:
   - id: sack_rate_allowed

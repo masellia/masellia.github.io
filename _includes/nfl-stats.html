@@ -32,6 +32,14 @@
     {% elsif nfl_stats_post.stats_ready != true %}
       <p class="nfl-stats-note">Post-game values will be added after the final whistle.</p>
     {% endif %}
+    {% if nfl_stats_post.stats_sources and nfl_stats_post.stats_sources.size > 0 %}
+      <p class="nfl-stats-sources">
+        <span>Sources:</span>
+        {% for source in nfl_stats_post.stats_sources %}
+          <a href="{{ source.url | escape }}" target="_blank" rel="noopener noreferrer">{{ source.label | escape }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </p>
+    {% endif %}
   </div>
 {% else %}
   <p class="nfl-panel-placeholder">Game and season metrics will be available after the final whistle.</p>
