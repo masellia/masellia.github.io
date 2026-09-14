@@ -16,8 +16,8 @@ stadium: U.S. Bank Stadium
 city: Minneapolis, Minnesota
 kickoff: "3:25 PM CDT"
 status: Scheduled
-team_score:
-opponent_score:
+team_score: 22
+opponent_score: 39
 stats_ready: false
 stats_game_label: Game
 stats_season_label: 2026 season
