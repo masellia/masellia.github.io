@@ -1,13 +1,14 @@
-# Add `poster: /assets/pdf/filename.pdf` to an entry to display its poster.
+# Add `poster: /assets/pdf/filename.pdf` to display a poster and `website: /meetings/slug/` to link a conference subsite.
 - date: 5–8 Jul 2027
   title: 2027 LISA Consortium Meeting
   details: "Gran Sasso Science Institute, L’Aquila (IT)."
   role: Organizing Committee
 
 - date: 9–11 Feb 2027
-  title: TEONGRAV Workshop 2027
+  title: TEONGRAV Meeting 2027
   details: "Gran Sasso Science Institute, L’Aquila (IT)."
   role: Organizing Committee
+  website: /meetings/teongrav-2027/
 
 - date: 9–20 Nov 2026
   title: Theory Meets Experiments School

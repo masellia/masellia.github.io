@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    {% assign conference = site.data.conferences[page.conference] %}
+    <link rel="icon" href="{{ '/assets/img/home/Hole_emoji.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/conference.css' | relative_url }}">
+    {% if page.conference_page == 'home' %}
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Event",
+          "name": {{ conference.title | jsonify }},
+          "description": {{ conference.description | jsonify }},
+          "startDate": {{ conference.start_date | jsonify }},
+          "endDate": {{ conference.end_date | jsonify }},
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "url": {{ page.url | absolute_url | jsonify }},
+          "location": {
+            "@type": "Place",
+            "name": {{ conference.venue | jsonify }},
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": {{ conference.city | jsonify }}
+            }
+          },
+          "organizer": {
+            "@type": "CollegeOrUniversity",
+            "name": {{ conference.venue | jsonify }},
+            "url": {{ conference.venue_url | jsonify }}
+          }
+        }
+      </script>
+    {% endif %}
+  </head>
+  <body class="conference-site conference-page-{{ page.conference_page }}">
+    <a class="conference-skip-link" href="#conference-content">Skip to content</a>
+    {% include conference-header.html %}
+
+    <main id="conference-content">
+      {{ content }}
+    </main>
+
+    <footer class="conference-footer">
+      <div>
+        <strong>{{ conference.short_title }}</strong>
+        <span>{{ conference.date_display }} / {{ conference.city }}</span>
+      </div>
+      <a href="{{ '/meetings/' | relative_url }}">Back to Meetings</a>
+    </footer>
+  </body>
+</html>

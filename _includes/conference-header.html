@@ -1,0 +1,16 @@
+{% assign conference = site.data.conferences[page.conference] %}
+{% assign conference_root = '/meetings/' | append: conference.slug | append: '/' %}
+<header class="conference-header">
+  <div class="conference-header-inner">
+    <a class="conference-wordmark" href="{{ conference_root | relative_url }}">
+      <span>{{ conference.short_title }}</span>
+      <small>{{ conference.venue_short }}</small>
+    </a>
+
+    <nav class="conference-nav" aria-label="Conference navigation">
+      <a href="{{ conference_root | relative_url }}"{% if page.conference_page == 'home' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ conference_root | append: 'timetable/' | relative_url }}"{% if page.conference_page == 'timetable' %} aria-current="page"{% endif %}>Timetable</a>
+      <a href="{{ conference_root | append: 'participants/' | relative_url }}"{% if page.conference_page == 'participants' %} aria-current="page"{% endif %}>Participants</a>
+    </nav>
+  </div>
+</header>

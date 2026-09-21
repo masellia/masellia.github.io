@@ -99,3 +99,23 @@ key_moments:
 ```
 
 Use the NFL season year for `season`, including playoff games played in January of the following calendar year. Use `week_order` to control chronological display. Set `date` to a non-future publication date and restart the local Jekyll server after changing collection configuration.
+
+## Conference subsites
+
+Small conference websites live under `/meetings/<slug>/` and use the standalone `conference` layout. Each event has one data file under `_data/conferences/` and three lightweight pages for Home, Timetable, and Participants under `pages/meetings/<slug>/`.
+
+The page front matter identifies the shared data and active local-navigation item:
+
+```yaml
+---
+layout: conference
+title: Conference title
+permalink: /meetings/conference-slug/
+conference: conference-slug
+conference_page: home
+---
+```
+
+Use `conference_page: timetable` and `conference_page: participants` on the other two pages. Store dates, venue details, committees, timetable sessions, and consented public participant information in `_data/conferences/<slug>.yml`. Participant entries may contain `name`, `affiliation`, and an optional public `url`; do not store private registration data or email addresses in the repository.
+
+Add `website: /meetings/<slug>/` to the corresponding `_data/meetings.yml` entry to display a Conference website link from the main Meetings page. Conference-specific styles belong in `assets/css/conference.css` and use the `.conference-*` namespace.
