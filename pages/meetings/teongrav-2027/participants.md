@@ -10,7 +10,6 @@ conference_page: participants
 {% assign conference = site.data.conferences[page.conference] %}
 
 <header class="conference-page-intro">
-  <p class="conference-kicker">{{ conference.venue_short }} / {{ conference.year }}</p>
   <h1>Participants</h1>
   <p>Only names and affiliations approved for public display will appear on this page.</p>
 </header>
@@ -21,7 +20,8 @@ conference_page: participants
       {% for participant in conference.participants %}
         <li>
           <strong>{% if participant.url %}<a href="{{ participant.url }}" target="_blank" rel="noopener noreferrer">{{ participant.name }}</a>{% else %}{{ participant.name }}{% endif %}</strong>
-          <span>{{ participant.affiliation }}</span>
+          <span class="conference-participant-separator" aria-hidden="true">&nbsp;-&nbsp;</span>
+          <span class="conference-participant-affiliation">{{ participant.affiliation }}</span>
         </li>
       {% endfor %}
     </ul>

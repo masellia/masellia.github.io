@@ -48,7 +48,7 @@ conference_page: home
     <article class="conference-placeholder-card">
       <span>02 / Travel</span>
       <h3>Getting to GSSI</h3>
-      <p>Travel and local transport information will be announced.</p>
+      <p><a class="conference-address" href="https://www.google.com/maps/search/?api=1&amp;query=Viale+Francesco+Crispi+7%2C+67100+L%27Aquila+AQ%2C+Italy" target="_blank" rel="noopener noreferrer">Viale Francesco Crispi, 7<br>67100 L&rsquo;Aquila (AQ)<br>ITALY</a></p>
     </article>
     <article class="conference-placeholder-card">
       <span>03 / Registration</span>
@@ -58,7 +58,15 @@ conference_page: home
     <article class="conference-placeholder-card">
       <span>04 / Contact</span>
       <h3>Questions</h3>
-      <p>{% if conference.contact %}<a href="mailto:{{ conference.contact }}">{{ conference.contact }}</a>{% else %}A conference contact will be published shortly.{% endif %}</p>
+      {% if conference.contacts and conference.contacts.size > 0 %}
+        <div class="conference-contact-list">
+          {% for contact in conference.contacts %}
+            <a href="mailto:{{ contact }}">{{ contact }}</a>
+          {% endfor %}
+        </div>
+      {% else %}
+        <p>A conference contact will be published shortly.</p>
+      {% endif %}
     </article>
   </div>
 </section>

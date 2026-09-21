@@ -11,7 +11,10 @@ venue_short: GSSI
 venue_url: https://www.gssi.it/
 city: "L'Aquila, Italy"
 registration_url:
-contact: andrea.maselli@gssi.it
+contacts:
+  - andrea.maselli@gssi.it
+  - riccardo.buscicchio@gssi.it
+  - manuel.arcasedda@gssi.it
 
 about:
   - TEONGRAV is the INFN network of scientists studying the theory and phenomenology of gravitational waves, modelling gravitational-wave sources such as black holes and neutron stars. The network includes eleven local units (Roma, Milano Bicocca, Pisa, Firenze, Torino, Cagliari, Trieste-SISSA, Trento-TIFPA, Padova, Napoli, and GSSI).
@@ -38,6 +41,7 @@ local_committee:
   - M. Mariano
   - A. Maselli
   - A. Mittal
+  - Luca Nagni
   - L. Pezzella
 
 timetable:
@@ -69,4 +73,20 @@ timetable:
         title: Closing programme
         details: Session details and speakers will be announced.
 
-participants: []
+participants:
+  - name: M. Arca Sedda
+    affiliation: GSSI
+  - name: R. Buscicchio
+    affiliation: GSSI
+  - name: N. Grillo
+    affiliation: GSSI
+  - name: M. Mariano
+    affiliation: GSSI
+  - name: A. Maselli
+    affiliation: GSSI
+  - name: A. Mittal
+    affiliation: GSSI
+  - name: Luca Nagni
+    affiliation: GSSI
+  - name: L. Pezzella
+    affiliation: GSSI

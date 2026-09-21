@@ -201,15 +201,6 @@ body.conference-site {
   padding: 7rem 0 4.5rem;
 }
 
-.conference-kicker {
-  margin: 0 0 1rem;
-  color: var(--conference-accent);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.17em;
-  text-transform: uppercase;
-}
-
 .conference-page-intro h1,
 .conference-section h2 {
   margin: 0;
@@ -220,7 +211,7 @@ body.conference-site {
 }
 
 .conference-page-intro h1 {
-  font-size: clamp(3.5rem, 9vw, 7rem);
+  font-size: clamp(2.8rem, 7vw, 5.3rem);
 }
 
 .conference-section h2 {
@@ -325,7 +316,7 @@ body.conference-site {
 
 .conference-placeholder-card span {
   color: var(--conference-accent);
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -341,6 +332,37 @@ body.conference-site {
 .conference-placeholder-card p {
   margin: 0;
   color: var(--conference-muted);
+}
+
+.conference-address {
+  color: inherit;
+  text-decoration-color: var(--conference-line);
+  text-underline-offset: 0.2em;
+  transition: color 0.18s ease;
+}
+
+.conference-address:hover,
+.conference-address:focus-visible {
+  color: var(--conference-accent);
+}
+
+.conference-contact-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.2rem;
+  color: var(--conference-muted);
+  font-size: 0.82rem;
+}
+
+.conference-contact-list a {
+  text-decoration-color: var(--conference-line);
+  text-underline-offset: 0.2em;
+}
+
+.conference-contact-list a:hover,
+.conference-contact-list a:focus-visible {
+  color: var(--conference-accent);
 }
 
 .conference-page-body {
@@ -463,15 +485,15 @@ body.conference-site {
 
 .conference-participant-list li {
   display: flex;
-  justify-content: space-between;
-  gap: 1rem;
+  justify-content: flex-start;
+  gap: 0;
   padding: 0.85rem 0;
   border-bottom: 1px solid var(--conference-line);
 }
 
-.conference-participant-list span {
+.conference-participant-affiliation {
   color: var(--conference-muted);
-  text-align: right;
+  text-align: left;
 }
 
 .conference-footer {

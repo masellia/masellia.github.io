@@ -10,7 +10,6 @@ conference_page: timetable
 {% assign conference = site.data.conferences[page.conference] %}
 
 <header class="conference-page-intro">
-  <p class="conference-kicker">{{ conference.date_display }}</p>
   <h1>Timetable</h1>
   <p>The detailed scientific programme, speakers, and session chairs will be published here.</p>
 </header>
