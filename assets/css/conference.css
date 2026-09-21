@@ -365,6 +365,45 @@ body.conference-site {
   color: var(--conference-accent);
 }
 
+.conference-poster-section h2,
+.conference-group-section h2 {
+  font-size: 2.6rem;
+}
+
+.conference-poster-frame,
+.conference-group-frame {
+  display: grid;
+  place-items: center;
+  margin-top: 2rem;
+  border: 1px solid var(--conference-line);
+  text-align: center;
+}
+
+.conference-poster-frame {
+  max-width: 560px;
+  min-height: 420px;
+  padding: 3rem 2rem;
+}
+
+.conference-group-frame {
+  min-height: 320px;
+  padding: 3rem 2rem;
+}
+
+.conference-poster-frame p,
+.conference-group-frame p {
+  margin: 0;
+  color: var(--conference-muted);
+  font-size: 1rem;
+}
+
+.conference-poster-frame img,
+.conference-group-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .conference-page-body {
   width: min(1180px, calc(100% - 3rem));
   margin: 0 auto;

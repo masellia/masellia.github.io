@@ -53,7 +53,7 @@ conference_page: home
     <article class="conference-placeholder-card">
       <span>03 / Registration</span>
       <h3>How to register</h3>
-      <p>{% if conference.registration_url %}<a href="{{ conference.registration_url }}">Registration is open.</a>{% else %}Registration details will be announced shortly.{% endif %}</p>
+      <p>{% if conference.registration_url %}<a class="conference-address" href="{{ conference.registration_url }}" target="_blank" rel="noopener noreferrer">Registration is open &mdash; register here.</a>{% else %}Registration details will be announced shortly.{% endif %}</p>
     </article>
     <article class="conference-placeholder-card">
       <span>04 / Contact</span>
@@ -68,6 +68,14 @@ conference_page: home
         <p>A conference contact will be published shortly.</p>
       {% endif %}
     </article>
+  </div>
+</section>
+
+<section class="conference-section conference-poster-section">
+  <h2>Poster</h2>
+  <div class="conference-poster-frame" role="img" aria-label="Event poster (coming soon)">
+    <!-- Replace the paragraph below with: <img src="{{ '/assets/img/meetings/teongrav-2027-poster.webp' | relative_url }}" alt="TEONGRAV Meeting 2027 poster" loading="lazy"> -->
+    <p>Event poster coming soon.</p>
   </div>
 </section>
 
@@ -90,5 +98,13 @@ conference_page: home
         {% endfor %}
       </ul>
     </section>
+  </div>
+</section>
+
+<section class="conference-section conference-group-section">
+  <h2>Group photo</h2>
+  <div class="conference-group-frame" role="img" aria-label="Group photo (coming soon)">
+    <!-- Replace the paragraph below with: <img src="{{ '/assets/img/meetings/teongrav-2027-group.webp' | relative_url }}" alt="TEONGRAV Meeting 2027 group photo" loading="lazy"> -->
+    <p>Group photo coming soon.</p>
   </div>
 </section>
