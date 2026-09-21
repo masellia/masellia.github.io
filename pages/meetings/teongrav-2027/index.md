@@ -19,7 +19,11 @@ conference_page: home
 
 <section class="conference-section conference-about">
   <h2>About the meeting</h2>
-  <p class="conference-lede">{{ conference.description }}</p>
+  <div class="conference-about-text">
+    {% for paragraph in conference.about %}
+      <p>{{ paragraph }}</p>
+    {% endfor %}
+  </div>
 </section>
 
 <section class="conference-section">
@@ -44,7 +48,7 @@ conference_page: home
     <article class="conference-placeholder-card">
       <span>04 / Contact</span>
       <h3>Questions</h3>
-      <p>{% if conference.contact %}{{ conference.contact }}{% else %}A conference contact will be published shortly.{% endif %}</p>
+      <p>{% if conference.contact %}<a href="mailto:{{ conference.contact }}">{{ conference.contact }}</a>{% else %}A conference contact will be published shortly.{% endif %}</p>
     </article>
   </div>
 </section>

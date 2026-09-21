@@ -2,7 +2,7 @@ slug: teongrav-2027
 year: 2027
 title: TEONGRAV Meeting 2027
 short_title: TEONGRAV 2027
-description: The scientific programme and practical information will be announced shortly.
+description: TEONGRAV is the INFN network studying the theory and phenomenology of gravitational waves and their sources.
 start_date: "2027-02-09"
 end_date: "2027-02-11"
 date_display: 9-11 February 2027
@@ -11,7 +11,12 @@ venue_short: GSSI
 venue_url: https://www.gssi.it/
 city: "L'Aquila, Italy"
 registration_url:
-contact:
+contact: andrea.maselli@gssi.it
+
+about:
+  - TEONGRAV is the INFN network of scientists studying the theory and phenomenology of gravitational waves, modelling gravitational-wave sources such as black holes and neutron stars. The network includes eleven local units (Roma, Milano Bicocca, Pisa, Firenze, Torino, Cagliari, Trieste-SISSA, Trento-TIFPA, Padova, Napoli, and GSSI).
+  - The annual TEONGRAV meeting of 2027 will take place at the Gran Sasso Science Institute in L'Aquila from 9 to 11 February 2027. The meeting will start on Tuesday 9 February and end on Thursday 11 February.
+  - The primary objective of the meeting is to foster connections among scientists from the different TEONGRAV units. We particularly encourage younger members to engage in exchanges of ideas and discussions regarding the diverse research activities within the TEONGRAV network.
 
 scientific_committee:
   - E. Barausse
