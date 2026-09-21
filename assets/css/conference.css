@@ -138,7 +138,7 @@ body.conference-site {
   position: absolute;
   inset: 0;
   background: url("../img/meetings/teongrav-2027-hero.webp") center / auto 96% no-repeat;
-  opacity: 0.16;
+  opacity: 0.1;
 }
 
 .conference-hero-inner {
@@ -227,6 +227,11 @@ body.conference-site {
   font-size: clamp(2.6rem, 5vw, 4.8rem);
 }
 
+.conference-about h2,
+.conference-practical h2 {
+  font-size: clamp(2.1rem, 4vw, 3.5rem);
+}
+
 .conference-page-intro > p:last-child {
   max-width: 650px;
   margin: 1.5rem 0 0;
@@ -234,19 +239,45 @@ body.conference-site {
   font-size: 1.08rem;
 }
 
+.conference-about-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 0.3fr);
+  gap: clamp(2.5rem, 6vw, 6rem);
+  align-items: start;
+  margin-top: 1.75rem;
+}
+
 .conference-about-text {
-  max-width: 900px;
-  margin: 2rem 0 0;
+  max-width: 780px;
 }
 
 .conference-about-text p {
   margin: 0 0 1.25rem;
-  font-size: clamp(1rem, 1.4vw, 1.15rem);
+  font-size: clamp(0.92rem, 1.15vw, 1.02rem);
   line-height: 1.75;
 }
 
 .conference-about-text p:last-child {
   margin-bottom: 0;
+}
+
+.conference-about-logos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding-top: 0.15rem;
+}
+
+.conference-about-logos a {
+  display: block;
+  width: min(160px, 100%);
+}
+
+.conference-about-logos img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .conference-committees {
@@ -502,7 +533,7 @@ body.conference-site {
   .conference-hero::before {
     background-position: center;
     background-size: auto 90%;
-    opacity: 0.13;
+    opacity: 0.08;
   }
 
   .conference-section,
@@ -512,6 +543,7 @@ body.conference-site {
   }
 
   .conference-committees,
+  .conference-about-grid,
   .conference-placeholder-grid,
   .conference-day,
   .conference-participant-list {
@@ -524,6 +556,17 @@ body.conference-site {
 
   .conference-day-label {
     position: static;
+  }
+
+  .conference-about-logos {
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 1.25rem;
+    padding-top: 0;
+  }
+
+  .conference-about-logos a {
+    width: min(140px, 42vw);
   }
 
   .conference-placeholder-card {

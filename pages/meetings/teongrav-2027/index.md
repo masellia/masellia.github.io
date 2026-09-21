@@ -19,14 +19,24 @@ conference_page: home
 
 <section class="conference-section conference-about">
   <h2>About the meeting</h2>
-  <div class="conference-about-text">
-    {% for paragraph in conference.about %}
-      <p>{{ paragraph }}</p>
-    {% endfor %}
+  <div class="conference-about-grid">
+    <div class="conference-about-text">
+      {% for paragraph in conference.about %}
+        <p>{{ paragraph }}</p>
+      {% endfor %}
+    </div>
+    <aside class="conference-about-logos" aria-label="Host institutions">
+      <a href="{{ conference.venue_url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/pdf/meetings/gssi.png' | relative_url }}" alt="Gran Sasso Science Institute" loading="lazy">
+      </a>
+      <a href="https://www.infn.it/" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/pdf/meetings/infn.png' | relative_url }}" alt="Istituto Nazionale di Fisica Nucleare" loading="lazy">
+      </a>
+    </aside>
   </div>
 </section>
 
-<section class="conference-section">
+<section class="conference-section conference-practical">
   <h2>What to know</h2>
 
   <div class="conference-placeholder-grid">
