@@ -11,6 +11,9 @@ venue_short: GSSI
 venue_url: https://www.gssi.it/
 city: "L'Aquila, Italy"
 registration_url: https://docs.google.com/forms/d/e/1FAIpQLSeUIIONh-QNpLGqcERaHG4dMzSCeimaEW3bbNjW7-WaElj_Hg/viewform?usp=publish-editor
+# Set these once the poster files are ready; the thumbnail appears next to the committees and links to the full-size image.
+poster_thumbnail:
+poster_full:
 contacts:
   - andrea.maselli@gssi.it
   - riccardo.buscicchio@gssi.it

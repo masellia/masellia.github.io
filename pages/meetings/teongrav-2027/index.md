@@ -71,33 +71,38 @@ conference_page: home
   </div>
 </section>
 
-<section class="conference-section conference-poster-section">
-  <h2>Poster</h2>
-  <div class="conference-poster-frame" role="img" aria-label="Event poster (coming soon)">
-    <!-- Replace the paragraph below with: <img src="{{ '/assets/img/meetings/teongrav-2027-poster.webp' | relative_url }}" alt="TEONGRAV Meeting 2027 poster" loading="lazy"> -->
-    <p>Event poster coming soon.</p>
-  </div>
-</section>
-
 <section class="conference-section conference-committee-section">
-  <div class="conference-committees">
-    <section class="conference-committee" aria-labelledby="scientific-committee-title">
-      <h3 id="scientific-committee-title">Scientific Organizing Committee</h3>
-      <ul>
-        {% for member in conference.scientific_committee %}
-          <li>{{ member }}</li>
-        {% endfor %}
-      </ul>
-    </section>
+  <div class="conference-committees-with-poster">
+    <div class="conference-committees">
+      <section class="conference-committee" aria-labelledby="scientific-committee-title">
+        <h3 id="scientific-committee-title">Scientific Organizing Committee</h3>
+        <ul>
+          {% for member in conference.scientific_committee %}
+            <li>{{ member }}</li>
+          {% endfor %}
+        </ul>
+      </section>
 
-    <section class="conference-committee" aria-labelledby="local-committee-title">
-      <h3 id="local-committee-title">Local Organizing Committee</h3>
-      <ul>
-        {% for member in conference.local_committee %}
-          <li>{{ member }}</li>
-        {% endfor %}
-      </ul>
-    </section>
+      <section class="conference-committee" aria-labelledby="local-committee-title">
+        <h3 id="local-committee-title">Local Organizing Committee</h3>
+        <ul>
+          {% for member in conference.local_committee %}
+            <li>{{ member }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+    </div>
+    <aside class="conference-poster-thumb" aria-label="Event poster">
+      {% if conference.poster_thumbnail %}
+        <a class="conference-poster-thumb-frame has-image" href="{{ conference.poster_full | default: conference.poster_thumbnail | relative_url }}" target="_blank" rel="noopener noreferrer" title="Open full-size poster">
+          <img src="{{ conference.poster_thumbnail | relative_url }}" alt="TEONGRAV Meeting 2027 poster" loading="lazy">
+        </a>
+      {% else %}
+        <div class="conference-poster-thumb-frame" role="img" aria-label="Event poster (coming soon)">
+          <span>Poster coming soon.</span>
+        </div>
+      {% endif %}
+    </aside>
   </div>
 </section>
 

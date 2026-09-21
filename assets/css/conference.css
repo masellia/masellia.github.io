@@ -300,6 +300,60 @@ body.conference-site {
   line-height: 1.55;
 }
 
+.conference-committees-with-poster {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 150px;
+  gap: clamp(2rem, 5vw, 4rem);
+  align-items: start;
+  margin: 0;
+}
+
+.conference-committees-with-poster .conference-committees {
+  gap: 2.5rem;
+}
+
+.conference-poster-thumb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 0.2rem;
+}
+
+.conference-poster-thumb-frame {
+  display: grid;
+  place-items: center;
+  width: 150px;
+  height: 210px;
+  padding: 0.75rem;
+  border: 1px solid var(--conference-line);
+  background: var(--conference-paper);
+  text-align: center;
+  text-decoration: none;
+}
+
+.conference-poster-thumb-frame span {
+  color: var(--conference-muted);
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.conference-poster-thumb-frame.has-image {
+  padding: 0;
+  overflow: hidden;
+}
+
+.conference-poster-thumb-frame.has-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+a.conference-poster-thumb-frame.has-image:hover,
+a.conference-poster-thumb-frame.has-image:focus-visible {
+  border-color: var(--conference-accent);
+}
+
 .conference-placeholder-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -365,39 +419,26 @@ body.conference-site {
   color: var(--conference-accent);
 }
 
-.conference-poster-section h2,
 .conference-group-section h2 {
   font-size: 2.6rem;
 }
 
-.conference-poster-frame,
 .conference-group-frame {
   display: grid;
   place-items: center;
   margin-top: 2rem;
   border: 1px solid var(--conference-line);
   text-align: center;
-}
-
-.conference-poster-frame {
-  max-width: 560px;
-  min-height: 420px;
-  padding: 3rem 2rem;
-}
-
-.conference-group-frame {
   min-height: 320px;
   padding: 3rem 2rem;
 }
 
-.conference-poster-frame p,
 .conference-group-frame p {
   margin: 0;
   color: var(--conference-muted);
   font-size: 1rem;
 }
 
-.conference-poster-frame img,
 .conference-group-frame img {
   display: block;
   width: 100%;
@@ -607,11 +648,17 @@ body.conference-site {
   }
 
   .conference-committees,
+  .conference-committees-with-poster,
   .conference-about-grid,
   .conference-placeholder-grid,
   .conference-day,
   .conference-participant-list {
     grid-template-columns: 1fr;
+  }
+
+  .conference-poster-thumb {
+    align-items: flex-start;
+    margin-top: 0.5rem;
   }
 
   .conference-day {
