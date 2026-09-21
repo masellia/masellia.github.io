@@ -15,122 +15,137 @@ opponent_logo: /assets/img/nfl/jet.png
 stadium: MetLife Stadium
 city: East Rutherford, New Jersey
 kickoff: "1:00 PM EDT"
-status: Scheduled
-team_score:
-opponent_score:
-stats_ready: false
+status: Final/OT
+team_score: 20
+opponent_score: 17
+stats_ready: true
 stats_game_label: Game
 stats_season_label: 2026 season
-stats_note: Metrics will be calculated from consistent play-by-play and charting sources. Definitions and sources will be recorded with each analysis.
+stats_note: EPA and success rates use valid run and pass plays; defensive figures are opponent values allowed. Explosive plays are passes gaining at least 20 yards or runs gaining at least 10. QB-hit rates use dropbacks, while sack rates use pass attempts including sacks. Penalties and yards are accepted team penalties and enforcement yardage. Neutral pace is the mean game-clock interval between consecutive offensive snaps in the same drive during quarters 1-3 with the score within eight points.
+stats_sources:
+  - label: nflverse 2026 play-by-play
+    url: https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv.gz
+  - label: nflverse play-by-play data dictionary
+    url: https://nflreadr.nflverse.com/articles/dictionary_pbp.html
+  - label: NFL Game Center
+    url: https://www.nfl.com/games/packers-at-jets-2026-reg-2
+  - label: ESPN team stats
+    url: https://www.espn.com/nfl/matchup/_/gameId/401872936
 stats:
   - id: offensive_epa_play
     group: Efficiency
     metric: Offensive EPA/play
-    game:
-    opponent:
-    season:
+    game: "-0.222"
+    opponent: "-0.106"
+    season: "-0.195"
   - id: defensive_epa_play
     group: Efficiency
     metric: Defensive EPA/play allowed
-    game:
-    opponent:
-    season:
+    game: "-0.106"
+    opponent: "-0.222"
+    season: "-0.067"
   - id: offensive_success_rate
     group: Efficiency
     metric: Offensive success rate
-    game:
-    opponent:
-    season:
+    game: "32.0%"
+    opponent: "38.0%"
+    season: "35.9%"
   - id: defensive_success_rate
     group: Efficiency
     metric: Defensive success rate allowed
-    game:
-    opponent:
-    season:
+    game: "38.0%"
+    opponent: "32.0%"
+    season: "36.9%"
   - id: dropback_epa_play
     group: Passing and rushing
     metric: Dropback EPA/play
-    game:
-    opponent:
-    season:
+    game: "-0.099"
+    opponent: "0.086"
+    season: "-0.075"
   - id: rush_epa_play
     group: Passing and rushing
     metric: Rush EPA/play
-    game:
-    opponent:
-    season:
+    game: "-0.441"
+    opponent: "-0.439"
+    season: "-0.435"
   - id: cpoe
     group: Passing and rushing
     metric: Completion percentage over expected
-    game:
-    opponent:
-    season:
+    game: "-13.6 pp"
+    opponent: "5.9 pp"
+    season: "-11.3 pp"
   - id: proe
     group: Passing and rushing
     metric: Pass rate over expected
-    game:
-    opponent:
-    season:
+    game: "-3.3 pp"
+    opponent: "4.7 pp"
+    season: "-2.5 pp"
   - id: explosive_play_rate
     group: Explosiveness
     metric: Explosive-play rate
-    game:
-    opponent:
-    season:
+    game: "6.0%"
+    opponent: "4.2%"
+    season: "10.3%"
   - id: explosive_play_rate_allowed
     group: Explosiveness
     metric: Explosive-play rate allowed
-    game:
-    opponent:
-    season:
+    game: "4.2%"
+    opponent: "6.0%"
+    season: "3.8%"
   - id: qb_hit_rate_allowed
     group: Pressure
     metric: QB-hit rate allowed
-    game:
-    opponent:
-    season:
+    game: "9.4%"
+    opponent: "16.7%"
+    season: "23.1%"
   - id: defensive_qb_hit_rate
     group: Pressure
     metric: Defensive QB-hit rate
-    game:
-    opponent:
-    season:
+    game: "16.7%"
+    opponent: "9.4%"
+    season: "16.5%"
   - id: sack_rate_allowed
     group: Pressure
     metric: Sack rate allowed
-    game:
-    opponent:
-    season:
+    game: "9.4%"
+    opponent: "9.1%"
+    season: "9.0%"
   - id: defensive_sack_rate
     group: Pressure
     metric: Defensive sack rate
-    game:
-    opponent:
-    season:
+    game: "9.1%"
+    opponent: "9.4%"
+    season: "9.7%"
   - id: third_down_efficiency
     group: Situational
     metric: Third-down efficiency
-    game:
-    opponent:
-    season:
+    game: "11.1%"
+    opponent: "42.1%"
+    season: "19.0%"
   - id: red_zone_efficiency
     group: Situational
     metric: Red-zone touchdown efficiency
-    game:
-    opponent:
-    season:
+    game: "50.0%"
+    opponent: "66.7%"
+    season: "37.5%"
   - id: turnover_margin
     group: Situational
     metric: Turnover margin
-    game:
-    opponent:
-    season:
+    game: "-1"
+    opponent: "+1"
+    season: "-2"
+  - id: penalties_yards
+    group: Situational
+    metric: Penalties / yards
+    game: "14 / 133"
+    opponent: "13 / 156"
+    season: "26 / 231"
   - id: neutral_pace
     group: Situational
     metric: Neutral-situation pace
-    game:
-    opponent:
-    season:
+    game: "41.3 sec/play"
+    opponent: "31.2 sec/play"
+    season: "32.6 sec/play"
 tactical:
   game_script:
   offense:

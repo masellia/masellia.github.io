@@ -21,7 +21,7 @@ opponent_score: 39
 stats_ready: true
 stats_game_label: Game
 stats_season_label: 2026 season
-stats_note: EPA and success rates use valid run and pass plays; defensive figures are opponent values allowed. Explosive plays are passes gaining at least 20 yards or runs gaining at least 10. QB-hit rates use dropbacks, while sack rates use pass attempts including sacks. Neutral pace is the mean game-clock interval between consecutive offensive snaps in the same drive during quarters 1-3 with the score within eight points.
+stats_note: EPA and success rates use valid run and pass plays; defensive figures are opponent values allowed. Explosive plays are passes gaining at least 20 yards or runs gaining at least 10. QB-hit rates use dropbacks, while sack rates use pass attempts including sacks. Penalties and yards are accepted team penalties and enforcement yardage. Neutral pace is the mean game-clock interval between consecutive offensive snaps in the same drive during quarters 1-3 with the score within eight points.
 stats_sources:
   - label: nflverse 2026 play-by-play
     url: https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv.gz
@@ -134,6 +134,12 @@ stats:
     game: "-1"
     opponent: "+1"
     season: "-1"
+  - id: penalties_yards
+    group: Situational
+    metric: Penalties / yards
+    game: "12 / 98"
+    opponent: "3 / 15"
+    season: "12 / 98"
   - id: neutral_pace
     group: Situational
     metric: Neutral-situation pace
