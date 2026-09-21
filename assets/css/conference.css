@@ -94,7 +94,7 @@ body.conference-site {
   position: relative;
   padding: 0.35rem 0;
   color: var(--conference-muted);
-  font-size: 0.72rem;
+  font-size: 0.82rem;
   font-weight: 700;
   letter-spacing: 0.13em;
   text-decoration: none;
@@ -256,7 +256,7 @@ body.conference-site {
 .conference-about-logos {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   gap: 2.5rem;
   padding-top: 0.15rem;
 }
@@ -487,13 +487,16 @@ body.conference-site {
   display: flex;
   justify-content: flex-start;
   gap: 0;
-  padding: 0.85rem 0;
+  padding: 0.6rem 0;
   border-bottom: 1px solid var(--conference-line);
+  font-size: 0.85rem;
+  line-height: 1.45;
 }
 
 .conference-participant-affiliation {
   color: var(--conference-muted);
   text-align: left;
+  font-size: 0.8rem;
 }
 
 .conference-footer {
@@ -615,7 +618,7 @@ body.conference-site {
   }
 
   .conference-nav a {
-    font-size: 0.64rem;
+    font-size: 0.72rem;
     letter-spacing: 0.08em;
   }
 
