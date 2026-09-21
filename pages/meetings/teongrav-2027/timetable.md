@@ -11,7 +11,6 @@ conference_page: timetable
 
 <header class="conference-page-intro">
   <h1>Timetable</h1>
-  <p>The detailed scientific programme, speakers, and session chairs will be published here.</p>
 </header>
 
 <div class="conference-page-body">

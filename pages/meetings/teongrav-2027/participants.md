@@ -11,7 +11,6 @@ conference_page: participants
 
 <header class="conference-page-intro">
   <h1>Participants</h1>
-  <p>Only names and affiliations approved for public display will appear on this page.</p>
 </header>
 
 <div class="conference-page-body">
