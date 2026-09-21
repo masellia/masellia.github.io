@@ -303,7 +303,7 @@ body.conference-site {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1px;
-  margin-top: 3.5rem;
+  margin-top: 2rem;
   background: var(--conference-line);
   border: 1px solid var(--conference-line);
 }
@@ -323,7 +323,7 @@ body.conference-site {
 }
 
 .conference-placeholder-card h3 {
-  margin: 3rem 0 0.5rem;
+  margin: 1.5rem 0 0.5rem;
   font-family: var(--conference-serif);
   font-size: 1.6rem;
   font-weight: 400;
