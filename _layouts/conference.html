@@ -21,10 +21,14 @@
           "url": {{ page.url | absolute_url | jsonify }},
           "location": {
             "@type": "Place",
-            "name": {{ conference.venue | jsonify }},
+            "name": {{ conference.venue_room | append: ', ' | append: conference.venue | jsonify }},
             "address": {
               "@type": "PostalAddress",
-              "addressLocality": {{ conference.city | jsonify }}
+              "streetAddress": {{ conference.venue_address | jsonify }},
+              "postalCode": "67100",
+              "addressLocality": "L'Aquila",
+              "addressRegion": "AQ",
+              "addressCountry": "IT"
             }
           },
           "organizer": {
