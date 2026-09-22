@@ -9,10 +9,10 @@ date_display: 9-11 February 2027
 venue: Gran Sasso Science Institute
 venue_short: GSSI
 venue_url: https://www.gssi.it/
-venue_room: Main lecture hall (red room)
-venue_address: Viale Crispi, 7
+venue_room: Auditorium (blue room), Rectorate
+venue_address: Via Michele Jacobucci, 2
 venue_postal: "67100 L'Aquila (AQ), Italy"
-venue_map_url: https://www.google.com/maps/search/?api=1&query=Viale+Francesco+Crispi+7%2C+67100+L%27Aquila+AQ%2C+Italy
+venue_map_url: https://www.google.com/maps/search/?api=1&query=Via+Michele+Jacobucci+2%2C+67100+L%27Aquila+AQ%2C+Italy
 city: "L'Aquila, Italy"
 registration_url: https://docs.google.com/forms/d/e/1FAIpQLSeUIIONh-QNpLGqcERaHG4dMzSCeimaEW3bbNjW7-WaElj_Hg/viewform?usp=publish-editor
 # Thumbnail appears next to the committees and links to the full-size image.
