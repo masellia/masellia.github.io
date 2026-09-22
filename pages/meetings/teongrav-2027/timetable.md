@@ -21,15 +21,35 @@ conference_page: timetable
         <h2 id="conference-day-{{ forloop.index }}">{{ day.date }}</h2>
       </header>
 
-      <div class="conference-sessions">
-        {% for session in day.sessions %}
-          <article class="conference-session">
-            <span class="conference-session-time">{{ session.time }}</span>
-            <div>
-              <h3>{{ session.title }}</h3>
-              {% if session.details %}<p>{{ session.details }}</p>{% endif %}
+      <div class="conference-blocks">
+        {% for block in day.blocks %}
+          <details class="conference-block"{% if forloop.first and forloop.parentloop.first %} open{% endif %}>
+            <summary>
+              <span class="conference-block-label">{{ block.label }}</span>
+              <span class="conference-block-meta">{{ block.time_range }} &middot; {{ block.slots.size }} items</span>
+              <span class="conference-block-chevron" aria-hidden="true"></span>
+            </summary>
+            <div class="conference-slots">
+              {% for slot in block.slots %}
+                {% if slot.type == 'break' %}
+                  <div class="conference-slot conference-slot-break">
+                    <span class="conference-slot-time">{{ slot.time }}</span>
+                    <div>
+                      <h3>{{ slot.title }}</h3>
+                    </div>
+                  </div>
+                {% else %}
+                  <article class="conference-slot">
+                    <span class="conference-slot-time">{{ slot.time }}</span>
+                    <div>
+                      <h3>{{ slot.title }}</h3>
+                      <p>{{ slot.speaker }}{% if slot.affiliation %} &middot; {{ slot.affiliation }}{% endif %}</p>
+                    </div>
+                  </article>
+                {% endif %}
+              {% endfor %}
             </div>
-          </article>
+          </details>
         {% endfor %}
       </div>
     </section>

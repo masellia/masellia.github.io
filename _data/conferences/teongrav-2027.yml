@@ -12,8 +12,8 @@ venue_url: https://www.gssi.it/
 city: "L'Aquila, Italy"
 registration_url: https://docs.google.com/forms/d/e/1FAIpQLSeUIIONh-QNpLGqcERaHG4dMzSCeimaEW3bbNjW7-WaElj_Hg/viewform?usp=publish-editor
 # Thumbnail appears next to the committees and links to the full-size image.
-poster_thumbnail: /assets/pdf/meetings/TEONGRAV_27.png
-poster_full: /assets/pdf/meetings/TEONGRAV_27.png
+poster_thumbnail: /assets/pdf/meetings/TEONGRAV_27.pdf
+poster_full: /assets/pdf/meetings/TEONGRAV_27.pdf
 contacts:
   - andrea.maselli@gssi.it
   - riccardo.buscicchio@gssi.it
@@ -50,31 +50,205 @@ local_committee:
 timetable:
   - day: Day 1
     date: 9 February 2027
-    sessions:
-      - time: TBA
-        title: Morning programme
-        details: Session details and speakers will be announced.
-      - time: TBA
-        title: Afternoon programme
-        details: Session details and speakers will be announced.
+    blocks:
+      - label: Morning programme
+        time_range: 09:00–13:00
+        slots:
+          - time: 09:00–09:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 09:30–10:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 10:00–10:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 10:30–11:00
+            type: break
+            title: Coffee break
+          - time: 11:00–11:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 11:30–12:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 12:00–12:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 12:30–13:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+      - label: Afternoon programme
+        time_range: 14:30–18:00
+        slots:
+          - time: 14:30–15:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 15:00–15:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 15:30–16:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 16:00–16:30
+            type: break
+            title: Coffee break
+          - time: 16:30–17:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 17:00–17:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 17:30–18:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
   - day: Day 2
     date: 10 February 2027
-    sessions:
-      - time: TBA
-        title: Morning programme
-        details: Session details and speakers will be announced.
-      - time: TBA
-        title: Afternoon programme
-        details: Session details and speakers will be announced.
+    blocks:
+      - label: Morning programme
+        time_range: 09:00–13:00
+        slots:
+          - time: 09:00–09:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 09:30–10:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 10:00–10:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 10:30–11:00
+            type: break
+            title: Coffee break
+          - time: 11:00–11:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 11:30–12:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 12:00–12:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 12:30–13:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+      - label: Afternoon programme
+        time_range: 14:30–18:00
+        slots:
+          - time: 14:30–15:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 15:00–15:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 15:30–16:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 16:00–16:30
+            type: break
+            title: Coffee break
+          - time: 16:30–17:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 17:00–17:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 17:30–18:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
   - day: Day 3
     date: 11 February 2027
-    sessions:
-      - time: TBA
-        title: Morning programme
-        details: Session details and speakers will be announced.
-      - time: TBA
-        title: Closing programme
-        details: Session details and speakers will be announced.
+    blocks:
+      - label: Morning programme
+        time_range: 09:00–13:00
+        slots:
+          - time: 09:00–09:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 09:30–10:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 10:00–10:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 10:30–11:00
+            type: break
+            title: Coffee break
+          - time: 11:00–11:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 11:30–12:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 12:00–12:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 12:30–13:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+      - label: Afternoon programme
+        time_range: 14:30–18:00
+        slots:
+          - time: 14:30–15:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 15:00–15:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 15:30–16:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 16:00–16:30
+            type: break
+            title: Coffee break
+          - time: 16:30–17:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 17:00–17:30
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
+          - time: 17:30–18:00
+            type: talk
+            title: Talk to be announced
+            speaker: TBA
 
 participants:
   - name: M. Arca Sedda
