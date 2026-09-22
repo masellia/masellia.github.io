@@ -42,7 +42,7 @@ conference_page: home
   <div class="conference-placeholder-grid">
     <article class="conference-placeholder-card">
       <span>01 / Venue</span>
-      <h3>Meeting rooms</h3>
+      <h3>Meeting room</h3>
       <p><a class="conference-address" href="https://www.google.com/maps/search/?api=1&amp;query=Via+Michele+Jacobucci+2%2C+67100+L%27Aquila+AQ%2C+Italy" target="_blank" rel="noopener noreferrer">Auditorium (blue room), Rectorate<br>Via Michele Jacobucci, 2<br>67100 L&rsquo;Aquila (AQ), ITALY</a></p>
     </article>
     <article class="conference-placeholder-card">
