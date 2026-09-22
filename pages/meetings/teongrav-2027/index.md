@@ -42,8 +42,8 @@ conference_page: home
   <div class="conference-placeholder-grid">
     <article class="conference-placeholder-card">
       <span>01 / Venue</span>
-      <h3>{{ conference.venue_room }}</h3>
-      <p><a class="conference-address" href="{{ conference.venue_map_url }}" target="_blank" rel="noopener noreferrer">{{ conference.venue_address }}<br>{{ conference.venue_postal }}</a></p>
+      <h3>Meeting room</h3>
+      <p><a class="conference-address" href="{{ conference.venue_map_url }}" target="_blank" rel="noopener noreferrer">{{ conference.venue_room }}<br>{{ conference.venue_address }}<br>{{ conference.venue_postal }}</a></p>
     </article>
     <article class="conference-placeholder-card">
       <span>02 / Travel</span>
