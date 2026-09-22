@@ -317,8 +317,8 @@ body.conference-site {
   flex-direction: column;
   align-items: center;
   padding-top: 0.2rem;
-  margin-top: 1.25rem;
-  transform: translateX(-1.25rem);
+  margin-top: 1.5rem;
+  transform: translateX(-2rem);
 }
 
 .conference-poster-thumb-frame {
