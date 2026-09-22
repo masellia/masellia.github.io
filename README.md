@@ -119,3 +119,16 @@ conference_page: home
 Use `conference_page: timetable` and `conference_page: participants` on the other two pages. Store dates, venue details, committees, timetable sessions, and consented public participant information in `_data/conferences/<slug>.yml`. Participant entries may contain `name`, `affiliation`, and an optional public `url`; do not store private registration data or email addresses in the repository.
 
 Add `website: /meetings/<slug>/` to the corresponding `_data/meetings.yml` entry to display a Conference website link from the main Meetings page. Conference-specific styles belong in `assets/css/conference.css` and use the `.conference-*` namespace.
+
+Timetable talk slots may include a `topic` matching an ID in the conference's `talk_topics` list. The timetable then displays the corresponding colour marker automatically:
+
+```yaml
+- time: 09:00–09:30
+  type: talk
+  title: Talk title
+  speaker: Speaker name
+  affiliation: Institution
+  topic: theory-numerics
+```
+
+TEONGRAV 2027 uses `theory-numerics`, `waveform-modelling`, `data-analysis`, and `astrophysics`.

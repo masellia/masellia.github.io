@@ -51,6 +51,20 @@ local_committee:
   - L. Nagni
   - L. Pezzella
 
+talk_topics:
+  - id: theory-numerics
+    label: Theory/Numerics
+    color: "#d8cbea"
+  - id: waveform-modelling
+    label: Waveform Modelling
+    color: "#c6dff0"
+  - id: data-analysis
+    label: Data Analysis
+    color: "#f3ddb2"
+  - id: astrophysics
+    label: Astrophysics
+    color: "#cde3d2"
+
 timetable:
   - day: Day 1
     date: 9 February 2027

@@ -19,6 +19,19 @@ conference_page: timetable
       <header class="conference-day-label">
         <span>{{ day.day }}</span>
         <h2 id="conference-day-{{ forloop.index }}">{{ day.date }}</h2>
+        {% if forloop.first and conference.talk_topics %}
+          <aside class="conference-topic-legend" aria-label="Talk topic legend">
+            <strong>Talk topics</strong>
+            <ul>
+              {% for topic in conference.talk_topics %}
+                <li>
+                  <span class="conference-topic-swatch" style="--topic-color: {{ topic.color }}" aria-hidden="true"></span>
+                  <span>{{ topic.label }}</span>
+                </li>
+              {% endfor %}
+            </ul>
+          </aside>
+        {% endif %}
       </header>
 
       <div class="conference-blocks">
@@ -39,10 +52,14 @@ conference_page: timetable
                     </div>
                   </div>
                 {% else %}
+                  {% assign slot_topic = conference.talk_topics | where: 'id', slot.topic | first %}
                   <article class="conference-slot">
                     <span class="conference-slot-time">{{ slot.time }}</span>
                     <div>
-                      <h3>{{ slot.title }}</h3>
+                      <div class="conference-slot-title">
+                        {% if slot_topic %}<span class="conference-topic-marker" style="--topic-color: {{ slot_topic.color }}" title="{{ slot_topic.label }}" aria-label="{{ slot_topic.label }}"></span>{% endif %}
+                        <h3>{{ slot.title }}</h3>
+                      </div>
                       <p>{{ slot.speaker }}{% if slot.affiliation %} &middot; {{ slot.affiliation }}{% endif %}</p>
                     </div>
                   </article>
