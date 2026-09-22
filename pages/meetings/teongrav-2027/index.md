@@ -102,6 +102,7 @@ conference_page: home
           <span>Poster coming soon.</span>
         </div>
       {% endif %}
+      <span class="conference-poster-thumb-caption">Poster</span>
     </aside>
   </div>
 </section>

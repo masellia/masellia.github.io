@@ -317,8 +317,8 @@ body.conference-site {
   flex-direction: column;
   align-items: center;
   padding-top: 0.2rem;
-  margin-top: 1.5rem;
-  transform: translateX(-2rem);
+  margin-top: 2rem;
+  transform: translateX(-3rem);
 }
 
 .conference-poster-thumb-frame {
@@ -354,6 +354,13 @@ body.conference-site {
 a.conference-poster-thumb-frame.has-image:hover,
 a.conference-poster-thumb-frame.has-image:focus-visible {
   border-color: var(--conference-accent);
+}
+
+.conference-poster-thumb-caption {
+  margin-top: 0.5rem;
+  color: var(--conference-muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
 }
 
 .conference-placeholder-grid {
