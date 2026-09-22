@@ -317,6 +317,8 @@ body.conference-site {
   flex-direction: column;
   align-items: center;
   padding-top: 0.2rem;
+  margin-top: 1.25rem;
+  transform: translateX(-1.25rem);
 }
 
 .conference-poster-thumb-frame {
@@ -735,6 +737,7 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
   .conference-poster-thumb {
     align-items: flex-start;
     margin-top: 0.5rem;
+    transform: none;
   }
 
   .conference-day {
