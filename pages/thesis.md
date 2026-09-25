@@ -27,16 +27,25 @@ permalink: /thesis/
 
   <section class="thesis-timeline phd-timeline">
 
+  <div class="thesis-entry thesis-right">
+    <div class="thesis-year">2026-on</div>
+    <div class="thesis-student"> Juhoon Son @ Gran Sasso Science Institute </div>
+    <div class="thesis-title">TBA</div>
+  </div>
+
+
   <div class="thesis-entry thesis-left">
     <div class="thesis-year">2026-on</div>
     <div class="thesis-student"> Luca Nagni @ Gran Sasso Science Institute </div>
-    <div class="thesis-title">TBA</div>
+    <div class="thesis-title">Remembering the environment: black-hole binaries as tracers of dense astrophysical environments
+</div>
   </div>
 
   <div class="thesis-entry thesis-right">
     <div class="thesis-year">2026-on</div>
     <div class="thesis-student"> Nicole Grillo @ Gran Sasso Science Institute </div>
-    <div class="thesis-title">TBA</div>
+    <div class="thesis-title">Disentangling Astrophysical E!ects from Fundamental Physics:
+From Single Sources to Population-Based Analyses</div>
   </div>
 
   <div class="thesis-entry thesis-left">
