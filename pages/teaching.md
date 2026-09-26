@@ -168,19 +168,6 @@ permalink: /teaching/
   <section class="teaching-timeline phd-schools-timeline">
 
     <div class="teaching-entry teaching-right">
-      <div class="teaching-year"> Sep 2026 </div>
-      <div class="teaching-course">
-       <a href="https://www.physics.ntua.gr/cosmo26/Kasos2026/index.html" target="_blank" rel="noopener">
-         13th Aegean Summer school, recent developments in
-theory and observations in gravity and cosmology
-       </a>
-      </div>
-      <div class="teaching-info"> Kasos, Greece </div>
-      <div class="teaching-details">Lecture "Environmental effects and where to find them"</div>
-    </div>
-
-
-    <div class="teaching-entry teaching-left">
       <div class="teaching-year"> Mar 2025 </div>
       <div class="teaching-course">
        <a href="https://agenda.infn.it/event/42906/overview" target="_blank" rel="noopener">
@@ -191,7 +178,7 @@ theory and observations in gravity and cosmology
       <div class="teaching-details"> Lecture on Tidal effects in compact binaries </div>
     </div>
 
-    <div class="teaching-entry teaching-right">
+    <div class="teaching-entry teaching-left">
       <div class="teaching-year"> Dec 2024 </div>
       <div class="teaching-course">
        <a href="https://igravschool.ufpa.br/home" target="_blank" rel="noopener">
@@ -203,17 +190,6 @@ theory and observations in gravity and cosmology
 </div>
     </div>
 
-    <div class="teaching-entry teaching-left">
-      <div class="teaching-year"> Sep 2024 </div>
-      <div class="teaching-course">
-       <a href="https://www.physics.ntua.gr/cosmo24/Sifnos2024/gen_info.html" target="_blank" rel="noopener">
-         12th Aegean Summer school, recent developments in
-theory and observations in gravity and cosmology
-       </a>
-      </div>
-      <div class="teaching-info"> Sifnos, Greece </div>
-      <div class="teaching-details">Lecture "Black hole spectroscopy beyond GR: theory and phenomenology"</div>
-    </div>
 
     <div class="teaching-entry teaching-right">
       <div class="teaching-year"> Feb 2023 </div>
@@ -228,18 +204,6 @@ theory and observations in gravity and cosmology
 
 
     <div class="teaching-entry teaching-left">
-      <div class="teaching-year"> Sep 2022 </div>
-      <div class="teaching-course">
-       <a href="http://www.physics.ntua.gr/cosmo22/Syros2022/gen_info.html" target="_blank" rel="noopener">
-         11th Aegean Summer school, recent developments in
-theory and observations in gravity and cosmology
-       </a>
-      </div>
-      <div class="teaching-info"> Syros, Greece </div>
-      <div class="teaching-details"> Lecture "Environmental effects around EMRIs" </div>
-    </div>
-
-    <div class="teaching-entry teaching-right">
       <div class="teaching-year"> Mar 2019 </div>
       <div class="teaching-course">
        <a href="https://agenda.infn.it/event/17246/" target="_blank" rel="noopener">
@@ -251,14 +215,14 @@ Cosmology and Gravitation
       <div class="teaching-details">Exercise Lecture on Gravitational Waves I-II</div>
     </div>
 
-    <div class="teaching-entry teaching-left">
+    <div class="teaching-entry teaching-right">
       <div class="teaching-year"> Sep 2018 </div>
       <div class="teaching-course"> 9th School of Astrophysics and Gravitation EAG9 </div>
       <div class="teaching-info"> Instituto Superior Tecnico, Lisbon, Portugal </div>
       <div class="teaching-details"> Lecture "Compact Objects" </div>
     </div>
 
-    <div class="teaching-entry teaching-right">
+    <div class="teaching-entry teaching-left">
       <div class="teaching-year"> Aug 2018 </div>
       <div class="teaching-course">
        <a href="https://www.icts.res.in/program/gws2018" target="_blank" rel="noopener">
