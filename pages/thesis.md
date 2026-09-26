@@ -22,7 +22,7 @@ permalink: /thesis/
 
   <div class="thesis-section-header thesis-section-header-right">
     <div class="thesis-section-line"></div>
-    <div class="thesis-section-heading">Fast rotating boson starts: stability, oscillation spectrum and particle insprial motion</div>
+    <div class="thesis-section-heading">PhD Thesis</div>
   </div>
 
   <section class="thesis-timeline phd-timeline">
@@ -30,13 +30,14 @@ permalink: /thesis/
   <div class="thesis-entry thesis-right">
     <div class="thesis-year">2026-on</div>
     <div class="thesis-student"> Juhoon Son @ Gran Sasso Science Institute </div>
-    <div class="thesis-title">TBA</div>
+    <div class="thesis-title"> Fast rotating boson starts: stability, oscillation spectrum and particle insprial motion </div>
   </div>
 
 
   <div class="thesis-entry thesis-left">
     <div class="thesis-year">2026-on</div>
     <div class="thesis-student"> Luca Nagni @ Gran Sasso Science Institute </div>
+    <div class="thesis-advisor">Co-advisor: M. Arca Sedda, M. Branchesi, R. Buscicchio </div>
     <div class="thesis-title">Remembering the environment: black-hole binaries as tracers of dense astrophysical environments
 </div>
   </div>
