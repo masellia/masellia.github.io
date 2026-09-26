@@ -147,8 +147,8 @@ stats:
     opponent: "31.2 sec/play"
     season: "32.6 sec/play"
 tactical:
-game_script: | 
-      It wasn’t pretty. LaFleur’s words right after the game sum up quite well
+  game_script: |
+    It wasn’t pretty. LaFleur’s words right after the game sum up quite well
       the Packers’ longest game of the season so far, ending with a thrilling
       finish in OT.
 
@@ -173,10 +173,10 @@ game_script: |
       suggest, already this early in the season, a lack of common purpose among the 
       players and an inability by the coaching staff to instill and maintain 
       discipline.
-offense:
+  offense:
 
-defense: | 
-      The game was largely taken over by both defenses, which kept the score at a
+  defense: |
+    The game was largely taken over by both defenses, which kept the score at a
       low 7–7 until the end of the third quarter and effectively controlled the game
       until the final eight minutes of regulation, when Love led the comeback.
      
@@ -184,7 +184,9 @@ defense: |
       while recording a similar number of sacks — four for the Packers and three for
       the Jets. Lukas Van Ness had one of those days, with 10 total tackles, 1.5
       sacks, four QB hits and three tackles for loss, making his presence more than
-      felt by the Jets offense. Looking at these numbers, it seems that the GB
+      felt by the Jets offense. The Packers were also more effective at the line
+      of scrimmage, recording nine tackles for loss, compared with six by the Jets.
+      Looking at these numbers, it seems that the GB
       defensive corps had a very productive game at the individual level.
      
       However, team-wise, the balance shifted toward the Jets, with the
