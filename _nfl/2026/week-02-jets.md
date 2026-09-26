@@ -147,21 +147,27 @@ stats:
     opponent: "31.2 sec/play"
     season: "32.6 sec/play"
 tactical:
-  game_script: Game script: It wasn’t pretty. LaFleur’s words right after 
-the game sum up quite well the Packers’ longest game of the season so far, 
-ending with a thrilling finish in OT.
+  game_script: |
+    It wasn’t pretty. LaFleur’s words right after the game sum up quite well
+    the Packers’ longest game of the season so far, ending with a thrilling
+    finish in OT.
 
-The Packers were challenged to provide a fast and strong response after the 
-downfall against the Vikings, possibly showing that the fourth-quarter collapse 
-was more of an unexpected event than the team’s usual response when adversity 
-takes over the script. LaFleur’s team has lost nine times since 2023 after 
-leading in the fourth quarter, four of those times while holding a lead of 10+ points.
+    The Packers were challenged to provide a fast and strong response after
+    the downfall against the Vikings, possibly showing that the fourth-quarter
+    collapse was more of an unexpected event than the team’s usual response
+    when adversity takes over the script. LaFleur’s team has lost nine times
+    since 2023 after leading in the fourth quarter, four of those times while
+    holding a lead of 10+ points.
 
-The Packers’ answer was neither pretty, decisive, nor convincing. In fact, 
-putting aside for a moment the NFL mantra—which I have never particularly 
-liked—“a win is a win,” the game leaves even more question marks about the 
-rest of the season.
+    The Packers’ answer was neither pretty, decisive, nor convincing. In fact,
+    putting aside for a moment the NFL mantra—which I have never particularly
+    liked—“a win is a win,” the game leaves even more question marks about the
+    rest of the season.
   offense:
   defense:
-key_moments: [big sto 1:20 left on the 4th on 4th and 1 Braelon Allen]
+key_moments:
+  - quarter: Q4
+    clock: "1:20"
+    title: Fourth-down stop
+    text: Green Bay stops Braelon Allen on fourth-and-one.
 ---
