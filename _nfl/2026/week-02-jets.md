@@ -148,7 +148,7 @@ stats:
     season: "32.6 sec/play"
 tactical:
   game_script: |
-    It wasn’t pretty. LaFleur’s words right after the game sum up quite well
+    *It wasn’t pretty*. LaFleur’s words right after the game sum up quite well
     the Packers’ longest game of the season so far, ending with a thrilling
     finish in OT.
 
@@ -161,13 +161,15 @@ tactical:
 
     The Packers’ answer was neither pretty, decisive, nor convincing. In fact,
     putting aside for a moment the NFL mantra—which I have never particularly
-    liked—“a win is a win,” the game leaves even more question marks about the
-    rest of the season.
+    liked — *a win is a win*, the game leaves even more question marks about 
+    the rest of the season.
   offense:
   defense:
 key_moments:
   - quarter: Q4
     clock: "1:20"
     title: Fourth-down stop
-    text: Green Bay stops Braelon Allen on fourth-and-one.
+    text: The defense stops Braelon Allen at miedfield on fourth-and-one right 
+    before the end of regulation. A first down there would have almost certainly 
+    driven a winning field goal.
 ---
