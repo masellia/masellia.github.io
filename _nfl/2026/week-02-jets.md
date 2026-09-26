@@ -160,7 +160,7 @@ tactical:
     holding a lead of 10+ points.
 
     The Packers’ answer was neither pretty, decisive, nor convincing. In fact,
-    putting aside for a moment the NFL mantra—which I have never particularly
+    putting aside for a moment the NFL mantra — which I have never particularly
     liked — *a win is a win*, the game leaves even more question marks about 
     the rest of the season.
   offense:
