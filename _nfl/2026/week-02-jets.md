@@ -165,7 +165,13 @@ tactical:
     the rest of the season.
   offense:
   defense:
-key_moments_intro:
+key_moments_intro: |
+    The score remained 7–7 until the final three minutes of the third quarter.
+    It was not a game defined by clear-cut turning points; momentum remained
+    fairly steady throughout. Still, the special teams unit deserves particular
+    mention, especially the punting and kickoff-return units. Green Bay allowed
+    only two yards on three returns, consistently pinning the Jets deep in their
+    own territory.
 key_moments:
   - quarter: Q4
     clock: "1:20"

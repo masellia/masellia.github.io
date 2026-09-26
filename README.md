@@ -35,7 +35,7 @@ Then open `http://localhost:4000`.
 
 ## The QB Room
 
-Game data is stored by season under `_nfl/`. Collection documents are not published as standalone pages; each one becomes an interactive entry at `/me/qb-room/` with inline Stats, Tactical Analysis, and Key Moments panels.
+Game data is stored by season under `_nfl/`. Collection documents are not published as standalone pages; each one becomes an interactive entry at `/me/qb-room/` with inline Stats, Tactical Analysis, and What Stood Out panels.
 
 Use filenames such as `_nfl/2026/week-01-opponent.md` and this front matter:
 
@@ -86,7 +86,7 @@ Keep `stats_ready: false` before the game. Afterward, set it to `true`, fill eac
 
 Use valid run and pass plays for EPA and success rates, and report defensive values as opponent values allowed. Define explosive plays as passes gaining at least 20 yards or runs gaining at least 10. Calculate QB-hit rates per dropback and sack rates per pass attempt including sacks. Third-down and red-zone rates are conversions divided by official opportunities; turnover margin is takeaways minus giveaways. Use `penalties_yards` for accepted team penalties and enforcement yardage, formatted as `penalties / yards`. Neutral pace is the mean game-clock interval between consecutive offensive snaps in the same drive during quarters 1-3 with the score within eight points. After Week 1, the game and season-to-date values are identical.
 
-Tactical fields accept Markdown. `key_moments_intro` accepts optional Markdown prose displayed without a heading above the numbered moments. Key moments use structured entries and may include an image:
+Tactical fields accept Markdown. `key_moments_intro` accepts optional Markdown prose displayed without a heading above the numbered items in What Stood Out. Structured entries may describe decisive plays or other notable moments and may include an image:
 
 ```yaml
 key_moments_intro: |
