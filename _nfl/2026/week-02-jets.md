@@ -148,66 +148,65 @@ stats:
     season: "32.6 sec/play"
 tactical:
 game_script: | 
-    It wasn’t pretty. LaFleur’s words right after the game sum up quite well
-    the Packers’ longest game of the season so far, ending with a thrilling
-    finish in OT.
+      It wasn’t pretty. LaFleur’s words right after the game sum up quite well
+      the Packers’ longest game of the season so far, ending with a thrilling
+      finish in OT.
 
-    The Packers were challenged to provide a fast and strong response after
-    the collapse against the Vikings, possibly showing that the fourth-quarter
-    collapse was more of an unexpected event than the team’s usual response
-    when adversity takes over the script. LaFleur’s team has lost nine times
-    since 2023 after leading in the fourth quarter, four of those times while
-    holding a lead of 10+ points.
+      The Packers were challenged to provide a fast and strong response after
+      the collapse against the Vikings, possibly showing that the fourth-quarter
+      collapse was more of an unexpected event than the team’s usual response
+      when adversity takes over the script. LaFleur’s team has lost nine times
+      since 2023 after leading in the fourth quarter, four of those times while
+      holding a lead of 10+ points.
      
-    The Packers’ answer was neither pretty, decisive, nor convincing. In fact,
-    putting aside for a moment the NFL mantra — which I have never particularly
-    liked — a win is a win, the game leaves even more question marks about 
-    the rest of the season. In my view, offensive efficiency, O-line consistency, 
-    and team discipline were the areas where the high marks from the opener were 
-    asking for confirmation in this game. I believe all three actually went south.
+      The Packers’ answer was neither pretty, decisive, nor convincing. In fact,
+      putting aside for a moment the NFL mantra — which I have never particularly
+      liked — a win is a win, the game leaves even more question marks about 
+      the rest of the season. In my view, offensive efficiency, O-line consistency, 
+      and team discipline were the areas where the high marks from the opener were 
+      asking for confirmation in this game. I believe all three actually went south.
      
-    In particular, GB committed 14 penalties for 133 yards, worsening the 
-    performance of the opener in Minnesota. This is an aspect that I find 
-    particularly worrying. Beyond the technical and tactical aspects related to 
-    players and coaching staff, giving away so many yards on penalties seems to 
-    suggest, already this early in the season, a lack of common purpose among the 
-    players and an inability by the coaching staff to instill and maintain 
-    discipline.
-
+      In particular, GB committed 14 penalties for 133 yards, worsening the 
+      performance of the opener in Minnesota. This is an aspect that I find 
+      particularly worrying. Beyond the technical and tactical aspects related to 
+      players and coaching staff, giving away so many yards on penalties seems to 
+      suggest, already this early in the season, a lack of common purpose among the 
+      players and an inability by the coaching staff to instill and maintain 
+      discipline.
 offense:
 
 defense: | 
-    The game was largely taken over by both defenses, which kept the score at a
-    low 7–7 until the end of the third quarter and effectively controlled the game
-    until the final eight minutes of regulation, when Love led the comeback.
+      The game was largely taken over by both defenses, which kept the score at a
+      low 7–7 until the end of the third quarter and effectively controlled the game
+      until the final eight minutes of regulation, when Love led the comeback.
      
-    The Packers defense hit the quarterback almost twice as often as the Jets did,
-    while recording a similar number of sacks — four for the Packers and three for
-    the Jets. Lukas Van Ness had one of those days, with 10 total tackles, 1.5
-    sacks, four QB hits and three tackles for loss, making his presence more than
-    felt by the Jets offense. Looking at these numbers, it seems that the GB
-    defensive corps had a very productive game at the individual level.
+      The Packers defense hit the quarterback almost twice as often as the Jets did,
+      while recording a similar number of sacks — four for the Packers and three for
+      the Jets. Lukas Van Ness had one of those days, with 10 total tackles, 1.5
+      sacks, four QB hits and three tackles for loss, making his presence more than
+      felt by the Jets offense. Looking at these numbers, it seems that the GB
+      defensive corps had a very productive game at the individual level.
      
-    However, team-wise, the balance slightly shifted toward the Jets, with the
-    Packers allowing their offense to operate at a somewhat higher success rate. 
-    In fact, GB lost more than twice as much expected-point value per play as the 
-    Jets, with an offensive EPA of −0.222 compared with the Jets’ −0.106. On the 
-    other hand, GB did a better job of limiting explosive plays, allowing them on
-    just 4.2% of plays compared with 6.0% allowed by the Jets.
+      However, team-wise, the balance shifted toward the Jets, with the
+      Packers allowing their offense to operate at a somewhat higher success rate. 
+      In fact, GB lost more than twice as much expected-point value per play as the 
+      Jets, with an offensive EPA of −0.222 compared with the Jets’ −0.106. On the 
+      other hand, GB did a better job of limiting explosive plays, allowing them on
+      just 4.2% of plays compared with 6.0% allowed by the Jets.
      
-    A mention of (dis)honour goes to Javon Bullard. For a team looking for 
-    discipline, the unsportsmanlike conduct penalty called on third-and-9 in the
-    first quarter, after successfully defending a pass, was inexcusable.
+      A mention of (dis)honour goes to Javon Bullard. For a team looking for 
+      discipline, the unsportsmanlike conduct penalty called on third-and-9 in the
+      first quarter, after successfully defending a pass, was inexcusable.
 
 key_moments_intro: |
-    The score remained 7–7 until the final three minutes of the third quarter.
-    It was not a game defined by clear-cut turning points; momentum remained
-    fairly steady throughout. Still, the special teams unit deserves an honorary
-    mention. Green Bay allowed only two yards on three returns, consistently 
-    nailing the Jets deep in their own territory at each field change. 
-    A special mention goes to Trey Smack. Not that he did anything special, but
-    that is probably the point. After years of struggles at the position, the
-    Packers may have finally found a reliable kicker.
+      The score remained 7–7 until the final three minutes of the third quarter.
+      It was not a game defined by clear-cut turning points; momentum remained
+      fairly steady throughout. Still, the special teams unit deserves an honorary
+      mention. Green Bay allowed only two yards on three returns, consistently 
+      nailing the Jets deep in their own territory at each field change. 
+      A special mention goes to Trey Smack. Not that he did anything special, but
+      that is probably the point. After years of struggles at the position, the
+      Packers may have finally found a reliable kicker.
 key_moments:
   - quarter: Q4
     clock: "1:20"
