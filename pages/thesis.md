@@ -22,7 +22,7 @@ permalink: /thesis/
 
   <div class="thesis-section-header thesis-section-header-right">
     <div class="thesis-section-line"></div>
-    <div class="thesis-section-heading">PhD Thesis</div>
+    <div class="thesis-section-heading">Fast rotating boson starts: stability, oscillation spectrum and particle insprial motion</div>
   </div>
 
   <section class="thesis-timeline phd-timeline">
