@@ -28,7 +28,7 @@ permalink: /teaching/
     <div class="teaching-section-line"></div>
 
     <div class="teaching-section-title">
-      University Courses: Current
+      University Courses: Active
     </div>
   </div>
 
