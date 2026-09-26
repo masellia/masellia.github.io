@@ -163,5 +163,5 @@ liked—“a win is a win,” the game leaves even more question marks about the
 rest of the season.
   offense:
   defense:
-key_moments: []
+key_moments: [big sto 1:20 left on the 4th on 4th and 1 Braelon Allen]
 ---
