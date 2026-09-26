@@ -150,5 +150,6 @@ tactical:
   game_script:
   offense:
   defense:
+key_moments_intro:
 key_moments: []
 ---

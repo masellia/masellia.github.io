@@ -165,11 +165,13 @@ tactical:
     the rest of the season.
   offense:
   defense:
+key_moments_intro:
 key_moments:
   - quarter: Q4
     clock: "1:20"
     title: Fourth-down stop
-    text: The defense stops Braelon Allen at miedfield on fourth-and-one right 
-    before the end of regulation. A first down there would have almost certainly 
-    driven a winning field goal.
+    text: |
+      The defense stops Braelon Allen at midfield on fourth-and-one right
+      before the end of regulation. A first down there would have almost
+      certainly driven a winning field goal.
 ---

@@ -3273,12 +3273,22 @@ body {
 }
 
 .nfl-tactical p,
-.nfl-key-moments p {
+.nfl-key-moments p,
+.nfl-key-moments-intro p {
   margin: 0 0 1rem;
   color: #444444;
   font-size: 15px;
   line-height: 1.6;
   text-align: justify;
+}
+
+.nfl-key-moments-intro {
+  width: min(800px, 100%);
+  margin: 0 auto 1.5rem;
+}
+
+.nfl-key-moments-intro p:last-child {
+  margin-bottom: 0;
 }
 
 .nfl-tactical .nfl-section-placeholder {

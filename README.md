@@ -77,6 +77,7 @@ tactical:
   game_script:
   offense:
   defense:
+key_moments_intro:
 key_moments: []
 ---
 ```
@@ -85,9 +86,12 @@ Keep `stats_ready: false` before the game. Afterward, set it to `true`, fill eac
 
 Use valid run and pass plays for EPA and success rates, and report defensive values as opponent values allowed. Define explosive plays as passes gaining at least 20 yards or runs gaining at least 10. Calculate QB-hit rates per dropback and sack rates per pass attempt including sacks. Third-down and red-zone rates are conversions divided by official opportunities; turnover margin is takeaways minus giveaways. Use `penalties_yards` for accepted team penalties and enforcement yardage, formatted as `penalties / yards`. Neutral pace is the mean game-clock interval between consecutive offensive snaps in the same drive during quarters 1-3 with the score within eight points. After Week 1, the game and season-to-date values are identical.
 
-Tactical fields accept Markdown. Key moments use structured entries and may include an image:
+Tactical fields accept Markdown. `key_moments_intro` accepts optional Markdown prose displayed without a heading above the numbered moments. Key moments use structured entries and may include an image:
 
 ```yaml
+key_moments_intro: |
+  Optional introductory analysis appears here.
+
 key_moments:
   - quarter: Q4
     clock: "2:14"

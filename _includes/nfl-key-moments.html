@@ -1,4 +1,8 @@
 {% assign nfl_moments = include.post.key_moments %}
+{% assign nfl_moments_intro = include.post.key_moments_intro %}
+{% if nfl_moments_intro %}
+  <div class="nfl-key-moments-intro">{{ nfl_moments_intro | markdownify }}</div>
+{% endif %}
 {% if nfl_moments and nfl_moments.size > 0 %}
   <ol class="nfl-key-moments">
     {% for moment in nfl_moments %}
@@ -18,6 +22,6 @@
       </li>
     {% endfor %}
   </ol>
-{% else %}
+{% elsif nfl_moments_intro == nil %}
   <p class="nfl-panel-placeholder">The decisive plays and their tactical context will be added after the game.</p>
 {% endif %}
