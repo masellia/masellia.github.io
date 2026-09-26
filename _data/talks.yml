@@ -1,140 +1,152 @@
 invited:
   - date: Jun 2027
-    code: I71
+    code: I74
     title: TBA
     details: "Invited conference talk: Synergies for Black-Hole Binaries: from perturbative techniques to strong-field gravity, Galileo Galilei Institute, Florence (IT)."
+  - date: Sep 2026
+    code: I73
+    title: Environmental effects and where to find them
+    details: "Invited conference talk: 13th Aegean Summer School, Fry, Kasos (EL)."
   - date: Aug 2026
-    code: I70
+    code: I72
     title: "Matters of gravity: the interplay between environmental and beyond-GR effects in asymmetric binaries"
     details: "Invited conference talk: New Horizons for Psi, Beijing (CHN)."
   - date: Jun 2026
-    code: I69
+    code: I71
     title: "How does beyond vacuum General Relativity sound?"
     details: "Invited conference talk: Symphony of Spacetime: Celebrating the Discovery of Black Hole Quasinormal Modes by C. V. Vishveshwara, Raman Research Institute, Bangalore (IN)."
   - date: Feb 2026
-    code: I68
+    code: I70
     title: Challenging the vacuum binary paradigm with gravitational wave observations
     details: "Invited workshop talk: Gravity Workshop: Mergers and Beyond, University of Tübingen, Tübingen (DE)."
   - date: Feb 2026
-    code: I67
+    code: I69
     title: "Probing Vacuum General Relativity: Where to Look and What to Seek?"
     details: "Invited seminar: Gr@v Seminar, University of Aveiro, Aveiro (PT)."
   - date: Dec 2025
-    code: I66
+    code: I68
     title: "Dancing in the Dark (Matter): How Astrophysical Environments Shape Black Hole Encounters"
     details: "Invited seminar, Italian Academy of Advanced Studies, Columbia University, New York (USA)."
   - date: Dec 2025
-    code: I65
+    code: I67
     title: "Scale Hierarchies in Gravitational-Wave Binaries: A New Path for Probing Fundamental Physics"
     details: "Invited seminar: Theory Seminar, Columbia University, New York (USA)."
   - date: Oct 2025
-    code: I64
+    code: I66
     title: Black hole spectroscopy beyond Kerr with ParSpec
     details: "Invited working group talk: Beyond GR & Ringdown Group - LISA Fundamental Physics Working Group (online)."
   - date: Oct 2025
-    code: I63
+    code: I65
     title: "Scale Asymmetries in Gravitational Wave Sources and Their Physics Payoff"
     details: "Invited conference talk: 10 Years of Gravitational Wave Discovery: Advancing the Frontiers of Gravitational Physics, Indian Institute of Technology Gandhinagar, Gandhinagar (IN)."
   - date: Jul 2025
-    code: I62
+    code: I64
     title: Environmental effects on black hole physics
     details: "Invited conference talk: GR24 & Amaldi 16, Glasgow (GB)."
   - date: Jun 2025
-    code: I61
+    code: I63
     title: "Asymmetric binaries: a tale of two sides"
     details: "Invited conference talk: Black Holes, Neutron Stars, and Gravitational Waves @ Black Sea, Varna (BG)."
   - date: May 2025
-    code: I60
+    code: I62
     title: Matters of Relativity
     details: "Invited workshop talk: Gravitational Wave Probes of Black Hole Environments, IFPU, Trieste (IT)."
   - date: Mar 2025
-    code: I59
+    code: I61
     title: Probing Fundamental Physics Through Asymmetric Binary Mergers
     details: "Invited seminar, University of Perugia, Perugia (IT)."
   - date: Mar 2025
-    code: I58
+    code: I60
     title: "Gravitational wave observations of black hole mimickers: where do we look, and what do we look for"
     details: "Invited conference talk: Black Hole Mimickers: From Theory to Observation, Princeton University, Princeton (USA)."
   - date: Oct 2024
-    code: I57
+    code: I59
     title: Matter of Love
     details: "Invited colloquium, INAF-Astronomical Observatory of Abruzzo, Teramo (IT)."
   - date: Sep 2024
-    code: I56
+    code: I58
+    title: "Black Hole Spectroscopy beyond GR: Theory and Phenomenology"
+    details: "Invited conference talk: 12th Aegean Summer School, Apollonia, Sifnos (EL)."
+  - date: Sep 2024
+    code: I57
     title: Detecting fundamental fields with LISA observations of extreme mass ratio inspirals
     details: "Invited conference talk: 9th Roma International Conference on Astro-Particle Physics, Frascati (IT)."
   - date: Jul 2024
-    code: I55
+    code: I56
     title: "EMRIs: Beyond-GR, Ringdown and Environmental Effects"
     details: "Invited conference talk: 15th LISA Symposium, Dublin (IE)."
   - date: Jul 2024
-    code: I54
+    code: I55
     title: Dark matter signatures around dirty black hole binaries
     details: "Invited conference talk: New Horizons for Psi, Instituto Superior Técnico, Lisbon (PT)."
   - date: Jun 2024
-    code: I53
+    code: I54
     title: Fundamental fields, scalar charges and Extreme Mass Ratio Inspirals
     details: "Invited conference talk: Athens Symposium on Exploring the Universe, National Hellenic Research Foundation, Athens (EL)."
   - date: Mar 2024
-    code: I52
+    code: I53
     title: Gravitational wave signatures of asymmetric binaries surrounded by generic dark matter distributions
     details: "Invited journal club talk: Cosmology Journal Club, University of Padua, Padua (IT) (online)."
   - date: Feb 2024
-    code: I51
+    code: I52
     title: How dirty can a black hole be
     details: "Invited workshop talk: The New Era of Multi-Messenger Astroparticle Physics, IFPU, Trieste (IT)."
   - date: Feb 2024
-    code: I50
+    code: I51
     title: A moon window onto deciHz gravitational wave sources
     details: "Invited seminar, Institute of Space and Astronautical Science, Tokyo (JPN)."
   - date: Oct 2023
-    code: I49
+    code: I50
     title: Black hole spectroscopy beyond Kerr
     details: "Invited conference talk: GravityShapePisa, University of Pisa, Pisa (IT)."
   - date: Aug 2023
-    code: I48
+    code: I49
     title: "The relevance of being small: detecting fundamental fields with LISA observations of Extreme Mass Ratio Inspirals"
     details: "Invited seminar (webinar), Latin American Webinar on Physics (online)."
   - date: Aug 2023
-    code: I47
+    code: I48
     title: Fundamental fields, asymmetric binaries, and LISA observations within a self-force approach
     details: "Invited conference talk: Gravitational Waves Meet Effective Field Theories, Benasque (ES)."
   - date: Aug 2023
-    code: I46
+    code: I47
     title: Astrophysical and Waveform Systematics from the Working Package Perspective
     details: "Invited conference talk: Fundamental Physics Working Group Meeting, Niels Bohr Institute, Copenhagen (DK)."
   - date: Jun 2023
-    code: I45
+    code: I46
     title: "Challenging GR with future detectors: the case of 3G ground based interferometers"
     details: "Invited conference talk: Connecting the Dots, Max Planck Institute for Gravitational Physics, Potsdam (DE)."
   - date: Jun 2023
-    code: I44
+    code: I45
     title: "Black hole spectroscopy beyond Kerr: agnostic vs theory-based tests with 3G interferometers"
     details: "Invited conference talk: Gravitational Universe: Challenges and Opportunities, SISSA, Trieste (IT)."
   - date: May 2023
-    code: I43
+    code: I44
     title: Asymmetric binaries as astrophysical laboratories to probe new fundamental fields
     details: "Invited seminar, University of Aveiro, Aveiro (PT)."
   - date: May 2023
-    code: I42
+    code: I43
     title: Dirty black hole binaries as probe of dark matter halos
     details: "Invited conference talk: The Dark Matter and Stars: Multi-Messenger Probes of Dark Matter and Modified Gravity, Instituto Superior Técnico, Lisbon (PT)."
   - date: Apr 2023
-    code: I41
+    code: I42
     title: Gravitational waves from extreme-mass-ratio systems in astrophysical environments
     details: "Invited seminar, University of Bremen, Bremen (DE) (online)."
   - date: Apr 2023
-    code: I40
+    code: I41
     title: Gravitational Wave Sources in the deciHz band
     details: "Invited conference talk: Lunar Gravitational-Wave Detection, ICTS, Bangalore (IN)."
   - date: Mar 2023
-    code: I39
+    code: I40
     title: Asymmetric binaries as probe of fundamental astrophysics
     details: "Invited seminar, Max Planck Institute for Gravitational Physics, Potsdam (DE)."
   - date: Nov 2022
-    code: I38
+    code: I39
     title: The many faces of Extreme Mass Ratio Inspirals
     details: "Invited seminar, University of Pennsylvania, Philadelphia (USA)."
+  - date: Sep 2022
+    code: I38
+    title: Environmental Effects on Gravitational Wave Emission from Extreme Mass Ratio Inspirals
+    details: "Invited conference talk: 11th Aegean Summer School, Ermoupolis, Syros (EL)."
   - date: Jun 2022
     code: I37
     title: "The relevance of being small: testing gravity with LISA and extreme mass ratio inspirals"
