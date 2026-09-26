@@ -147,7 +147,11 @@ stats:
     opponent: "32.7 sec/play"
     season: "31.7 sec/play"
 tactical:
-  game_script:
+  game_script: |
+    Nobody expected that Packers transformed in an historical high-scoring offense, 
+    or the O-line turned into the Cowboys Great Wall (https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811).  
+    Yet, nobody also expected that after 5 minutes the Falcons would expose everything bad FaFleur 
+    team has been. Probably since the beginning of is tenure in Green Bay. 
   offense:
   defense:
 key_moments_intro:
