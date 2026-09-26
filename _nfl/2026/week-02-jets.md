@@ -168,16 +168,18 @@ tactical:
 key_moments_intro: |
     The score remained 7–7 until the final three minutes of the third quarter.
     It was not a game defined by clear-cut turning points; momentum remained
-    fairly steady throughout. Still, the special teams unit deserves particular
-    mention, especially the punting and kickoff-return units. Green Bay allowed
-    only two yards on three returns, consistently pinning the Jets deep in their
-    own territory.
+    fairly steady throughout. Still, the special teams unit deserves an honorary
+    mention. Green Bay allowed only two yards on three returns, consistently 
+    nailing the Jets deep in their own territory at each field change. 
+    A special mention goes to Trey Smack. Not that he did anything special, but
+    that is probably the point. After years of struggles at the position, the
+    Packers may have finally found a reliable kicker.
 key_moments:
   - quarter: Q4
     clock: "1:20"
     title: Fourth-down stop
     text: |
-      The defense stops Braelon Allen at midfield on fourth-and-one right
-      before the end of regulation. A first down there would have almost
-      certainly driven a winning field goal.
+      The defense stopped Braelon Allen at midfield on fourth-and-one right
+      before the end of regulation. A first down there would almost certainly
+      have put the Jets in position for a game-winning field goal.
 ---
