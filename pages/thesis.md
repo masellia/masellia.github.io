@@ -63,7 +63,7 @@ From Single Sources to Population-Based Analyses</div>
 
   <div class="thesis-entry thesis-left">
     <div class="thesis-year">2024-0n</div>
-    <div class="thesis-student"> Laura Pezzella Name @ Gran Sasso Science Institute </div>
+    <div class="thesis-student"> Laura Pezzella @ Gran Sasso Science Institute </div>
     <div class="thesis-title"> Ringdown modelling for asymmetric mass ratio mergers </div>
   </div>
 
