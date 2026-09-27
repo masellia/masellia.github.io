@@ -175,26 +175,30 @@ tactical:
       discipline.
   offense: |
     Jordan Love and his unit managed to worsen the offense in almost every statistical 
-      category. The success rate dropped to 32% (from 38%), with the pass rate 
-      over expected twice as low as against the Vikings in Week 1. True, Love connected 
-      for touchdowns with both Watson — who is having the best start to a season of his career 
-      in terms of TD receptions — and MarShawn Lloyd, who scored his first NFL touchdown, 
-      although the latter seemed more like a fortunate outcome from a broken play. 
-      Still, a 55% completion rate and an average of 5.0 yards per play don’t really 
-      catch the eye. Most of all, the Jets defense — or perhaps the inability of the 
-      Packers offense — cut the rate of explosive plays in half compared with the 
-      season opener, taking away one of the ideological pillars of LaFleur’s offense.
+      category. The success rate dropped to 32% (from 38%), with the pass rate over 
+      expected twice as low as against the Vikings in Week 1. True, Love connected 
+      for touchdowns with both Watson — who is having the best start to a season 
+      of his career in terms of TD receptions — and MarShawn Lloyd, who scored his 
+      first NFL touchdown, although the latter seemed more like a fortunate outcome 
+      from a broken play. Still, a 55% completion rate and an average of 5.0 yards 
+      per play don’t really catch the eye. Most of all, the Jets defense — or perhaps 
+      the inability of the Packers offense — cut the rate of explosive plays in 
+      half compared with the season opener, taking away one of the ideological pillars of LaFleur’s offense.
       
-      The O-line seems to have done a better job of protecting Love in the pocket. Part of 
-      this, however, was also due to LaFleur adapting his strategy toward a quicker 
-      passing game, significantly relieving the front line of the pressure it faced 
-      against Brian Flores’ unit in Week 1. Along with this adjustment, I think the O-line 
-      looked slightly more comfortable, with the QB-hit rate dropping and Love appearing 
-      more secure in the pocket while progressing through his reads.      
-
-
-
-
+      The O-line seems to have done a better job of protecting Love in the pocket. Part of this, 
+      however, was also due to LaFleur adapting his strategy toward a quicker passing game, 
+      significantly relieving the front line of the pressure it faced against Brian Flores’ unit 
+      in Week 1. Along with this adjustment, I think the O-line looked slightly more comfortable, 
+      with the QB-hit rate dropping and Love appearing more secure in the pocket while 
+      progressing through his reads. On a positive note, there was also some improvement in 
+      red-zone efficiency, which has been a red flag for the Packers since the end of last season.
+      
+      Overall, I thought the passing game showed some improvement, whether because of 
+      the team’s adjustments or the opponent. The rushing game, however, remains a major 
+      problem. The running backs accumulated only 63 yards on 18 carries, averaging 3.5 
+      yards per attempt. The problems extended beyond the O-line: receivers and tight 
+      ends also played their part, missing blocks and assignments.
+      
   defense: |
     The game was largely taken over by both defenses, which kept the score at a
       low 7–7 until the end of the third quarter and effectively controlled the game
