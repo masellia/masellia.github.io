@@ -184,7 +184,8 @@ tactical:
       from a broken play. Still, a 55% completion rate and an average of 5.0 yards 
       per play don’t really catch the eye. Most of all, the Jets defense — or perhaps 
       the inability of the Packers offense — cut the rate of explosive plays in 
-      half compared with the season opener, taking away one of the ideological pillars of LaFleur’s offense.
+      half compared with the season opener, taking away one of the ideological 
+      pillars of LaFleur’s offense.
       
       The O-line seems to have done a better job of protecting Love in the pocket. Part of this, 
       however, was also due to LaFleur adapting his strategy toward a quicker passing game, 
