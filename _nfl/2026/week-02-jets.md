@@ -164,7 +164,8 @@ tactical:
       liked — a win is a win, the game leaves even more question marks about 
       the rest of the season. In my view, offensive efficiency, O-line consistency, 
       and team discipline were the areas where the high marks from the opener were 
-      asking for confirmation in this game. I believe all three actually went south.
+      asking for confirmation in this game. Aside, the O-line, I believe the other 
+      two actually went south.
      
       In particular, GB committed 14 penalties for 133 yards, worsening the 
       performance of the opener in Minnesota. This is an aspect that I find 
