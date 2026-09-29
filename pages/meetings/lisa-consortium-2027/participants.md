@@ -1,0 +1,35 @@
+---
+layout: conference
+title: Participants | LISA Consortium Meeting 2027
+description: Participant list for the LISA Consortium Meeting 2027 at GSSI.
+permalink: /meetings/lisa-consortium-2027/participants/
+conference: lisa-consortium-2027
+conference_page: participants
+---
+
+{% assign conference = site.data.conferences[page.conference] %}
+
+<header class="conference-page-intro">
+  <h1>Participants</h1>
+</header>
+
+<div class="conference-page-body">
+  {% if conference.participants and conference.participants.size > 0 %}
+    <ul class="conference-participant-list">
+      {% for participant in conference.participants %}
+        <li>
+          <strong>{% if participant.url %}<a href="{{ participant.url }}" target="_blank" rel="noopener noreferrer">{{ participant.name }}</a>{% else %}{{ participant.name }}{% endif %}</strong>
+          <span class="conference-participant-separator" aria-hidden="true">&nbsp;-&nbsp;</span>
+          <span class="conference-participant-affiliation">{{ participant.affiliation }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <section class="conference-empty-state">
+      <div>
+        <h2>List to be announced</h2>
+        <p>The participant list will be published closer to the meeting.</p>
+      </div>
+    </section>
+  {% endif %}
+</div>

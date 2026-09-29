@@ -1,0 +1,170 @@
+slug: lisa-consortium-2027
+year: 2027
+title: LISA Consortium Meeting 2027
+short_title: LISA 2027
+description: Meeting of the LISA Consortium at the Gran Sasso Science Institute.
+start_date: "2027-07-05"
+end_date: "2027-07-08"
+date_display: 5-8 July 2027
+venue: Gran Sasso Science Institute
+venue_short: GSSI
+venue_url: https://www.gssi.it/
+venue_room: To be announced
+venue_address: Via Michele Jacobucci, 2
+venue_postal: "67100 L'Aquila (AQ), Italy"
+venue_map_url: https://www.google.com/maps/search/?api=1&query=Via+Michele+Jacobucci+2%2C+67100+L%27Aquila+AQ%2C+Italy
+city: "L'Aquila, Italy"
+# Restricted content (talk titles, abstracts, slides) lives on Indico and is
+# never committed here. Registration and Indico links will be added once available.
+contacts:
+  - andrea.maselli@gssi.it
+  - riccardo.buscicchio@gssi.it
+  - manuel.arcasedda@gssi.it
+
+about:
+  - The 2027 meeting of the <a class="conference-address" href="https://www.lisamission.org/" target="_blank" rel="noopener">LISA Consortium</a> will take place at the Gran Sasso Science Institute in L'Aquila from 5 to 8 July 2027.
+  - This page collects public information about the meeting. The detailed scientific programme, talk abstracts and slides are reserved to LISA members and will be published on the meeting Indico page.
+
+# Same people as the TEONGRAV 2027 local committee (placeholder until confirmed).
+scientific_committee:
+  - To be announced
+
+local_committee:
+  - M. Arca Sedda
+  - R. Buscicchio
+  - N. Grillo
+  - M. Mariano
+  - A. Maselli
+  - A. Mittal
+  - L. Nagni
+  - L. Pezzella
+
+# Public-safe skeleton only: session blocks and times. No talk titles, speakers
+# or abstracts (restricted to LISA members via Indico).
+timetable:
+  - day: Day 1
+    date: 5 July 2027
+    blocks:
+      - label: Morning programme
+        time_range: 09:00–13:00
+        slots:
+          - time: 09:00–10:30
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 10:30–11:00
+            type: break
+            title: Coffee break
+          - time: 11:00–13:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+      - label: Afternoon programme
+        time_range: 14:30–18:00
+        slots:
+          - time: 14:30–16:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 16:00–16:30
+            type: break
+            title: Coffee break
+          - time: 16:30–18:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+  - day: Day 2
+    date: 6 July 2027
+    blocks:
+      - label: Morning programme
+        time_range: 09:00–13:00
+        slots:
+          - time: 09:00–10:30
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 10:30–11:00
+            type: break
+            title: Coffee break
+          - time: 11:00–13:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+      - label: Afternoon programme
+        time_range: 14:30–18:00
+        slots:
+          - time: 14:30–16:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 16:00–16:30
+            type: break
+            title: Coffee break
+          - time: 16:30–18:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+  - day: Day 3
+    date: 7 July 2027
+    blocks:
+      - label: Morning programme
+        time_range: 09:00–13:00
+        slots:
+          - time: 09:00–10:30
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 10:30–11:00
+            type: break
+            title: Coffee break
+          - time: 11:00–13:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+      - label: Afternoon programme
+        time_range: 14:30–18:00
+        slots:
+          - time: 14:30–16:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 16:00–16:30
+            type: break
+            title: Coffee break
+          - time: 16:30–18:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+  - day: Day 4
+    date: 8 July 2027
+    blocks:
+      - label: Morning programme
+        time_range: 09:00–13:00
+        slots:
+          - time: 09:00–10:30
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 10:30–11:00
+            type: break
+            title: Coffee break
+          - time: 11:00–13:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+      - label: Afternoon programme
+        time_range: 14:30–18:00
+        slots:
+          - time: 14:30–16:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+          - time: 16:00–16:30
+            type: break
+            title: Coffee break
+          - time: 16:30–18:00
+            type: talk
+            title: Sessions to be announced
+            speaker: Full timetable on Indico (LISA members)
+
+# Participant list will be published closer to the meeting (names only, no emails).
