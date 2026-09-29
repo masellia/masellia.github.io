@@ -186,6 +186,41 @@ body.conference-site {
   font-size: 1.4rem;
 }
 
+/* LISA Consortium Meeting 2027 hero variant: deep-space navy with a faint
+   orbit-ripple motif. Typography and layout match the default hero. */
+.conference-lisa-consortium-2027 .conference-hero {
+  background: linear-gradient(135deg, #0a1c3d 0%, #1e3a6e 58%, #101f3d 100%);
+  border-bottom-color: #0a1c3d;
+}
+
+.conference-lisa-consortium-2027 .conference-hero::before {
+  background:
+    radial-gradient(ellipse 55% 45% at 80% 18%, rgba(169, 193, 236, 0.28), transparent 70%),
+    radial-gradient(ellipse 40% 35% at 12% 88%, rgba(169, 193, 236, 0.12), transparent 70%),
+    repeating-radial-gradient(circle at 82% 28%, transparent 0 34px, rgba(169, 193, 236, 0.09) 34px 35px);
+  opacity: 1;
+}
+
+.conference-lisa-consortium-2027 .conference-hero-inner {
+  color: #ffffff;
+}
+
+.conference-lisa-consortium-2027 .conference-eyebrow {
+  color: #a9c1ec;
+}
+
+.conference-lisa-consortium-2027 .conference-hero h1 {
+  color: #ffffff;
+}
+
+.conference-lisa-consortium-2027 .conference-hero h1 span {
+  color: #a9c1ec;
+}
+
+.conference-lisa-consortium-2027 .conference-hero-location {
+  color: rgba(255, 255, 255, 0.85);
+}
+
 .conference-section,
 .conference-page-intro {
   width: min(1180px, calc(100% - 3rem));
