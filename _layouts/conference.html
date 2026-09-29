@@ -7,6 +7,9 @@
     {% assign conference = site.data.conferences[page.conference] %}
     <link rel="icon" href="{{ '/assets/img/home/Hole_emoji.svg' | relative_url }}" type="image/svg+xml">
     <link rel="stylesheet" href="{{ '/assets/css/conference.css' | relative_url }}">
+    {% if conference.accent %}
+    <style>:root { --conference-accent: {{ conference.accent }}; }</style>
+    {% endif %}
     {% if page.conference_page == 'home' %}
       <script type="application/ld+json">
         {
