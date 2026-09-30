@@ -18,6 +18,7 @@
   - title: Orbital evolution of asymmetric binaries within accreting environments
     authors: A. Radulea, M. E. Rubio, K. Kritos, A. Maselli
     arxiv: '2606.18341'
+    doi: 10.1103/mk8r-8db5
     bibtex: |
       @article{Radulea:2026hub,
           author = "Radulea, Albert and Rubio, Marcelo E. and Kritos, Konstantinos and Maselli, Andrea",
@@ -25,7 +26,11 @@
           eprint = "2606.18341",
           archivePrefix = "arXiv",
           primaryClass = "gr-qc",
-          month = "6",
+          doi = "10.1103/mk8r-8db5",
+          journal = "Phys. Rev. D",
+          volume = "114",
+          number = "6",
+          pages = "063059",
           year = "2026"
       }
 
