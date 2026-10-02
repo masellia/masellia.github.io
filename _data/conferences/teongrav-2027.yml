@@ -50,6 +50,8 @@ local_committee:
   - A. Mittal
   - L. Nagni
   - L. Pezzella
+  - C. Rizo-Crastes
+  - J. Son
 
 talk_topics:
   - id: theory-numerics
@@ -220,4 +222,8 @@ participants:
   - name: L. Nagni
     affiliation: GSSI
   - name: L. Pezzella
+    affiliation: GSSI
+  - name: C. Rizo-Crastes
+    affiliation: GSSI
+  - name: J. Son
     affiliation: GSSI
