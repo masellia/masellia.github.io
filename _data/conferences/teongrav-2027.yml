@@ -69,40 +69,6 @@ timetable:
   - day: Day 1
     date: 9 February 2027
     blocks:
-      - label: Morning programme
-        time_range: 09:00–13:00
-        slots:
-          - time: 09:00–09:30
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 09:30–10:00
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 10:00–10:30
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 10:30–11:00
-            type: break
-            title: Coffee break
-          - time: 11:00–11:30
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 11:30–12:00
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 12:00–12:30
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 12:30–13:00
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
       - label: Afternoon programme
         time_range: 14:30–18:00
         slots:
@@ -234,36 +200,6 @@ timetable:
             title: Talk to be announced
             speaker: TBA
           - time: 12:30–13:00
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-      - label: Afternoon programme
-        time_range: 14:30–18:00
-        slots:
-          - time: 14:30–15:00
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 15:00–15:30
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 15:30–16:00
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 16:00–16:30
-            type: break
-            title: Coffee break
-          - time: 16:30–17:00
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 17:00–17:30
-            type: talk
-            title: Talk to be announced
-            speaker: TBA
-          - time: 17:30–18:00
             type: talk
             title: Talk to be announced
             speaker: TBA
