@@ -32,6 +32,9 @@ conference_page: home
       <a href="https://www.infn.it/" target="_blank" rel="noopener noreferrer">
         <img src="{{ '/assets/pdf/meetings/infn.png' | relative_url }}" alt="Istituto Nazionale di Fisica Nucleare" loading="lazy">
       </a>
+      <a href="https://web.infn.it/CSN4/index.php/it/17-esperimenti/195-teongrav-home" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/img/meetings/logo_teongrav.png' | relative_url }}" alt="TEONGRAV network" loading="lazy">
+      </a>
     </aside>
   </div>
 </section>
