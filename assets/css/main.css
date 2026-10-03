@@ -3319,6 +3319,28 @@ body {
   line-height: 1.45;
 }
 
+.nfl-img-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.nfl-img-row figure {
+  margin: 0;
+}
+
+.nfl-img-row img {
+  width: 100%;
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .nfl-img-row {
+    grid-template-columns: 1fr;
+  }
+}
+
 .nfl-key-moments {
   width: min(800px, 100%);
   margin: 0 auto;
@@ -3483,6 +3505,20 @@ body {
 
 .nfl-stats-sources a:hover,
 .nfl-stats-sources a:focus-visible {
+  color: var(--nfl-gold);
+}
+
+.nfl-tactical a,
+.nfl-key-moments a {
+  color: var(--nfl-green);
+  text-decoration-color: var(--nfl-gold);
+  text-underline-offset: 0.18em;
+}
+
+.nfl-tactical a:hover,
+.nfl-tactical a:focus-visible,
+.nfl-key-moments a:hover,
+.nfl-key-moments a:focus-visible {
   color: var(--nfl-gold);
 }
 

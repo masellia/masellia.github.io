@@ -149,11 +149,32 @@ stats:
 tactical:
   game_script: |
     Nobody expected that Packers transformed in an historical high-scoring offense, 
-    or the O-line turned into the Cowboys Great Wall (https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811).  
-    Yet, nobody also expected that after 5 minutes the Falcons would expose everything bad FaFleur 
-    team has been. Probably since the beginning of is tenure in Green Bay. 
-  offense:
-  defense:
+      or the O-line turned into the [Cowboys Great Wall](https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811). Yet, nobody also expected that after 5 minutes the Falcons would expose 
+      everything bad FaFleur team has been. Probably since the beginning 
+      of is tenure in Green Bay. Atrocious O-line, poor decisions by Love, 
+      non-existant run game, poor defense. The Packers got booed by their own 
+      fans at Lambreu. It was difficult to think about something worse. Then 
+      Tucker Kraft decided to blame the fans for their poor supportive attitude 
+      in a postgame interview. Maybe someone shoudl explain Kraft that entertaintment 
+      sport (and his salary) works as long as the fans are entertained. 
+      And given the efforts they make in following the team they have all 
+      the rights to blame his lack of performance.
+  offense: |
+   When the Packers scored with Watson at the second possession, I thought honestly 
+   the game would have been
+   3-11 (9:10 -1) skyy moore opne on the center at the down line
+   field goad blocked Q2 3:42
+  defense: |
+   The interception 30 seconds, 3-out just after the beginning of the match
 key_moments_intro:
-key_moments: []
+key_moments:
+  - quarter: Q1
+    clock: "3:06"
+    title: Roughing the passer 
+    text: |
+      I get it, a penalty in the first quarter cannot define a game. Still, when 
+      Brenton Cox roughed the passer erasing a third down stop by the 
+      defense, I felt something in the overall momentum of the game just changed. 
+      Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
+      into Green Bay terrirory setting the field for Atlanta's touchdown. 
 ---

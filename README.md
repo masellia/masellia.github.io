@@ -102,6 +102,17 @@ key_moments:
     image_caption: "Optional caption"
 ```
 
+Tactical prose (`game_script`, `offense`, `defense`) and What Stood Out text also accept a figure-row snippet for inline images. Paste it wherever the images should appear, surrounded by blank lines, with at most 3 `figure` elements per row (extras wrap automatically). Each figure takes one image and one caption:
+
+```html
+<div class="nfl-img-row">
+  <figure>
+    <img src="/assets/img/nfl/week-03-falcons/example.jpg" alt="Short description" loading="lazy">
+    <figcaption>Caption text.</figcaption>
+  </figure>
+</div>
+```
+
 Use the NFL season year for `season`, including playoff games played in January of the following calendar year. Use `week_order` to control chronological display. Set `date` to a non-future publication date and restart the local Jekyll server after changing collection configuration.
 
 ## Conference subsites
