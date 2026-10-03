@@ -160,10 +160,23 @@ tactical:
       And given the efforts they make in following the team they have all 
       the rights to blame his lack of performance.
   offense: |
-   When the Packers scored with Watson at the second possession, I thought honestly 
-   the game would have been
-   3-11 (9:10 -1) skyy moore opne on the center at the down line
-   field goad blocked Q2 3:42
+    When the Packers scored with Watson at the second possession, I thought honestly 
+     the game would have been
+     3-11 (9:10 -1) skyy moore opne on the center at the down line
+     field goad blocked Q2 3:42
+
+     <div class="nfl-img-row">
+     <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-1-11-r-10-33.jpg" alt="Short description" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
+     </figure>
+     <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-r-9-43.jpg" alt="Short description" loading="lazy">
+     <figcaption>Your caption here.</figcaption>
+     </figure>
+    </div>
+
+   
   defense: |
    The interception 30 seconds, 3-out just after the beginning of the match
 key_moments_intro:
