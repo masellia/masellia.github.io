@@ -148,17 +148,26 @@ stats:
     season: "31.7 sec/play"
 tactical:
   game_script: |
-    Nobody expected that Packers transformed in an historical high-scoring offense, 
-      or the O-line turned into the [Cowboys Great Wall](https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811). Yet, nobody also expected that after 5 minutes the Falcons would expose 
-      everything bad FaFleur team has been. Probably since the beginning 
-      of is tenure in Green Bay. Atrocious O-line, poor decisions by Love, 
-      non-existant run game, poor defense. The Packers got booed by their own 
-      fans at Lambreu. It was difficult to think about something worse. Then 
-      Tucker Kraft decided to blame the fans for their poor supportive attitude 
-      in a postgame interview. Maybe someone shoudl explain Kraft that entertaintment 
-      sport (and his salary) works as long as the fans are entertained. 
-      And given the efforts they make in following the team they have all 
-      the rights to blame his lack of performance.
+     Nobody expected the Packers to suddenly turn into a historically high-scoring offense, 
+      or the O-line to become the [Cowboys Great Wall](https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811). 
+      Yet nobody expected, either, that after five minutes the Falcons would expose everything that has been 
+      wrong with LaFleur’s team — probably since the beginning of his tenure in Green Bay.
+      
+      The Packers were called upon to build on the win over the Jets, and in particular to show 
+      that the offense — and the O-line especially — was finally on a path toward 
+      greater efficiency and solidity.
+      
+      By the end of the first quarter, I could already have written the final summary of the game, 
+      regardless of the final score: atrocious O-line, poor decisions by Love, non-existent run game, 
+      poor defense. More shocking, and incredibly frustrating, was a general lack of purpose across 
+      the entire team, almost as if the fate of the squad had somehow already been written.
+      
+      The Packers were booed by their own fans at Lambeau. It was difficult to imagine anything worse. 
+      Then Tucker Kraft decided to criticize the fans for their lack of support in a postgame interview. 
+      Perhaps someone should explain to Kraft that professional sports entertainment — and, 
+      ultimately, his salary — works as long as fans remain - entertained -. 
+      Given the effort they make to follow and support the team, they have every right to 
+      criticize his performance.
   offense: |
     When the Packers scored with Watson at the second possession, I thought honestly 
      the game would have been

@@ -3337,7 +3337,6 @@ body {
   aspect-ratio: 16 / 9;
   height: auto;
   margin: 0;
-  background: #f3f3f3;
   object-fit: contain;
 }
 
