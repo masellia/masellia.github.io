@@ -171,44 +171,64 @@ tactical:
   offense: |
     When the Packers scored with Watson at the second possession, I thought honestly 
      the game would have been
-
-     While almost every sports outlet is probably pointing fingers at the O-line — rightfully so — in 
-     my opinion Love’s performance, and his style of play more generally, were not convincing either. 
-     I want to spend more than a few words on this, and be honest 
-     I don’t believe Love is a winning type of QB, if such a breed even exists.
-     To be precise with the terminology, to me a winning QB is one who gets first downs. 
-     Multiple times. Consistently. Moving the chains and exhausting the opposing defense.
-     Six years into the league, Love instead keeps favoring hero balls, deep passes into 
-     double coverage and extremely tight windows with a very low probability of completion, 
-     rather than checkdowns and efficient short plays that could move the chains. 
-     Sure, when the pass connects — and often you also need an adjustment by the receiver 
-     and a pinch of luck — the crowd explodes and everything seems perfect. But in the 
-     grand scheme of things, how much does Love’s style actually help the Packers win?
      
-     When LaFleur says at halftime that one of the offense’s problems is its inability to 
-     get into rhythm, well, I believe Love’s style becomes part of the problem.
+      While almost every sports outlet is probably pointing fingers at the 
+      O-line — rightfully so — in my opinion Love’s performance, and his style of 
+      play more generally, were not convincing either. I want to spend more than a 
+      few words on this, and be honest. I don’t believe Love is a winning type of 
+      QB, if such a breed even exists. To be precise with the terminology, to me 
+      a winning QB is one who gets first downs. Multiple times. Consistently. Moving 
+      the chains and exhausting the opposing defense. Six years into the league, 
+      Love instead keeps favoring hero balls, deep passes into double coverage 
+      and extremely tight windows with a very low probability of completion, rather 
+      than checkdowns and efficient short plays that could move the chains. 
+      Sure, when the pass connects — and often you also need an adjustment by 
+      the receiver and a pinch of luck — the crowd explodes and everything seems 
+      perfect. But in the grand scheme of things, how much does Love’s style actually 
+      help the Packers win?
      
-     The pictures below show, in my opinion, two situations in which better — or simply 
-     different — choices could have led to different results. On the left, the Packers 
-     are facing second-and-13 from their own 20. Kraft in the middle and Brooks in the flat are open, 
-     but Love decides to throw a deep ball to Golden in double coverage. The pass falls incomplete, 
-     followed by a three-and-out on the next play.
-     On the right, it is second-and-5 in the second quarter. Here the receivers are covered more 
-     effectively by the defense, but Kraft still has inside leverage on his defender. 
-     Instead of attacking the middle of the field, Love again chooses a 30-plus-yard throw 
-     to Golden, who is running a corner route. Once again, three-and-out.
-     
-     <div class="nfl-img-row">
-     <figure>
+      When LaFleur says at halftime that one of the offense’s problems is its 
+      inability to get into rhythm, well, I believe Love’s style becomes part 
+      of the problem.
+    
+      The pictures below show, in my opinion, two situations in which 
+      better — or simply different — choices could have led to different 
+      results. On the left, the Packers are facing second-and-13 from their own 
+      20. Kraft in the middle and Brooks in the flat are open, but Love decides 
+      to throw a deep ball to Golden in double coverage. The pass falls incomplete, 
+      followed by a three-and-out on the next play. On the right, it is 
+      second-and-5 in the second quarter. Here the receivers are covered more 
+      effectively by the defense, but Kraft still has inside leverage on his defender. 
+      Instead of attacking the middle of the field, Love again chooses 
+      a 30-plus-yard throw to Golden, who is running a corner route. Once 
+      again, three-and-out.
+    
+      <div class="nfl-img-row">
+      <figure>
       <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Q1 2&13" loading="lazy">
       <figcaption>Your caption here.</figcaption>
-     </figure>
-     <figure>
+      </figure>
+      <figure>
       <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Q2 2&5" loading="lazy">
-     <figcaption>Your caption here.</figcaption>
-     </figure>
-    </div>
-
+      <figcaption>Your caption here.</figcaption>
+      </figure>
+      </div>
+   
+      According to PerThirtySix, Love has a CPOE of -10.1 over three weeks 
+      (Completion Percentage Over Expected), with a success rate of 40%. 
+      As a comparison, Purdy leads with +6.3 and a 65.2% success rate. 
+      To add a few numbers across the first few weeks, Love has an 
+      [aDOT](https://sumersports.com/players/quarterback/?plays=25) 
+      (Average Depth of Target) of 8.97, not too far below Purdy, again, 
+      at 10.65. In summary, it seems to me that Love has a tendency to 
+      throw deep, while his completion percentage and success rate remain 
+      low, meaning the QB (and the offense) are not really able to move the chains. 
+      Along with Love and LaFleur’s vertical offense, I also believe that part 
+      of this problem is overcompensation for the poor pass protection. Love 
+      has one of the [lowest](https://sumersports.com/players/quarterback/?plays=25) 
+      times to throw in the league through Week 3. He seems to try to make the most 
+      of the few clean opportunities he gets in the pocket to compensate for those 
+      in which he has to scramble for his life.
    
   defense: |
    The interception 30 seconds, 3-out just after the beginning of the match
