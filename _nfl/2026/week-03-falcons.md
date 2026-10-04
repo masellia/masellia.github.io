@@ -169,9 +169,53 @@ tactical:
       Given the effort they make to follow and support the team, they have every right to 
       criticize his performance.
   offense: |
-    When the Packers scored with Watson at the second possession, I thought honestly 
-     the game would have been
-     
+    When the Packers scored with Watson at the second possession, I thought 
+      the game Lafluer and the offese had finally managed to install a good offensive plan. 
+      At the end of regulation: 27 unaswered points by the Falcons until mid fourth quarter, 
+      a final offensive EPA of 0.014 - basically zero expected points per play - 
+      with and Offensive success rate below 40%. Notably, a rush EPA of -0.301, 
+      with 17 (17) yards on 9 (9) carries, which force the offense to turn 
+      mono-dimensional and Love to throw 53 times.	
+
+      The complete inability of the team to run the ball, is a dagger into 
+      Lafleur offense, which needs both air and ground threats to move the 
+      ball as vertical as possible with explosive plays (the team had a 6% 
+      of explosive-play rate, with ana average of 8.9% across the seasons).
+      Josh Jacobs, the sky knows when/if he will return, would not probably 
+      add much to this picture. And we all know who to blame. 
+
+      The offensive line was atrocious, both in pass protection and run game. 
+      Lack of communication, of expertise, poor fundamentals, players 
+      not up to the standards. Maybe a linear combination of all of the previous. 
+
+      The two figrues in the first row below show two screen-pass plays, which 
+      to me highlight the complete disogn disorganization of the blocking. 
+      In the first case, Love passed to Loyd who was immediately tackled, 
+      while having 3 O-lines blocking for him with only one Atlanta Linebecker. 
+      In the second play Loyd is able to gain more yards, but both Packers O-line 
+      contribute almost zero to the play, being immediately overwhelmed by 
+      a single Falcon's defender.
+         
+      <div class="nfl-img-row">
+      <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" alt="Q1 2&13" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
+      </figure>
+      <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" alt="Q2 2&5" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
+      </figure>
+      <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" alt="Q2 2&5" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
+      </figure>
+      <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" alt="Q2 2&5" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
+      </figure>
+      </div>
+
+
       While almost every sports outlet is probably pointing fingers at the 
       O-line — rightfully so — in my opinion Love’s performance, and his style of 
       play more generally, were not convincing either. I want to spend more than a 
