@@ -172,28 +172,32 @@ tactical:
     When the Packers scored with Watson at the second possession, I thought honestly 
      the game would have been
 
-     While any form of sport content in the World is probably pointing fingers at 
-     the O-line - rightfully so -, in my opinion Love performance, and his style of 
-     play were not convincing either. I want to write more than few words here. And 
-     be honest, because I don't believe Love is a winning type of QB, if a breed of 
-     this kind exists. To be precise with the nomenclature, a winning QB is one that takes first down home. Multiple times. Continuosly. 
-     Exausting the opposing defense. 
-     Six years into the league, Love insteads keep favouring 
-     hero balls, long passes in double coverage and extreme tight windows, with 
-     with very low probability of completions, rather than checkdowns and  
-     efficient short plays that could move the chains. Sure, when the pass connects - 
-     and most of the times you also need WR adjustements and a pinch of luck -  
-     the crowd explodes, and all seems heaven. But on the grand scheme how much does 
-     Love's style help the Packers winning? When LaFluer midtime says that 
-     one the problems of the offense is not getting in rythm, well, in my opinion 
-     Love styles becomes a problem. 
-     The picture belows shows in my opinion two cases in which better (or different) 
-     choices would have led to different resutls. On the left: Packers are 2&13 on their 
-     own 20, both Kraft and Broks in the flat are open, but Love decides to throw a bomb 
-     to Golden in double coverage. Pass incomplete, and 3 and out on the following play. 
-     On the right, 2&5 in the second quarter. Here receivers are more covered well by the defense, 
-     still Kraft is in front of his defender. Instead of attacking the center of the field 
-     Love chooses again to throw a 30+ yards pass to Golden who is following a corner route. Again, 3 and out.
+     While almost every sports outlet is probably pointing fingers at the O-line — rightfully so — in 
+     my opinion Love’s performance, and his style of play more generally, were not convincing either. 
+     I want to spend more than a few words on this, and be honest 
+     I don’t believe Love is a winning type of QB, if such a breed even exists.
+     To be precise with the terminology, to me a winning QB is one who gets first downs. 
+     Multiple times. Consistently. Moving the chains and exhausting the opposing defense.
+     Six years into the league, Love instead keeps favoring hero balls, deep passes into 
+     double coverage and extremely tight windows with a very low probability of completion, 
+     rather than checkdowns and efficient short plays that could move the chains. 
+     Sure, when the pass connects — and often you also need an adjustment by the receiver 
+     and a pinch of luck — the crowd explodes and everything seems perfect. But in the 
+     grand scheme of things, how much does Love’s style actually help the Packers win?
+     
+     When LaFleur says at halftime that one of the offense’s problems is its inability to 
+     get into rhythm, well, I believe Love’s style becomes part of the problem.
+     
+     The pictures below show, in my opinion, two situations in which better — or simply 
+     different — choices could have led to different results. On the left, the Packers 
+     are facing second-and-13 from their own 20. Kraft in the middle and Brooks in the flat are open, 
+     but Love decides to throw a deep ball to Golden in double coverage. The pass falls incomplete, 
+     followed by a three-and-out on the next play.
+     On the right, it is second-and-5 in the second quarter. Here the receivers are covered more 
+     effectively by the defense, but Kraft still has inside leverage on his defender. 
+     Instead of attacking the middle of the field, Love again chooses a 30-plus-yard throw 
+     to Golden, who is running a corner route. Once again, three-and-out.
+     
      <div class="nfl-img-row">
      <figure>
       <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Q1 2&13" loading="lazy">
