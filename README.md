@@ -107,7 +107,7 @@ Tactical prose (`game_script`, `offense`, `defense`) and What Stood Out text als
 ```html
 <div class="nfl-img-row">
   <figure>
-    <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/example.jpg" target="_blank" rel="noopener noreferrer">
+    <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/example.jpg">
       <img src="/assets/img/nfl/week-03-falcons/example.jpg" alt="Short description" loading="lazy">
     </a>
     <figcaption>Caption text.</figcaption>

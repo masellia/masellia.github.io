@@ -3317,6 +3317,7 @@ body {
   color: #777777;
   font-size: 12px;
   line-height: 1.45;
+  text-align: center;
 }
 
 .nfl-img-row {
@@ -3335,6 +3336,52 @@ body {
 .nfl-img-link {
   display: block;
   cursor: zoom-in;
+}
+
+.nfl-lightbox {
+  width: min(960px, calc(100% - 2rem));
+  max-width: none;
+  padding: 2.5rem 1rem 1rem;
+  border: 0;
+  background: #ffffff;
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.35);
+}
+
+.nfl-lightbox::backdrop {
+  background: rgba(0, 0, 0, 0.76);
+}
+
+.nfl-lightbox-close {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.7rem;
+  padding: 0.1rem 0.45rem;
+  border: 0;
+  background: transparent;
+  color: #333333;
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.nfl-lightbox figure {
+  margin: 0;
+}
+
+.nfl-lightbox img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 75vh;
+  margin: 0 auto;
+}
+
+.nfl-lightbox figcaption {
+  margin-top: 0.65rem;
+  color: #555555;
+  font-size: 13px;
+  line-height: 1.45;
+  text-align: center;
 }
 
 .nfl-img-row img {

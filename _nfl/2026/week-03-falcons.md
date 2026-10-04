@@ -205,23 +205,51 @@ tactical:
 
       <div class="nfl-img-row">
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" alt="Q1 2&13" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" alt="First-and-10 play with 1:21 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 1st &amp; 10 · 1:21</figcaption>
       </figure>
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
-      </figure>
-      <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
-      </figure>
-      <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" alt="First-and-20 play with 8:16 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 1st &amp; 20 · 8:16</figcaption>
       </figure>
       </div>
-  
+
+      <div class="nfl-img-row">
+      <figure>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" alt="Third-and-13 play with 0:30 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 3rd &amp; 13 · 0:30</figcaption>
+      </figure>
+      <figure>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" alt="Third-and-9 play with 9:43 remaining in the second quarter" loading="lazy">
+      </a>
+      <figcaption>Q2 · 3rd &amp; 9 · 9:43</figcaption>
+      </figure>
+      </div>
+     
+      Blocking for the run game clearly does not work either. Look at the two picture 
+
+      <div class="nfl-img-row">
+      <figure>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-2-1-r-6-01.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-1-r-6-01.jpg" alt="Second-and-1 play with 6:01 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 2nd &amp; 1 · 6:01</figcaption>
+      </figure>
+      <figure>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q2-1-11-r-10-33.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-1-11-r-10-33.jpg" alt="First-and-11 play with 10:33 remaining in the second quarter" loading="lazy">
+      </a>
+      <figcaption>Q2 · 1st &amp; 11 · 10:33</figcaption>
+      </figure>
+      </div>
+
       While almost every sports outlet is probably pointing fingers at the 
       O-line — rightfully so — in my opinion Love’s performance, and his style of 
       play more generally, were not convincing either. I want to spend more than a 
@@ -243,8 +271,8 @@ tactical:
       
       The pictures below show, in my opinion, two situations in which 
       better — or simply different — choices could have led to different 
-      results. On the left, the Packers are facing second-and-13 from their own 
-      20. Kraft in the middle and Brooks in the flat are open, but Love decides 
+      results. On the left, the Packers are facing second-and-13 from their own 20-yard line.
+      Kraft in the middle and Brooks in the flat are open, but Love decides 
       to throw a deep ball to Golden in double coverage. The pass falls incomplete, 
       followed by a three-and-out on the next play. On the right, it is 
       second-and-5 in the second quarter. Here the receivers are covered more 
@@ -256,12 +284,16 @@ tactical:
       
       <div class="nfl-img-row">
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Q1 2&13" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Second-and-13 play with 0:36 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 2nd &amp; 13 · 0:36</figcaption>
       </figure>
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Second-and-5 play with 3:56 remaining in the second quarter" loading="lazy">
+      </a>
+      <figcaption>Q2 · 2nd &amp; 5 · 3:56</figcaption>
       </figure>
       </div>
       
