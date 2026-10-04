@@ -171,16 +171,36 @@ tactical:
   offense: |
     When the Packers scored with Watson at the second possession, I thought honestly 
      the game would have been
-     3-11 (9:10 -1) skyy moore opne on the center at the down line
-     field goad blocked Q2 3:42
 
+     While any form of sport content in the World is probably pointing fingers at 
+     the O-line - rightfully so -, in my opinion Love performance, and his style of 
+     play were not convincing either. I want to write more than few words here. And 
+     be honest, because I don't believe Love is a winning type of QB, if a breed of 
+     this kind exists. To be precise with the nomenclature, a winning QB is one that takes first down home. Multiple times. Continuosly. 
+     Exausting the opposing defense. 
+     Six years into the league, Love insteads keep favouring 
+     hero balls, long passes in double coverage and extreme tight windows, with 
+     with very low probability of completions, rather than checkdowns and  
+     efficient short plays that could move the chains. Sure, when the pass connects - 
+     and most of the times you also need WR adjustements and a pinch of luck -  
+     the crowd explodes, and all seems heaven. But on the grand scheme how much does 
+     Love's style help the Packers winning? When LaFluer midtime says that 
+     one the problems of the offense is not getting in rythm, well, in my opinion 
+     Love styles becomes a problem. 
+     The picture belows shows in my opinion two cases in which better (or different) 
+     choices would have led to different resutls. On the left: Packers are 2&13 on their 
+     own 20, both Kraft and Broks in the flat are open, but Love decides to throw a bomb 
+     to Golden in double coverage. Pass incomplete, and 3 and out on the following play. 
+     On the right, 2&5 in the second quarter. Here receivers are more covered well by the defense, 
+     still Kraft is in front of his defender. Instead of attacking the center of the field 
+     Love chooses again to throw a 30+ yards pass to Golden who is following a corner route. Again, 3 and out.
      <div class="nfl-img-row">
      <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-1-11-r-10-33.jpg" alt="Short description" loading="lazy">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Q1 2&13" loading="lazy">
       <figcaption>Your caption here.</figcaption>
      </figure>
      <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-r-9-43.jpg" alt="Short description" loading="lazy">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Q2 2&5" loading="lazy">
      <figcaption>Your caption here.</figcaption>
      </figure>
     </div>
