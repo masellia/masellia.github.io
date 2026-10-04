@@ -148,8 +148,8 @@ stats:
     season: "31.7 sec/play"
 tactical:
   game_script: |
-     Nobody expected the Packers to suddenly turn into a historically high-scoring offense, 
-      or the O-line to become the [Cowboys Great Wall](https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811). 
+    Nobody expected the Packers to suddenly turn into a historically high-scoring offense, 
+      or the O-line to become the [Cowboys’ Great Wall](https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811). 
       Yet nobody expected, either, that after five minutes the Falcons would expose everything that has been 
       wrong with LaFleur’s team — probably since the beginning of his tenure in Green Bay.
       
@@ -165,22 +165,23 @@ tactical:
       The Packers were booed by their own fans at Lambeau. It was difficult to imagine anything worse. 
       Then Tucker Kraft decided to criticize the fans for their lack of support in a postgame interview. 
       Perhaps someone should explain to Kraft that professional sports entertainment — and, 
-      ultimately, his salary — works as long as fans remain - entertained -. 
+      ultimately, his salary — works as long as fans remain entertained. 
       Given the effort they make to follow and support the team, they have every right to 
       criticize his performance.
+
   offense: |
     When the Packers scored with Watson on the second possession, I thought 
       LaFleur and the offense had finally managed to install a good offensive plan. 
-      At the end of regulation: 27 unanswered points by the Falcons until midway through 
-      the fourth quarter, a final offensive EPA of 0.014 — basically zero expected points 
-      added per play — with an offensive success rate below 40%. Notably, a rush EPA 
-      of -0.301, with 17 (17) yards on 9 (9) carries, which forced the offense to become 
+      What followed were 27 unanswered points by the Falcons, stretching into the 
+      fourth quarter, a final offensive EPA of 0.014 — basically zero expected points 
+      added per play — and an offensive success rate below 40%. Notably, a rush EPA 
+      of -0.301, with 17 (17!) yards on 9 (9!) carries, which forced the offense to become 
       one-dimensional and Love to throw 53 times.	
       
       The complete inability of the team to run the ball is a dagger to 
       LaFleur’s offense, which needs both air and ground threats to move the 
       ball as vertically as possible with explosive plays (the team had a 6% 
-      explosive-play rate, with an average of 8.9% across the season). 
+      explosive-play rate, compared with an average of 8.9% across the season). 
       Josh Jacobs, the sky knows when/if he will return, would probably not 
       add much to this picture. And we all know who to blame. 
       
@@ -233,7 +234,12 @@ tactical:
       </figure>
       </div>
      
-      Blocking for the run game clearly does not work either. Look at the two picture 
+      Blocking in the run game clearly does not work either. 
+      Look at the two pictures below. In both cases Lloyd has no space 
+      in the gap to run through, with O-linemen collapsing or leaving 
+      defenders completely free to tackle the runner. In the second picture, 
+      No. 53 of the Falcons is literally in the gap through which Lloyd is supposed 
+      to run...  
 
       <div class="nfl-img-row">
       <figure>
@@ -274,10 +280,9 @@ tactical:
       results. On the left, the Packers are facing second-and-13 from their own 20-yard line.
       Kraft in the middle and Brooks in the flat are open, but Love decides 
       to throw a deep ball to Golden in double coverage. The pass falls incomplete, 
-      followed by a three-and-out on the next play. On the right, it is 
+      and the drive ends in a three-and-out on the next play. On the right, it is 
       second-and-5 in the second quarter. Here the receivers are covered more 
       effectively by the defense, but Kraft still has inside leverage on his defender. 
-      
       Instead of attacking the middle of the field, Love again chooses 
       a 30-plus-yard throw to Golden, who is running a corner route. Once 
       again, three-and-out.
@@ -299,20 +304,22 @@ tactical:
       
       According to PerThirtySix, Love has a CPOE of -10.1 over three weeks 
       (Completion Percentage Over Expected), with a success rate of 40%. 
-      As a comparison, Purdy leads with +6.3 and a 65.2% success rate. 
-      To add a few numbers across the first few weeks, Love has an [aDOT](https://sumersports.com/players/quarterback/?plays=25) 
+      By comparison, Purdy leads with +6.3 and a 65.2% success rate. 
+      To add a few numbers from the first few weeks, Love has an [aDOT](https://sumersports.com/players/quarterback/?plays=25) 
       (Average Depth of Target) of 8.97, not too far below Purdy, again, at 10.65. 
       In summary, it seems to me that Love has a tendency to throw deep, while his 
       completion percentage and success rate remain low, meaning the QB (and the offense) 
-      are not really able to move the chains. Along with Love and LaFleur’s vertical 
-      offense, I also believe that part of this problem is overcompensation for the poor 
-      pass protection. Love has one of the [lowest](https://sumersports.com/players/quarterback/?plays=25) 
-      times to throw in the league through Week 3. He seems to try to make the most 
-      of the few clean opportunities he gets in the pocket to compensate for those 
-      in which he has to scramble for his life.   
+      are not really able to move the chains.
 
-defense: |
-   The interception 30 seconds, 3-out just after the beginning of the match
+      Along with Love and LaFleur’s vertical offense, I also believe that part of this 
+      problem is overcompensation for the poor pass protection. Love has one of the 
+      [lowest](https://sumersports.com/players/quarterback/?plays=25) times to throw in 
+      the league through Week 3. He seems to try to make the most of the few clean 
+      opportunities he gets in the pocket to compensate for those in which he has to 
+      scramble for his life.
+      
+   defense: |
+    The interception 30 seconds, 3-out just after the beginning of the match
 
 key_moments_intro:
 key_moments:
@@ -325,4 +332,13 @@ key_moments:
       defense, I felt something in the overall momentum of the game just changed. 
       Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
       into Green Bay terrirory setting the field for Atlanta's touchdown. 
+  - quarter: Q4
+    clock: "3:06"
+    title: Roughing the passer 
+    text: |
+      I get it, a penalty in the first quarter cannot define a game. Still, when 
+      Brenton Cox roughed the passer erasing a third down stop by the 
+      defense, I felt something in the overall momentum of the game just changed. 
+      Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
+      into Green Bay terrirory setting the field for Atlanta's touchdown.   
 ---
