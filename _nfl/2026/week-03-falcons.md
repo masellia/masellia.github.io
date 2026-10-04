@@ -309,7 +309,8 @@ tactical:
       </figure>
       </div>
       
-      According to PerThirtySix, Love has a CPOE of -10.1 over three weeks 
+      According to [PerThirtySix](https://perthirtysix.com/nfl/qbs?season=2026){:target="_blank" rel="noopener noreferrer"}, 
+      Love has a CPOE of -10.1 over three weeks 
       (Completion Percentage Over Expected), with a success rate of 40%. 
       By comparison, Purdy leads with +6.3 and a 65.2% success rate. 
       To add a few numbers from the first few weeks, Love has an [aDOT](https://sumersports.com/players/quarterback/?plays=25){:target="_blank" rel="noopener noreferrer"}
