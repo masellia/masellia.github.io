@@ -1,4 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".nfl-landing a[href^='http']").forEach((link) => {
+    if (link.classList.contains("nfl-img-link")) return;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+  });
+
   const imageLinks = document.querySelectorAll(".nfl-img-link");
   if (!imageLinks.length || typeof HTMLDialogElement === "undefined") return;
 

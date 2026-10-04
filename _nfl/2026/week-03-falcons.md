@@ -188,7 +188,12 @@ tactical:
       The offensive line was atrocious, both in pass protection and in the run game. 
       Lack of communication, lack of experience, poor fundamentals, players 
       not up to the standard. Maybe a linear combination of all of the above. 
+      The QB-hit rate allowed jumped to 22.2%, more than twice the 9.4% 
+      recorded against the Jets the previous week. 
       
+      I think some frames from the game speak for themselves about how 
+      this offense operated.
+
       The two figures in the first row below show two screen-pass plays, which 
       to me highlight the complete disorganization of the blocking. 
       In the first case, Love passed to Lloyd, who was immediately tackled, 
@@ -305,7 +310,7 @@ tactical:
       According to PerThirtySix, Love has a CPOE of -10.1 over three weeks 
       (Completion Percentage Over Expected), with a success rate of 40%. 
       By comparison, Purdy leads with +6.3 and a 65.2% success rate. 
-      To add a few numbers from the first few weeks, Love has an [aDOT](https://sumersports.com/players/quarterback/?plays=25) 
+      To add a few numbers from the first few weeks, Love has an [aDOT](https://sumersports.com/players/quarterback/?plays=25){:target="_blank" rel="noopener noreferrer"}
       (Average Depth of Target) of 8.97, not too far below Purdy, again, at 10.65. 
       In summary, it seems to me that Love has a tendency to throw deep, while his 
       completion percentage and success rate remain low, meaning the QB (and the offense) 
@@ -313,7 +318,7 @@ tactical:
 
       Along with Love and LaFleur’s vertical offense, I also believe that part of this 
       problem is overcompensation for the poor pass protection. Love has one of the 
-      [lowest](https://sumersports.com/players/quarterback/?plays=25) times to throw in 
+      [lowest](https://sumersports.com/players/quarterback/?plays=25){:target="_blank" rel="noopener noreferrer"} times to throw in
       the league through Week 3. He seems to try to make the most of the few clean 
       opportunities he gets in the pocket to compensate for those in which he has to 
       scramble for his life.
