@@ -192,7 +192,9 @@ tactical:
       recorded against the Jets the previous week. 
       
       I think some frames from the game speak for themselves about how 
-      this offense operated.
+      this offense operated. The examples I'll discuss here 
+      all come from the first half, but the underlying problems 
+      remained largely unchanged after halftime
 
       The two figures in the first row below show two screen-pass plays, which 
       to me highlight the complete disorganization of the blocking. 
