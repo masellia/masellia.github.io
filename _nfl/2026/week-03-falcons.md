@@ -171,7 +171,7 @@ tactical:
 
   offense: |
     When the Packers scored with Watson on the second possession, I thought 
-      LaFleur and the offense had finally managed to install a good offensive plan. 
+      LaFleur and the offense had finally managed to install a good game plan. 
       What followed were 27 unanswered points by the Falcons, stretching into the 
       fourth quarter, a final offensive EPA of 0.014 — basically zero expected points 
       added per play — and an offensive success rate below 40%. Notably, a rush EPA 
@@ -241,7 +241,7 @@ tactical:
       </figure>
       </div>
      
-      Blocking in the run game clearly does not work either. 
+      Blocking in the run game clearly did not work either. 
       Look at the two pictures below. In both cases Lloyd has no space 
       in the gap to run through, with O-linemen collapsing or leaving 
       defenders completely free to tackle the runner. In the second picture, 
@@ -334,7 +334,7 @@ key_moments:
     clock: "3:06"
     title: Roughing the passer 
     text: |
-      I get it, a penalty in the first quarter cannot define a game. Still, when 
+      I get it, a penalty in the first quarter cannot define a game. Yet, when 
       Brenton Cox roughed the passer, erasing a third-down stop by the 
       defense, I felt something in the overall momentum of the game had just changed. 
       Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
