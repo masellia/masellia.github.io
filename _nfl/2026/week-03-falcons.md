@@ -195,23 +195,42 @@ tactical:
       In the second play Loyd is able to gain more yards, but both Packers O-line 
       contribute almost zero to the play, being immediately overwhelmed by 
       a single Falcon's defender.
-         
+      
+      Picutres in the second row show why Love may not surve the 2026 season. 
+      In the first images, Love is able to complete a pass to Kraft out of desperation, 
+      with the 3 Flacons defenders on the right which at the end of the play are still 
+      able to hit Love with a dangerous QB pancake.
+      The second picture is almost unesplicable. Love has the ball on the 12 of Packers 
+      territory, and is hit by a Falcon's Linebecker left completely alone to run full 
+      speed towards the QB.  
+
       <div class="nfl-img-row">
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" alt="Q1 2&13" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" alt="First-and-10 play with 1:21 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 1st &amp; 10 · 1:21</figcaption>
       </figure>
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" alt="First-and-20 play with 8:16 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 1st &amp; 20 · 8:16</figcaption>
+      </figure>
+      </div>
+
+      <div class="nfl-img-row">
+      <figure>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" alt="Third-and-13 play with 0:30 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 3rd &amp; 13 · 0:30</figcaption>
       </figure>
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
-      </figure>
-      <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" alt="Third-and-9 play with 9:43 remaining in the second quarter" loading="lazy">
+      </a>
+      <figcaption>Q2 · 3rd &amp; 9 · 9:43</figcaption>
       </figure>
       </div>
 
@@ -249,12 +268,16 @@ tactical:
     
       <div class="nfl-img-row">
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Q1 2&13" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Second-and-13 play with 0:36 remaining in the first quarter" loading="lazy">
+      </a>
+      <figcaption>Q1 · 2nd &amp; 13 · 0:36</figcaption>
       </figure>
       <figure>
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Q2 2&5" loading="lazy">
-      <figcaption>Your caption here.</figcaption>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Second-and-5 play with 3:56 remaining in the second quarter" loading="lazy">
+      </a>
+      <figcaption>Q2 · 2nd &amp; 5 · 3:56</figcaption>
       </figure>
       </div>
    

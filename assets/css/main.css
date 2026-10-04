@@ -3332,6 +3332,11 @@ body {
   margin: 0;
 }
 
+.nfl-img-link {
+  display: block;
+  cursor: zoom-in;
+}
+
 .nfl-img-row img {
   width: 100%;
   aspect-ratio: 16 / 9;

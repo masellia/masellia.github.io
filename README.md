@@ -102,12 +102,14 @@ key_moments:
     image_caption: "Optional caption"
 ```
 
-Tactical prose (`game_script`, `offense`, `defense`) and What Stood Out text also accept a figure-row snippet for inline images. Paste it wherever the images should appear, surrounded by blank lines, with at most 3 `figure` elements per row (extras wrap automatically). Each figure takes one image and one caption:
+Tactical prose (`game_script`, `offense`, `defense`) and What Stood Out text also accept a figure-row snippet for inline images. Paste it wherever the images should appear, surrounded by blank lines, with at most 3 `figure` elements per row. To force a new line, close the current `nfl-img-row` div and start another one. Each figure takes one linked image and one caption:
 
 ```html
 <div class="nfl-img-row">
   <figure>
-    <img src="/assets/img/nfl/week-03-falcons/example.jpg" alt="Short description" loading="lazy">
+    <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/example.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nfl/week-03-falcons/example.jpg" alt="Short description" loading="lazy">
+    </a>
     <figcaption>Caption text.</figcaption>
   </figure>
 </div>
