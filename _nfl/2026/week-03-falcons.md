@@ -169,72 +169,59 @@ tactical:
       Given the effort they make to follow and support the team, they have every right to 
       criticize his performance.
   offense: |
-    When the Packers scored with Watson at the second possession, I thought 
-      the game Lafluer and the offese had finally managed to install a good offensive plan. 
-      At the end of regulation: 27 unaswered points by the Falcons until mid fourth quarter, 
-      a final offensive EPA of 0.014 - basically zero expected points per play - 
-      with and Offensive success rate below 40%. Notably, a rush EPA of -0.301, 
-      with 17 (17) yards on 9 (9) carries, which force the offense to turn 
-      mono-dimensional and Love to throw 53 times.	
-
-      The complete inability of the team to run the ball, is a dagger into 
-      Lafleur offense, which needs both air and ground threats to move the 
-      ball as vertical as possible with explosive plays (the team had a 6% 
-      of explosive-play rate, with ana average of 8.9% across the seasons).
-      Josh Jacobs, the sky knows when/if he will return, would not probably 
-      add much to this picture. And we all know who to blame. 
-
-      The offensive line was atrocious, both in pass protection and run game. 
-      Lack of communication, of expertise, poor fundamentals, players 
-      not up to the standards. Maybe a linear combination of all of the previous. 
-
-      The two figrues in the first row below show two screen-pass plays, which 
-      to me highlight the complete disogn disorganization of the blocking. 
-      In the first case, Love passed to Loyd who was immediately tackled, 
-      while having 3 O-lines blocking for him with only one Atlanta Linebecker. 
-      In the second play Loyd is able to gain more yards, but both Packers O-line 
-      contribute almost zero to the play, being immediately overwhelmed by 
-      a single Falcon's defender.
+    When the Packers scored with Watson on the second possession, I thought 
+      LaFleur and the offense had finally managed to install a good offensive plan. 
+      At the end of regulation: 27 unanswered points by the Falcons until midway through 
+      the fourth quarter, a final offensive EPA of 0.014 — basically zero expected points 
+      added per play — with an offensive success rate below 40%. Notably, a rush EPA 
+      of -0.301, with 17 (17) yards on 9 (9) carries, which forced the offense to become 
+      one-dimensional and Love to throw 53 times.	
       
-      Picutres in the second row show why Love may not surve the 2026 season. 
-      In the first images, Love is able to complete a pass to Kraft out of desperation, 
-      with the 3 Flacons defenders on the right which at the end of the play are still 
-      able to hit Love with a dangerous QB pancake.
-      The second picture is almost unesplicable. Love has the ball on the 12 of Packers 
-      territory, and is hit by a Falcon's Linebecker left completely alone to run full 
-      speed towards the QB.  
+      The complete inability of the team to run the ball is a dagger to 
+      LaFleur’s offense, which needs both air and ground threats to move the 
+      ball as vertically as possible with explosive plays (the team had a 6% 
+      explosive-play rate, with an average of 8.9% across the season). 
+      Josh Jacobs, the sky knows when/if he will return, would probably not 
+      add much to this picture. And we all know who to blame. 
+      
+      The offensive line was atrocious, both in pass protection and in the run game. 
+      Lack of communication, lack of experience, poor fundamentals, players 
+      not up to the standard. Maybe a linear combination of all of the above. 
+      
+      The two figures in the first row below show two screen-pass plays, which 
+      to me highlight the complete disorganization of the blocking. 
+      In the first case, Love passed to Lloyd, who was immediately tackled, 
+      despite having three O-linemen blocking for him against only one Atlanta linebacker. 
+      On the second play, Lloyd is able to gain more yards, but both Packers O-linemen 
+      contribute almost nothing to the play, being immediately overwhelmed by 
+      a single Falcons defender.
+      
+      Pictures in the second row show why Love may not survive the 2026 season. 
+      In the first image, Love is able to complete a pass to Kraft out of desperation, 
+      with the three Falcons defenders on the right still able to hit Love at the end 
+      of the play with a dangerous pancake. The second picture is almost inexplicable. 
+      Love has the ball at the Packers’ 12-yard line and is hit by a Falcons linebacker 
+      left completely unblocked to run at full speed toward the QB.  
 
       <div class="nfl-img-row">
       <figure>
-      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" alt="First-and-10 play with 1:21 remaining in the first quarter" loading="lazy">
-      </a>
-      <figcaption>Q1 · 1st &amp; 10 · 1:21</figcaption>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-10-p-1-21.jpg" alt="Q1 2&13" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
       </figure>
       <figure>
-      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" alt="First-and-20 play with 8:16 remaining in the first quarter" loading="lazy">
-      </a>
-      <figcaption>Q1 · 1st &amp; 20 · 8:16</figcaption>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-1-20-p-8-16.jpg" alt="Q2 2&5" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
+      </figure>
+      <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" alt="Q2 2&5" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
+      </figure>
+      <figure>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" alt="Q2 2&5" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
       </figure>
       </div>
-
-      <div class="nfl-img-row">
-      <figure>
-      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-3-13-p-0-30.jpg" alt="Third-and-13 play with 0:30 remaining in the first quarter" loading="lazy">
-      </a>
-      <figcaption>Q1 · 3rd &amp; 13 · 0:30</figcaption>
-      </figure>
-      <figure>
-      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-3-9-p-9-43.jpg" alt="Third-and-9 play with 9:43 remaining in the second quarter" loading="lazy">
-      </a>
-      <figcaption>Q2 · 3rd &amp; 9 · 9:43</figcaption>
-      </figure>
-      </div>
-
-
+  
       While almost every sports outlet is probably pointing fingers at the 
       O-line — rightfully so — in my opinion Love’s performance, and his style of 
       play more generally, were not convincing either. I want to spend more than a 
@@ -249,11 +236,11 @@ tactical:
       the receiver and a pinch of luck — the crowd explodes and everything seems 
       perfect. But in the grand scheme of things, how much does Love’s style actually 
       help the Packers win?
-     
+      
       When LaFleur says at halftime that one of the offense’s problems is its 
       inability to get into rhythm, well, I believe Love’s style becomes part 
-      of the problem.
-    
+      of the problem. 
+      
       The pictures below show, in my opinion, two situations in which 
       better — or simply different — choices could have led to different 
       results. On the left, the Packers are facing second-and-13 from their own 
@@ -262,43 +249,39 @@ tactical:
       followed by a three-and-out on the next play. On the right, it is 
       second-and-5 in the second quarter. Here the receivers are covered more 
       effectively by the defense, but Kraft still has inside leverage on his defender. 
+      
       Instead of attacking the middle of the field, Love again chooses 
       a 30-plus-yard throw to Golden, who is running a corner route. Once 
       again, three-and-out.
-    
+      
       <div class="nfl-img-row">
       <figure>
-      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Second-and-13 play with 0:36 remaining in the first quarter" loading="lazy">
-      </a>
-      <figcaption>Q1 · 2nd &amp; 13 · 0:36</figcaption>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q1-2-13-p-0-36.jpg" alt="Q1 2&13" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
       </figure>
       <figure>
-      <a class="nfl-img-link" href="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Second-and-5 play with 3:56 remaining in the second quarter" loading="lazy">
-      </a>
-      <figcaption>Q2 · 2nd &amp; 5 · 3:56</figcaption>
+      <img src="/assets/img/nfl/week-03-falcons/w326-q2-2-5-p-3-56.jpg" alt="Q2 2&5" loading="lazy">
+      <figcaption>Your caption here.</figcaption>
       </figure>
       </div>
-   
+      
       According to PerThirtySix, Love has a CPOE of -10.1 over three weeks 
       (Completion Percentage Over Expected), with a success rate of 40%. 
       As a comparison, Purdy leads with +6.3 and a 65.2% success rate. 
-      To add a few numbers across the first few weeks, Love has an 
-      [aDOT](https://sumersports.com/players/quarterback/?plays=25) 
-      (Average Depth of Target) of 8.97, not too far below Purdy, again, 
-      at 10.65. In summary, it seems to me that Love has a tendency to 
-      throw deep, while his completion percentage and success rate remain 
-      low, meaning the QB (and the offense) are not really able to move the chains. 
-      Along with Love and LaFleur’s vertical offense, I also believe that part 
-      of this problem is overcompensation for the poor pass protection. Love 
-      has one of the [lowest](https://sumersports.com/players/quarterback/?plays=25) 
+      To add a few numbers across the first few weeks, Love has an [aDOT](https://sumersports.com/players/quarterback/?plays=25) 
+      (Average Depth of Target) of 8.97, not too far below Purdy, again, at 10.65. 
+      In summary, it seems to me that Love has a tendency to throw deep, while his 
+      completion percentage and success rate remain low, meaning the QB (and the offense) 
+      are not really able to move the chains. Along with Love and LaFleur’s vertical 
+      offense, I also believe that part of this problem is overcompensation for the poor 
+      pass protection. Love has one of the [lowest](https://sumersports.com/players/quarterback/?plays=25) 
       times to throw in the league through Week 3. He seems to try to make the most 
       of the few clean opportunities he gets in the pocket to compensate for those 
-      in which he has to scramble for his life.
-   
-  defense: |
+      in which he has to scramble for his life.   
+
+defense: |
    The interception 30 seconds, 3-out just after the beginning of the match
+
 key_moments_intro:
 key_moments:
   - quarter: Q1
