@@ -328,20 +328,16 @@ key_moments:
     title: Roughing the passer 
     text: |
       I get it, a penalty in the first quarter cannot define a game. Still, when 
-      Brenton Cox roughed the passer erasing a third down stop by the 
-      defense, I felt something in the overall momentum of the game just changed. 
+      Brenton Cox roughed the passer, erasing a third-down stop by the 
+      defense, I felt something in the overall momentum of the game had just changed. 
       Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
-      into Green Bay terrirory setting the field for Atlanta's touchdown. 
+      into Green Bay territory, setting the stage for Atlanta's touchdown. 
   - quarter: Q3
     clock: "10:01"
-    title: Another 4-1 stop 
+    title: Another 4th-and-1 stop 
     text: |
-      I understand there was no option. And it was also important to send a message, 
-      showing the team wanted to come back. Still, failing to complete the foruth-and-one, 
-      12 yards from the Falcon's goal line 
-      I get it, a penalty in the first quarter cannot define a game. Still, when 
-      Brenton Cox roughed the passer erasing a third down stop by the 
-      defense, I felt something in the overall momentum of the game just changed. 
-      Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
-      into Green Bay terrirory setting the field for Atlanta's touchdown.   
+      I understand there was no other option. And it was also important to send a message, 
+      showing that the team was fully committed to getting back into the game. Still, failing 
+      to convert a fourth-and-1, 12 yards from the Falcons' goal line, probably put a 
+      dagger through the Packers’ comeback hopes.
 ---
