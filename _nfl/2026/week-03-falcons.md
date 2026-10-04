@@ -149,7 +149,7 @@ stats:
 tactical:
   game_script: |
     Nobody expected the Packers to suddenly turn into a historically high-scoring offense, 
-      or the O-line to become the [Cowboys’ Great Wall](https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811). 
+      or the O-line to become the [Cowboys’ Great Wall](https://www.dallascowboys.com/video/the-great-wall-of-dallas-the-perfect-unit-273811){:target="_blank" rel="noopener noreferrer"}.
       Yet nobody expected, either, that after five minutes the Falcons would expose everything that has been 
       wrong with LaFleur’s team — probably since the beginning of his tenure in Green Bay.
       
@@ -318,7 +318,7 @@ tactical:
       opportunities he gets in the pocket to compensate for those in which he has to 
       scramble for his life.
       
-   defense: |
+  defense: |
     The interception 30 seconds, 3-out just after the beginning of the match
 
 key_moments_intro:
@@ -332,10 +332,13 @@ key_moments:
       defense, I felt something in the overall momentum of the game just changed. 
       Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
       into Green Bay terrirory setting the field for Atlanta's touchdown. 
-  - quarter: Q4
-    clock: "3:06"
-    title: Roughing the passer 
+  - quarter: Q3
+    clock: "10:01"
+    title: Another 4-1 stop 
     text: |
+      I understand there was no option. And it was also important to send a message, 
+      showing the team wanted to come back. Still, failing to complete the foruth-and-one, 
+      12 yards from the Falcon's goal line 
       I get it, a penalty in the first quarter cannot define a game. Still, when 
       Brenton Cox roughed the passer erasing a third down stop by the 
       defense, I felt something in the overall momentum of the game just changed. 
