@@ -327,10 +327,22 @@ tactical:
       scramble for his life.
       
   defense: |
-    The interception 30 seconds, 3-out just after the beginning of the match
-
-    41 carries for a total of 242 yars, the majority of them (194) from Bijan Robinson.
-    zero sack
+    The interception 30 seconds into the game, and the three-and-out on the very 
+      next possession, seemed to set the stage for a shutdown performance by the Packers defense. 
+      Things went really south instead, with Gannon's group run over — literally — by 
+      the Falcons. 
+    
+      The epitome of the defensive performance is probably in two numbers: 
+      41 carries for a total of 242 yards on the ground by Atlanta, with the majority 
+      (194) coming from Bijan Robinson. 
+    
+      Atlanta's offense was successful on 64.6% of its plays, with a very positive 0.332 
+      expected points added per action. The Falcons basically succeeded on two out of three 
+      plays, regardless of whether they attacked on the ground or through the air. 
+      Combined with zero sacks (9.1% defensive sack rate against the Jets) and a 3.8% QB-hit rate 
+      (16.7% against the Jets) by the Packers, we can fairly say that Atlanta's O-line 
+      controlled the line of scrimmage in both phases, either protecting Penix 
+      or opening lanes for their running backs.
 
 key_moments_intro:
 key_moments:
