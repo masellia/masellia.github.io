@@ -329,6 +329,9 @@ tactical:
   defense: |
     The interception 30 seconds, 3-out just after the beginning of the match
 
+    41 carries for a total of 242 yars, the majority of them (194) from Bijan Robinson.
+    zero sack
+
 key_moments_intro:
 key_moments:
   - quarter: Q1
