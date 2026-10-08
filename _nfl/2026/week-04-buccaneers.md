@@ -147,7 +147,11 @@ stats:
     opponent: "30.3 sec/play"
     season: "32.7 sec/play"
 tactical:
-  game_script:
+  game_script: | 
+    I am not sure what I was expecting from this game. Maybe a total sink of the Packer's
+
+
+
   offense:
   defense:
 key_moments_intro:
