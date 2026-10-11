@@ -3760,7 +3760,8 @@ body {
 }
 
 .nfl-tactical a,
-.nfl-key-moments a {
+.nfl-key-moments a,
+.nfl-key-moments-intro a {
   color: var(--accent);
   text-decoration: none;
 }
@@ -3768,7 +3769,9 @@ body {
 .nfl-tactical a:hover,
 .nfl-tactical a:focus-visible,
 .nfl-key-moments a:hover,
-.nfl-key-moments a:focus-visible {
+.nfl-key-moments a:focus-visible,
+.nfl-key-moments-intro a:hover,
+.nfl-key-moments-intro a:focus-visible {
   text-decoration: underline;
 }
 
