@@ -172,19 +172,21 @@ tactical:
     but questions about whether these positives are random occurrences 
     or the seeds of a structured improvement remain very much open. 
     With the Bears up next, I guess we're going to see 
-    what kind of metal this team is made of.
+    what kind of mettle this team is made of.
 
   offense:  |
-
     Let's start from the good things then. The new Packers 
     Travis Glover and Laken Tomlinson took their spot 
     at right and left guard. Out of necessity (Aaron Banks and Jacob Monk are 
     injured) or choice, the change seemed to be effective, with 
-    the O-line performing well , at least in pass protection. 
+    the O-line performing well, at least in pass protection. 
     QB-hit rate allowed dropped to a season low of 6.7%, with zero 
-    sack allowed. Now, the Bucs have among the worst [pressure 
+    sack allowed. The offensive success rate also improved 
+    considerably, with a 46.2%, the highest so far for 2026. 
+    
+    Now, the Bucs have among the worst [pressure 
     rate](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
-    ){:target="_blank" rel="noopener noreferrer"} in the league
+    ){:target="_blank" rel="noopener noreferrer"} in the league. 
 
     [yards before contact](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
     ){:target="_blank" rel="noopener noreferrer"} per RB rush
