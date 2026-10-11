@@ -259,7 +259,7 @@ key_moments:
     title: Ewan Williams wreaks havoc
     text: |
       Jonathan Gannon decided to seal the game by sending 
-      Ewan Williams on a blitz during the final series. 
+      Ewan Williams on a blitz mission during the final series. 
       Williams recorded his first NFL sack on Tampa Bay's 
       second down, then forced Jalon Daniels into an incomplete 
       pass on fourth-and-11, securing the win for the Packers.
