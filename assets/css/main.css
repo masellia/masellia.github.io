@@ -3638,6 +3638,8 @@ body {
 }
 
 .nfl-trend-dialog {
+  --nfl-green: #203731;
+  --nfl-gold: var(--accent);
   width: min(920px, calc(100% - 2rem));
   max-width: none;
   padding: 2.8rem 2rem 1.7rem;
