@@ -148,11 +148,33 @@ stats:
     season: "32.7 sec/play"
 tactical:
   game_script: | 
-    I am not sure what I was expecting from this game. Maybe a total sink of the Packer's
+    I am not sure what I was expecting from this game. 
+    Considering my overall concerns about the team and LaFleur’s 
+    management, a complete collapse by the Packers against a 0-3 
+    team missing its starting QB was not an event with zero 
+    probability. For sure, I would have expected a spark of 
+    pride, something to prove that the players want to fight for 
+    every inch of the field while wearing that jersey. 
+    Instead, the Battle of the Bays turned into a battle in 
+    the mud. One of those victories (please don’t tell me a 
+    win is a win) that are indicative of how bad the team 
+    is (at least at the moment). A thrilling 17-14 victory, 
+    with an absolutely boring second half in which the two teams 
+    scored a combined 14 points, and undrafted rookie Jalon Daniels, 
+    replacing an injured Baker Mayfield, scored his first NFL touchdown 
+    (and threw two picks).
+    
+    All of this after Brian Gutekunst went into emergency mode 
+    during the week, signing four veteran O-linemen and reversing 
+    his preseason [optimism](https://www.instagram.com/p/Dd4fbebD8La/?img_index=1){:target="_blank" rel="noopener noreferrer"}. Many (including LaFleur) would say 
+    that there were some positive signs compared with the Falcons 
+    game. I don't want to play the role of the "always negative critic", 
+    but questions about whether these positives are random occurrences 
+    or the seeds of a structured improvement remain very much open. 
+    With the Bears up next, I guess we're going to see 
+    what kind of metal this team is made of.
 
-
-
-  offense:
+  offense:  |
   defense:
 key_moments_intro:
 key_moments: []
