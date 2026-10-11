@@ -217,7 +217,34 @@ tactical:
       scored his first TD of the season, hopefully shaking off the 
       last rust from his previous injury.
 
-  defense:
-key_moments_intro: Edgerrin Cooper
-key_moments: []
+  defense: |
+  
+key_moments_intro: |
+    The Packers continue their steady path of inflicting as much 
+    damage on themselves as possible, committing 10 penalties for 
+    a total of 68 yards. The team currently holds the dubious 
+    distinction of being the most 
+    [undisciplined](https://www.footballdb.com/statistics/penalties.html?sort=numyds){:target="_blank" rel="noopener noreferrer"}
+    in the league in terms of penalty yards (344), and ranks 
+    second in the total number of penalties committed (42).
+key_moments:
+  - quarter: Q3
+    clock: "8:54"
+    title: Another man down
+    text: |
+      Edgerrin Cooper was all over the field during the game, 
+      recording 9 tackles, 1 sack and 1 interception returned for 
+      18 yards. Then he went down with a non-contact injury, which 
+      turned out to be a season-ending Achilles tear. A tremendous loss 
+      for the Packers' best linebacker so far this season, and a leader 
+      of the defense.
+  - quarter: Q4
+    clock: "1:47"
+    title: Ewan Williams wreaks havoc
+    text: |
+      Jonathan Gannon decided to seal the game by sending 
+      Ewan Williams on a blitz during the final series. 
+      Williams recorded his first NFL sack on Tampa Bay's 
+      second down, then forced Jalon Daniels into an incomplete 
+      pass on fourth-and-11, securing the win for the Packers.
 ---
