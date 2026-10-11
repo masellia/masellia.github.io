@@ -175,22 +175,47 @@ tactical:
     what kind of mettle this team is made of.
 
   offense:  |
-    Let's start from the good things then. The new Packers 
-    Travis Glover and Laken Tomlinson took their spot 
-    at right and left guard. Out of necessity (Aaron Banks and Jacob Monk are 
-    injured) or choice, the change seemed to be effective, with 
-    the O-line performing well, at least in pass protection. 
-    QB-hit rate allowed dropped to a season low of 6.7%, with zero 
-    sack allowed. The offensive success rate also improved 
-    considerably, with a 46.2%, the highest so far for 2026. 
+    Let's start with the good things, then. The new additions, 
+      Travis Glover and Laken Tomlinson, took their places 
+      at right and left guard, respectively. Out of necessity 
+      (Aaron Banks and Jacob Monk are injured) or by choice, the 
+      changes seemed effective, with the O-line performing 
+      well, at least in pass protection. The QB-hit rate allowed 
+      dropped to a season low of 6.7%, with Love taking no sacks. 
+      The offensive success rate also improved considerably, 
+      reaching 46.2%, the highest so far in 2026, along with 
+      a very positive 0.230 dropback EPA/play (0.066 against 
+      the Falcons). 
     
-    Now, the Bucs have among the worst [pressure 
-    rate](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
-    ){:target="_blank" rel="noopener noreferrer"} in the league. 
-
-    [yards before contact](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
-    ){:target="_blank" rel="noopener noreferrer"} per RB rush
-
+      That said, the Bucs didn't enter Week 4 with 
+      an elite defensive front, having one of the lowest [pressure 
+      rates](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
+      ){:target="_blank" rel="noopener noreferrer"} in the league. 
+      And in fact, highlighting how dysfunctional the Packers offense remains 
+      despite the O-line's progress, offensive EPA/play stagnated at an almost 
+      irrelevant 0.018 (0.014 in Week 3). 
+      The running game remains the weak point of LaFleur's offense.  
+      The Packers clearly tried to be more balanced, 
+      attacking on the ground more often than in the previous game 
+      (pass rate over expected dropped to 1.0 pp from 
+      11.8 pp in Week 3). Rush EPA/play 
+      remained consistently negative: the team rushed for 86 yards in total 
+      on 25 carries, almost half of Tampa Bay's total, averaging a very modest 
+      3.5 yards per rush. 
+      The Packers rank last in the league in [yards before contact](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
+      ){:target="_blank" rel="noopener noreferrer"} per RB rush, with 
+      an average of 0.5 yards across the first four weeks. This suggests that 
+      the O-line is not really creating running lanes for the 
+      running backs, leaving Lloyd, Johnson and Brooks to generate 
+      additional yardage after contact. 
+       
+      With 6.6 yards per pass, an explosive-play rate remaining flat 
+      at around 6%, and a very low 20% third-down conversion rate, 
+      the offense seemed capable of moving the chains, but only up 
+      to a certain point. Green Bay reached the Buccaneers' 
+      red zone just three times, scoring two touchdowns. Tucker Kraft 
+      scored his first TD of the season, hopefully shaking off the 
+      last rust from his previous injury.
 
   defense:
 key_moments_intro: Edgerrin Cooper
