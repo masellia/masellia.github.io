@@ -223,8 +223,7 @@ key_moments_intro: |
     The Packers continue their steady path of inflicting as much 
     damage on themselves as possible, committing 10 penalties for 
     a total of 68 yards. The team currently holds the dubious 
-    distinction of being the most 
-    [undisciplined](https://www.footballdb.com/statistics/penalties.html?sort=numyds){:target="_blank" rel="noopener noreferrer"}
+    distinction of being the most [undisciplined](https://www.footballdb.com/statistics/penalties.html?sort=numyds){:target="_blank" rel="noopener noreferrer"} 
     in the league in terms of penalty yards (344), and ranks 
     second in the total number of penalties committed (42).
 key_moments:
