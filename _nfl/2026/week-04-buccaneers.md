@@ -154,7 +154,7 @@ tactical:
     team missing its starting QB was not an event with zero 
     probability. For sure, I would have expected a spark of 
     pride, something to prove that the players want to fight for 
-    every inch of the field while wearing that jersey. 
+    every inch of the field while wearing the Green and Gold. 
     Instead, the Battle of the Bays turned into a battle in 
     the mud. One of those victories (please don’t tell me a 
     win is a win) that are indicative of how bad the team 
