@@ -61,7 +61,6 @@ kickoff: "3:25 PM CDT"
 stadium: Stadium Name
 city: City, State
 stats_ready: false
-stats_game_label: Game
 stats_season_label: 2026 Season
 stats_sources:
   - label: nflverse play-by-play
@@ -82,7 +81,7 @@ key_moments: []
 ---
 ```
 
-Keep `stats_ready: false` before the game. Afterward, set it to `true`, fill each metric's `game`, `opponent`, and `season` values, add `stats_note` with the methodology, and add labeled `stats_sources` links. The game-only `opponent` value appears in brackets under a column labeled with `opponent_abbr`; season values remain Packers-only. Preserve metric IDs so values can be used consistently in future quantitative work.
+Keep `stats_ready: false` before the game. Afterward, set it to `true`, fill each metric's `game`, `opponent`, and `season` values, add `stats_note` with the methodology, and add labeled `stats_sources` links. The Packers `game` value appears under a `GB` column, and the game-only `opponent` value appears in gray under a column labeled with `opponent_abbr`; season values remain Packers-only. Preserve metric IDs so values can be used consistently in future quantitative work.
 
 The Trend column is generated automatically from each metric's Packers `game` value. A game table includes completed weeks through that game, and the dashed line is the arithmetic mean of those weekly points. Clicking a compact chart opens an expanded chart with axes and exact values. For `penalties_yards`, the trend uses penalty yards (the number after `/`); all other values are parsed from their existing display strings. No additional trend data is required when adding a game.
 

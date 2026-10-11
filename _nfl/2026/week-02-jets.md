@@ -19,7 +19,6 @@ status: Final/OT
 team_score: 20
 opponent_score: 17
 stats_ready: true
-stats_game_label: Game
 stats_season_label: 2026 season
 stats_note: EPA and success rates use valid run and pass plays; defensive figures are opponent values allowed. Explosive plays are passes gaining at least 20 yards or runs gaining at least 10. QB-hit rates use dropbacks, while sack rates use pass attempts including sacks. Penalties and yards are accepted team penalties and enforcement yardage. Neutral pace is the mean game-clock interval between consecutive offensive snaps in the same drive during quarters 1-3 with the score within eight points.
 stats_sources:

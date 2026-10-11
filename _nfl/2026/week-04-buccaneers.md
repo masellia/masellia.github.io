@@ -175,7 +175,23 @@ tactical:
     what kind of metal this team is made of.
 
   offense:  |
+
+    Let's start from the good things then. The new Packers 
+    Travis Glover and Laken Tomlinson took their spot 
+    at right and left guard. Out of necessity (Aaron Banks and Jacob Monk are 
+    injured) or choice, the change seemed to be effective, with 
+    the O-line performing well , at least in pass protection. 
+    QB-hit rate allowed dropped to a season low of 6.7%, with zero 
+    sack allowed. Now, the Bucs have among the worst [pressure 
+    rate](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
+    ){:target="_blank" rel="noopener noreferrer"} in the league
+
+    [yards before contact](https://www.sharpfootballanalysis.com/stats-nfl/nfl-defensive-line-stats/
+    ){:target="_blank" rel="noopener noreferrer"} per RB rush
+
+
   defense:
 key_moments_intro:
+Edgerrin Cooper
 key_moments: []
 ---
