@@ -193,7 +193,6 @@ tactical:
 
 
   defense:
-key_moments_intro:
-Edgerrin Cooper
+key_moments_intro: Edgerrin Cooper
 key_moments: []
 ---
