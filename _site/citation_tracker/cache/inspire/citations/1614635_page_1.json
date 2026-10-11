@@ -1,0 +1,4204 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-09-17T04:46:25.088086+00:00",
+        "id": "3204523",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3204523?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3204523",
+          "cv": "https://inspirehep.net/api/literature/3204523?format=cv",
+          "json": "https://inspirehep.net/api/literature/3204523?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3204523?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3204523?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3204523?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.IM"
+              ],
+              "value": "2609.18337"
+            }
+          ],
+          "control_number": 3204523,
+          "earliest_date": "2026-09-16",
+          "preprint_date": "2026-09-16",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Searching for gravitational wave echo with group equivariant neural posterior estimation"
+            }
+          ]
+        },
+        "updated": "2026-09-22T11:50:28.554519+00:00"
+      },
+      {
+        "created": "2026-09-02T05:10:43.945482+00:00",
+        "id": "3198339",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3198339?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3198339",
+          "cv": "https://inspirehep.net/api/literature/3198339?format=cv",
+          "json": "https://inspirehep.net/api/literature/3198339?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3198339?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3198339?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3198339?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2608.30784"
+            }
+          ],
+          "control_number": 3198339,
+          "earliest_date": "2026-08-31",
+          "preprint_date": "2026-08-31",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational-Wave Echoes from Layered Compact Objects: A Double-Shell Model"
+            }
+          ]
+        },
+        "updated": "2026-09-02T13:59:39.327480+00:00"
+      },
+      {
+        "created": "2026-04-15T04:23:44.444243+00:00",
+        "id": "3144783",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3144783?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3144783",
+          "cv": "https://inspirehep.net/api/literature/3144783?format=cv",
+          "json": "https://inspirehep.net/api/literature/3144783?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3144783?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3144783?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3144783?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "physics.data-an"
+              ],
+              "value": "2604.12800"
+            }
+          ],
+          "control_number": 3144783,
+          "earliest_date": "2026-04-14",
+          "preprint_date": "2026-04-14",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Spectroscopy of analogue black holes using simulation-based inference"
+            }
+          ]
+        },
+        "updated": "2026-04-16T04:12:17.562244+00:00"
+      },
+      {
+        "created": "2026-03-20T04:20:56.564729+00:00",
+        "id": "3131604",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3131604?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3131604",
+          "cv": "https://inspirehep.net/api/literature/3131604?format=cv",
+          "json": "https://inspirehep.net/api/literature/3131604?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3131604?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3131604?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3131604?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2603.19021"
+            }
+          ],
+          "control_number": 3131604,
+          "earliest_date": "2026-03-19",
+          "preprint_date": "2026-03-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants"
+            }
+          ]
+        },
+        "updated": "2026-09-10T18:09:55.932018+00:00"
+      },
+      {
+        "created": "2026-02-03T04:25:49.682203+00:00",
+        "id": "3113789",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3113789?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3113789",
+          "cv": "https://inspirehep.net/api/literature/3113789?format=cv",
+          "json": "https://inspirehep.net/api/literature/3113789?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3113789?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3113789?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3113789?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2602.01615"
+            }
+          ],
+          "control_number": 3113789,
+          "earliest_date": "2026-02-02",
+          "preprint_date": "2026-02-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing the wormhole echo hypothesis for GW231123"
+            }
+          ]
+        },
+        "updated": "2026-04-27T01:36:06.230745+00:00"
+      },
+      {
+        "created": "2026-01-01T04:15:13.199986+00:00",
+        "id": "3096507",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3096507?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3096507",
+          "cv": "https://inspirehep.net/api/literature/3096507?format=cv",
+          "json": "https://inspirehep.net/api/literature/3096507?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3096507?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3096507?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3096507?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2512.24730"
+            }
+          ],
+          "control_number": 3096507,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/l31p-1hfr"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/l31p-1hfr"
+            }
+          ],
+          "earliest_date": "2025-12-31",
+          "preprint_date": "2025-12-31",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Model-agnostic search of gravitational wave echoes in LVK data"
+            },
+            {
+              "source": "arXiv",
+              "title": "Model-agnostic search of gravitational wave echoes in LVK data"
+            },
+            {
+              "source": "arXiv",
+              "title": "Model-independent search of gravitational wave echoes in LVK data"
+            }
+          ]
+        },
+        "updated": "2026-07-29T05:54:23.021099+00:00"
+      },
+      {
+        "created": "2025-12-16T04:19:39.343178+00:00",
+        "id": "3092763",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3092763?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3092763",
+          "cv": "https://inspirehep.net/api/literature/3092763?format=cv",
+          "json": "https://inspirehep.net/api/literature/3092763?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3092763?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3092763?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3092763?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2512.11917"
+            }
+          ],
+          "control_number": 3092763,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2026/08/030"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2026/08/030"
+            }
+          ],
+          "earliest_date": "2025-12-11",
+          "preprint_date": "2025-12-11",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Low-finesse scattering and non-stationary dispersive dynamics of gravitational wave echoes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Low-finesse scattering and non-stationary dispersive dynamics of gravitational wave echoes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Low finesse scattering and spectral drift of gravitational wave echoes"
+            }
+          ]
+        },
+        "updated": "2026-08-14T06:10:07.276965+00:00"
+      },
+      {
+        "created": "2025-12-01T04:15:08.743850+00:00",
+        "id": "3087555",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3087555?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3087555",
+          "cv": "https://inspirehep.net/api/literature/3087555?format=cv",
+          "json": "https://inspirehep.net/api/literature/3087555?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3087555?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3087555?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3087555?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2511.22671"
+            }
+          ],
+          "control_number": 3087555,
+          "earliest_date": "2025-11-27",
+          "preprint_date": "2025-11-27",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Echoes of the Maldacena-Milekhin-Popov traversable wormhole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Echoes of Traversable Wormhole"
+            }
+          ]
+        },
+        "updated": "2026-09-18T04:02:38.948789+00:00"
+      },
+      {
+        "created": "2025-11-21T04:16:58.255548+00:00",
+        "id": "3085106",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3085106?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3085106",
+          "cv": "https://inspirehep.net/api/literature/3085106?format=cv",
+          "json": "https://inspirehep.net/api/literature/3085106?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3085106?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3085106?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3085106?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2511.15890"
+            }
+          ],
+          "control_number": 3085106,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ae470b"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/ae470b"
+            }
+          ],
+          "earliest_date": "2025-11-19",
+          "preprint_date": "2025-11-19",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Ten years of extreme gravity tests of general theory of relativity with gravitational-wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Ten years of extreme gravity tests of general theory of relativity with gravitational-wave observations"
+            }
+          ]
+        },
+        "updated": "2026-03-18T04:08:55.868651+00:00"
+      },
+      {
+        "created": "2025-11-13T04:14:49.215847+00:00",
+        "id": "3082203",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3082203?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3082203",
+          "cv": "https://inspirehep.net/api/literature/3082203?format=cv",
+          "json": "https://inspirehep.net/api/literature/3082203?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3082203?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3082203?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3082203?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2511.08692"
+            }
+          ],
+          "control_number": 3082203,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/v7pv-y3qy"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/v7pv-y3qy"
+            }
+          ],
+          "earliest_date": "2025-11-11",
+          "preprint_date": "2025-11-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Excitation factors for horizonless compact objects: Long-lived modes, echoes, and greybody factors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Excitation factors for horizonless compact objects: long-lived modes, echoes, and greybody factors"
+            }
+          ]
+        },
+        "updated": "2026-05-15T04:05:26.395120+00:00"
+      },
+      {
+        "created": "2025-09-23T04:12:53.135979+00:00",
+        "id": "2971985",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2971985?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2971985",
+          "cv": "https://inspirehep.net/api/literature/2971985?format=cv",
+          "json": "https://inspirehep.net/api/literature/2971985?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2971985?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2971985?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2971985?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2509.16310"
+            }
+          ],
+          "control_number": 2971985,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/82lx-g26j"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/82lx-g26j"
+            }
+          ],
+          "earliest_date": "2025-09-19",
+          "preprint_date": "2025-09-19",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Spectral instability of horizonless compact objects within astrophysical environments"
+            },
+            {
+              "source": "arXiv",
+              "title": "Spectral instability of horizonless compact objects within astrophysical environments"
+            },
+            {
+              "source": "arXiv",
+              "title": "Spectral instability of horizonless compact objects within astrophysical environments: The \"exotic'' elephant and the flea"
+            }
+          ]
+        },
+        "updated": "2026-02-12T04:03:38.522046+00:00"
+      },
+      {
+        "created": "2025-09-10T04:19:28.581890+00:00",
+        "id": "2968091",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2968091?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2968091",
+          "cv": "https://inspirehep.net/api/literature/2968091?format=cv",
+          "json": "https://inspirehep.net/api/literature/2968091?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2968091?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2968091?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2968091?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2509.07831"
+            }
+          ],
+          "control_number": 2968091,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2026/03/008"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2026/03/008"
+            }
+          ],
+          "earliest_date": "2025-09-09",
+          "preprint_date": "2025-09-09",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Is GW190521 a gravitational wave echo of wormhole remnant from another universe?"
+            },
+            {
+              "source": "arXiv",
+              "title": "Is GW190521 a gravitational wave echo of wormhole remnant from another universe?"
+            }
+          ]
+        },
+        "updated": "2026-04-08T02:30:04.494206+00:00"
+      },
+      {
+        "created": "2025-06-19T13:14:27.150485+00:00",
+        "id": "2936820",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2936820?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2936820",
+          "cv": "https://inspirehep.net/api/literature/2936820?format=cv",
+          "json": "https://inspirehep.net/api/literature/2936820?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2936820?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2936820?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2936820?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2936820,
+          "dois": [
+            {
+              "source": "Caltech",
+              "value": "10.7907/1664-d461"
+            }
+          ],
+          "earliest_date": "2025-06-10",
+          "titles": [
+            {
+              "source": "Caltech",
+              "title": "Ripples from the Early Universe to the Present"
+            }
+          ]
+        },
+        "updated": "2025-06-19T13:14:28.848719+00:00"
+      },
+      {
+        "created": "2025-06-02T15:03:33.050143+00:00",
+        "id": "2927961",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2927961?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2927961",
+          "cv": "https://inspirehep.net/api/literature/2927961?format=cv",
+          "json": "https://inspirehep.net/api/literature/2927961?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2927961?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2927961?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2927961?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2927961,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-14327-2"
+            }
+          ],
+          "earliest_date": "2025-05-30",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Ultra-compact anisotropic stellar model with vanishing complexity"
+            }
+          ]
+        },
+        "updated": "2026-04-10T12:50:46.144949+00:00"
+      },
+      {
+        "created": "2025-06-02T04:17:51.850568+00:00",
+        "id": "2927078",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2927078?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2927078",
+          "cv": "https://inspirehep.net/api/literature/2927078?format=cv",
+          "json": "https://inspirehep.net/api/literature/2927078?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2927078?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2927078?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2927078?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2505.23895"
+            }
+          ],
+          "control_number": 2927078,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ae59e2"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/ae59e2"
+            }
+          ],
+          "earliest_date": "2025-05-29",
+          "preprint_date": "2025-05-29",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Black hole spectroscopy: from theory to experiment"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black hole spectroscopy: from theory to experiment"
+            }
+          ]
+        },
+        "updated": "2026-08-28T12:55:44.697818+00:00"
+      },
+      {
+        "created": "2025-03-23T16:26:09.561527+00:00",
+        "id": "2902763",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2902763?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2902763",
+          "cv": "https://inspirehep.net/api/literature/2902763?format=cv",
+          "json": "https://inspirehep.net/api/literature/2902763?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2902763?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2902763?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2902763?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2902763,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-13917-4"
+            }
+          ],
+          "earliest_date": "2025-03-20",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Constraining mass–radius limit of gravitationally decoupled binary compact star mergers PSR J0952-0607 and GW200210 generated by dual matter density profiles"
+            }
+          ]
+        },
+        "updated": "2026-04-10T12:46:55.498269+00:00"
+      },
+      {
+        "created": "2025-02-07T04:21:11.180349+00:00",
+        "id": "2877092",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2877092?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2877092",
+          "cv": "https://inspirehep.net/api/literature/2877092?format=cv",
+          "json": "https://inspirehep.net/api/literature/2877092?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2877092?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2877092?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2877092?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2502.03706"
+            }
+          ],
+          "control_number": 2877092,
+          "earliest_date": "2025-02-05",
+          "preprint_date": "2025-02-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Novel echoes from black holes in conformal Weyl gravity"
+            }
+          ]
+        },
+        "updated": "2025-09-18T11:53:11.799731+00:00"
+      },
+      {
+        "created": "2024-12-17T04:19:50.354035+00:00",
+        "id": "2859913",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2859913?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2859913",
+          "cv": "https://inspirehep.net/api/literature/2859913?format=cv",
+          "json": "https://inspirehep.net/api/literature/2859913?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2859913?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2859913?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2859913?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2412.11166"
+            }
+          ],
+          "control_number": 2859913,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/04/025"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/04/025"
+            }
+          ],
+          "earliest_date": "2024-12-15",
+          "preprint_date": "2024-12-15",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Correspondence between quasinormal modes and grey-body factors of spherically symmetric traversable wormholes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Correspondence between quasinormal modes and grey-body factors of spherically symmetric traversable wormholes"
+            }
+          ]
+        },
+        "updated": "2025-09-18T11:53:55.397147+00:00"
+      },
+      {
+        "created": "2024-11-21T07:15:54.943451+00:00",
+        "id": "2850417",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2850417?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2850417",
+          "cv": "https://inspirehep.net/api/literature/2850417?format=cv",
+          "json": "https://inspirehep.net/api/literature/2850417?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2850417?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2850417?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2850417?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2850417,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.jheap.2024.11.011"
+            }
+          ],
+          "earliest_date": "2024-11-14",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Influence of minimal gravitational decoupling and pseudo isothermal dark matter halo on mass-radius relation and stability of anisotropic compact stars in <math altimg=\"si1.svg\"><mi>f</mi><mo stretchy=\"false\">(</mo><mi>R</mi><mo>,</mo><mi mathvariant=\"script\">T</mi><mo stretchy=\"false\">)</mo></math>–gravity"
+            }
+          ]
+        },
+        "updated": "2026-05-31T12:42:19.552194+00:00"
+      },
+      {
+        "created": "2024-09-30T14:44:29.202391+00:00",
+        "id": "2835118",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2835118?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2835118",
+          "cv": "https://inspirehep.net/api/literature/2835118?format=cv",
+          "json": "https://inspirehep.net/api/literature/2835118?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2835118?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2835118?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2835118?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2835118,
+          "earliest_date": "2024-09-23",
+          "titles": [
+            {
+              "source": "UNITesi",
+              "title": "Probing the regularization of spacetime singularities"
+            },
+            {
+              "source": "SISSA",
+              "title": "Probing the regularization of spacetime singularities"
+            }
+          ]
+        },
+        "updated": "2024-12-13T05:15:17.104957+00:00"
+      },
+      {
+        "created": "2024-09-12T09:28:57.692909+00:00",
+        "id": "2827476",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2827476?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2827476",
+          "cv": "https://inspirehep.net/api/literature/2827476?format=cv",
+          "json": "https://inspirehep.net/api/literature/2827476?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2827476?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2827476?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2827476?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2827476,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/1538-4357/ad5cf1"
+            }
+          ],
+          "earliest_date": "2024-09-06",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Modeling Compact Object Mergers GW190814 and GW200210 and Other Self-bound Compact Stars with Dark Matter Induced by Gravitational Decoupling and Its Significance to the Mass Gap"
+            }
+          ]
+        },
+        "updated": "2026-04-10T12:36:01.907341+00:00"
+      },
+      {
+        "created": "2024-05-08T12:40:36.382052+00:00",
+        "id": "2784337",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2784337?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2784337",
+          "cv": "https://inspirehep.net/api/literature/2784337?format=cv",
+          "json": "https://inspirehep.net/api/literature/2784337?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2784337?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2784337?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2784337?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2784337,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.physletb.2024.138688"
+            }
+          ],
+          "earliest_date": "2024-05-06",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Echoes of massless scalar field induced from hairy Schwarzschild black hole"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:22:20.047745+00:00"
+      },
+      {
+        "created": "2024-04-24T03:49:36.922721+00:00",
+        "id": "2780005",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2780005?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2780005",
+          "cv": "https://inspirehep.net/api/literature/2780005?format=cv",
+          "json": "https://inspirehep.net/api/literature/2780005?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2780005?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2780005?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2780005?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2404.14536"
+            }
+          ],
+          "control_number": 2780005,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevLett.133.031401"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevLett.133.031401"
+            }
+          ],
+          "earliest_date": "2024-04-22",
+          "preprint_date": "2024-04-22",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Nonlinear Treatment of a Black Hole Mimicker Ringdown"
+            },
+            {
+              "source": "arXiv",
+              "title": "Nonlinear treatment of a black hole mimicker ringdown"
+            }
+          ]
+        },
+        "updated": "2025-03-06T13:43:03.523995+00:00"
+      },
+      {
+        "created": "2023-12-13T03:45:54.080522+00:00",
+        "id": "2735847",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2735847?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2735847",
+          "cv": "https://inspirehep.net/api/literature/2735847?format=cv",
+          "json": "https://inspirehep.net/api/literature/2735847?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2735847?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2735847?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2735847?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2312.06783"
+            }
+          ],
+          "control_number": 2735847,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.084012"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.110.084012"
+            }
+          ],
+          "earliest_date": "2023-12-11",
+          "preprint_date": "2023-12-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing the quantum nature of black holes with ultralight boson environments"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing the quantum nature of black holes with ultra-light boson environments"
+            }
+          ]
+        },
+        "updated": "2026-08-07T14:29:59.234825+00:00"
+      },
+      {
+        "created": "2023-11-03T02:49:17.673073+00:00",
+        "id": "2717996",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2717996?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2717996",
+          "cv": "https://inspirehep.net/api/literature/2717996?format=cv",
+          "json": "https://inspirehep.net/api/literature/2717996?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2717996?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2717996?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2717996?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2311.01300"
+            }
+          ],
+          "control_number": 2717996,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-025-00056-1"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-025-00056-1"
+            }
+          ],
+          "earliest_date": "2023-11-02",
+          "preprint_date": "2023-11-02",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Waveform modelling for the Laser Interferometer Space Antenna"
+            },
+            {
+              "source": "arXiv",
+              "title": "Waveform Modelling for the Laser Interferometer Space Antenna"
+            }
+          ]
+        },
+        "updated": "2026-09-09T08:20:04.885611+00:00"
+      },
+      {
+        "created": "2024-06-04T06:58:35.681514+00:00",
+        "id": "2793965",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2793965?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2793965",
+          "cv": "https://inspirehep.net/api/literature/2793965?format=cv",
+          "json": "https://inspirehep.net/api/literature/2793965?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2793965?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2793965?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2793965?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2793965,
+          "dois": [
+            {
+              "value": "10.26240/heal.ntua.27197"
+            }
+          ],
+          "earliest_date": "2023-11",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "ΛΥΣΕΙΣ ΚΑΙ ΕΥΣΤΑΘΕΙΑ ΣΥΜΠΑΓΩΝ ΣΩΜΑΤΩΝ ΣΕ SCALAR-TENSOR ΘΕΩΡΙΕΣ"
+            }
+          ]
+        },
+        "updated": "2026-04-01T12:35:39.677018+00:00"
+      },
+      {
+        "created": "2023-10-09T20:04:53.659820+00:00",
+        "id": "2708229",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2708229?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2708229",
+          "cv": "https://inspirehep.net/api/literature/2708229?format=cv",
+          "json": "https://inspirehep.net/api/literature/2708229?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2708229?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2708229?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2708229?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2310.07368"
+            }
+          ],
+          "control_number": 2708229,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-3-031-31520-6_9"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-3-031-31520-6_9"
+            }
+          ],
+          "earliest_date": "2023-10-01",
+          "preprint_date": "2023-10-11",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Probing the Horizon of Black Holes with Gravitational Waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing the horizon of black holes with gravitational waves"
+            }
+          ]
+        },
+        "updated": "2024-09-17T08:09:55.753925+00:00"
+      },
+      {
+        "created": "2023-09-06T03:57:48.201746+00:00",
+        "id": "2693600",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2693600?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2693600",
+          "cv": "https://inspirehep.net/api/literature/2693600?format=cv",
+          "json": "https://inspirehep.net/api/literature/2693600?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2693600?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2693600?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2693600?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2309.01894"
+            }
+          ],
+          "control_number": 2693600,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.104040"
+            }
+          ],
+          "earliest_date": "2023-09-04",
+          "preprint_date": "2023-09-04",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Searching for gravitational wave echoes from black hole binary events in the third observing run of LIGO, Virgo, and KAGRA collaborations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Searching for gravitational wave echoes from black hole binary events in the third observing run of LIGO, Virgo, and KAGRA collaborations"
+            }
+          ]
+        },
+        "updated": "2024-01-09T08:47:50.694395+00:00"
+      },
+      {
+        "created": "2023-08-03T03:01:16.761849+00:00",
+        "id": "2684611",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2684611?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2684611",
+          "cv": "https://inspirehep.net/api/literature/2684611?format=cv",
+          "json": "https://inspirehep.net/api/literature/2684611?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2684611?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2684611?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2684611?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2308.01254"
+            }
+          ],
+          "control_number": 2684611,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.103043"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.103043"
+            }
+          ],
+          "earliest_date": "2023-08-02",
+          "preprint_date": "2023-08-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Generating ultracompact boson stars with modified scalar potentials"
+            },
+            {
+              "source": "arXiv",
+              "title": "Generating ultra compact boson stars with modified scalar potentials"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:53:14.165628+00:00"
+      },
+      {
+        "created": "2023-05-16T02:58:34.155351+00:00",
+        "id": "2659757",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2659757?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2659757",
+          "cv": "https://inspirehep.net/api/literature/2659757?format=cv",
+          "json": "https://inspirehep.net/api/literature/2659757?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2659757?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2659757?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2659757?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2305.07915"
+            }
+          ],
+          "control_number": 2659757,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ad28f9"
+            }
+          ],
+          "earliest_date": "2023-05-13",
+          "preprint_date": "2023-05-13",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "The weak gravity conjecture, overcharged shells and gravitational traps"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Weak Gravity Conjecture, Overcharged Shells and Gravitational Traps"
+            }
+          ]
+        },
+        "updated": "2025-01-23T17:02:49.448526+00:00"
+      },
+      {
+        "created": "2023-05-04T03:19:09.643934+00:00",
+        "id": "2656246",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2656246?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2656246",
+          "cv": "https://inspirehep.net/api/literature/2656246?format=cv",
+          "json": "https://inspirehep.net/api/literature/2656246?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2656246?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2656246?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2656246?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2305.01696"
+            }
+          ],
+          "control_number": 2656246,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-981-97-2871-8_9"
+            }
+          ],
+          "earliest_date": "2023-05-02",
+          "preprint_date": "2023-05-02",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Testing General Relativity with Black Hole Quasi-normal Modes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing General Relativity with Black Hole Quasi-Normal Modes"
+            }
+          ]
+        },
+        "updated": "2025-03-26T05:22:17.070348+00:00"
+      },
+      {
+        "created": "2023-03-08T03:08:03.360342+00:00",
+        "id": "2639089",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2639089?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2639089",
+          "cv": "https://inspirehep.net/api/literature/2639089?format=cv",
+          "json": "https://inspirehep.net/api/literature/2639089?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2639089?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2639089?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2639089?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2303.04089"
+            }
+          ],
+          "control_number": 2639089,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.064009"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.064009"
+            }
+          ],
+          "earliest_date": "2023-03-07",
+          "preprint_date": "2023-03-07",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Tidal deformability of fermion-boson stars: Neutron stars admixed with ultralight dark matter"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tidal Deformability of Fermion-Boson Stars: Neutron Stars Admixed with Ultra-Light Dark Matter"
+            }
+          ]
+        },
+        "updated": "2026-08-31T11:56:13.012534+00:00"
+      },
+      {
+        "created": "2023-02-24T03:01:52.431851+00:00",
+        "id": "2635881",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2635881?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2635881",
+          "cv": "https://inspirehep.net/api/literature/2635881?format=cv",
+          "json": "https://inspirehep.net/api/literature/2635881?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2635881?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2635881?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2635881?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2302.12158"
+            }
+          ],
+          "control_number": 2635881,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.064018"
+            }
+          ],
+          "earliest_date": "2023-02-23",
+          "preprint_date": "2023-02-23",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Constraints on the amplitude of gravitational wave echoes from black hole ringdown using minimal assumptions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraints on the amplitude of gravitational wave echoes from black hole ring-down using minimal assumptions"
+            }
+          ]
+        },
+        "updated": "2024-08-22T00:42:13.586979+00:00"
+      },
+      {
+        "created": "2023-02-21T08:45:49.707578+00:00",
+        "id": "2634967",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2634967?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2634967",
+          "cv": "https://inspirehep.net/api/literature/2634967?format=cv",
+          "json": "https://inspirehep.net/api/literature/2634967?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2634967?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2634967?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2634967?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "2302.09690"
+            }
+          ],
+          "control_number": 2634967,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-981-99-1596-5_8"
+            }
+          ],
+          "earliest_date": "2023-02-19",
+          "preprint_date": "2023-02-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational Vacuum Condensate Stars"
+            }
+          ]
+        },
+        "updated": "2025-07-23T11:02:50.457009+00:00"
+      },
+      {
+        "created": "2023-01-30T16:13:21.414078+00:00",
+        "id": "2627601",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2627601?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2627601",
+          "cv": "https://inspirehep.net/api/literature/2627601?format=cv",
+          "json": "https://inspirehep.net/api/literature/2627601?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2627601?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2627601?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2627601?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2627601,
+          "dois": [
+            {
+              "source": "World Scientific",
+              "value": "10.1142/9789811269776_0270"
+            }
+          ],
+          "earliest_date": "2023",
+          "titles": [
+            {
+              "source": "World Scientific",
+              "title": "Matter shells modifying gravitational wave signals"
+            }
+          ]
+        },
+        "updated": "2024-06-06T09:30:24.655877+00:00"
+      },
+      {
+        "created": "2024-06-06T12:24:08.683700+00:00",
+        "id": "2795096",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2795096?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2795096",
+          "cv": "https://inspirehep.net/api/literature/2795096?format=cv",
+          "json": "https://inspirehep.net/api/literature/2795096?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2795096?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2795096?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2795096?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2795096,
+          "earliest_date": "2023",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "SOLUTIONS AND STABILITY OF SOLID BODIES IN SCALAR-TENSOR THEORIES"
+            }
+          ]
+        },
+        "updated": "2026-04-01T12:35:55.873356+00:00"
+      },
+      {
+        "created": "2022-12-22T06:33:57.969871+00:00",
+        "id": "2617051",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2617051?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2617051",
+          "cv": "https://inspirehep.net/api/literature/2617051?format=cv",
+          "json": "https://inspirehep.net/api/literature/2617051?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2617051?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2617051?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2617051?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2212.11175"
+            }
+          ],
+          "control_number": 2617051,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjp/s13360-023-04398-z"
+            }
+          ],
+          "earliest_date": "2022-12-21",
+          "preprint_date": "2022-12-21",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Detecting properties of echoes from the inspiraling stage with ground-based detectors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Detecting properties of echoes from inspiraling stage with ground-based detectors"
+            }
+          ]
+        },
+        "updated": "2023-09-01T04:31:35.283690+00:00"
+      },
+      {
+        "created": "2022-10-26T02:48:35.997539+00:00",
+        "id": "2170523",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2170523?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2170523",
+          "cv": "https://inspirehep.net/api/literature/2170523?format=cv",
+          "json": "https://inspirehep.net/api/literature/2170523?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2170523?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2170523?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2170523?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "nucl-th"
+              ],
+              "value": "2210.13697"
+            }
+          ],
+          "control_number": 2170523,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/1538-4357/acb3be"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/acb3be"
+            }
+          ],
+          "earliest_date": "2022-10-24",
+          "preprint_date": "2022-10-24",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Exotic Compact Objects with Two Dark Matter Fluids"
+            },
+            {
+              "source": "arXiv",
+              "title": "Exotic Compact Objects with Two Dark Matter Fluids"
+            }
+          ]
+        },
+        "updated": "2023-11-23T12:11:03.583889+00:00"
+      },
+      {
+        "created": "2022-11-04T14:14:57.674813+00:00",
+        "id": "2176347",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2176347?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2176347",
+          "cv": "https://inspirehep.net/api/literature/2176347?format=cv",
+          "json": "https://inspirehep.net/api/literature/2176347?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2176347?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2176347?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2176347?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2176347,
+          "dois": [
+            {
+              "source": "OpenAIRE",
+              "value": "10.15168/11572_354941"
+            }
+          ],
+          "earliest_date": "2022-10-13",
+          "titles": [
+            {
+              "source": "OpenAIRE",
+              "title": "Agnostic method to detect low energetic signals nearby a gravitational wave transient from a binary black hole system"
+            },
+            {
+              "source": "Trento U.",
+              "title": "Agnostic method to detect low energetic signals nearby a gravitational wave transient from a binary black hole system"
+            },
+            {
+              "source": "UNITesi",
+              "title": "Agnostic method to detect low energetic signals nearby a gravitational wave transient from a binary black hole system"
+            }
+          ]
+        },
+        "updated": "2024-11-27T17:31:38.232895+00:00"
+      },
+      {
+        "created": "2023-04-17T18:43:47.023643+00:00",
+        "id": "2651722",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2651722?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2651722",
+          "cv": "https://inspirehep.net/api/literature/2651722?format=cv",
+          "json": "https://inspirehep.net/api/literature/2651722?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2651722?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2651722?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2651722?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2209.02559"
+            }
+          ],
+          "control_number": 2651722,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-023-11448-4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-023-11448-4"
+            }
+          ],
+          "earliest_date": "2022-09-06",
+          "preprint_date": "2022-09-06",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Echoes of black holes in Einstein-nonlinear electrodynamic theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Splitting the Echoes of Black Holes in Einstein-nonlinear Electrodynamic Theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Splitting the Echoes of Black Holes"
+            }
+          ]
+        },
+        "updated": "2026-01-11T18:46:00.320957+00:00"
+      },
+      {
+        "created": "2022-05-04T04:01:45.297111+00:00",
+        "id": "2076195",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2076195?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2076195",
+          "cv": "https://inspirehep.net/api/literature/2076195?format=cv",
+          "json": "https://inspirehep.net/api/literature/2076195?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2076195?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2076195?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2076195?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2205.01597"
+            }
+          ],
+          "control_number": 2076195,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-022-00036-9"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-022-00036-9"
+            }
+          ],
+          "earliest_date": "2022-05-03",
+          "preprint_date": "2022-05-03",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "New horizons for fundamental physics with LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "New Horizons for Fundamental Physics with LISA"
+            }
+          ]
+        },
+        "updated": "2026-03-08T22:15:17.502674+00:00"
+      },
+      {
+        "created": "2022-04-01T02:56:21.003295+00:00",
+        "id": "2060752",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2060752?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2060752",
+          "cv": "https://inspirehep.net/api/literature/2060752?format=cv",
+          "json": "https://inspirehep.net/api/literature/2060752?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2060752?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2060752?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2060752?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2203.16635"
+            }
+          ],
+          "control_number": 2060752,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1209/0295-5075/ac6e00"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1209/0295-5075/ac6e00"
+            }
+          ],
+          "earliest_date": "2022-03-30",
+          "preprint_date": "2022-03-30",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Can the abyss swallow gravitational waves or why we do not observe echoes?"
+            },
+            {
+              "source": "IOP",
+              "title": "Can the abyss swallow gravitational waves or why do we not observe echoes?"
+            }
+          ]
+        },
+        "updated": "2023-09-15T14:07:33.236320+00:00"
+      },
+      {
+        "created": "2022-08-19T07:00:33.493600+00:00",
+        "id": "2139044",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2139044?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2139044",
+          "cv": "https://inspirehep.net/api/literature/2139044?format=cv",
+          "json": "https://inspirehep.net/api/literature/2139044?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2139044?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2139044?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2139044?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2211.16900"
+            }
+          ],
+          "control_number": 2139044,
+          "earliest_date": "2022-02-22",
+          "preprint_date": "2022-11-30",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Probing new physics on the horizon of black holes with gravitational waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing new physics on the horizon of black holes with gravitational waves"
+            }
+          ]
+        },
+        "updated": "2025-09-20T06:07:32.781232+00:00"
+      },
+      {
+        "created": "2022-02-10T03:07:36.935347+00:00",
+        "id": "2030197",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2030197?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2030197",
+          "cv": "https://inspirehep.net/api/literature/2030197?format=cv",
+          "json": "https://inspirehep.net/api/literature/2030197?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2030197?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2030197?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2030197?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2202.04249"
+            }
+          ],
+          "control_number": 2030197,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.024032"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.024032"
+            }
+          ],
+          "earliest_date": "2022-02-08",
+          "preprint_date": "2022-02-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Efficient search method of anomalous reflection by the central object in an extreme mass-ratio inspiral system by future space gravitational wave detectors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Efficient search method of anomalous reflection by the central object in an EMRI system by future space gravitational wave detectors"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:52:45.180061+00:00"
+      },
+      {
+        "created": "2021-12-07T09:40:21.431542+00:00",
+        "id": "1985436",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1985436?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1985436",
+          "cv": "https://inspirehep.net/api/literature/1985436?format=cv",
+          "json": "https://inspirehep.net/api/literature/1985436?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1985436?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1985436?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1985436?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1985436,
+          "earliest_date": "2021-11",
+          "titles": [
+            {
+              "source": "Toronto U.",
+              "title": "Gravitational Wave Echoes: Theory and Application"
+            },
+            {
+              "source": "submitter",
+              "title": "Gravitational Wave Echoes: Theory and Application"
+            }
+          ]
+        },
+        "updated": "2026-03-22T08:19:43.234838+00:00"
+      },
+      {
+        "created": "2021-09-08T03:21:49.389450+00:00",
+        "id": "1918127",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1918127?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1918127",
+          "cv": "https://inspirehep.net/api/literature/1918127?format=cv",
+          "json": "https://inspirehep.net/api/literature/1918127?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1918127?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1918127?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1918127?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2109.02678"
+            }
+          ],
+          "control_number": 1918127,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s10714-022-02929-0"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s10714-022-02929-0"
+            }
+          ],
+          "earliest_date": "2021-09-06",
+          "preprint_date": "2021-09-06",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Stability of black holes with non-minimally coupled scalar hair to the Einstein tensor"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stability of black holes with non-minimally coupled scalar hair to the Einstein tensor"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stability of black holes with non-minimally coupled scalar hair"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:23:05.247443+00:00"
+      },
+      {
+        "created": "2021-08-04T03:45:00.384270+00:00",
+        "id": "1898376",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1898376?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1898376",
+          "cv": "https://inspirehep.net/api/literature/1898376?format=cv",
+          "json": "https://inspirehep.net/api/literature/1898376?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1898376?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1898376?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1898376?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "2108.01329"
+            }
+          ],
+          "control_number": 1898376,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.104006"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.104006"
+            }
+          ],
+          "earliest_date": "2021-08-03",
+          "preprint_date": "2021-08-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational radiation close to a black hole horizon: Waveform regularization and the out-going echo"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational radiation close to a black hole horizon: Waveform regularization and the out-going echo"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:00:01.988221+00:00"
+      },
+      {
+        "created": "2021-07-15T03:28:38.728285+00:00",
+        "id": "1883902",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1883902?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1883902",
+          "cv": "https://inspirehep.net/api/literature/1883902?format=cv",
+          "json": "https://inspirehep.net/api/literature/1883902?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1883902?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1883902?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1883902?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2107.06554"
+            }
+          ],
+          "control_number": 1883902,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.104021"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.104021"
+            }
+          ],
+          "earliest_date": "2021-07-14",
+          "preprint_date": "2021-07-14",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Echoes of novel black-bounce spacetimes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Echoes of novel black-bounce spacetimes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:54:36.630984+00:00"
+      },
+      {
+        "created": "2021-05-27T00:00:00+00:00",
+        "id": "1865649",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1865649?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1865649",
+          "cv": "https://inspirehep.net/api/literature/1865649?format=cv",
+          "json": "https://inspirehep.net/api/literature/1865649?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1865649?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1865649?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1865649?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2105.12313"
+            }
+          ],
+          "control_number": 1865649,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.104005"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.104005"
+            }
+          ],
+          "earliest_date": "2021-05-25",
+          "preprint_date": "2021-05-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational-wave echoes from spinning exotic compact objects: Numerical waveforms from the Teukolsky equation"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational-wave echoes from spinning exotic compact objects: numerical waveforms from the Teukolsky equation"
+            }
+          ]
+        },
+        "updated": "2024-11-05T04:25:37.992312+00:00"
+      },
+      {
+        "created": "2021-05-14T00:00:00+00:00",
+        "id": "1863190",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1863190?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1863190",
+          "cv": "https://inspirehep.net/api/literature/1863190?format=cv",
+          "json": "https://inspirehep.net/api/literature/1863190?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1863190?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1863190?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1863190?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2105.06410"
+            }
+          ],
+          "control_number": 1863190,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-981-15-4702-7_29-1"
+            }
+          ],
+          "earliest_date": "2021-05-13",
+          "preprint_date": "2021-05-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing the nature of dark compact objects with gravitational waves"
+            }
+          ]
+        },
+        "updated": "2026-03-14T06:12:06.404389+00:00"
+      },
+      {
+        "created": "2021-03-22T00:00:00+00:00",
+        "id": "1852715",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1852715?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1852715",
+          "cv": "https://inspirehep.net/api/literature/1852715?format=cv",
+          "json": "https://inspirehep.net/api/literature/1852715?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1852715?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1852715?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1852715?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1852715,
+          "dois": [
+            {
+              "source": "Groningen U.",
+              "value": "10.33612/diss.160948839"
+            }
+          ],
+          "earliest_date": "2021-03-05",
+          "titles": [
+            {
+              "source": "Groningen U.",
+              "title": "The Final State: the fate of relativistic compact objects after merger"
+            },
+            {
+              "source": "NIKHEF",
+              "title": "The fate of relativistic compact objects after merger"
+            }
+          ]
+        },
+        "updated": "2023-03-09T17:57:52.384276+00:00"
+      },
+      {
+        "created": "2021-02-02T00:00:00+00:00",
+        "id": "1844252",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1844252?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1844252",
+          "cv": "https://inspirehep.net/api/literature/1844252?format=cv",
+          "json": "https://inspirehep.net/api/literature/1844252?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1844252?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1844252?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1844252?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2102.00060"
+            }
+          ],
+          "control_number": 1844252,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s10714-021-02841-z"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s10714-021-02841-z"
+            }
+          ],
+          "earliest_date": "2021-01-29",
+          "preprint_date": "2021-01-29",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Modifications to the signal from a gravitational wave event due to a surrounding shell of matter"
+            },
+            {
+              "source": "arXiv",
+              "title": "Modifications to the signal from a gravitational wave event due to a surrounding shell of matter"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:49:05.708647+00:00"
+      },
+      {
+        "created": "2020-11-25T00:00:00+00:00",
+        "id": "1832663",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1832663?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1832663",
+          "cv": "https://inspirehep.net/api/literature/1832663?format=cv",
+          "json": "https://inspirehep.net/api/literature/1832663?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1832663?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1832663?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1832663?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2011.12122"
+            }
+          ],
+          "control_number": 1832663,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.103.064042"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.103.064042"
+            }
+          ],
+          "earliest_date": "2020-11-24",
+          "preprint_date": "2020-11-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Modeling gravitational waves from exotic compact objects"
+            }
+          ]
+        },
+        "updated": "2026-07-25T02:06:18.217025+00:00"
+      },
+      {
+        "created": "2020-10-29T00:00:00+00:00",
+        "id": "1826681",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1826681?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1826681",
+          "cv": "https://inspirehep.net/api/literature/1826681?format=cv",
+          "json": "https://inspirehep.net/api/literature/1826681?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1826681?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1826681?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1826681?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2010.14529"
+            }
+          ],
+          "control_number": 1826681,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.103.122002"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.103.122002"
+            }
+          ],
+          "earliest_date": "2020-10-27",
+          "preprint_date": "2020-10-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Tests of general relativity with binary black holes from the second LIGO-Virgo gravitational-wave transient catalog"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tests of General Relativity with Binary Black Holes from the second LIGO-Virgo Gravitational-Wave Transient Catalog"
+            }
+          ]
+        },
+        "updated": "2026-07-25T02:05:07.357052+00:00"
+      },
+      {
+        "created": "2020-10-16T00:00:00+00:00",
+        "id": "1822945",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1822945?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1822945",
+          "cv": "https://inspirehep.net/api/literature/1822945?format=cv",
+          "json": "https://inspirehep.net/api/literature/1822945?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1822945?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1822945?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1822945?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2010.07663"
+            }
+          ],
+          "control_number": 1822945,
+          "earliest_date": "2020-10-15",
+          "preprint_date": "2020-10-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Searching for gravitational wave echoes in GWTC-1 and O3 events"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:09:56.786078+00:00"
+      },
+      {
+        "created": "2021-03-06T00:00:00+00:00",
+        "id": "1850397",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1850397?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1850397",
+          "cv": "https://inspirehep.net/api/literature/1850397?format=cv",
+          "json": "https://inspirehep.net/api/literature/1850397?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1850397?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1850397?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1850397?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1850397,
+          "earliest_date": "2020-09-30",
+          "titles": [
+            {
+              "source": "U. Waterloo (main)",
+              "title": "Quantum Black Holes in the Sky"
+            }
+          ]
+        },
+        "updated": "2026-03-14T06:18:12.483177+00:00"
+      },
+      {
+        "created": "2020-06-11T00:00:00+00:00",
+        "id": "1800676",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1800676?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1800676",
+          "cv": "https://inspirehep.net/api/literature/1800676?format=cv",
+          "json": "https://inspirehep.net/api/literature/1800676?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1800676?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1800676?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1800676?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1800676,
+          "dois": [
+            {
+              "source": "U. Tubingen",
+              "value": "10.15496/publikation-42527"
+            }
+          ],
+          "earliest_date": "2020-06-03",
+          "titles": [
+            {
+              "source": "U. Tubingen",
+              "title": "On the Gravitational Wave Spectrum of Compact Relativistic Objects"
+            }
+          ]
+        },
+        "updated": "2026-07-18T09:20:04.189276+00:00"
+      },
+      {
+        "created": "2020-01-03T00:00:00+00:00",
+        "id": "1773846",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1773846?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1773846",
+          "cv": "https://inspirehep.net/api/literature/1773846?format=cv",
+          "json": "https://inspirehep.net/api/literature/1773846?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1773846?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1773846?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1773846?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2001.00041"
+            }
+          ],
+          "control_number": 1773846,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2020/05/051"
+            }
+          ],
+          "earliest_date": "2019-12-31",
+          "preprint_date": "2019-12-31",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Constraining Fundamental Physics with the Event Horizon Telescope"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:21:01.261619+00:00"
+      },
+      {
+        "created": "2019-12-17T00:00:00+00:00",
+        "id": "1770968",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1770968?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1770968",
+          "cv": "https://inspirehep.net/api/literature/1770968?format=cv",
+          "json": "https://inspirehep.net/api/literature/1770968?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1770968?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1770968?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1770968?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1912.07058"
+            }
+          ],
+          "control_number": 1770968,
+          "earliest_date": "2019-12-15",
+          "preprint_date": "2019-12-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Probing the Purely Ingoing Nature of the Black-hole Event Horizon"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraining the Temperature of Astrophysical Black Holes through Ringdown Detection: Results of GW150914 Remnant"
+            }
+          ]
+        },
+        "updated": "2023-03-07T04:29:20.889551+00:00"
+      },
+      {
+        "created": "2019-12-12T00:00:00+00:00",
+        "id": "1770176",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1770176?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1770176",
+          "cv": "https://inspirehep.net/api/literature/1770176?format=cv",
+          "json": "https://inspirehep.net/api/literature/1770176?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1770176?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1770176?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1770176?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1912.05315"
+            }
+          ],
+          "control_number": 1770176,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.064004"
+            }
+          ],
+          "earliest_date": "2019-12-11",
+          "preprint_date": "2019-12-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Echoes in brane worlds: ringing at a black hole--wormhole transition"
+            },
+            {
+              "source": "arXiv",
+              "title": "Echoes in brane worlds: ringing at a black hole-wormhole transition"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:01:31.936141+00:00"
+      },
+      {
+        "created": "2019-12-12T00:00:00+00:00",
+        "id": "1770184",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1770184?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1770184",
+          "cv": "https://inspirehep.net/api/literature/1770184?format=cv",
+          "json": "https://inspirehep.net/api/literature/1770184?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1770184?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1770184?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1770184?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1912.05419"
+            }
+          ],
+          "control_number": 1770184,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.101.084010"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.084010"
+            }
+          ],
+          "earliest_date": "2019-12-11",
+          "preprint_date": "2019-12-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Spicing up the recipe for echoes from exotic compact objects: orbital differences and corrections in rotating backgrounds"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:27:27.736579+00:00"
+      },
+      {
+        "created": "2019-08-02T00:00:00+00:00",
+        "id": "1747580",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1747580?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1747580",
+          "cv": "https://inspirehep.net/api/literature/1747580?format=cv",
+          "json": "https://inspirehep.net/api/literature/1747580?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1747580?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1747580?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1747580?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1908.00189"
+            }
+          ],
+          "control_number": 1747580,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.101.024045"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.024045"
+            }
+          ],
+          "earliest_date": "2019-07-31",
+          "preprint_date": "2019-07-31",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Fredholm approach to characterize gravitational wave echoes"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Fredhom Approach to Charactize Gravitational Wave Echoes"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Fredholm Approach to Charactize Gravitational Wave Echoes"
+            }
+          ]
+        },
+        "updated": "2025-01-15T19:52:19.112958+00:00"
+      },
+      {
+        "created": "2019-07-09T00:00:00+00:00",
+        "id": "1742789",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1742789?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1742789",
+          "cv": "https://inspirehep.net/api/literature/1742789?format=cv",
+          "json": "https://inspirehep.net/api/literature/1742789?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1742789?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1742789?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1742789?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1907.03091"
+            }
+          ],
+          "control_number": 1742789,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.100.064056"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.100.064056"
+            }
+          ],
+          "earliest_date": "2019-07-06",
+          "preprint_date": "2019-07-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Analytical model for gravitational-wave echoes from spinning remnants"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:12:41.785032+00:00"
+      },
+      {
+        "created": "2019-06-04T00:00:00+00:00",
+        "id": "1737781",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1737781?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1737781",
+          "cv": "https://inspirehep.net/api/literature/1737781?format=cv",
+          "json": "https://inspirehep.net/api/literature/1737781?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1737781?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1737781?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1737781?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1906.00838"
+            }
+          ],
+          "control_number": 1737781,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.100.062006"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.100.062006"
+            }
+          ],
+          "earliest_date": "2019-06-03",
+          "preprint_date": "2019-06-03",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Searching for black hole echoes from the LIGO-Virgo Catalog GWTC-1"
+            }
+          ]
+        },
+        "updated": "2024-01-09T07:39:18.528061+00:00"
+      },
+      {
+        "created": "2019-05-03T00:00:00+00:00",
+        "id": "1732961",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1732961?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1732961",
+          "cv": "https://inspirehep.net/api/literature/1732961?format=cv",
+          "json": "https://inspirehep.net/api/literature/1732961?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1732961?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1732961?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1732961?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1905.00446"
+            }
+          ],
+          "control_number": 1732961,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.101.024031"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.024031"
+            }
+          ],
+          "earliest_date": "2019-05-01",
+          "preprint_date": "2019-05-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Echoes from Quantum Black Holes"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:10:55.034509+00:00"
+      },
+      {
+        "created": "2020-01-24T00:00:00+00:00",
+        "id": "1776946",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1776946?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1776946",
+          "cv": "https://inspirehep.net/api/literature/1776946?format=cv",
+          "json": "https://inspirehep.net/api/literature/1776946?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1776946?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1776946?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1776946?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1776946,
+          "earliest_date": "2019-05-01",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "Cosmological and astrophysical observables from field theory in curved backgrounds"
+            }
+          ]
+        },
+        "updated": "2023-12-13T12:10:26.879776+00:00"
+      },
+      {
+        "created": "2019-04-12T00:00:00+00:00",
+        "id": "1729255",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1729255?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1729255",
+          "cv": "https://inspirehep.net/api/literature/1729255?format=cv",
+          "json": "https://inspirehep.net/api/literature/1729255?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1729255?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1729255?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1729255?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1904.05652"
+            }
+          ],
+          "control_number": 1729255,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.100.044023"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.100.044023"
+            }
+          ],
+          "earliest_date": "2019-04-11",
+          "preprint_date": "2019-04-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Mixing of gravitational wave echoes"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:57:26.871518+00:00"
+      },
+      {
+        "created": "2019-04-12T00:00:00+00:00",
+        "id": "1729256",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1729256?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1729256",
+          "cv": "https://inspirehep.net/api/literature/1729256?format=cv",
+          "json": "https://inspirehep.net/api/literature/1729256?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1729256?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1729256?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1729256?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "physics.space-ph"
+              ],
+              "value": "1904.05363"
+            }
+          ],
+          "control_number": 1729256,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/s41114-019-0020-4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-019-0020-4"
+            }
+          ],
+          "earliest_date": "2019-04-10",
+          "preprint_date": "2019-04-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing the nature of dark compact objects: a status report"
+            }
+          ]
+        },
+        "updated": "2025-07-18T18:57:34.871711+00:00"
+      },
+      {
+        "created": "2019-04-02T00:00:00+00:00",
+        "id": "1727573",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1727573?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1727573",
+          "cv": "https://inspirehep.net/api/literature/1727573?format=cv",
+          "json": "https://inspirehep.net/api/literature/1727573?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1727573?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1727573?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1727573?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "1904.00212"
+            }
+          ],
+          "control_number": 1727573,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjc/s10052-019-7234-1"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-019-7234-1"
+            }
+          ],
+          "earliest_date": "2019-03-30",
+          "preprint_date": "2019-03-30",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "On echo intervals in gravitational wave echo analysis"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:30:17.309520+00:00"
+      },
+      {
+        "created": "2019-01-23T00:00:00+00:00",
+        "id": "1716158",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1716158?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1716158",
+          "cv": "https://inspirehep.net/api/literature/1716158?format=cv",
+          "json": "https://inspirehep.net/api/literature/1716158?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1716158?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1716158?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1716158?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1901.06625"
+            }
+          ],
+          "control_number": 1716158,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/ab23c8"
+            }
+          ],
+          "earliest_date": "2019-01-20",
+          "preprint_date": "2019-01-20",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Echoes from the scattering of wavepackets on wormholes"
+            }
+          ]
+        },
+        "updated": "2025-05-18T07:31:18.545757+00:00"
+      },
+      {
+        "created": "2020-12-15T00:00:00+00:00",
+        "id": "1836577",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1836577?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1836577",
+          "cv": "https://inspirehep.net/api/literature/1836577?format=cv",
+          "json": "https://inspirehep.net/api/literature/1836577?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1836577?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1836577?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1836577?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1836577,
+          "dois": [
+            {
+              "source": "Caltech",
+              "value": "10.7907/YSDX-J506"
+            }
+          ],
+          "earliest_date": "2019-01-08",
+          "titles": [
+            {
+              "title": "Fundamental Physics Through Gravitational Waves: From No-Hair Theorem to Quantum Structures of Black Holes"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:05:22.256489+00:00"
+      },
+      {
+        "created": "2018-11-20T00:00:00+00:00",
+        "id": "1704168",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1704168?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1704168",
+          "cv": "https://inspirehep.net/api/literature/1704168?format=cv",
+          "json": "https://inspirehep.net/api/literature/1704168?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1704168?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1704168?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1704168?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1811.07431"
+            }
+          ],
+          "control_number": 1704168,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.99.084052"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.084052"
+            }
+          ],
+          "earliest_date": "2018-11-18",
+          "preprint_date": "2018-11-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Template-based Gravitational-Wave Echoes Search Using Bayesian Model Selection"
+            }
+          ]
+        },
+        "updated": "2024-06-19T03:07:34.282227+00:00"
+      },
+      {
+        "created": "2018-10-17T00:00:00+00:00",
+        "id": "1698925",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1698925?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1698925",
+          "cv": "https://inspirehep.net/api/literature/1698925?format=cv",
+          "json": "https://inspirehep.net/api/literature/1698925?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1698925?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1698925?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1698925?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph"
+              ],
+              "value": "1810.07137"
+            }
+          ],
+          "control_number": 1698925,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1475-7516/2019/04/011"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2019/04/011"
+            }
+          ],
+          "earliest_date": "2018-10-16",
+          "preprint_date": "2018-10-16",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "On gravitational echoes from ultracompact exotic stars"
+            }
+          ]
+        },
+        "updated": "2026-03-14T08:26:38.360039+00:00"
+      },
+      {
+        "created": "2018-10-03T00:00:00+00:00",
+        "id": "1696728",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1696728?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1696728",
+          "cv": "https://inspirehep.net/api/literature/1696728?format=cv",
+          "json": "https://inspirehep.net/api/literature/1696728?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1696728?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1696728?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1696728?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1810.01295"
+            }
+          ],
+          "control_number": 1696728,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.99.024007"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.024007"
+            }
+          ],
+          "earliest_date": "2018-10-02",
+          "preprint_date": "2018-10-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Echoes of compact objects: new physics near the surface and matter at a distance"
+            },
+            {
+              "source": "arXiv",
+              "title": "Echoes from dirty black holes: new physics near the event horizon or invisible matter at a distance"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:52:26.484969+00:00"
+      },
+      {
+        "created": "2018-09-25T00:00:00+00:00",
+        "id": "1695190",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1695190?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1695190",
+          "cv": "https://inspirehep.net/api/literature/1695190?format=cv",
+          "json": "https://inspirehep.net/api/literature/1695190?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1695190?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1695190?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1695190?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1809.08238"
+            }
+          ],
+          "control_number": 1695190,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.98.124009"
+            }
+          ],
+          "earliest_date": "2018-09-21",
+          "preprint_date": "2018-09-21",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Phenomenological aspects of black holes beyond general relativity"
+            }
+          ]
+        },
+        "updated": "2026-03-14T08:28:13.663416+00:00"
+      },
+      {
+        "created": "2018-08-22T00:00:00+00:00",
+        "id": "1689179",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1689179?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1689179",
+          "cv": "https://inspirehep.net/api/literature/1689179?format=cv",
+          "json": "https://inspirehep.net/api/literature/1689179?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1689179?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1689179?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1689179?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1808.06939"
+            }
+          ],
+          "control_number": 1689179,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1142/S0219887819501810"
+            }
+          ],
+          "earliest_date": "2018-08-20",
+          "preprint_date": "2018-08-20",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "A WKB formula for echoes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black holes, wormholes and compact stars in Spherically Symmetric Space-times"
+            },
+            {
+              "source": "arXiv",
+              "title": "On a WKB formula for echoes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:27:28.642876+00:00"
+      },
+      {
+        "created": "2025-07-03T17:33:29.012712+00:00",
+        "id": "2941903",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2941903?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2941903",
+          "cv": "https://inspirehep.net/api/literature/2941903?format=cv",
+          "json": "https://inspirehep.net/api/literature/2941903?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2941903?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2941903?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2941903?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2941903,
+          "dois": [
+            {
+              "source": "CHINA SCIENCE PUBLISHING & MEDIA LTD",
+              "value": "10.1360/SSPMA2018-00099"
+            }
+          ],
+          "earliest_date": "2018-08-07",
+          "titles": [
+            {
+              "source": "CHINA SCIENCE PUBLISHING & MEDIA LTD",
+              "title": "Using gravitational wave to test general relativity"
+            }
+          ]
+        },
+        "updated": "2025-11-13T08:45:20.077271+00:00"
+      },
+      {
+        "created": "2018-08-03T00:00:00+00:00",
+        "id": "1684829",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1684829?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1684829",
+          "cv": "https://inspirehep.net/api/literature/1684829?format=cv",
+          "json": "https://inspirehep.net/api/literature/1684829?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1684829?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1684829?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1684829?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1808.00847"
+            }
+          ],
+          "control_number": 1684829,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/JHEP09(2018)113"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/JHEP09(2018)113"
+            }
+          ],
+          "earliest_date": "2018-08-02",
+          "preprint_date": "2018-08-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Effective Field Theory of Black Hole Echoes"
+            }
+          ]
+        },
+        "updated": "2025-12-26T08:18:49.237810+00:00"
+      },
+      {
+        "created": "2018-06-26T00:00:00+00:00",
+        "id": "1679430",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1679430?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1679430",
+          "cv": "https://inspirehep.net/api/literature/1679430?format=cv",
+          "json": "https://inspirehep.net/api/literature/1679430?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1679430?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1679430?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1679430?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1806.09333"
+            }
+          ],
+          "control_number": 1679430,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.124041"
+            }
+          ],
+          "earliest_date": "2018-06-25",
+          "preprint_date": "2018-06-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Modification of photon trapping orbits as a diagnostic of non-Kerr spacetimes"
+            },
+            {
+              "source": "arXiv",
+              "title": "The absence of spherical photon orbits as a diagnostic of non-Kerr spacetimes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:24:11.625269+00:00"
+      },
+      {
+        "created": "2018-06-15T00:00:00+00:00",
+        "id": "1677928",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1677928?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1677928",
+          "cv": "https://inspirehep.net/api/literature/1677928?format=cv",
+          "json": "https://inspirehep.net/api/literature/1677928?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1677928?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1677928?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1677928?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1806.05195"
+            }
+          ],
+          "control_number": 1677928,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1361-6382/ab0587"
+            }
+          ],
+          "earliest_date": "2018-06-13",
+          "preprint_date": "2018-06-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black holes, gravitational waves and fundamental physics: a roadmap"
+            }
+          ]
+        },
+        "updated": "2026-07-29T19:32:05.459553+00:00"
+      },
+      {
+        "created": "2018-06-13T00:00:00+00:00",
+        "id": "1677533",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1677533?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1677533",
+          "cv": "https://inspirehep.net/api/literature/1677533?format=cv",
+          "json": "https://inspirehep.net/api/literature/1677533?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1677533?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1677533?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1677533?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "1806.04253"
+            }
+          ],
+          "control_number": 1677533,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.98.044018"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.98.044018"
+            }
+          ],
+          "earliest_date": "2018-06-11",
+          "preprint_date": "2018-06-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Analytical template for gravitational-wave echoes: signal characterization and prospects of detection with current and future interferometers"
+            },
+            {
+              "source": "APS",
+              "title": "Analytical template for gravitational-wave echoes: Signal characterization and prospects of detection with current and future interferometers"
+            },
+            {
+              "source": "arXiv",
+              "title": "An analytical template for gravitational-wave echoes: signal characterization and prospects of detection with current and future interferometers"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:00:58.928120+00:00"
+      },
+      {
+        "created": "2018-06-05T00:00:00+00:00",
+        "id": "1676249",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1676249?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1676249",
+          "cv": "https://inspirehep.net/api/literature/1676249?format=cv",
+          "json": "https://inspirehep.net/api/literature/1676249?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1676249?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1676249?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1676249?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1806.00568"
+            }
+          ],
+          "control_number": 1676249,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.97.124034"
+            },
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.97.124034"
+            }
+          ],
+          "earliest_date": "2018-06-01",
+          "preprint_date": "2018-06-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Compactness of neutron stars and Tolman VII solutions in scalar-tensor gravity"
+            }
+          ]
+        },
+        "updated": "2025-09-05T08:26:43.431337+00:00"
+      },
+      {
+        "created": "2018-05-15T00:00:00+00:00",
+        "id": "1672972",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1672972?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1672972",
+          "cv": "https://inspirehep.net/api/literature/1672972?format=cv",
+          "json": "https://inspirehep.net/api/literature/1672972?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1672972?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1672972?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1672972?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1805.04718"
+            }
+          ],
+          "control_number": 1672972,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.physletb.2018.07.025"
+            }
+          ],
+          "earliest_date": "2018-05-12",
+          "preprint_date": "2018-05-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "How to tell the shape of a wormhole by its quasinormal modes"
+            }
+          ]
+        },
+        "updated": "2026-03-14T08:35:19.131082+00:00"
+      },
+      {
+        "created": "2018-04-16T00:00:00+00:00",
+        "id": "1667712",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1667712?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1667712",
+          "cv": "https://inspirehep.net/api/literature/1667712?format=cv",
+          "json": "https://inspirehep.net/api/literature/1667712?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1667712?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1667712?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1667712?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1804.04877"
+            }
+          ],
+          "control_number": 1667712,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.98.024023"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.98.024023"
+            }
+          ],
+          "earliest_date": "2018-04-13",
+          "preprint_date": "2018-04-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "A morphology-independent data analysis method for detecting and characterizing gravitational wave echoes"
+            }
+          ]
+        },
+        "updated": "2023-03-07T04:16:27.163902+00:00"
+      },
+      {
+        "created": "2018-04-05T00:00:00+00:00",
+        "id": "1665869",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1665869?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1665869",
+          "cv": "https://inspirehep.net/api/literature/1665869?format=cv",
+          "json": "https://inspirehep.net/api/literature/1665869?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1665869?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1665869?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1665869?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "1804.01444"
+            }
+          ],
+          "control_number": 1665869,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/aacb8f"
+            },
+            {
+              "value": "10.1088/1361-6382/aacb8f"
+            }
+          ],
+          "earliest_date": "2018-04-04",
+          "preprint_date": "2018-04-04",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "On gravitational-wave echoes from neutron-star binary coalescences"
+            },
+            {
+              "source": "arXiv",
+              "title": "On gravitational-wave echoes from neutron-star binary coalescences"
+            },
+            {
+              "source": "arXiv",
+              "title": "Comment on gravitational-wave echoes from neutron-star binary coalescences"
+            }
+          ]
+        },
+        "updated": "2026-04-13T12:27:14.755327+00:00"
+      },
+      {
+        "created": "2018-03-30T00:00:00+00:00",
+        "id": "1665305",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1665305?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1665305",
+          "cv": "https://inspirehep.net/api/literature/1665305?format=cv",
+          "json": "https://inspirehep.net/api/literature/1665305?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1665305?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1665305?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1665305?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1803.10947"
+            }
+          ],
+          "control_number": 1665305,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevLett.121.051105"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevLett.121.051105"
+            }
+          ],
+          "earliest_date": "2018-03-29",
+          "preprint_date": "2018-03-29",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Searching for near-horizon quantum structures in the binary black-hole stochastic gravitational-wave background"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:30:27.521212+00:00"
+      },
+      {
+        "created": "2018-03-09T00:00:00+00:00",
+        "id": "1659146",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1659146?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1659146",
+          "cv": "https://inspirehep.net/api/literature/1659146?format=cv",
+          "json": "https://inspirehep.net/api/literature/1659146?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1659146?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1659146?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1659146?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1803.02845"
+            }
+          ],
+          "control_number": 1659146,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.97.124044"
+            }
+          ],
+          "earliest_date": "2018-03-07",
+          "preprint_date": "2018-03-07",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Black hole echology: The observer’s manual"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black Hole Echology: The Observer's Manual"
+            }
+          ]
+        },
+        "updated": "2023-12-07T16:58:21.666387+00:00"
+      },
+      {
+        "created": "2018-02-26T00:00:00+00:00",
+        "id": "1657205",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1657205?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1657205",
+          "cv": "https://inspirehep.net/api/literature/1657205?format=cv",
+          "json": "https://inspirehep.net/api/literature/1657205?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1657205?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1657205?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1657205?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1802.08525"
+            }
+          ],
+          "control_number": 1657205,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/aabce6"
+            },
+            {
+              "value": "10.1088/1361-6382/aabce6"
+            }
+          ],
+          "earliest_date": "2018-02-23",
+          "preprint_date": "2018-02-23",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Wormhole potentials and throats from quasi-normal modes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Wormhole Potentials and Throats from Quasi-Normal Modes"
+            }
+          ]
+        },
+        "updated": "2026-04-14T05:54:09.504007+00:00"
+      },
+      {
+        "created": "2018-02-23T00:00:00+00:00",
+        "id": "1656841",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1656841?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1656841",
+          "cv": "https://inspirehep.net/api/literature/1656841?format=cv",
+          "json": "https://inspirehep.net/api/literature/1656841?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1656841?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1656841?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1656841?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1802.07735"
+            }
+          ],
+          "control_number": 1656841,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.97.084030"
+            },
+            {
+              "value": "10.1103/PhysRevD.97.084030"
+            }
+          ],
+          "earliest_date": "2018-02-21",
+          "preprint_date": "2018-02-21",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Characterization of echoes: A Dyson-series representation of individual pulses"
+            },
+            {
+              "source": "arXiv",
+              "title": "Characterization of echoes: a Dyson-series representation of individual pulses"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:19:13.474897+00:00"
+      },
+      {
+        "created": "2018-02-27T00:00:00+00:00",
+        "id": "1657418",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1657418?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1657418",
+          "cv": "https://inspirehep.net/api/literature/1657418?format=cv",
+          "json": "https://inspirehep.net/api/literature/1657418?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1657418?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1657418?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1657418?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "quant-ph",
+                "gr-qc"
+              ],
+              "value": "1802.08684"
+            }
+          ],
+          "control_number": 1657418,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/2399-6528/aaaee2"
+            },
+            {
+              "value": "10.1088/2399-6528/aaaee2"
+            }
+          ],
+          "earliest_date": "2018-02-21",
+          "preprint_date": "2018-02-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Inverse spectrum problem for quasi-stationary states"
+            }
+          ]
+        },
+        "updated": "2025-10-21T08:23:28.104922+00:00"
+      },
+      {
+        "created": "2018-02-07T00:00:00+00:00",
+        "id": "1653482",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1653482?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1653482",
+          "cv": "https://inspirehep.net/api/literature/1653482?format=cv",
+          "json": "https://inspirehep.net/api/literature/1653482?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1653482?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1653482?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1653482?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1802.02003"
+            }
+          ],
+          "control_number": 1653482,
+          "dois": [
+            {
+              "value": "10.1140/epjc/s10052-018-5974-y"
+            }
+          ],
+          "earliest_date": "2018-02-06",
+          "preprint_date": "2018-02-06",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Are gravitational wave ringdown echoes always equal-interval?"
+            },
+            {
+              "source": "arXiv",
+              "title": "Are gravitational wave ringdown echoes always equal-interval ?"
+            }
+          ]
+        },
+        "updated": "2023-03-07T02:01:03.390681+00:00"
+      },
+      {
+        "created": "2017-12-19T00:00:00+00:00",
+        "id": "1643815",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1643815?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1643815",
+          "cv": "https://inspirehep.net/api/literature/1643815?format=cv",
+          "json": "https://inspirehep.net/api/literature/1643815?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1643815?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1643815?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1643815?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1712.06517"
+            }
+          ],
+          "control_number": 1643815,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.98.044021"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.98.044021"
+            }
+          ],
+          "earliest_date": "2017-12-18",
+          "preprint_date": "2017-12-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational wave echoes through new windows"
+            }
+          ]
+        },
+        "updated": "2023-03-07T04:02:19.082748+00:00"
+      },
+      {
+        "created": "2017-11-02T00:00:00+00:00",
+        "id": "1633741",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1633741?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1633741",
+          "cv": "https://inspirehep.net/api/literature/1633741?format=cv",
+          "json": "https://inspirehep.net/api/literature/1633741?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1633741?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1633741?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1633741?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1711.00391"
+            }
+          ],
+          "control_number": 1633741,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.97.024040"
+            }
+          ],
+          "earliest_date": "2017-11-01",
+          "preprint_date": "2017-11-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Echoes of Kerr-like wormholes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:25:07.899894+00:00"
+      },
+      {
+        "created": "2017-10-06T00:00:00+00:00",
+        "id": "1628804",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1628804?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1628804",
+          "cv": "https://inspirehep.net/api/literature/1628804?format=cv",
+          "json": "https://inspirehep.net/api/literature/1628804?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1628804?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1628804?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1628804?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1710.02136"
+            }
+          ],
+          "control_number": 1628804,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.97.041502"
+            }
+          ],
+          "earliest_date": "2017-10-05",
+          "preprint_date": "2017-10-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "How well can ultracompact bodies imitate black hole ringdowns?"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:14:49.028572+00:00"
+      },
+      {
+        "created": "2017-06-20T00:00:00+00:00",
+        "id": "1605706",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1605706?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1605706",
+          "cv": "https://inspirehep.net/api/literature/1605706?format=cv",
+          "json": "https://inspirehep.net/api/literature/1605706?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1605706?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1605706?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1605706?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1706.05379"
+            }
+          ],
+          "control_number": 1605706,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevLett.120.061102"
+            }
+          ],
+          "earliest_date": "2017-06-16",
+          "preprint_date": "2017-06-16",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Stellar equilibrium in semiclassical gravity"
+            }
+          ]
+        },
+        "updated": "2025-08-20T08:15:15.657950+00:00"
+      },
+      {
+        "created": "2017-04-26T00:00:00+00:00",
+        "id": "1594894",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1594894?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1594894",
+          "cv": "https://inspirehep.net/api/literature/1594894?format=cv",
+          "json": "https://inspirehep.net/api/literature/1594894?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1594894?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1594894?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1594894?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1704.07517"
+            }
+          ],
+          "control_number": 1594894,
+          "dois": [
+            {
+              "value": "10.1088/1361-6382/aa82de"
+            }
+          ],
+          "earliest_date": "2017-04-24",
+          "preprint_date": "2017-04-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Ultra Compact Stars: Reconstructing the Perturbation Potential"
+            }
+          ]
+        },
+        "updated": "2025-10-09T08:16:07.038901+00:00"
+      },
+      {
+        "created": "2017-04-03T00:00:00+00:00",
+        "id": "1520839",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1520839?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1520839",
+          "cv": "https://inspirehep.net/api/literature/1520839?format=cv",
+          "json": "https://inspirehep.net/api/literature/1520839?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1520839?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1520839?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1520839?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1703.10612"
+            }
+          ],
+          "control_number": 1520839,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevLett.120.081101"
+            }
+          ],
+          "earliest_date": "2017-03-30",
+          "preprint_date": "2017-03-30",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Probing Planckian corrections at the horizon scale with LISA binaries"
+            }
+          ]
+        },
+        "updated": "2024-11-28T13:11:12.163267+00:00"
+      },
+      {
+        "created": "2016-12-02T00:00:00+00:00",
+        "id": "1501224",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1501224?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1501224",
+          "cv": "https://inspirehep.net/api/literature/1501224?format=cv",
+          "json": "https://inspirehep.net/api/literature/1501224?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1501224?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1501224?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1501224?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1612.00266"
+            }
+          ],
+          "control_number": 1501224,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.96.082004"
+            }
+          ],
+          "earliest_date": "2016-12-01",
+          "preprint_date": "2016-12-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons"
+            },
+            {
+              "source": "arXiv",
+              "title": "Echoes from the Abyss: Evidence for Planck-scale structure at black hole horizons"
+            }
+          ]
+        },
+        "updated": "2023-12-07T16:43:22.847484+00:00"
+      },
+      {
+        "created": "2001-09-12T00:00:00+00:00",
+        "id": "562616",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/562616?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A562616",
+          "cv": "https://inspirehep.net/api/literature/562616?format=cv",
+          "json": "https://inspirehep.net/api/literature/562616?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/562616?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/562616?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/562616?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph",
+                "hep-th"
+              ],
+              "value": "gr-qc/0109035"
+            }
+          ],
+          "control_number": 562616,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/universe9020088"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3390/universe9020088"
+            }
+          ],
+          "earliest_date": "2001-09",
+          "preprint_date": "2001-09",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "Gravitational Condensate Stars: An Alternative to Black Holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational Condensate Stars: An Alternative to Black Holes"
+            },
+            {
+              "title": "Gravitational condensate stars: An alternative to black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational condensate stars."
+            }
+          ]
+        },
+        "updated": "2025-09-11T16:54:27.810455+00:00"
+      }
+    ],
+    "total": 99
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1614635&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1614635&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1614635&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1614635&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1614635&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1614635&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1614635&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

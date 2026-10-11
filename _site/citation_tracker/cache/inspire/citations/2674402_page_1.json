@@ -1,0 +1,430 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-03-18T04:21:18.396265+00:00",
+        "id": "3130246",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3130246?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3130246",
+          "cv": "https://inspirehep.net/api/literature/3130246?format=cv",
+          "json": "https://inspirehep.net/api/literature/3130246?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3130246?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3130246?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3130246?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "gr-qc"
+              ],
+              "value": "2603.15740"
+            }
+          ],
+          "control_number": 3130246,
+          "earliest_date": "2026-03-16",
+          "preprint_date": "2026-03-16",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Hankel low-rank matrix approximation for gravitational-wave data analysis"
+            }
+          ]
+        },
+        "updated": "2026-03-19T04:09:06.951152+00:00"
+      },
+      {
+        "created": "2025-11-12T04:19:47.540867+00:00",
+        "id": "3081766",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3081766?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3081766",
+          "cv": "https://inspirehep.net/api/literature/3081766?format=cv",
+          "json": "https://inspirehep.net/api/literature/3081766?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3081766?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3081766?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3081766?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE"
+              ],
+              "value": "2511.07520"
+            }
+          ],
+          "control_number": 3081766,
+          "earliest_date": "2025-11-10",
+          "preprint_date": "2025-11-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tests of General Relativity with Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2026-01-30T07:04:52.372841+00:00"
+      },
+      {
+        "created": "2025-09-19T04:13:59.855182+00:00",
+        "id": "2971061",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2971061?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2971061",
+          "cv": "https://inspirehep.net/api/literature/2971061?format=cv",
+          "json": "https://inspirehep.net/api/literature/2971061?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2971061?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2971061?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2971061?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "astro-ph.IM"
+              ],
+              "value": "2509.15014"
+            }
+          ],
+          "control_number": 2971061,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/zkb6-klyh"
+            }
+          ],
+          "earliest_date": "2025-09-18",
+          "preprint_date": "2025-09-18",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Importance of shot noise in the search for an isotropic stochastic gravitational-wave background with next generation detectors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Importance of Shot Noise in the Search for an Isotropic Stochastic Gravitational-Wave Background with Next Generation Detectors"
+            }
+          ]
+        },
+        "updated": "2026-02-19T15:32:04.064115+00:00"
+      },
+      {
+        "created": "2025-02-07T04:22:17.539693+00:00",
+        "id": "2877109",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2877109?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2877109",
+          "cv": "https://inspirehep.net/api/literature/2877109?format=cv",
+          "json": "https://inspirehep.net/api/literature/2877109?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2877109?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2877109?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2877109?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.IM"
+              ],
+              "value": "2502.03831"
+            }
+          ],
+          "control_number": 2877109,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/kybh-44xf"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/kybh-44xf"
+            }
+          ],
+          "earliest_date": "2025-02-06",
+          "preprint_date": "2025-02-06",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Optimizing Bayesian model selection for equation of state of cold neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Optimizing Bayesian model selection for equation of state of cold neutron stars"
+            }
+          ]
+        },
+        "updated": "2026-03-11T15:32:42.320915+00:00"
+      },
+      {
+        "created": "2024-06-18T03:56:06.267572+00:00",
+        "id": "2799311",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2799311?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2799311",
+          "cv": "https://inspirehep.net/api/literature/2799311?format=cv",
+          "json": "https://inspirehep.net/api/literature/2799311?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2799311?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2799311?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2799311?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2406.10757"
+            }
+          ],
+          "control_number": 2799311,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.064047"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.110.064047"
+            }
+          ],
+          "earliest_date": "2024-06-15",
+          "preprint_date": "2024-06-15",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Searching for cosmological stochastic backgrounds by notching out resolvable compact binary foregrounds with next-generation gravitational-wave detectors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Searching for cosmological stochastic backgrounds by notching out resolvable compact binary foregrounds with next-generation gravitational-wave detectors"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:29.915552+00:00"
+      },
+      {
+        "created": "2024-06-17T03:41:57.243349+00:00",
+        "id": "2798454",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2798454?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2798454",
+          "cv": "https://inspirehep.net/api/literature/2798454?format=cv",
+          "json": "https://inspirehep.net/api/literature/2798454?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2798454?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2798454?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2798454?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.CO",
+                "gr-qc"
+              ],
+              "value": "2406.10048"
+            }
+          ],
+          "control_number": 2798454,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.083527"
+            }
+          ],
+          "earliest_date": "2024-06-14",
+          "preprint_date": "2024-06-14",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Impact of a primordial gravitational wave background on LISA resolvable sources"
+            },
+            {
+              "source": "arXiv",
+              "title": "The impact of a primordial gravitational wave background on LISA resolvable sources"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:24:15.195027+00:00"
+      },
+      {
+        "created": "2024-06-05T04:30:38.739465+00:00",
+        "id": "2794582",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2794582?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2794582",
+          "cv": "https://inspirehep.net/api/literature/2794582?format=cv",
+          "json": "https://inspirehep.net/api/literature/2794582?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2794582?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2794582?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2794582?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2406.01687"
+            }
+          ],
+          "control_number": 2794582,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.103002"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.110.103002"
+            }
+          ],
+          "earliest_date": "2024-06-03",
+          "preprint_date": "2024-06-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Intermediate-mass black hole binary parameter estimation with next-generation ground-based detector networks"
+            },
+            {
+              "source": "arXiv",
+              "title": "Intermediate-mass black hole binary parameter estimation with next-generation ground-based detector networks"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:43.000309+00:00"
+      },
+      {
+        "created": "2024-05-06T03:40:44.345748+00:00",
+        "id": "2783272",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2783272?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2783272",
+          "cv": "https://inspirehep.net/api/literature/2783272?format=cv",
+          "json": "https://inspirehep.net/api/literature/2783272?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2783272?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2783272?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2783272?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2405.02197"
+            }
+          ],
+          "control_number": 2783272,
+          "dois": [
+            {
+              "source": "SciPost Fundation",
+              "value": "10.21468/SciPostPhysCommRep.5"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.21468/SciPostPhysCommRep.5"
+            }
+          ],
+          "earliest_date": "2024-05-03",
+          "preprint_date": "2024-05-03",
+          "titles": [
+            {
+              "source": "SciPost Fundation",
+              "title": "Possible causes of false general relativity violations in gravitational wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Possible Causes of False General Relativity Violations in Gravitational Wave Observations"
+            }
+          ]
+        },
+        "updated": "2026-04-06T13:30:55.664130+00:00"
+      },
+      {
+        "created": "2024-02-13T03:43:37.798125+00:00",
+        "id": "2757564",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2757564?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2757564",
+          "cv": "https://inspirehep.net/api/literature/2757564?format=cv",
+          "json": "https://inspirehep.net/api/literature/2757564?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2757564?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2757564?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2757564?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.IM"
+              ],
+              "value": "2402.06836"
+            }
+          ],
+          "control_number": 2757564,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.084015"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.109.084015"
+            }
+          ],
+          "earliest_date": "2024-02-09",
+          "preprint_date": "2024-02-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Source confusion from neutron star binaries in ground-based gravitational wave detectors is minimal"
+            },
+            {
+              "source": "arXiv",
+              "title": "Source Confusion from Neutron Star Binaries in Ground-Based Gravitational Wave Detectors is Minimal"
+            }
+          ]
+        },
+        "updated": "2025-01-22T01:59:53.091776+00:00"
+      }
+    ],
+    "total": 9
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2674402&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2674402&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2674402&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2674402&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2674402&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2674402&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2674402&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

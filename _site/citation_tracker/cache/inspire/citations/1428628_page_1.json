@@ -1,0 +1,4180 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-05-14T04:19:06.849365+00:00",
+        "id": "3155212",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3155212?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3155212",
+          "cv": "https://inspirehep.net/api/literature/3155212?format=cv",
+          "json": "https://inspirehep.net/api/literature/3155212?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3155212?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3155212?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3155212?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2605.13732"
+            }
+          ],
+          "control_number": 3155212,
+          "earliest_date": "2026-05-13",
+          "preprint_date": "2026-05-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Cosmological perturbations in the theory of gravity with non-minimal derivative coupling. I. Modes of perturbations"
+            }
+          ]
+        },
+        "updated": "2026-08-05T04:07:48.518103+00:00"
+      },
+      {
+        "created": "2025-07-04T04:17:08.283372+00:00",
+        "id": "2942030",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2942030?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2942030",
+          "cv": "https://inspirehep.net/api/literature/2942030?format=cv",
+          "json": "https://inspirehep.net/api/literature/2942030?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2942030?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2942030?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2942030?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2507.02749"
+            }
+          ],
+          "control_number": 2942030,
+          "earliest_date": "2025-07-03",
+          "preprint_date": "2025-07-03",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Neutron stars in degenerate higher-order scalar-tensor theories: Axial perturbations"
+            }
+          ]
+        },
+        "updated": "2025-07-09T08:49:48.755924+00:00"
+      },
+      {
+        "created": "2025-05-30T04:18:38.660189+00:00",
+        "id": "2926525",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2926525?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2926525",
+          "cv": "https://inspirehep.net/api/literature/2926525?format=cv",
+          "json": "https://inspirehep.net/api/literature/2926525?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2926525?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2926525?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2926525?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2505.23712"
+            }
+          ],
+          "control_number": 2926525,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/qgc2-bkjs"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/qgc2-bkjs"
+            }
+          ],
+          "earliest_date": "2025-05-29",
+          "preprint_date": "2025-05-29",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Neutron stars in causal scalar-tensor theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Neutron Stars in Causal Scalar-Tensor Theories"
+            }
+          ]
+        },
+        "updated": "2025-09-13T04:04:10.161773+00:00"
+      },
+      {
+        "created": "2025-05-07T04:24:19.037195+00:00",
+        "id": "2918633",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2918633?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2918633",
+          "cv": "https://inspirehep.net/api/literature/2918633?format=cv",
+          "json": "https://inspirehep.net/api/literature/2918633?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2918633?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2918633?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2918633?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2505.03527"
+            }
+          ],
+          "control_number": 2918633,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/9vn7-z6qy"
+            }
+          ],
+          "earliest_date": "2025-05-06",
+          "preprint_date": "2025-05-06",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Slowly rotating neutron stars in aether scalar-tensor theory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Slowly Rotating Neutron Stars in Aether Scalar-Tensor Theory"
+            }
+          ]
+        },
+        "updated": "2026-06-24T19:21:12.471791+00:00"
+      },
+      {
+        "created": "2025-04-08T04:20:52.366830+00:00",
+        "id": "2908654",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2908654?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2908654",
+          "cv": "https://inspirehep.net/api/literature/2908654?format=cv",
+          "json": "https://inspirehep.net/api/literature/2908654?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2908654?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2908654?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2908654?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2504.03917"
+            }
+          ],
+          "control_number": 2908654,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/sym17060910"
+            }
+          ],
+          "earliest_date": "2025-04-04",
+          "preprint_date": "2025-04-04",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "Neutron Stars in the Theory of Gravity with Non-Minimal Derivative Coupling and Realistic Equations of State"
+            },
+            {
+              "source": "arXiv",
+              "title": "Neutron stars in the theory of gravity with nonminimal derivative coupling and realistic equations of state"
+            }
+          ]
+        },
+        "updated": "2025-07-16T04:45:56.637291+00:00"
+      },
+      {
+        "created": "2025-03-10T13:51:33.367123+00:00",
+        "id": "2898228",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2898228?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2898228",
+          "cv": "https://inspirehep.net/api/literature/2898228?format=cv",
+          "json": "https://inspirehep.net/api/literature/2898228?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2898228?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2898228?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2898228?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2898228,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-024-00054-9"
+            }
+          ],
+          "earliest_date": "2025-03-03",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Gravitational-wave tests of general relativity with ground-based detectors and pulsar-timing arrays"
+            }
+          ]
+        },
+        "updated": "2025-06-10T13:23:54.767357+00:00"
+      },
+      {
+        "created": "2025-02-11T04:24:54.950066+00:00",
+        "id": "2878335",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2878335?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2878335",
+          "cv": "https://inspirehep.net/api/literature/2878335?format=cv",
+          "json": "https://inspirehep.net/api/literature/2878335?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2878335?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2878335?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2878335?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2502.05786"
+            }
+          ],
+          "control_number": 2878335,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.083554"
+            }
+          ],
+          "earliest_date": "2025-02-09",
+          "preprint_date": "2025-02-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Singular bounce in the theory of gravity with nonminimal derivative coupling"
+            },
+            {
+              "source": "arXiv",
+              "title": "A `singular' bounce in the theory of gravity with non-minimal derivative coupling"
+            }
+          ]
+        },
+        "updated": "2025-05-01T15:31:19.589049+00:00"
+      },
+      {
+        "created": "2024-11-06T04:24:03.860586+00:00",
+        "id": "2845619",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2845619?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2845619",
+          "cv": "https://inspirehep.net/api/literature/2845619?format=cv",
+          "json": "https://inspirehep.net/api/literature/2845619?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2845619?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2845619?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2845619?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2411.02987"
+            }
+          ],
+          "control_number": 2845619,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.024059"
+            }
+          ],
+          "earliest_date": "2024-11-05",
+          "preprint_date": "2024-11-05",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Absorption and scattering of charged scalar waves by charged Horndeski black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Absorption and scattering of charged scalar waves by charged Horndeski black hole"
+            }
+          ]
+        },
+        "updated": "2025-05-28T09:44:07.953571+00:00"
+      },
+      {
+        "created": "2024-08-27T14:57:36.813429+00:00",
+        "id": "2821992",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2821992?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2821992",
+          "cv": "https://inspirehep.net/api/literature/2821992?format=cv",
+          "json": "https://inspirehep.net/api/literature/2821992?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2821992?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2821992?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2821992?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2821992,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.dark.2024.101622"
+            },
+            {
+              "value": "10.1016/j.dark.2024.101622"
+            }
+          ],
+          "earliest_date": "2024-08-24",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Exploring the physical properties of anisotropic compact objects and constraining their mass–radius relations beyond standard limit in <math altimg=\"si25.svg\" display=\"inline\" id=\"d1e6501\"><mrow><mi mathvariant=\"script\">F</mi><mrow><mo>(</mo><mi>Q</mi><mo>)</mo></mrow></mrow></math>-gravity"
+            },
+            {
+              "source": "submitter",
+              "title": "Exploring the physical properties of anisotropic compact objects and constraining their mass–radius relations beyond standard limit in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e6500\" altimg=\"si25.svg\"><mml:mrow><mml:mi mathvariant=\"script\">F</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>Q</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math>-gravity"
+            }
+          ]
+        },
+        "updated": "2025-06-18T17:45:08.898641+00:00"
+      },
+      {
+        "created": "2024-08-13T04:25:42.344755+00:00",
+        "id": "2817308",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2817308?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2817308",
+          "cv": "https://inspirehep.net/api/literature/2817308?format=cv",
+          "json": "https://inspirehep.net/api/literature/2817308?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2817308?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2817308?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2817308?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2408.05240"
+            }
+          ],
+          "control_number": 2817308,
+          "earliest_date": "2024-08-05",
+          "preprint_date": "2024-08-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational-Wave Tests of General Relativity with Ground-Based Detectors and Pulsar-Timing Arrays"
+            }
+          ]
+        },
+        "updated": "2025-06-10T13:11:38.485037+00:00"
+      },
+      {
+        "created": "2024-07-08T04:14:29.267733+00:00",
+        "id": "2804830",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2804830?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2804830",
+          "cv": "https://inspirehep.net/api/literature/2804830?format=cv",
+          "json": "https://inspirehep.net/api/literature/2804830?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2804830?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2804830?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2804830?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2407.03683"
+            }
+          ],
+          "control_number": 2804830,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/05/018"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/05/018"
+            }
+          ],
+          "earliest_date": "2024-07-04",
+          "preprint_date": "2024-07-04",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Exact cosmological solutions with magnetic field in the theory of gravity with non-minimal kinetic coupling"
+            },
+            {
+              "source": "arXiv",
+              "title": "Exact cosmological solutions with magnetic field in the theory of gravity with non-minimal kinetic coupling"
+            }
+          ]
+        },
+        "updated": "2025-05-14T04:18:43.808980+00:00"
+      },
+      {
+        "created": "2024-04-01T03:39:47.610883+00:00",
+        "id": "2772623",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2772623?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2772623",
+          "cv": "https://inspirehep.net/api/literature/2772623?format=cv",
+          "json": "https://inspirehep.net/api/literature/2772623?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2772623?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2772623?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2772623?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2403.20011"
+            }
+          ],
+          "control_number": 2772623,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2024/09/048"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2024/09/048"
+            }
+          ],
+          "earliest_date": "2024-03-29",
+          "preprint_date": "2024-03-29",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Influence of pressure anisotropy on mass-radius relation and stability of millisecond pulsars in f(Q) gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Influence of pressure anisotropy and non-metricity parameter on mass-radius relation and stability of millisecond pulsar in $f(Q)$ gravity"
+            }
+          ]
+        },
+        "updated": "2025-08-28T22:14:53.566520+00:00"
+      },
+      {
+        "created": "2024-03-29T03:48:14.344244+00:00",
+        "id": "2772394",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2772394?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2772394",
+          "cv": "https://inspirehep.net/api/literature/2772394?format=cv",
+          "json": "https://inspirehep.net/api/literature/2772394?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2772394?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2772394?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2772394?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2403.19450"
+            }
+          ],
+          "control_number": 2772394,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.dark.2025.101919"
+            }
+          ],
+          "earliest_date": "2024-03-28",
+          "preprint_date": "2024-03-28",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Observational constraints on the maximum masses of white dwarfs, neutron stars, and exotic stars in non-minimal derivative coupling gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Observational Constraints on the Maximum Masses of White Dwarfs, Neutron Stars, and Exotic Stars in Non-Minimal Derivative Coupling Gravity"
+            }
+          ]
+        },
+        "updated": "2026-01-19T19:28:12.811074+00:00"
+      },
+      {
+        "created": "2025-04-10T14:20:47.628196+00:00",
+        "id": "2910371",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2910371?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2910371",
+          "cv": "https://inspirehep.net/api/literature/2910371?format=cv",
+          "json": "https://inspirehep.net/api/literature/2910371?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2910371?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2910371?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2910371?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2910371,
+          "earliest_date": "2024",
+          "titles": [
+            {
+              "source": "U. Malta",
+              "title": "Cosmological predictions of physics beyond general relativity"
+            },
+            {
+              "source": "submitter",
+              "title": "Cosmological predictions of physics beyond general relativity"
+            }
+          ]
+        },
+        "updated": "2026-03-23T12:12:39.078843+00:00"
+      },
+      {
+        "created": "2023-07-07T02:58:29.765407+00:00",
+        "id": "2674822",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2674822?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2674822",
+          "cv": "https://inspirehep.net/api/literature/2674822?format=cv",
+          "json": "https://inspirehep.net/api/literature/2674822?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2674822?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2674822?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2674822?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "2307.03019"
+            }
+          ],
+          "control_number": 2674822,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-023-11769-4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-023-11769-4"
+            }
+          ],
+          "earliest_date": "2023-07-06",
+          "preprint_date": "2023-07-06",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Quasiperiodic oscillations around hairy black holes in Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasiperiodic oscillations around hairy black holes in Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2024-12-10T19:49:50.124839+00:00"
+      },
+      {
+        "created": "2023-06-02T02:53:56.259511+00:00",
+        "id": "2664607",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2664607?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2664607",
+          "cv": "https://inspirehep.net/api/literature/2664607?format=cv",
+          "json": "https://inspirehep.net/api/literature/2664607?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2664607?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2664607?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2664607?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2306.00611"
+            }
+          ],
+          "control_number": 2664607,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.044028"
+            }
+          ],
+          "earliest_date": "2023-06-01",
+          "preprint_date": "2023-06-01",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Cosmological models with arbitrary spatial curvature in the theory of gravity with nonminimal derivative coupling"
+            },
+            {
+              "source": "arXiv",
+              "title": "Cosmological models with arbitrary spatial curvature in the theory of gravity with non-minimal derivative coupling"
+            }
+          ]
+        },
+        "updated": "2023-08-16T15:32:55.006092+00:00"
+      },
+      {
+        "created": "2023-05-30T02:56:11.032798+00:00",
+        "id": "2663313",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2663313?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2663313",
+          "cv": "https://inspirehep.net/api/literature/2663313?format=cv",
+          "json": "https://inspirehep.net/api/literature/2663313?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2663313?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2663313?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2663313?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2305.17237"
+            }
+          ],
+          "control_number": 2663313,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-023-11755-w"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-023-11755-w"
+            }
+          ],
+          "earliest_date": "2023-05-26",
+          "preprint_date": "2023-05-26",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Asymptotically locally flat and AdS higher-dimensional black holes of Einstein–Horndeski–Maxwell gravity in the light of EHT observations: shadow behavior and deflection angle"
+            },
+            {
+              "source": "arXiv",
+              "title": "Asymptotically locally flat and AdS higher-dimensional black holes of Einstein-Horndeski-Maxwell gravity in the light of EHT observations: shadow behavior and deflection angle"
+            }
+          ]
+        },
+        "updated": "2024-10-01T16:07:25.933585+00:00"
+      },
+      {
+        "created": "2022-12-27T04:31:09.115460+00:00",
+        "id": "2618292",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2618292?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2618292",
+          "cv": "https://inspirehep.net/api/literature/2618292?format=cv",
+          "json": "https://inspirehep.net/api/literature/2618292?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2618292?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2618292?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2618292?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2212.13051"
+            }
+          ],
+          "control_number": 2618292,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.084052"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.107.084052"
+            }
+          ],
+          "earliest_date": "2022-12-26",
+          "preprint_date": "2022-12-26",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Superradiant energy extraction from rotating hairy Horndeski black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Superradiant energy extraction from rotating hairy Horndeski black holes"
+            }
+          ]
+        },
+        "updated": "2025-07-11T18:53:15.258897+00:00"
+      },
+      {
+        "created": "2022-12-13T03:35:23.940875+00:00",
+        "id": "2613287",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2613287?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2613287",
+          "cv": "https://inspirehep.net/api/literature/2613287?format=cv",
+          "json": "https://inspirehep.net/api/literature/2613287?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2613287?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2613287?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2613287?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.GA"
+              ],
+              "value": "2212.05082"
+            }
+          ],
+          "control_number": 2613287,
+          "dois": [
+            {
+              "source": "Oxford University Press",
+              "value": "10.1093/mnras/stac3648"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1093/mnras/stac3648"
+            }
+          ],
+          "earliest_date": "2022-12-09",
+          "preprint_date": "2022-12-09",
+          "titles": [
+            {
+              "source": "Oxford University Press",
+              "title": "Testing horndeski gravity with S2 star orbit"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing Horndeski gravity with S2 star orbit"
+            }
+          ]
+        },
+        "updated": "2026-01-29T17:05:29.948699+00:00"
+      },
+      {
+        "created": "2022-09-29T03:18:38.947369+00:00",
+        "id": "2157973",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2157973?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2157973",
+          "cv": "https://inspirehep.net/api/literature/2157973?format=cv",
+          "json": "https://inspirehep.net/api/literature/2157973?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2157973?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2157973?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2157973?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2209.13749"
+            }
+          ],
+          "control_number": 2157973,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.044003"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.107.044003"
+            }
+          ],
+          "earliest_date": "2022-09-27",
+          "preprint_date": "2022-09-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Inspiral gravitational waveforms from compact binary systems in Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Inspiral gravitational waveforms from compact binary systems in Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2025-02-18T09:25:20.906013+00:00"
+      },
+      {
+        "created": "2022-07-21T06:58:10.974697+00:00",
+        "id": "2120216",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2120216?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2120216",
+          "cv": "https://inspirehep.net/api/literature/2120216?format=cv",
+          "json": "https://inspirehep.net/api/literature/2120216?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2120216?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2120216?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2120216?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2120216,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjp/s13360-022-03036-4"
+            }
+          ],
+          "earliest_date": "2022-07-18",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Remnants and thermal corrections in Horndeski black holes with non-minimal kinetic coupling"
+            }
+          ]
+        },
+        "updated": "2025-05-28T09:40:32.088368+00:00"
+      },
+      {
+        "created": "2022-07-12T03:08:36.230754+00:00",
+        "id": "2109071",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2109071?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2109071",
+          "cv": "https://inspirehep.net/api/literature/2109071?format=cv",
+          "json": "https://inspirehep.net/api/literature/2109071?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2109071?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2109071?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2109071?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2207.04461"
+            }
+          ],
+          "control_number": 2109071,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.064008"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.064008"
+            }
+          ],
+          "earliest_date": "2022-07-10",
+          "preprint_date": "2022-07-10",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Stability of neutron stars in Horndeski theories with Gauss-Bonnet couplings"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stability of neutron stars in Horndeski theories with Gauss-Bonnet couplings"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:56:07.329173+00:00"
+      },
+      {
+        "created": "2022-05-19T09:21:17.244466+00:00",
+        "id": "2083983",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2083983?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2083983",
+          "cv": "https://inspirehep.net/api/literature/2083983?format=cv",
+          "json": "https://inspirehep.net/api/literature/2083983?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2083983?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2083983?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2083983?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2205.08949"
+            }
+          ],
+          "control_number": 2083983,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2023/01/005"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2023/01/005"
+            }
+          ],
+          "earliest_date": "2022-05-18",
+          "preprint_date": "2022-05-18",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Anti-de Sitter neutron stars in the theory of gravity with nonminimal derivative coupling"
+            },
+            {
+              "source": "arXiv",
+              "title": "Anti-de Sitter neutron stars in the theory of gravity with nonminimal derivative coupling"
+            }
+          ]
+        },
+        "updated": "2024-10-01T16:21:52.251744+00:00"
+      },
+      {
+        "created": "2021-11-09T03:07:41.619036+00:00",
+        "id": "1963432",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1963432?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1963432",
+          "cv": "https://inspirehep.net/api/literature/1963432?format=cv",
+          "json": "https://inspirehep.net/api/literature/1963432?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1963432?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1963432?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1963432?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2111.03924"
+            }
+          ],
+          "control_number": 1963432,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-022-10358-1"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-022-10358-1"
+            }
+          ],
+          "earliest_date": "2021-11-06",
+          "preprint_date": "2021-11-06",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Neutron stars in mimetic gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Neutron Stars in Mimetic Gravity"
+            }
+          ]
+        },
+        "updated": "2026-01-29T20:00:21.001228+00:00"
+      },
+      {
+        "created": "2021-10-26T03:05:16.453994+00:00",
+        "id": "1951306",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1951306?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1951306",
+          "cv": "https://inspirehep.net/api/literature/1951306?format=cv",
+          "json": "https://inspirehep.net/api/literature/1951306?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1951306?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1951306?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1951306?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2110.12728"
+            }
+          ],
+          "control_number": 1951306,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.024059"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.024059"
+            }
+          ],
+          "earliest_date": "2021-10-25",
+          "preprint_date": "2021-10-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Relativistic star perturbations in Horndeski theories with a gauge-ready formulation"
+            },
+            {
+              "source": "arXiv",
+              "title": "Relativistic star perturbations in Horndeski theories with a gauge-ready formulation"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:44:09.045383+00:00"
+      },
+      {
+        "created": "2021-10-05T03:46:09.938191+00:00",
+        "id": "1938323",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1938323?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1938323",
+          "cv": "https://inspirehep.net/api/literature/1938323?format=cv",
+          "json": "https://inspirehep.net/api/literature/1938323?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1938323?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1938323?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1938323?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2110.00903"
+            }
+          ],
+          "control_number": 1938323,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.084092"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.084092"
+            }
+          ],
+          "earliest_date": "2021-10-02",
+          "preprint_date": "2021-10-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Black hole zeroth law in the Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black Hole Zeroth Law in Horndeski Gravity"
+            }
+          ]
+        },
+        "updated": "2026-01-11T18:45:56.997010+00:00"
+      },
+      {
+        "created": "2021-10-01T03:14:38.911519+00:00",
+        "id": "1935838",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1935838?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1935838",
+          "cv": "https://inspirehep.net/api/literature/1935838?format=cv",
+          "json": "https://inspirehep.net/api/literature/1935838?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1935838?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1935838?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1935838?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2109.14747"
+            }
+          ],
+          "control_number": 1935838,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ac4614"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/ac4614"
+            }
+          ],
+          "earliest_date": "2021-09-29",
+          "preprint_date": "2021-09-29",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Horndeski fermion–boson stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Horndeski fermion-boson stars"
+            }
+          ]
+        },
+        "updated": "2024-01-26T03:46:18.716305+00:00"
+      },
+      {
+        "created": "2021-09-10T04:26:03.705836+00:00",
+        "id": "1919255",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1919255?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1919255",
+          "cv": "https://inspirehep.net/api/literature/1919255?format=cv",
+          "json": "https://inspirehep.net/api/literature/1919255?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1919255?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1919255?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1919255?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2109.04450"
+            }
+          ],
+          "control_number": 1919255,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-022-10357-2"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-022-10357-2"
+            }
+          ],
+          "earliest_date": "2021-09-09",
+          "preprint_date": "2021-09-09",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Investigating strong gravitational lensing effects by supermassive black holes with Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Investigating strong gravitational lensing effects by suppermassive black holes with Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Strong gravitational lensing by hairy black holes in Horndeski Theory"
+            }
+          ]
+        },
+        "updated": "2024-03-13T16:38:58.787273+00:00"
+      },
+      {
+        "created": "2021-08-25T03:20:11.047768+00:00",
+        "id": "1909854",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1909854?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1909854",
+          "cv": "https://inspirehep.net/api/literature/1909854?format=cv",
+          "json": "https://inspirehep.net/api/literature/1909854?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1909854?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1909854?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1909854?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2108.10841"
+            }
+          ],
+          "control_number": 1909854,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.nuclphysb.2021.115522"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.nuclphysb.2021.115522"
+            }
+          ],
+          "earliest_date": "2021-08-24",
+          "preprint_date": "2021-08-24",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Generalized Horndeski-like Einstein Gauss-Bonnet inflation with massless primordial gravitons"
+            },
+            {
+              "source": "arXiv",
+              "title": "Generalized Horndeski-Like Einstein Gauss-Bonnet Inflation with Massless Primordial Gravitons"
+            }
+          ]
+        },
+        "updated": "2023-10-15T09:01:38.012421+00:00"
+      },
+      {
+        "created": "2021-07-19T02:53:09.890723+00:00",
+        "id": "1886582",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1886582?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1886582",
+          "cv": "https://inspirehep.net/api/literature/1886582?format=cv",
+          "json": "https://inspirehep.net/api/literature/1886582?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1886582?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1886582?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1886582?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2107.07839"
+            }
+          ],
+          "control_number": 1886582,
+          "earliest_date": "2021-07-16",
+          "preprint_date": "2021-07-16",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Hairy Black Holes from Horndeski Theory"
+            }
+          ]
+        },
+        "updated": "2024-11-13T19:47:04.038490+00:00"
+      },
+      {
+        "created": "2021-05-27T00:00:00+00:00",
+        "id": "1865662",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1865662?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1865662",
+          "cv": "https://inspirehep.net/api/literature/1865662?format=cv",
+          "json": "https://inspirehep.net/api/literature/1865662?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1865662?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1865662?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1865662?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2105.12582"
+            }
+          ],
+          "control_number": 1865662,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-3-030-83715-0"
+            },
+            {
+              "value": "10.1007/978-3-030-83715-0"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-3-030-83715-0"
+            }
+          ],
+          "earliest_date": "2021-05-20",
+          "preprint_date": "2021-05-20",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Modified Gravity and Cosmology. An Update by the CANTATA Network"
+            },
+            {
+              "source": "arXiv",
+              "subtitle": "An Update by the CANTATA Network",
+              "title": "Modified Gravity and Cosmology"
+            },
+            {
+              "source": "arXiv",
+              "title": "Modified Gravity and Cosmology: An Update by the CANTATA Network"
+            }
+          ]
+        },
+        "updated": "2026-09-07T18:21:31.531977+00:00"
+      },
+      {
+        "created": "2021-05-11T00:00:00+00:00",
+        "id": "1862677",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1862677?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1862677",
+          "cv": "https://inspirehep.net/api/literature/1862677?format=cv",
+          "json": "https://inspirehep.net/api/literature/1862677?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1862677?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1862677?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1862677?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2105.03802"
+            }
+          ],
+          "control_number": 1862677,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.066014"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.066014"
+            }
+          ],
+          "earliest_date": "2021-05-08",
+          "preprint_date": "2021-05-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "AdS/BCFT correspondence and BTZ black hole thermodynamics within Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "AdS/BCFT correspondence and BTZ black hole thermodynamics within Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:22:55.060646+00:00"
+      },
+      {
+        "created": "2021-12-13T07:21:28.307647+00:00",
+        "id": "1988610",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1988610?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1988610",
+          "cv": "https://inspirehep.net/api/literature/1988610?format=cv",
+          "json": "https://inspirehep.net/api/literature/1988610?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1988610?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1988610?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1988610?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1988610,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-3-030-83715-0_22"
+            }
+          ],
+          "earliest_date": "2021",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Stars as Tests of Modified Gravity"
+            }
+          ]
+        },
+        "updated": "2024-09-17T08:11:24.916191+00:00"
+      },
+      {
+        "created": "2021-12-13T07:21:55.672111+00:00",
+        "id": "1988621",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1988621?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1988621",
+          "cv": "https://inspirehep.net/api/literature/1988621?format=cv",
+          "json": "https://inspirehep.net/api/literature/1988621?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1988621?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1988621?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1988621?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1988621,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-3-030-83715-0_23"
+            }
+          ],
+          "earliest_date": "2021",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Compact Objects in General Relativity and Beyond"
+            }
+          ]
+        },
+        "updated": "2025-03-19T09:44:14.730697+00:00"
+      },
+      {
+        "created": "2020-09-01T00:00:00+00:00",
+        "id": "1814057",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1814057?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1814057",
+          "cv": "https://inspirehep.net/api/literature/1814057?format=cv",
+          "json": "https://inspirehep.net/api/literature/1814057?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1814057?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1814057?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1814057?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2008.13350"
+            }
+          ],
+          "control_number": 1814057,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1475-7516/2021/01/008"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2021/01/008"
+            }
+          ],
+          "earliest_date": "2020-08-31",
+          "preprint_date": "2020-08-31",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Instability of compact stars with a nonminimal scalar-derivative coupling"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:28:31.891549+00:00"
+      },
+      {
+        "created": "2020-07-21T00:00:00+00:00",
+        "id": "1807954",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1807954?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1807954",
+          "cv": "https://inspirehep.net/api/literature/1807954?format=cv",
+          "json": "https://inspirehep.net/api/literature/1807954?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1807954?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1807954?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1807954?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2007.09864"
+            }
+          ],
+          "control_number": 1807954,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.102.084037"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.084037"
+            }
+          ],
+          "earliest_date": "2020-07-20",
+          "preprint_date": "2020-07-20",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Stability of relativistic stars with scalar hairs"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:09:54.034574+00:00"
+      },
+      {
+        "created": "2020-07-21T00:00:00+00:00",
+        "id": "1807941",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1807941?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1807941",
+          "cv": "https://inspirehep.net/api/literature/1807941?format=cv",
+          "json": "https://inspirehep.net/api/literature/1807941?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1807941?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1807941?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1807941?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2007.09473"
+            }
+          ],
+          "control_number": 1807941,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/abdd0d"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/abdd0d"
+            }
+          ],
+          "earliest_date": "2020-07-18",
+          "preprint_date": "2020-07-18",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Strong gravitational lensing by DHOST black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Strong lensing by DHOST black holes"
+            }
+          ]
+        },
+        "updated": "2023-12-13T19:20:23.951024+00:00"
+      },
+      {
+        "created": "2020-10-13T00:00:00+00:00",
+        "id": "1822303",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1822303?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1822303",
+          "cv": "https://inspirehep.net/api/literature/1822303?format=cv",
+          "json": "https://inspirehep.net/api/literature/1822303?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1822303?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1822303?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1822303?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2010.04745"
+            }
+          ],
+          "control_number": 1822303,
+          "dois": [
+            {
+              "source": "Virginia U.",
+              "value": "10.18130/v3-pxdw-2144"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.18130/v3-pxdw-2144"
+            }
+          ],
+          "earliest_date": "2020-05-10",
+          "preprint_date": "2020-10-09",
+          "titles": [
+            {
+              "source": "Virginia U.",
+              "title": "Probing Fundamental Physics with Gravitational Waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing Fundamental Physics with Gravitational Waves"
+            }
+          ]
+        },
+        "updated": "2026-04-03T13:44:41.843955+00:00"
+      },
+      {
+        "created": "2020-01-06T00:00:00+00:00",
+        "id": "1774013",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1774013?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1774013",
+          "cv": "https://inspirehep.net/api/literature/1774013?format=cv",
+          "json": "https://inspirehep.net/api/literature/1774013?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1774013?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1774013?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1774013?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.GA",
+                "astro-ph.HE"
+              ],
+              "value": "2001.00863"
+            }
+          ],
+          "control_number": 1774013,
+          "dois": [
+            {
+              "source": "WSP",
+              "value": "10.1142/9789813277342_0002"
+            }
+          ],
+          "earliest_date": "2020-01-03",
+          "preprint_date": "2020-01-03",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Astrophysical Constraints on Strong Modified Gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Astrophysical Constraints on Strong Modified Gravity"
+            }
+          ]
+        },
+        "updated": "2023-12-13T12:09:48.822892+00:00"
+      },
+      {
+        "created": "2019-12-20T00:00:00+00:00",
+        "id": "1771894",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1771894?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1771894",
+          "cv": "https://inspirehep.net/api/literature/1771894?format=cv",
+          "json": "https://inspirehep.net/api/literature/1771894?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1771894?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1771894?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1771894?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1912.09199"
+            }
+          ],
+          "control_number": 1771894,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.101.084008"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.084008"
+            }
+          ],
+          "earliest_date": "2019-12-19",
+          "preprint_date": "2019-12-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black holes in self-tuning cubic Horndeski cosmology"
+            }
+          ]
+        },
+        "updated": "2024-02-07T12:34:46.842570+00:00"
+      },
+      {
+        "created": "2019-12-12T00:00:00+00:00",
+        "id": "1770185",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1770185?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1770185",
+          "cv": "https://inspirehep.net/api/literature/1770185?format=cv",
+          "json": "https://inspirehep.net/api/literature/1770185?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1770185?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1770185?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1770185?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.SR",
+                "hep-th"
+              ],
+              "value": "1912.05202"
+            }
+          ],
+          "control_number": 1770185,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.physrep.2020.07.001"
+            },
+            {
+              "source": "bibmatch",
+              "value": "10.1016/j.physrep.2020.07.001"
+            }
+          ],
+          "earliest_date": "2019-12-11",
+          "preprint_date": "2019-12-11",
+          "titles": [
+            {
+              "source": "Elsevier",
+              "title": "Stellar structure models in modified theories of gravity: Lessons and challenges"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stellar structure models in modified theories of gravity: lessons and challenges"
+            }
+          ]
+        },
+        "updated": "2025-06-06T10:59:15.454166+00:00"
+      },
+      {
+        "created": "2019-11-06T00:00:00+00:00",
+        "id": "1763140",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1763140?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1763140",
+          "cv": "https://inspirehep.net/api/literature/1763140?format=cv",
+          "json": "https://inspirehep.net/api/literature/1763140?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1763140?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1763140?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1763140?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1911.01669"
+            }
+          ],
+          "control_number": 1763140,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.101.024026"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.024026"
+            }
+          ],
+          "earliest_date": "2019-11-05",
+          "preprint_date": "2019-11-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Relativistic stars in a cubic Galileon Universe"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:12:45.884729+00:00"
+      },
+      {
+        "created": "2019-11-06T00:00:00+00:00",
+        "id": "1763141",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1763141?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1763141",
+          "cv": "https://inspirehep.net/api/literature/1763141?format=cv",
+          "json": "https://inspirehep.net/api/literature/1763141?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1763141?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1763141?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1763141?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1911.01847"
+            }
+          ],
+          "control_number": 1763141,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.101.024036"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.024036"
+            }
+          ],
+          "earliest_date": "2019-11-05",
+          "preprint_date": "2019-11-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Stealth black holes in shift symmetric kinetic gravity braiding"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:10:49.356853+00:00"
+      },
+      {
+        "created": "2019-06-04T00:00:00+00:00",
+        "id": "1737779",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1737779?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1737779",
+          "cv": "https://inspirehep.net/api/literature/1737779?format=cv",
+          "json": "https://inspirehep.net/api/literature/1737779?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1737779?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1737779?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1737779?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1906.00485"
+            }
+          ],
+          "control_number": 1737779,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.100.084034"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.100.084034"
+            }
+          ],
+          "earliest_date": "2019-06-02",
+          "preprint_date": "2019-06-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "More than the sum of its parts: Combining parametrized tests of extreme gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "More than the sum of its parts: combining parameterized tests of extreme gravity"
+            }
+          ]
+        },
+        "updated": "2025-07-22T11:06:57.208426+00:00"
+      },
+      {
+        "created": "2019-05-28T00:00:00+00:00",
+        "id": "1736948",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1736948?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1736948",
+          "cv": "https://inspirehep.net/api/literature/1736948?format=cv",
+          "json": "https://inspirehep.net/api/literature/1736948?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1736948?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1736948?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1736948?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1905.11253"
+            }
+          ],
+          "control_number": 1736948,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1475-7516/2019/09/005"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2019/09/005"
+            }
+          ],
+          "earliest_date": "2019-05-27",
+          "preprint_date": "2019-05-27",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Compact objects in unimodular gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stellar dynamics in unimodular gravity"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:20:27.081069+00:00"
+      },
+      {
+        "created": "2019-07-16T00:00:00+00:00",
+        "id": "1743945",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1743945?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1743945",
+          "cv": "https://inspirehep.net/api/literature/1743945?format=cv",
+          "json": "https://inspirehep.net/api/literature/1743945?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1743945?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1743945?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1743945?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th"
+              ],
+              "value": "2008.06753"
+            }
+          ],
+          "control_number": 1743945,
+          "dois": [
+            {
+              "source": "WSP",
+              "value": "10.1142/S0218271819501220"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1142/S0218271819501220"
+            }
+          ],
+          "earliest_date": "2019-05-21",
+          "preprint_date": "2020-08-15",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Role of $\\Delta_s$ in determining the properties of neutron stars in parameterized hydrostatic equilibrium"
+            },
+            {
+              "source": "arXiv",
+              "title": "Role of $\\Delta$s in determining the properties of Neutron Stars in parameterized hydrostatic equilibrium"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:16:45.752326+00:00"
+      },
+      {
+        "created": "2019-04-25T00:00:00+00:00",
+        "id": "1731070",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1731070?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1731070",
+          "cv": "https://inspirehep.net/api/literature/1731070?format=cv",
+          "json": "https://inspirehep.net/api/literature/1731070?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1731070?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1731070?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1731070?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1904.10791"
+            }
+          ],
+          "control_number": 1731070,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.100.064018"
+            }
+          ],
+          "earliest_date": "2019-04-23",
+          "preprint_date": "2019-04-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Can Horndeski Theory be recast using Teleparallel Gravity?"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:16:21.126908+00:00"
+      },
+      {
+        "created": "2019-04-11T00:00:00+00:00",
+        "id": "1729141",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1729141?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1729141",
+          "cv": "https://inspirehep.net/api/literature/1729141?format=cv",
+          "json": "https://inspirehep.net/api/literature/1729141?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1729141?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1729141?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1729141?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "1904.05112"
+            }
+          ],
+          "control_number": 1729141,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.99.104082"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.104082"
+            }
+          ],
+          "earliest_date": "2019-04-10",
+          "preprint_date": "2019-04-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Forecasts for Low Spin Black Hole Spectroscopy in Horndeski Gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Forecasts for low spin black hole spectroscopy in Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:07:12.297459+00:00"
+      },
+      {
+        "created": "2019-04-01T00:00:00+00:00",
+        "id": "1727386",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1727386?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1727386",
+          "cv": "https://inspirehep.net/api/literature/1727386?format=cv",
+          "json": "https://inspirehep.net/api/literature/1727386?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1727386?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1727386?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1727386?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1903.12578"
+            }
+          ],
+          "control_number": 1727386,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2019/10/058"
+            },
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1475-7516/2019/10/058"
+            }
+          ],
+          "earliest_date": "2019-03-29",
+          "preprint_date": "2019-03-29",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tailoring cosmologies in cubic shift-symmetric Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:04:25.979370+00:00"
+      },
+      {
+        "created": "2019-03-12T00:00:00+00:00",
+        "id": "1724466",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1724466?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1724466",
+          "cv": "https://inspirehep.net/api/literature/1724466?format=cv",
+          "json": "https://inspirehep.net/api/literature/1724466?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1724466?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1724466?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1724466?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1903.03909"
+            }
+          ],
+          "control_number": 1724466,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.083016"
+            }
+          ],
+          "earliest_date": "2019-03-09",
+          "preprint_date": "2019-03-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Equation-of-state insensitive relations after GW170817"
+            }
+          ]
+        },
+        "updated": "2023-03-07T04:01:56.325075+00:00"
+      },
+      {
+        "created": "2019-02-14T00:00:00+00:00",
+        "id": "1720103",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1720103?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1720103",
+          "cv": "https://inspirehep.net/api/literature/1720103?format=cv",
+          "json": "https://inspirehep.net/api/literature/1720103?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1720103?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1720103?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1720103?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1902.04988"
+            }
+          ],
+          "control_number": 1720103,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.99.124049"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.124049"
+            }
+          ],
+          "earliest_date": "2019-02-13",
+          "preprint_date": "2019-02-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Hair-dressing Horndeski: An approach for obtaining hairy solutions in cubic Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Hair-dressing Horndeski: an approach to hairy solutions in cubic Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:23:42.777175+00:00"
+      },
+      {
+        "created": "2019-02-12T00:00:00+00:00",
+        "id": "1719383",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1719383?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1719383",
+          "cv": "https://inspirehep.net/api/literature/1719383?format=cv",
+          "json": "https://inspirehep.net/api/literature/1719383?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1719383?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1719383?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1719383?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1902.03789"
+            }
+          ],
+          "control_number": 1719383,
+          "dois": [
+            {
+              "source": "ADS",
+              "value": "10.1088/1475-7516/2019/04/022"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2019/04/022"
+            }
+          ],
+          "earliest_date": "2019-02-11",
+          "preprint_date": "2019-02-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Weak and strong deflection gravitational lensings by a charged Horndeski black hole"
+            }
+          ]
+        },
+        "updated": "2026-02-09T11:09:57.132021+00:00"
+      },
+      {
+        "created": "2019-01-16T00:00:00+00:00",
+        "id": "1713806",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1713806?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1713806",
+          "cv": "https://inspirehep.net/api/literature/1713806?format=cv",
+          "json": "https://inspirehep.net/api/literature/1713806?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1713806?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1713806?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1713806?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1901.04658"
+            }
+          ],
+          "control_number": 1713806,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.99.064040"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.064040"
+            }
+          ],
+          "earliest_date": "2019-01-14",
+          "preprint_date": "2019-01-14",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Exact black hole solutions in shift-symmetric quadratic degenerate higher-order scalar-tensor theories"
+            },
+            {
+              "source": "APS",
+              "title": "Exact black hole solutions in shift-symmetric quadratic degenerate higher-order scalar-tensor theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Exact black hole solutions in shift-symmetric quadratic DHOST theories"
+            }
+          ]
+        },
+        "updated": "2025-05-01T08:09:24.783933+00:00"
+      },
+      {
+        "created": "2020-03-02T00:00:00+00:00",
+        "id": "1783189",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1783189?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1783189",
+          "cv": "https://inspirehep.net/api/literature/1783189?format=cv",
+          "json": "https://inspirehep.net/api/literature/1783189?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1783189?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1783189?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1783189?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1783189,
+          "earliest_date": "2019",
+          "titles": [
+            {
+              "title": "Testing gravity with black holes"
+            }
+          ]
+        },
+        "updated": "2023-11-21T16:33:14.682823+00:00"
+      },
+      {
+        "created": "2020-03-14T00:00:00+00:00",
+        "id": "1785231",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1785231?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1785231",
+          "cv": "https://inspirehep.net/api/literature/1785231?format=cv",
+          "json": "https://inspirehep.net/api/literature/1785231?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1785231?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1785231?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1785231?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1785231,
+          "earliest_date": "2019",
+          "titles": [
+            {
+              "source": "Sussex U.",
+              "title": "Effective theories of gravity"
+            },
+            {
+              "source": "submitter",
+              "title": "Effective theories of gravity"
+            }
+          ]
+        },
+        "updated": "2024-05-13T04:42:52.564707+00:00"
+      },
+      {
+        "created": "2018-12-11T00:00:00+00:00",
+        "id": "1707937",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1707937?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1707937",
+          "cv": "https://inspirehep.net/api/literature/1707937?format=cv",
+          "json": "https://inspirehep.net/api/literature/1707937?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1707937?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1707937?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1707937?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th",
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "1812.03529"
+            }
+          ],
+          "control_number": 1707937,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1142/S0218301318500970"
+            }
+          ],
+          "earliest_date": "2018-12-09",
+          "preprint_date": "2018-12-09",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Properties of Neutron stars with hyperon cores in parametrized hydrostatic conditions"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:28:02.456571+00:00"
+      },
+      {
+        "created": "2018-12-07T00:00:00+00:00",
+        "id": "1707518",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1707518?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1707518",
+          "cv": "https://inspirehep.net/api/literature/1707518?format=cv",
+          "json": "https://inspirehep.net/api/literature/1707518?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1707518?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1707518?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1707518?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1812.02686"
+            }
+          ],
+          "control_number": 1707518,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.99.024041"
+            },
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.99.024041"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.024041"
+            }
+          ],
+          "earliest_date": "2018-12-06",
+          "preprint_date": "2018-12-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Innermost stable circular orbits of neutron stars in dilatonic-Einstein-Gauss-Bonnet theory"
+            }
+          ]
+        },
+        "updated": "2023-03-06T22:53:24.243988+00:00"
+      },
+      {
+        "created": "2018-12-06T00:00:00+00:00",
+        "id": "1707027",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1707027?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1707027",
+          "cv": "https://inspirehep.net/api/literature/1707027?format=cv",
+          "json": "https://inspirehep.net/api/literature/1707027?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1707027?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1707027?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1707027?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1812.01881"
+            }
+          ],
+          "control_number": 1707027,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-018-6470-0"
+            }
+          ],
+          "earliest_date": "2018-12-03",
+          "preprint_date": "2018-12-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Fab Four Effective Field Theory Treatment"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:25:45.571902+00:00"
+      },
+      {
+        "created": "2018-11-16T00:00:00+00:00",
+        "id": "1703775",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1703775?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1703775",
+          "cv": "https://inspirehep.net/api/literature/1703775?format=cv",
+          "json": "https://inspirehep.net/api/literature/1703775?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1703775?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1703775?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1703775?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1811.06271"
+            }
+          ],
+          "control_number": 1703775,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1142/S0218271819420069"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1142/S0218271819420069"
+            }
+          ],
+          "earliest_date": "2018-11-15",
+          "preprint_date": "2018-11-15",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Dark energy and modified gravity in degenerate higher-order scalar–tensor (DHOST) theories: A review"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:24:47.294670+00:00"
+      },
+      {
+        "created": "2018-10-23T00:00:00+00:00",
+        "id": "1699608",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1699608?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1699608",
+          "cv": "https://inspirehep.net/api/literature/1699608?format=cv",
+          "json": "https://inspirehep.net/api/literature/1699608?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1699608?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1699608?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1699608?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1810.09432"
+            }
+          ],
+          "control_number": 1699608,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjp/i2019-12392-9"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjp/i2019-12392-9"
+            }
+          ],
+          "earliest_date": "2018-10-22",
+          "preprint_date": "2018-10-22",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes of compact objects in alternative theories of gravity"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:22:57.749086+00:00"
+      },
+      {
+        "created": "2018-10-11T00:00:00+00:00",
+        "id": "1697702",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1697702?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1697702",
+          "cv": "https://inspirehep.net/api/literature/1697702?format=cv",
+          "json": "https://inspirehep.net/api/literature/1697702?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1697702?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1697702?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1697702?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1810.04434"
+            }
+          ],
+          "control_number": 1697702,
+          "earliest_date": "2018-10-10",
+          "preprint_date": "2018-10-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Compact astrophysical objects in modified gravity"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:04:48.060074+00:00"
+      },
+      {
+        "created": "2018-07-16T00:00:00+00:00",
+        "id": "1682323",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1682323?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1682323",
+          "cv": "https://inspirehep.net/api/literature/1682323?format=cv",
+          "json": "https://inspirehep.net/api/literature/1682323?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1682323?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1682323?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1682323?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1807.05024"
+            }
+          ],
+          "control_number": 1682323,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/s10714-019-2500-y"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s10714-019-2500-y"
+            }
+          ],
+          "earliest_date": "2018-07-13",
+          "preprint_date": "2018-07-13",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Quansinormal modes of static and spherically symmetric black holes with the derivative coupling"
+            }
+          ]
+        },
+        "updated": "2024-03-15T13:44:55.513219+00:00"
+      },
+      {
+        "created": "2018-04-02T00:00:00+00:00",
+        "id": "1665480",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1665480?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1665480",
+          "cv": "https://inspirehep.net/api/literature/1665480?format=cv",
+          "json": "https://inspirehep.net/api/literature/1665480?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1665480?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1665480?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1665480?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1803.11444"
+            }
+          ],
+          "control_number": 1665480,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.98.104050"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.98.104050"
+            }
+          ],
+          "earliest_date": "2018-03-30",
+          "preprint_date": "2018-03-30",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Hamiltonian unboundedness vs stability with an application to Horndeski theory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Hamiltonian vs stability and application to Horndeski theory"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:03:22.452488+00:00"
+      },
+      {
+        "created": "2018-03-29T00:00:00+00:00",
+        "id": "1664584",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1664584?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1664584",
+          "cv": "https://inspirehep.net/api/literature/1664584?format=cv",
+          "json": "https://inspirehep.net/api/literature/1664584?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1664584?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1664584?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1664584?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "1803.10510"
+            }
+          ],
+          "control_number": 1664584,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.97.104012"
+            }
+          ],
+          "earliest_date": "2018-03-28",
+          "preprint_date": "2018-03-28",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Relativistic stars in degenerate higher-order scalar-tensor theories after GW170817"
+            }
+          ]
+        },
+        "updated": "2023-03-07T04:07:44.149681+00:00"
+      },
+      {
+        "created": "2018-03-21T00:00:00+00:00",
+        "id": "1663293",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1663293?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1663293",
+          "cv": "https://inspirehep.net/api/literature/1663293?format=cv",
+          "json": "https://inspirehep.net/api/literature/1663293?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1663293?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1663293?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1663293?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1803.07476"
+            }
+          ],
+          "control_number": 1663293,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1475-7516/2018/08/006"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2018/08/006"
+            }
+          ],
+          "earliest_date": "2018-03-20",
+          "preprint_date": "2018-03-20",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Compact objects in scalar-tensor theories after GW170817"
+            }
+          ]
+        },
+        "updated": "2023-03-07T02:04:58.424227+00:00"
+      },
+      {
+        "created": "2018-03-06T00:00:00+00:00",
+        "id": "1658628",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1658628?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1658628",
+          "cv": "https://inspirehep.net/api/literature/1658628?format=cv",
+          "json": "https://inspirehep.net/api/literature/1658628?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1658628?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1658628?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1658628?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1803.01655"
+            }
+          ],
+          "control_number": 1658628,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.97.104002"
+            },
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.97.104002"
+            }
+          ],
+          "earliest_date": "2018-03-05",
+          "preprint_date": "2018-03-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Axial quasinormal modes of static neutron stars in the nonminimal derivative coupling sector of Horndeski gravity: spectrum and universal relations for realistic equations of state"
+            }
+          ]
+        },
+        "updated": "2025-07-17T14:24:09.694721+00:00"
+      },
+      {
+        "created": "2018-03-06T00:00:00+00:00",
+        "id": "1658621",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1658621?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1658621",
+          "cv": "https://inspirehep.net/api/literature/1658621?format=cv",
+          "json": "https://inspirehep.net/api/literature/1658621?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1658621?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1658621?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1658621?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1803.01429"
+            }
+          ],
+          "control_number": 1658621,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjc/s10052-018-5939-1"
+            },
+            {
+              "value": "10.1140/epjc/s10052-018-5939-1"
+            }
+          ],
+          "earliest_date": "2018-03-04",
+          "preprint_date": "2018-03-04",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Classification of the Horndeski cosmologies via Noether Symmetries"
+            }
+          ]
+        },
+        "updated": "2023-06-21T04:25:49.333581+00:00"
+      },
+      {
+        "created": "2019-11-11T00:00:00+00:00",
+        "id": "1763928",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1763928?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1763928",
+          "cv": "https://inspirehep.net/api/literature/1763928?format=cv",
+          "json": "https://inspirehep.net/api/literature/1763928?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1763928?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1763928?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1763928?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1763928,
+          "earliest_date": "2018",
+          "titles": [
+            {
+              "source": "INFN",
+              "title": "Geometric Foundations of Gravity and Applications"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:29:56.422969+00:00"
+      },
+      {
+        "created": "2017-11-27T00:00:00+00:00",
+        "id": "1638323",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1638323?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1638323",
+          "cv": "https://inspirehep.net/api/literature/1638323?format=cv",
+          "json": "https://inspirehep.net/api/literature/1638323?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1638323?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1638323?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1638323?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1711.08713"
+            }
+          ],
+          "control_number": 1638323,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.97.084009"
+            }
+          ],
+          "earliest_date": "2017-11-23",
+          "preprint_date": "2017-11-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Relativistic stars in vector-tensor theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Neutron stars in vector-tensor theories"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:45:40.432309+00:00"
+      },
+      {
+        "created": "2017-10-25T00:00:00+00:00",
+        "id": "1632355",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1632355?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1632355",
+          "cv": "https://inspirehep.net/api/literature/1632355?format=cv",
+          "json": "https://inspirehep.net/api/literature/1632355?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1632355?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1632355?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1632355?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1632355,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1134/S1063776117080118"
+            }
+          ],
+          "earliest_date": "2017-10-21",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Observational manifestations of black holes in the Horndeski gravity model"
+            }
+          ]
+        },
+        "updated": "2023-03-06T21:17:21.148698+00:00"
+      },
+      {
+        "created": "2017-09-26T00:00:00+00:00",
+        "id": "1625242",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1625242?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1625242",
+          "cv": "https://inspirehep.net/api/literature/1625242?format=cv",
+          "json": "https://inspirehep.net/api/literature/1625242?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1625242?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1625242?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1625242?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1709.08046"
+            }
+          ],
+          "control_number": 1625242,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/978-3-319-97616-7_13"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-3-319-97616-7_13"
+            }
+          ],
+          "earliest_date": "2017-09-23",
+          "preprint_date": "2017-09-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Universal Relations and Alternative Gravity Theories"
+            }
+          ]
+        },
+        "updated": "2025-08-17T08:18:01.851402+00:00"
+      },
+      {
+        "created": "2017-09-07T00:00:00+00:00",
+        "id": "1621786",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1621786?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1621786",
+          "cv": "https://inspirehep.net/api/literature/1621786?format=cv",
+          "json": "https://inspirehep.net/api/literature/1621786?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1621786?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1621786?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1621786?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1709.01641"
+            }
+          ],
+          "control_number": 1621786,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.96.064048"
+            },
+            {
+              "value": "10.1103/PhysRevD.96.064048"
+            }
+          ],
+          "earliest_date": "2017-09-05",
+          "preprint_date": "2017-09-05",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasinormal modes of black holes in scalar-tensor theories with nonminimal derivative couplings"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasi-normal modes of black holes in scalar-tensor theories with non-minimal derivative couplings"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:09:48.777622+00:00"
+      },
+      {
+        "created": "2017-08-26T00:00:00+00:00",
+        "id": "1618739",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1618739?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1618739",
+          "cv": "https://inspirehep.net/api/literature/1618739?format=cv",
+          "json": "https://inspirehep.net/api/literature/1618739?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1618739?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1618739?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1618739?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "1708.07194"
+            }
+          ],
+          "control_number": 1618739,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.96.124033"
+            }
+          ],
+          "earliest_date": "2017-08-23",
+          "preprint_date": "2017-08-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Axionic black branes in the k-essence sector of the Horndeski model"
+            },
+            {
+              "source": "arXiv",
+              "title": "Axionic black holes in the K-essence sector of the Horndeski model"
+            }
+          ]
+        },
+        "updated": "2024-10-29T10:31:03.349003+00:00"
+      },
+      {
+        "created": "2017-07-11T00:00:00+00:00",
+        "id": "1609215",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1609215?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1609215",
+          "cv": "https://inspirehep.net/api/literature/1609215?format=cv",
+          "json": "https://inspirehep.net/api/literature/1609215?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1609215?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1609215?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1609215?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1707.02809"
+            }
+          ],
+          "control_number": 1609215,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.96.084026"
+            },
+            {
+              "value": "10.1103/PhysRevD.96.084026"
+            }
+          ],
+          "earliest_date": "2017-07-10",
+          "preprint_date": "2017-07-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Spontaneous scalarization with an extremely massive field and heavy neutron stars"
+            }
+          ]
+        },
+        "updated": "2024-05-12T07:36:28.832963+00:00"
+      },
+      {
+        "created": "2017-06-16T00:00:00+00:00",
+        "id": "1605394",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1605394?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1605394",
+          "cv": "https://inspirehep.net/api/literature/1605394?format=cv",
+          "json": "https://inspirehep.net/api/literature/1605394?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1605394?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1605394?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1605394?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1706.04989"
+            }
+          ],
+          "control_number": 1605394,
+          "dois": [
+            {
+              "value": "10.1088/1475-7516/2017/07/037"
+            }
+          ],
+          "earliest_date": "2017-06-15",
+          "preprint_date": "2017-06-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "A no-hair theorem for stars in Horndeski theories"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:22:35.770876+00:00"
+      },
+      {
+        "created": "2017-06-13T00:00:00+00:00",
+        "id": "1604265",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1604265?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1604265",
+          "cv": "https://inspirehep.net/api/literature/1604265?format=cv",
+          "json": "https://inspirehep.net/api/literature/1604265?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1604265?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1604265?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1604265?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1706.03262"
+            }
+          ],
+          "control_number": 1604265,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.96.064008"
+            },
+            {
+              "value": "10.1103/PhysRevD.96.064008"
+            }
+          ],
+          "earliest_date": "2017-06-10",
+          "preprint_date": "2017-06-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes of Einstein-Gauss-Bonnet-dilaton black holes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:54:58.722917+00:00"
+      },
+      {
+        "created": "2017-09-18T00:00:00+00:00",
+        "id": "1624072",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1624072?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1624072",
+          "cv": "https://inspirehep.net/api/literature/1624072?format=cv",
+          "json": "https://inspirehep.net/api/literature/1624072?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1624072?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1624072?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1624072?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1624072,
+          "earliest_date": "2017-05",
+          "preprint_date": "2017-05",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "Compact Objects in Relativistic Theories of Gravity"
+            }
+          ]
+        },
+        "updated": "2025-02-18T08:23:42.667354+00:00"
+      },
+      {
+        "created": "2017-03-29T00:00:00+00:00",
+        "id": "1519823",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1519823?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1519823",
+          "cv": "https://inspirehep.net/api/literature/1519823?format=cv",
+          "json": "https://inspirehep.net/api/literature/1519823?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1519823?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1519823?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1519823?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1703.09555"
+            }
+          ],
+          "control_number": 1519823,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1361-6382/aa7c01"
+            },
+            {
+              "value": "10.1088/1361-6382/aa7c01"
+            }
+          ],
+          "earliest_date": "2017-03-28",
+          "preprint_date": "2017-03-28",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black Holes and Neutron Stars in Vector Galileons"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:08:04.364173+00:00"
+      },
+      {
+        "created": "2017-03-21T00:00:00+00:00",
+        "id": "1518388",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1518388?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1518388",
+          "cv": "https://inspirehep.net/api/literature/1518388?format=cv",
+          "json": "https://inspirehep.net/api/literature/1518388?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1518388?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1518388?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1518388?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1703.06626"
+            }
+          ],
+          "control_number": 1518388,
+          "dois": [
+            {
+              "value": "10.1140/epjc/s10052-017-5233-7"
+            }
+          ],
+          "earliest_date": "2017-03-20",
+          "preprint_date": "2017-03-20",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Fab Four self-interaction in quantum regime"
+            }
+          ]
+        },
+        "updated": "2023-03-06T16:02:35.581042+00:00"
+      },
+      {
+        "created": "2017-02-14T00:00:00+00:00",
+        "id": "1513126",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1513126?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1513126",
+          "cv": "https://inspirehep.net/api/literature/1513126?format=cv",
+          "json": "https://inspirehep.net/api/literature/1513126?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1513126?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1513126?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1513126?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1702.03502"
+            }
+          ],
+          "control_number": 1513126,
+          "dois": [
+            {
+              "value": "10.1088/1361-6382/aa8057"
+            }
+          ],
+          "earliest_date": "2017-02-12",
+          "preprint_date": "2017-02-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Stable black holes in shift-symmetric Horndeski theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constructing stable Horndeski black holes"
+            }
+          ]
+        },
+        "updated": "2023-03-07T02:07:04.288617+00:00"
+      },
+      {
+        "created": "2016-12-14T00:00:00+00:00",
+        "id": "1503143",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1503143?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1503143",
+          "cv": "https://inspirehep.net/api/literature/1503143?format=cv",
+          "json": "https://inspirehep.net/api/literature/1503143?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1503143?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1503143?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1503143?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1612.04263"
+            }
+          ],
+          "control_number": 1503143,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.95.064013"
+            }
+          ],
+          "earliest_date": "2016-12-13",
+          "preprint_date": "2016-12-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Towards Strong Field Tests of Beyond Horndeski Gravity Theories"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:40:49.148748+00:00"
+      },
+      {
+        "created": "2016-10-25T00:00:00+00:00",
+        "id": "1494053",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1494053?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1494053",
+          "cv": "https://inspirehep.net/api/literature/1494053?format=cv",
+          "json": "https://inspirehep.net/api/literature/1494053?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1494053?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1494053?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1494053?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1610.07300"
+            }
+          ],
+          "control_number": 1494053,
+          "earliest_date": "2016-10-24",
+          "preprint_date": "2016-10-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Horndeski/Galileon black hole shadows"
+            }
+          ]
+        },
+        "updated": "2023-03-06T19:35:30.890373+00:00"
+      },
+      {
+        "created": "2016-10-13T00:00:00+00:00",
+        "id": "1491357",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1491357?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1491357",
+          "cv": "https://inspirehep.net/api/literature/1491357?format=cv",
+          "json": "https://inspirehep.net/api/literature/1491357?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1491357?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1491357?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1491357?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "1610.03622"
+            }
+          ],
+          "control_number": 1491357,
+          "earliest_date": "2016-10-12",
+          "preprint_date": "2016-10-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Hunting modifications of gravity: from the lab to cosmology via compact objects"
+            }
+          ]
+        },
+        "updated": "2025-07-17T14:06:59.386716+00:00"
+      },
+      {
+        "created": "2016-10-10T00:00:00+00:00",
+        "id": "1490651",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1490651?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1490651",
+          "cv": "https://inspirehep.net/api/literature/1490651?format=cv",
+          "json": "https://inspirehep.net/api/literature/1490651?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1490651?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1490651?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1490651?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1610.02211"
+            }
+          ],
+          "control_number": 1490651,
+          "earliest_date": "2016-10-07",
+          "preprint_date": "2016-10-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Horndeski/Galileon in High Energy Collisions"
+            }
+          ]
+        },
+        "updated": "2023-03-06T17:21:38.071260+00:00"
+      },
+      {
+        "created": "2016-09-28T00:00:00+00:00",
+        "id": "1488265",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1488265?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1488265",
+          "cv": "https://inspirehep.net/api/literature/1488265?format=cv",
+          "json": "https://inspirehep.net/api/literature/1488265?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1488265?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1488265?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1488265?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1609.08580"
+            }
+          ],
+          "control_number": 1488265,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.95.024025"
+            }
+          ],
+          "earliest_date": "2016-09-27",
+          "preprint_date": "2016-09-27",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational focusing of Imperfect Dark Matter"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:22:20.343701+00:00"
+      },
+      {
+        "created": "2016-09-26T00:00:00+00:00",
+        "id": "1487901",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1487901?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1487901",
+          "cv": "https://inspirehep.net/api/literature/1487901?format=cv",
+          "json": "https://inspirehep.net/api/literature/1487901?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1487901?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1487901?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1487901?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1609.07225"
+            }
+          ],
+          "control_number": 1487901,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.95.024027"
+            }
+          ],
+          "earliest_date": "2016-09-23",
+          "preprint_date": "2016-09-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Boson Stars in Higher Derivative Gravity"
+            }
+          ]
+        },
+        "updated": "2025-07-06T08:01:14.125316+00:00"
+      },
+      {
+        "created": "2016-09-13T00:00:00+00:00",
+        "id": "1486225",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1486225?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1486225",
+          "cv": "https://inspirehep.net/api/literature/1486225?format=cv",
+          "json": "https://inspirehep.net/api/literature/1486225?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1486225?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1486225?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1486225?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1609.03430"
+            }
+          ],
+          "control_number": 1486225,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.94.104039"
+            }
+          ],
+          "earliest_date": "2016-09-12",
+          "preprint_date": "2016-09-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Static and rotating solutions for Vector-Galileon theories"
+            }
+          ]
+        },
+        "updated": "2024-04-24T03:07:08.471929+00:00"
+      },
+      {
+        "created": "2016-08-15T00:00:00+00:00",
+        "id": "1481029",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1481029?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1481029",
+          "cv": "https://inspirehep.net/api/literature/1481029?format=cv",
+          "json": "https://inspirehep.net/api/literature/1481029?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1481029?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1481029?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1481029?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1608.03839"
+            }
+          ],
+          "control_number": 1481029,
+          "dois": [
+            {
+              "value": "10.1016/j.dark.2017.02.003"
+            }
+          ],
+          "earliest_date": "2016-08-12",
+          "preprint_date": "2016-08-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Mimicking dark matter in Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2023-03-06T23:26:45.425876+00:00"
+      },
+      {
+        "created": "2016-07-25T00:00:00+00:00",
+        "id": "1477573",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1477573?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1477573",
+          "cv": "https://inspirehep.net/api/literature/1477573?format=cv",
+          "json": "https://inspirehep.net/api/literature/1477573?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1477573?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1477573?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1477573?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "1607.06629"
+            }
+          ],
+          "control_number": 1477573,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjc/s10052-016-4482-1"
+            }
+          ],
+          "earliest_date": "2016-07-22",
+          "preprint_date": "2016-07-22",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Thermodynamics of Horndeski black holes with non-minimal derivative coupling"
+            }
+          ]
+        },
+        "updated": "2023-03-06T23:58:22.530650+00:00"
+      },
+      {
+        "created": "2016-07-22T00:00:00+00:00",
+        "id": "1477393",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1477393?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1477393",
+          "cv": "https://inspirehep.net/api/literature/1477393?format=cv",
+          "json": "https://inspirehep.net/api/literature/1477393?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1477393?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1477393?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1477393?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1607.06278"
+            }
+          ],
+          "control_number": 1477393,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.94.084039"
+            }
+          ],
+          "earliest_date": "2016-07-21",
+          "preprint_date": "2016-07-21",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Solutions in the generalized Proca theory with the nonminimal coupling to the Einstein tensor"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:10:48.700038+00:00"
+      },
+      {
+        "created": "2016-07-13T00:00:00+00:00",
+        "id": "1475247",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1475247?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1475247",
+          "cv": "https://inspirehep.net/api/literature/1475247?format=cv",
+          "json": "https://inspirehep.net/api/literature/1475247?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1475247?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1475247?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1475247?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1607.03299"
+            }
+          ],
+          "control_number": 1475247,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1475-7516/2016/11/019"
+            }
+          ],
+          "earliest_date": "2016-07-12",
+          "preprint_date": "2016-07-12",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Rapidly rotating neutron stars with a massive scalar field—structure and universal relations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Rapidly rotating neutron stars with a massive scalar field - structure and universal relations"
+            }
+          ]
+        },
+        "updated": "2023-03-06T21:56:05.723882+00:00"
+      },
+      {
+        "created": "2016-06-29T00:00:00+00:00",
+        "id": "1472809",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1472809?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1472809",
+          "cv": "https://inspirehep.net/api/literature/1472809?format=cv",
+          "json": "https://inspirehep.net/api/literature/1472809?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1472809?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1472809?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1472809?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1606.08569"
+            }
+          ],
+          "control_number": 1472809,
+          "earliest_date": "2016-06-28",
+          "preprint_date": "2016-06-28",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Horndeski black hole observational properties"
+            },
+            {
+              "source": "arXiv",
+              "title": "Horndeski black hole geodesics"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:27:55.751594+00:00"
+      },
+      {
+        "created": "2016-06-22T00:00:00+00:00",
+        "id": "1471490",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1471490?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1471490",
+          "cv": "https://inspirehep.net/api/literature/1471490?format=cv",
+          "json": "https://inspirehep.net/api/literature/1471490?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1471490?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1471490?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1471490?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1606.06627"
+            }
+          ],
+          "control_number": 1471490,
+          "dois": [
+            {
+              "value": "10.1088/0264-9381/33/23/235014"
+            }
+          ],
+          "earliest_date": "2016-06-21",
+          "preprint_date": "2016-06-21",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Relativistic Stars in Beyond Horndeski Theories"
+            }
+          ]
+        },
+        "updated": "2023-03-09T17:56:42.811992+00:00"
+      },
+      {
+        "created": "2016-04-27T00:00:00+00:00",
+        "id": "1452538",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1452538?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1452538",
+          "cv": "https://inspirehep.net/api/literature/1452538?format=cv",
+          "json": "https://inspirehep.net/api/literature/1452538?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1452538?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1452538?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1452538?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1604.07742"
+            }
+          ],
+          "control_number": 1452538,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.93.124041"
+            }
+          ],
+          "earliest_date": "2016-04-26",
+          "preprint_date": "2016-04-26",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Relativistic stars in scalar-tensor theories with disformal coupling"
+            }
+          ]
+        },
+        "updated": "2023-03-09T19:28:00.481858+00:00"
+      },
+      {
+        "created": "2016-04-22T00:00:00+00:00",
+        "id": "1449985",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1449985?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1449985",
+          "cv": "https://inspirehep.net/api/literature/1449985?format=cv",
+          "json": "https://inspirehep.net/api/literature/1449985?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1449985?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1449985?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1449985?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1604.06402"
+            }
+          ],
+          "control_number": 1449985,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/0264-9381/33/15/154002"
+            }
+          ],
+          "earliest_date": "2016-04-21",
+          "preprint_date": "2016-04-21",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black holes and stars in Horndeski theory"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:00:18.262708+00:00"
+      },
+      {
+        "created": "2016-04-08T00:00:00+00:00",
+        "id": "1444509",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1444509?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1444509",
+          "cv": "https://inspirehep.net/api/literature/1444509?format=cv",
+          "json": "https://inspirehep.net/api/literature/1444509?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1444509?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1444509?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1444509?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "1604.02121"
+            }
+          ],
+          "control_number": 1444509,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.93.124057"
+            }
+          ],
+          "earliest_date": "2016-04-07",
+          "preprint_date": "2016-04-07",
+          "titles": [
+            {
+              "title": "Boson stars in biscalar extensions of Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Boson Stars in bi-scalar extensions of Horndeski gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Boson stars in biscalar extensions of Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2025-07-20T16:24:51.449179+00:00"
+      },
+      {
+        "created": "2015-12-21T00:00:00+00:00",
+        "id": "1410571",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1410571?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1410571",
+          "cv": "https://inspirehep.net/api/literature/1410571?format=cv",
+          "json": "https://inspirehep.net/api/literature/1410571?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1410571?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1410571?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1410571?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1512.05934"
+            }
+          ],
+          "control_number": 1410571,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.95.044009"
+            },
+            {
+              "value": "10.1103/PhysRevD.95.044009"
+            }
+          ],
+          "earliest_date": "2015-12-18",
+          "preprint_date": "2015-12-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational Collapse of a Homogeneous Scalar Field Coupled Kinematically to Einstein Tensor"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational Collapse in Horndeski Theory"
+            }
+          ]
+        },
+        "updated": "2025-08-13T07:56:04.689633+00:00"
+      },
+      {
+        "created": "2013-06-12T00:00:00+00:00",
+        "id": "1238073",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1238073?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1238073",
+          "cv": "https://inspirehep.net/api/literature/1238073?format=cv",
+          "json": "https://inspirehep.net/api/literature/1238073?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1238073?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1238073?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1238073?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1306.2473"
+            }
+          ],
+          "control_number": 1238073,
+          "dois": [
+            {
+              "value": "10.1007/s10714-016-2131-5"
+            }
+          ],
+          "earliest_date": "2013-06-11",
+          "preprint_date": "2013-06-11",
+          "titles": [
+            {
+              "title": "The 1+1+2 formalism for Scalar-Tensor gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "On the existence of the Schwarzschild solution and Birkhoff's Theorem in Scalar-Tensor gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "The 1+1+2 formalism for Scalar-Tensor gravity"
+            }
+          ]
+        },
+        "updated": "2023-03-06T18:32:14.339655+00:00"
+      }
+    ],
+    "total": 98
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1428628&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1428628&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1428628&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1428628&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1428628&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1428628&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1428628&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

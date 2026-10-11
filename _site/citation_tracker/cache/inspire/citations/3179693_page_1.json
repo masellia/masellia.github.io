@@ -1,0 +1,116 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-09-10T05:57:55.358759+00:00",
+        "id": "3201798",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3201798?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3201798",
+          "cv": "https://inspirehep.net/api/literature/3201798?format=cv",
+          "json": "https://inspirehep.net/api/literature/3201798?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3201798?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3201798?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3201798?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2609.08995"
+            }
+          ],
+          "control_number": 3201798,
+          "earliest_date": "2026-09-08",
+          "preprint_date": "2026-09-08",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Second-order Teukolsky calculations for nonspinning, quasicircular binaries"
+            }
+          ]
+        },
+        "updated": "2026-09-14T15:04:20.557868+00:00"
+      },
+      {
+        "created": "2026-09-09T04:14:31.329991+00:00",
+        "id": "3200958",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3200958?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3200958",
+          "cv": "https://inspirehep.net/api/literature/3200958?format=cv",
+          "json": "https://inspirehep.net/api/literature/3200958?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3200958?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3200958?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3200958?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2609.06861"
+            }
+          ],
+          "control_number": 3200958,
+          "earliest_date": "2026-09-06",
+          "preprint_date": "2026-09-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Dissection of a merger-ringdown waveform in the small-mass-ratio limit"
+            }
+          ]
+        },
+        "updated": "2026-09-10T05:25:30.662928+00:00"
+      },
+      {
+        "created": "2026-08-31T03:08:20.033873+00:00",
+        "id": "3197447",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3197447?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3197447",
+          "cv": "https://inspirehep.net/api/literature/3197447?format=cv",
+          "json": "https://inspirehep.net/api/literature/3197447?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3197447?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3197447?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3197447?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2608.28037"
+            }
+          ],
+          "control_number": 3197447,
+          "earliest_date": "2026-08-28",
+          "preprint_date": "2026-08-28",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Devoured by a Hairy Gargantua: Probing Massive Scalar Charges with Non-minimal Curvature Coupling with Extreme-Mass-Ratio Inspirals"
+            }
+          ]
+        },
+        "updated": "2026-09-23T02:00:29.960140+00:00"
+      }
+    ],
+    "total": 3
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3179693&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3179693&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3179693&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3179693&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3179693&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3179693&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3179693&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

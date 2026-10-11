@@ -1,0 +1,407 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-03-04T04:25:40.579956+00:00",
+        "id": "3125375",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3125375?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3125375",
+          "cv": "https://inspirehep.net/api/literature/3125375?format=cv",
+          "json": "https://inspirehep.net/api/literature/3125375?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3125375?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3125375?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3125375?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.CO",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2603.03165"
+            }
+          ],
+          "control_number": 3125375,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2026/09/055"
+            }
+          ],
+          "earliest_date": "2026-03-03",
+          "preprint_date": "2026-03-03",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Testing gravitational wave polarizations with LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing gravitational wave polarizations with LISA"
+            }
+          ]
+        },
+        "updated": "2026-09-10T12:44:05.045179+00:00"
+      },
+      {
+        "created": "2026-07-01T15:09:54.720019+00:00",
+        "id": "3175698",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3175698?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3175698",
+          "cv": "https://inspirehep.net/api/literature/3175698?format=cv",
+          "json": "https://inspirehep.net/api/literature/3175698?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3175698?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3175698?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3175698?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3175698,
+          "earliest_date": "2026-02-27",
+          "titles": [
+            {
+              "source": "Basque U., Bilbao",
+              "title": "Theoretical and phenomenological aspects of gravitational waves in Hassan-Rosen bimetric theory"
+            }
+          ]
+        },
+        "updated": "2026-07-02T15:26:36.117437+00:00"
+      },
+      {
+        "created": "2026-01-08T04:16:54.579704+00:00",
+        "id": "3098398",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3098398?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3098398",
+          "cv": "https://inspirehep.net/api/literature/3098398?format=cv",
+          "json": "https://inspirehep.net/api/literature/3098398?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3098398?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3098398?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3098398?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2601.03374"
+            }
+          ],
+          "control_number": 3098398,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/ckd6-tgn6"
+            }
+          ],
+          "earliest_date": "2026-01-06",
+          "preprint_date": "2026-01-06",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing beyond-vacuum general relativistic effects with extreme mass-ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing beyond-vacuum general relativistic effects with extreme mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2026-07-10T15:33:29.116405+00:00"
+      },
+      {
+        "created": "2025-01-29T04:24:17.211219+00:00",
+        "id": "2873398",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2873398?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2873398",
+          "cv": "https://inspirehep.net/api/literature/2873398?format=cv",
+          "json": "https://inspirehep.net/api/literature/2873398?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2873398?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2873398?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2873398?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2501.16984"
+            }
+          ],
+          "control_number": 2873398,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.084084"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.111.084084"
+            }
+          ],
+          "earliest_date": "2025-01-28",
+          "preprint_date": "2025-01-28",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Dipolar perturbations of nonbidiagonal black holes in bigravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Dipolar perturbations of nonbidiagonal black holes in bigravity"
+            }
+          ]
+        },
+        "updated": "2025-07-17T13:39:12.889003+00:00"
+      },
+      {
+        "created": "2024-11-26T04:27:51.976960+00:00",
+        "id": "2851763",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2851763?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2851763",
+          "cv": "https://inspirehep.net/api/literature/2851763?format=cv",
+          "json": "https://inspirehep.net/api/literature/2851763?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2851763?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2851763?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2851763?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2411.16538"
+            }
+          ],
+          "control_number": 2851763,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.044055"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.111.044055"
+            }
+          ],
+          "earliest_date": "2024-11-25",
+          "preprint_date": "2024-11-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational waves in massive gravity: Waveforms generated by a particle plunging into a black hole and the excitation of quasinormal modes and quasibound states"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational waves in massive gravity: Waveforms generated by a particle plunging into a black hole and the excitation of quasinormal modes and quasibound states"
+            }
+          ]
+        },
+        "updated": "2025-05-28T10:00:41.573988+00:00"
+      },
+      {
+        "created": "2024-10-18T04:27:21.855251+00:00",
+        "id": "2840983",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2840983?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2840983",
+          "cv": "https://inspirehep.net/api/literature/2840983?format=cv",
+          "json": "https://inspirehep.net/api/literature/2840983?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2840983?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2840983?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2840983?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2410.13552"
+            }
+          ],
+          "control_number": 2840983,
+          "earliest_date": "2024-10-17",
+          "preprint_date": "2024-10-17",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Hairy black holes and other compact objects in theories of gravity"
+            }
+          ]
+        },
+        "updated": "2025-04-28T01:54:13.558604+00:00"
+      },
+      {
+        "created": "2024-04-16T03:55:30.780861+00:00",
+        "id": "2777334",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2777334?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2777334",
+          "cv": "https://inspirehep.net/api/literature/2777334?format=cv",
+          "json": "https://inspirehep.net/api/literature/2777334?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2777334?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2777334?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2777334?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "2404.09181"
+            }
+          ],
+          "control_number": 2777334,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/01/108"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/01/108"
+            }
+          ],
+          "earliest_date": "2024-04-14",
+          "preprint_date": "2024-04-14",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "The Lunar Gravitational-wave Antenna: mission studies and science case"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Lunar Gravitational-wave Antenna: Mission Studies and Science Case"
+            }
+          ]
+        },
+        "updated": "2026-04-22T19:55:43.365174+00:00"
+      },
+      {
+        "created": "2023-09-20T03:30:42.184459+00:00",
+        "id": "2699637",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2699637?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2699637",
+          "cv": "https://inspirehep.net/api/literature/2699637?format=cv",
+          "json": "https://inspirehep.net/api/literature/2699637?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2699637?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2699637?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2699637?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2309.10028"
+            }
+          ],
+          "control_number": 2699637,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.044068"
+            }
+          ],
+          "earliest_date": "2023-09-18",
+          "preprint_date": "2023-09-18",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Adiabatic inspirals under electromagnetic radiation reaction on Kerr spacetime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Adiabatic inspirals under electromagnetic radiation reaction on Kerr spacetime"
+            }
+          ]
+        },
+        "updated": "2025-05-28T10:56:10.705615+00:00"
+      },
+      {
+        "created": "2023-04-05T03:16:00.202838+00:00",
+        "id": "2648872",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2648872?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2648872",
+          "cv": "https://inspirehep.net/api/literature/2648872?format=cv",
+          "json": "https://inspirehep.net/api/literature/2648872?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2648872?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2648872?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2648872?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2304.01265"
+            }
+          ],
+          "control_number": 2648872,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.L041502"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.L041502"
+            }
+          ],
+          "earliest_date": "2023-04-03",
+          "preprint_date": "2023-04-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Black hole superradiant instability for massive spin-2 fields"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black hole superradiant instability for massive spin-2 fields"
+            }
+          ]
+        },
+        "updated": "2025-07-11T18:59:01.661879+00:00"
+      }
+    ],
+    "total": 9
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2648846&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2648846&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2648846&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2648846&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2648846&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2648846&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2648846&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

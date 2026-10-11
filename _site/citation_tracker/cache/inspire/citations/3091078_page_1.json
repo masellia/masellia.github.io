@@ -1,0 +1,553 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-09-10T06:09:15.036183+00:00",
+        "id": "3201904",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3201904?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3201904",
+          "cv": "https://inspirehep.net/api/literature/3201904?format=cv",
+          "json": "https://inspirehep.net/api/literature/3201904?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3201904?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3201904?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3201904?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2609.09531"
+            }
+          ],
+          "control_number": 3201904,
+          "earliest_date": "2026-09-08",
+          "preprint_date": "2026-09-08",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "From driven oscillations to free ringdown: a particle plunging into Kerr"
+            }
+          ]
+        },
+        "updated": "2026-09-11T03:54:25.531320+00:00"
+      },
+      {
+        "created": "2026-09-09T04:14:31.329991+00:00",
+        "id": "3200958",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3200958?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3200958",
+          "cv": "https://inspirehep.net/api/literature/3200958?format=cv",
+          "json": "https://inspirehep.net/api/literature/3200958?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3200958?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3200958?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3200958?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2609.06861"
+            }
+          ],
+          "control_number": 3200958,
+          "earliest_date": "2026-09-06",
+          "preprint_date": "2026-09-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Dissection of a merger-ringdown waveform in the small-mass-ratio limit"
+            }
+          ]
+        },
+        "updated": "2026-09-10T05:25:30.662928+00:00"
+      },
+      {
+        "created": "2026-09-04T04:06:41.386095+00:00",
+        "id": "3199474",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3199474?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3199474",
+          "cv": "https://inspirehep.net/api/literature/3199474?format=cv",
+          "json": "https://inspirehep.net/api/literature/3199474?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3199474?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3199474?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3199474?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2609.03009"
+            }
+          ],
+          "control_number": 3199474,
+          "earliest_date": "2026-09-02",
+          "preprint_date": "2026-09-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Excitation factors and exceptional points of Kerr-de Sitter quasinormal modes"
+            }
+          ]
+        },
+        "updated": "2026-09-09T18:30:53.882390+00:00"
+      },
+      {
+        "created": "2026-06-25T04:22:03.791665+00:00",
+        "id": "3172546",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3172546?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3172546",
+          "cv": "https://inspirehep.net/api/literature/3172546?format=cv",
+          "json": "https://inspirehep.net/api/literature/3172546?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3172546?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3172546?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3172546?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2606.25021"
+            }
+          ],
+          "control_number": 3172546,
+          "earliest_date": "2026-06-23",
+          "preprint_date": "2026-06-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Modeling Direct Waves in Binary Black Hole Ringdowns"
+            }
+          ]
+        },
+        "updated": "2026-06-26T04:09:04.163187+00:00"
+      },
+      {
+        "created": "2026-06-08T04:06:07.980933+00:00",
+        "id": "3165844",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3165844?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3165844",
+          "cv": "https://inspirehep.net/api/literature/3165844?format=cv",
+          "json": "https://inspirehep.net/api/literature/3165844?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3165844?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3165844?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3165844?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2606.07173"
+            }
+          ],
+          "control_number": 3165844,
+          "earliest_date": "2026-06-05",
+          "preprint_date": "2026-06-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Vanishing of all redshift modes in Schwarzschild ringdown"
+            }
+          ]
+        },
+        "updated": "2026-09-21T08:54:18.302599+00:00"
+      },
+      {
+        "created": "2026-06-02T04:22:51.038386+00:00",
+        "id": "3164340",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3164340?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3164340",
+          "cv": "https://inspirehep.net/api/literature/3164340?format=cv",
+          "json": "https://inspirehep.net/api/literature/3164340?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3164340?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3164340?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3164340?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2606.02146"
+            }
+          ],
+          "control_number": 3164340,
+          "earliest_date": "2026-06-01",
+          "preprint_date": "2026-06-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Spectral suppression of black hole ringdown tails"
+            }
+          ]
+        },
+        "updated": "2026-09-10T03:11:22.889080+00:00"
+      },
+      {
+        "created": "2026-05-29T04:17:09.916929+00:00",
+        "id": "3162396",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3162396?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3162396",
+          "cv": "https://inspirehep.net/api/literature/3162396?format=cv",
+          "json": "https://inspirehep.net/api/literature/3162396?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3162396?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3162396?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3162396?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "astro-ph.CO",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2605.29923"
+            }
+          ],
+          "control_number": 3162396,
+          "earliest_date": "2026-05-28",
+          "preprint_date": "2026-05-28",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black Hole Photon Rings Saturate the Quantum Chaos Bound"
+            }
+          ]
+        },
+        "updated": "2026-06-04T08:32:46.147778+00:00"
+      },
+      {
+        "created": "2026-05-26T04:20:45.131557+00:00",
+        "id": "3159211",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3159211?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3159211",
+          "cv": "https://inspirehep.net/api/literature/3159211?format=cv",
+          "json": "https://inspirehep.net/api/literature/3159211?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3159211?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3159211?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3159211?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2605.24704"
+            }
+          ],
+          "control_number": 3159211,
+          "earliest_date": "2026-05-23",
+          "preprint_date": "2026-05-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Shaping black hole resonances I. Black hole ringdown as a spectral filtering process"
+            }
+          ]
+        },
+        "updated": "2026-06-25T03:10:17.583796+00:00"
+      },
+      {
+        "created": "2026-05-19T04:20:10.788231+00:00",
+        "id": "3157249",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3157249?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3157249",
+          "cv": "https://inspirehep.net/api/literature/3157249?format=cv",
+          "json": "https://inspirehep.net/api/literature/3157249?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3157249?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3157249?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3157249?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "cond-mat.stat-mech",
+                "hep-th"
+              ],
+              "value": "2605.17840"
+            }
+          ],
+          "control_number": 3157249,
+          "earliest_date": "2026-05-18",
+          "preprint_date": "2026-05-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Pole Skipping, Avoided Crossing, and Resonant Excitation in Kerr Quasinormal Modes near Algebraically Special Frequencies"
+            }
+          ]
+        },
+        "updated": "2026-07-28T00:21:42.671170+00:00"
+      },
+      {
+        "created": "2026-05-12T04:21:47.939125+00:00",
+        "id": "3154256",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3154256?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3154256",
+          "cv": "https://inspirehep.net/api/literature/3154256?format=cv",
+          "json": "https://inspirehep.net/api/literature/3154256?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3154256?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3154256?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3154256?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2605.09250"
+            }
+          ],
+          "control_number": 3154256,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/nngm-dhpl"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/nngm-dhpl"
+            }
+          ],
+          "earliest_date": "2026-05-10",
+          "preprint_date": "2026-05-10",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Efficient and stable computation of gravitational-wave fluxes from generic Kerr orbits via a unified Heun-function framework"
+            },
+            {
+              "source": "arXiv",
+              "title": "Efficient and Stable Computation of Gravitational-Wave Fluxes from Generic Kerr Orbits via a Unified HeunC Framework"
+            },
+            {
+              "source": "arXiv",
+              "title": "Efficient and stable computation of gravitational-wave fluxes from generic Kerr orbits via a unified Heun-function framework"
+            }
+          ]
+        },
+        "updated": "2026-09-08T02:47:26.431375+00:00"
+      },
+      {
+        "created": "2026-03-23T04:09:00.800923+00:00",
+        "id": "3132437",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3132437?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3132437",
+          "cv": "https://inspirehep.net/api/literature/3132437?format=cv",
+          "json": "https://inspirehep.net/api/literature/3132437?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3132437?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3132437?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3132437?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2603.19913"
+            }
+          ],
+          "control_number": 3132437,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/f1lp-z5d2"
+            }
+          ],
+          "earliest_date": "2026-03-20",
+          "preprint_date": "2026-03-20",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework"
+            },
+            {
+              "source": "arXiv",
+              "title": "Modeling the merger-ringdown of an eccentric test-mass inspiral into a Kerr black hole using the effective-one-body framework"
+            }
+          ]
+        },
+        "updated": "2026-08-31T11:35:30.066206+00:00"
+      },
+      {
+        "created": "2026-03-06T04:16:27.177150+00:00",
+        "id": "3126856",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3126856?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3126856",
+          "cv": "https://inspirehep.net/api/literature/3126856?format=cv",
+          "json": "https://inspirehep.net/api/literature/3126856?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3126856?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3126856?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3126856?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2603.04682"
+            }
+          ],
+          "control_number": 3126856,
+          "earliest_date": "2026-03-04",
+          "preprint_date": "2026-03-04",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Going into a tailspin near the abyss: analytic solutions for spinning particles on near equatorial, plunging orbits in Kerr spacetime"
+            }
+          ]
+        },
+        "updated": "2026-03-13T20:00:15.804729+00:00"
+      },
+      {
+        "created": "2026-01-05T04:09:54.088253+00:00",
+        "id": "3096879",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3096879?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3096879",
+          "cv": "https://inspirehep.net/api/literature/3096879?format=cv",
+          "json": "https://inspirehep.net/api/literature/3096879?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3096879?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3096879?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3096879?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "2601.00704"
+            }
+          ],
+          "control_number": 3096879,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/q6q5-lmwt"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/q6q5-lmwt"
+            }
+          ],
+          "earliest_date": "2026-01-02",
+          "preprint_date": "2026-01-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Exceptional lines and excitation of nearly double-pole quasinormal modes: A semianalytic study in the Nariai black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Exceptional Lines and Excitation of (Nearly) Double-Pole Quasinormal Modes: A Semi-Analytic Study in the Nariai Black Hole"
+            }
+          ]
+        },
+        "updated": "2026-06-24T13:15:53.217214+00:00"
+      },
+      {
+        "created": "2025-06-02T04:17:51.850568+00:00",
+        "id": "2927078",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2927078?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2927078",
+          "cv": "https://inspirehep.net/api/literature/2927078?format=cv",
+          "json": "https://inspirehep.net/api/literature/2927078?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2927078?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2927078?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2927078?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2505.23895"
+            }
+          ],
+          "control_number": 2927078,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ae59e2"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/ae59e2"
+            }
+          ],
+          "earliest_date": "2025-05-29",
+          "preprint_date": "2025-05-29",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Black hole spectroscopy: from theory to experiment"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black hole spectroscopy: from theory to experiment"
+            }
+          ]
+        },
+        "updated": "2026-08-28T12:55:44.697818+00:00"
+      }
+    ],
+    "total": 14
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3091078&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3091078&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3091078&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3091078&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3091078&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3091078&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3091078&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

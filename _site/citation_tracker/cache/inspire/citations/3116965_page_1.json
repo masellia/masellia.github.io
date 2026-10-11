@@ -1,0 +1,85 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-05-13T04:23:06.034135+00:00",
+        "id": "3154807",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3154807?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3154807",
+          "cv": "https://inspirehep.net/api/literature/3154807?format=cv",
+          "json": "https://inspirehep.net/api/literature/3154807?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3154807?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3154807?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3154807?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2605.11283"
+            }
+          ],
+          "control_number": 3154807,
+          "earliest_date": "2026-05-11",
+          "preprint_date": "2026-05-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black Hole Binary Detection Landscape for the Laser Interferometer Lunar Antenna (LILA): Signal-to-Noise Calculations & Science Cases"
+            }
+          ]
+        },
+        "updated": "2026-05-14T04:14:05.322568+00:00"
+      },
+      {
+        "created": "2026-04-27T04:06:26.173703+00:00",
+        "id": "3148977",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3148977?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3148977",
+          "cv": "https://inspirehep.net/api/literature/3148977?format=cv",
+          "json": "https://inspirehep.net/api/literature/3148977?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3148977?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3148977?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3148977?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.CO",
+                "gr-qc"
+              ],
+              "value": "2604.22441"
+            }
+          ],
+          "control_number": 3148977,
+          "earliest_date": "2026-04-24",
+          "preprint_date": "2026-04-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "How lonely are the Binary Compact Objects Detected by the LIGO-Virgo-KAGRA Collaboration?"
+            }
+          ]
+        },
+        "updated": "2026-05-31T23:26:14.344033+00:00"
+      }
+    ],
+    "total": 2
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3116965&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3116965&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3116965&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3116965&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3116965&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3116965&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3116965&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

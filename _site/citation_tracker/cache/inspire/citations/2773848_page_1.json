@@ -1,0 +1,641 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-06-25T04:24:05.963810+00:00",
+        "id": "3172574",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3172574?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3172574",
+          "cv": "https://inspirehep.net/api/literature/3172574?format=cv",
+          "json": "https://inspirehep.net/api/literature/3172574?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3172574?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3172574?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3172574?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2606.25972"
+            }
+          ],
+          "control_number": 3172574,
+          "earliest_date": "2026-06-24",
+          "preprint_date": "2026-06-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Radial Perturbations of Black Holes in DHOST Theories"
+            }
+          ]
+        },
+        "updated": "2026-08-14T06:05:20.113431+00:00"
+      },
+      {
+        "created": "2026-04-03T04:18:30.455104+00:00",
+        "id": "3138845",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3138845?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3138845",
+          "cv": "https://inspirehep.net/api/literature/3138845?format=cv",
+          "json": "https://inspirehep.net/api/literature/3138845?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3138845?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3138845?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3138845?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2604.01631"
+            }
+          ],
+          "control_number": 3138845,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/8r69-19zy"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/8r69-19zy"
+            }
+          ],
+          "earliest_date": "2026-04-02",
+          "preprint_date": "2026-04-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Nonperturbative suppression of beyond-general-relativity effects in quadratic gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Nonperturbative suppression of beyond-General-Relativity effects in quadratic gravity"
+            }
+          ]
+        },
+        "updated": "2026-08-20T03:24:29.433735+00:00"
+      },
+      {
+        "created": "2025-11-26T04:18:26.901295+00:00",
+        "id": "3086362",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3086362?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3086362",
+          "cv": "https://inspirehep.net/api/literature/3086362?format=cv",
+          "json": "https://inspirehep.net/api/literature/3086362?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3086362?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3086362?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3086362?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2511.20301"
+            }
+          ],
+          "control_number": 3086362,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/dtd2-5vlg"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/dtd2-5vlg"
+            }
+          ],
+          "earliest_date": "2025-11-25",
+          "preprint_date": "2025-11-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasinormal mode ringing of binary black hole mergers in scalar-Gauss-Bonnet gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasi-Normal Mode Ringing of Binary Black Hole Mergers in Scalar-Gauss-Bonnet Gravity"
+            }
+          ]
+        },
+        "updated": "2026-02-25T04:08:39.018438+00:00"
+      },
+      {
+        "created": "2025-07-24T04:15:28.351110+00:00",
+        "id": "2953529",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2953529?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2953529",
+          "cv": "https://inspirehep.net/api/literature/2953529?format=cv",
+          "json": "https://inspirehep.net/api/literature/2953529?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2953529?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2953529?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2953529?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2507.17329"
+            }
+          ],
+          "control_number": 2953529,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/zwhl-sqqs"
+            }
+          ],
+          "earliest_date": "2025-07-23",
+          "preprint_date": "2025-07-23",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Greybody factors in scalar-tensor gravity and beyond"
+            },
+            {
+              "source": "arXiv",
+              "title": "Greybody factors in Horndeski gravity and beyond"
+            },
+            {
+              "source": "arXiv",
+              "title": "Greybody factors in scalar-tensor gravity and beyond"
+            }
+          ]
+        },
+        "updated": "2025-10-15T04:09:12.202790+00:00"
+      },
+      {
+        "created": "2025-07-08T04:15:25.900101+00:00",
+        "id": "2942977",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2942977?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2942977",
+          "cv": "https://inspirehep.net/api/literature/2942977?format=cv",
+          "json": "https://inspirehep.net/api/literature/2942977?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2942977?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2942977?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2942977?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2507.03983"
+            }
+          ],
+          "control_number": 2942977,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/m563-8n8w"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/m563-8n8w"
+            }
+          ],
+          "earliest_date": "2025-07-05",
+          "preprint_date": "2025-07-05",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "In-depth analysis of violations of the strong equivalence principle in scalarized Einstein-Gauss-Bonnet theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "In-depth analysis of violations of the (strong) equivalence principle in scalarized Einstein-Gauss-Bonnet theories"
+            }
+          ]
+        },
+        "updated": "2025-10-23T15:37:03.515241+00:00"
+      },
+      {
+        "created": "2025-06-02T14:40:16.865922+00:00",
+        "id": "2927757",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2927757?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2927757",
+          "cv": "https://inspirehep.net/api/literature/2927757?format=cv",
+          "json": "https://inspirehep.net/api/literature/2927757?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2927757?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2927757?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2927757?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2927757,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.nuclphysb.2025.116973"
+            }
+          ],
+          "earliest_date": "2025-05-29",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Quasinormal modes of hairy black holes with mixed couplings"
+            }
+          ]
+        },
+        "updated": "2025-07-02T03:59:57.624754+00:00"
+      },
+      {
+        "created": "2025-03-31T04:10:01.820422+00:00",
+        "id": "2905694",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2905694?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2905694",
+          "cv": "https://inspirehep.net/api/literature/2905694?format=cv",
+          "json": "https://inspirehep.net/api/literature/2905694?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2905694?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2905694?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2905694?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2503.22348"
+            }
+          ],
+          "control_number": 2905694,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/05/102"
+            }
+          ],
+          "earliest_date": "2025-03-28",
+          "preprint_date": "2025-03-28",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Axial perturbations of black holes with primary scalar hair"
+            },
+            {
+              "source": "arXiv",
+              "title": "Axial perturbations of black holes with primary scalar hair"
+            }
+          ]
+        },
+        "updated": "2026-08-14T06:06:32.196674+00:00"
+      },
+      {
+        "created": "2025-03-19T04:24:27.247162+00:00",
+        "id": "2901464",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2901464?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2901464",
+          "cv": "https://inspirehep.net/api/literature/2901464?format=cv",
+          "json": "https://inspirehep.net/api/literature/2901464?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2901464?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2901464?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2901464?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.GA",
+                "hep-th"
+              ],
+              "value": "2503.13339"
+            }
+          ],
+          "control_number": 2901464,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/l23c-kklp"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/l23c-kklp"
+            }
+          ],
+          "earliest_date": "2025-03-17",
+          "preprint_date": "2025-03-17",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Exploring scalarized Einstein-Gauss-Bonnet theories through the lens of parametrized post-Newtonian formalism"
+            },
+            {
+              "source": "arXiv",
+              "title": "Exploring Scalarized Einstein-Gauss-Bonnet Theories Through the Lens of Parametrized Post-Newtonian Formalism"
+            }
+          ]
+        },
+        "updated": "2025-07-11T04:04:27.291404+00:00"
+      },
+      {
+        "created": "2025-03-18T04:51:07.629334+00:00",
+        "id": "2901213",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2901213?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2901213",
+          "cv": "https://inspirehep.net/api/literature/2901213?format=cv",
+          "json": "https://inspirehep.net/api/literature/2901213?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2901213?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2901213?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2901213?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "nucl-th"
+              ],
+              "value": "2503.12263"
+            }
+          ],
+          "control_number": 2901213,
+          "dois": [
+            {
+              "value": "10.1088/1475-7516/2026/03/081"
+            }
+          ],
+          "earliest_date": "2025-03-15",
+          "preprint_date": "2025-03-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The Science of the Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2026-09-18T17:16:43.413509+00:00"
+      },
+      {
+        "created": "2025-01-16T04:18:02.054600+00:00",
+        "id": "2869349",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2869349?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2869349",
+          "cv": "https://inspirehep.net/api/literature/2869349?format=cv",
+          "json": "https://inspirehep.net/api/literature/2869349?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2869349?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2869349?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2869349?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2501.08557"
+            }
+          ],
+          "control_number": 2869349,
+          "earliest_date": "2025-01-14",
+          "preprint_date": "2025-01-14",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Boundary conditions of general black hole perturbations"
+            }
+          ]
+        },
+        "updated": "2025-01-25T04:06:42.323195+00:00"
+      },
+      {
+        "created": "2024-12-20T04:22:07.523866+00:00",
+        "id": "2861374",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2861374?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2861374",
+          "cv": "https://inspirehep.net/api/literature/2861374?format=cv",
+          "json": "https://inspirehep.net/api/literature/2861374?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2861374?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2861374?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2861374?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2412.15037"
+            }
+          ],
+          "control_number": 2861374,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.064059"
+            }
+          ],
+          "earliest_date": "2024-12-19",
+          "preprint_date": "2024-12-19",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational quasinormal modes of black holes in quadratic gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational quasinormal modes in quadratic gravity"
+            },
+            {
+              "source": "arXiv pdf",
+              "title": "Gravitational quasinormal modes of black holes in quadratic gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational quasinormal modes of black holes in quadratic gravity"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:42:08.284908+00:00"
+      },
+      {
+        "created": "2024-12-02T04:17:34.612259+00:00",
+        "id": "2854078",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2854078?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2854078",
+          "cv": "https://inspirehep.net/api/literature/2854078?format=cv",
+          "json": "https://inspirehep.net/api/literature/2854078?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2854078?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2854078?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2854078?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2411.19069"
+            }
+          ],
+          "control_number": 2854078,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/sq4g-mmxp"
+            }
+          ],
+          "earliest_date": "2024-11-28",
+          "preprint_date": "2024-11-28",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasinormal modes of spontaneous scalarized Kerr black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes of spontaneous scalarized Kerr black holes"
+            }
+          ]
+        },
+        "updated": "2025-11-20T15:33:41.082376+00:00"
+      },
+      {
+        "created": "2024-10-16T04:27:25.471680+00:00",
+        "id": "2840297",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2840297?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2840297",
+          "cv": "https://inspirehep.net/api/literature/2840297?format=cv",
+          "json": "https://inspirehep.net/api/literature/2840297?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2840297?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2840297?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2840297?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "astro-ph.CO",
+                "gr-qc"
+              ],
+              "value": "2410.10973"
+            }
+          ],
+          "control_number": 2840297,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/08/086"
+            }
+          ],
+          "earliest_date": "2024-10-14",
+          "preprint_date": "2024-10-14",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Scalar-Gauss-Bonnet gravity: infrared causality and detectability of GW observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Scalar-Gauss-Bonnet gravity: Infrared causality and detectability of GW observations"
+            }
+          ]
+        },
+        "updated": "2025-11-17T11:49:09.840326+00:00"
+      },
+      {
+        "created": "2024-06-04T13:19:32.682686+00:00",
+        "id": "2794071",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2794071?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2794071",
+          "cv": "https://inspirehep.net/api/literature/2794071?format=cv",
+          "json": "https://inspirehep.net/api/literature/2794071?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2794071?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2794071?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2794071?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2406.01508"
+            }
+          ],
+          "control_number": 2794071,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.044029"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.110.044029"
+            }
+          ],
+          "earliest_date": "2024-06-03",
+          "preprint_date": "2024-06-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasinormal modes of hairy black holes in shift-symmetric theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes of hairy black holes in shift-symmetric theories"
+            }
+          ]
+        },
+        "updated": "2025-05-16T13:29:24.645546+00:00"
+      }
+    ],
+    "total": 14
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2773848&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2773848&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2773848&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2773848&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2773848&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2773848&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2773848&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

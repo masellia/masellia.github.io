@@ -1,0 +1,969 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-04-15T04:23:05.142000+00:00",
+        "id": "3144772",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3144772?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3144772",
+          "cv": "https://inspirehep.net/api/literature/3144772?format=cv",
+          "json": "https://inspirehep.net/api/literature/3144772?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3144772?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3144772?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3144772?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2604.11903"
+            }
+          ],
+          "control_number": 3144772,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/lxtg-6psv"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/lxtg-6psv"
+            }
+          ],
+          "earliest_date": "2026-04-13",
+          "preprint_date": "2026-04-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Post-Newtonian inspiral waveform model for eccentric precessing binaries with higher-order modes and matter effects"
+            },
+            {
+              "source": "arXiv",
+              "title": "Post-Newtonian inspiral waveform model for eccentric precessing binaries with higher-order modes and matter effects"
+            }
+          ]
+        },
+        "updated": "2026-08-13T03:28:28.021464+00:00"
+      },
+      {
+        "created": "2026-04-13T04:10:38.084200+00:00",
+        "id": "3143537",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3143537?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3143537",
+          "cv": "https://inspirehep.net/api/literature/3143537?format=cv",
+          "json": "https://inspirehep.net/api/literature/3143537?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3143537?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3143537?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3143537?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2604.08679"
+            }
+          ],
+          "control_number": 3143537,
+          "earliest_date": "2026-04-09",
+          "preprint_date": "2026-04-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal Response of Compact Objects"
+            }
+          ]
+        },
+        "updated": "2026-08-26T02:31:49.989729+00:00"
+      },
+      {
+        "created": "2025-09-15T04:05:44.775589+00:00",
+        "id": "2969269",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2969269?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2969269",
+          "cv": "https://inspirehep.net/api/literature/2969269?format=cv",
+          "json": "https://inspirehep.net/api/literature/2969269?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2969269?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2969269?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2969269?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2509.10420"
+            }
+          ],
+          "control_number": 2969269,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/rxdd-hq82"
+            }
+          ],
+          "earliest_date": "2025-09-12",
+          "preprint_date": "2025-09-12",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Testing the nature of compact objects in the lower mass gap using gravitational wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing the nature of compact objects in the lower mass gap using gravitational wave observations"
+            }
+          ]
+        },
+        "updated": "2026-02-09T08:41:55.627430+00:00"
+      },
+      {
+        "created": "2025-06-04T08:16:19.818062+00:00",
+        "id": "2928739",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2928739?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2928739",
+          "cv": "https://inspirehep.net/api/literature/2928739?format=cv",
+          "json": "https://inspirehep.net/api/literature/2928739?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2928739?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2928739?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2928739?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2506.02115"
+            }
+          ],
+          "control_number": 2928739,
+          "earliest_date": "2025-06-02",
+          "preprint_date": "2025-06-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The error budget of binary neutron star merger simulations for configurations with high spin"
+            }
+          ]
+        },
+        "updated": "2025-08-31T14:19:39.095975+00:00"
+      },
+      {
+        "created": "2025-05-09T04:11:10.813040+00:00",
+        "id": "2919464",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2919464?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2919464",
+          "cv": "https://inspirehep.net/api/literature/2919464?format=cv",
+          "json": "https://inspirehep.net/api/literature/2919464?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2919464?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2919464?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2919464?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "nucl-ex",
+                "nucl-th"
+              ],
+              "value": "2505.05429"
+            }
+          ],
+          "control_number": 2919464,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/8yfc-v76l"
+            }
+          ],
+          "earliest_date": "2025-05-08",
+          "preprint_date": "2025-05-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Theoretical modeling of approximate universality of tidally deformed neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Theoretical modeling of approximate universality of tidally deformed neutron stars"
+            }
+          ]
+        },
+        "updated": "2026-04-10T01:20:23.877293+00:00"
+      },
+      {
+        "created": "2025-03-18T04:51:07.629334+00:00",
+        "id": "2901213",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2901213?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2901213",
+          "cv": "https://inspirehep.net/api/literature/2901213?format=cv",
+          "json": "https://inspirehep.net/api/literature/2901213?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2901213?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2901213?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2901213?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "nucl-th"
+              ],
+              "value": "2503.12263"
+            }
+          ],
+          "control_number": 2901213,
+          "dois": [
+            {
+              "value": "10.1088/1475-7516/2026/03/081"
+            }
+          ],
+          "earliest_date": "2025-03-15",
+          "preprint_date": "2025-03-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The Science of the Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2026-09-18T17:16:43.413509+00:00"
+      },
+      {
+        "created": "2025-02-05T04:22:30.265761+00:00",
+        "id": "2875294",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2875294?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2875294",
+          "cv": "https://inspirehep.net/api/literature/2875294?format=cv",
+          "json": "https://inspirehep.net/api/literature/2875294?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2875294?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2875294?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2875294?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2502.02043"
+            }
+          ],
+          "control_number": 2875294,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s40042-025-01359-w"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s40042-025-01359-w"
+            }
+          ],
+          "earliest_date": "2025-02-04",
+          "preprint_date": "2025-02-04",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Impact of higher-order tidal corrections on the measurement accuracy of neutron star tidal deformability"
+            },
+            {
+              "source": "arXiv",
+              "title": "Impact of Higher-order Tidal Corrections on the Measurement Accuracy of Neutron Star Tidal Deformability"
+            }
+          ]
+        },
+        "updated": "2026-03-11T04:04:12.435766+00:00"
+      },
+      {
+        "created": "2024-08-30T04:21:39.671623+00:00",
+        "id": "2822747",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2822747?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2822747",
+          "cv": "https://inspirehep.net/api/literature/2822747?format=cv",
+          "json": "https://inspirehep.net/api/literature/2822747?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2822747?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2822747?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2822747?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-ex",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2408.16283"
+            }
+          ],
+          "control_number": 2822747,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/universe10120441"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3390/universe10120441"
+            }
+          ],
+          "earliest_date": "2024-08-29",
+          "preprint_date": "2024-08-29",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "Premerger Phenomena in Neutron Star Binary Coalescences"
+            },
+            {
+              "source": "arXiv",
+              "title": "Premerger phenomena in neutron-star binary coalescences"
+            }
+          ]
+        },
+        "updated": "2026-02-09T14:12:12.588211+00:00"
+      },
+      {
+        "created": "2024-02-26T10:39:44.048537+00:00",
+        "id": "2761598",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2761598?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2761598",
+          "cv": "https://inspirehep.net/api/literature/2761598?format=cv",
+          "json": "https://inspirehep.net/api/literature/2761598?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2761598?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2761598?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2761598?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2761598,
+          "dois": [
+            {
+              "source": "OpenAIRE",
+              "value": "10.33540/2119"
+            }
+          ],
+          "earliest_date": "2024-02-07",
+          "titles": [
+            {
+              "source": "NIKHEF",
+              "title": "Fundamental physics with gravitational waves - Testing general relativity and studying neutron stars with current and future detectors"
+            },
+            {
+              "source": "OpenAIRE",
+              "title": "Fundamental physics with gravitational waves: Testing general relativity and studying neutron stars with current and future detectors"
+            }
+          ]
+        },
+        "updated": "2025-07-18T15:35:45.103465+00:00"
+      },
+      {
+        "created": "2023-09-12T02:49:29.004116+00:00",
+        "id": "2696149",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2696149?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2696149",
+          "cv": "https://inspirehep.net/api/literature/2696149?format=cv",
+          "json": "https://inspirehep.net/api/literature/2696149?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2696149?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2696149?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2696149?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2309.04622"
+            }
+          ],
+          "control_number": 2696149,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.063026"
+            }
+          ],
+          "earliest_date": "2023-09-08",
+          "preprint_date": "2023-09-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Last three seconds: Packed message delivered by tides in binary neutron star mergers"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Last Three Seconds: Packed Message delivered by Tides in Binary Neutron Star Mergers"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:53:05.459219+00:00"
+      },
+      {
+        "created": "2023-08-21T09:17:32.705053+00:00",
+        "id": "2689346",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2689346?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2689346",
+          "cv": "https://inspirehep.net/api/literature/2689346?format=cv",
+          "json": "https://inspirehep.net/api/literature/2689346?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2689346?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2689346?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2689346?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2308.09032"
+            }
+          ],
+          "control_number": 2689346,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.064081"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.109.064081"
+            }
+          ],
+          "earliest_date": "2023-08-17",
+          "preprint_date": "2023-08-17",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing spin-induced quadrupole moments in precessing compact binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing Spin-Induced Quadrupole Moments in Precessing Compact Binaries"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:13:57.470890+00:00"
+      },
+      {
+        "created": "2023-07-06T03:11:11.723256+00:00",
+        "id": "2674472",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2674472?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2674472",
+          "cv": "https://inspirehep.net/api/literature/2674472?format=cv",
+          "json": "https://inspirehep.net/api/literature/2674472?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2674472?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2674472?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2674472?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2307.02033"
+            }
+          ],
+          "control_number": 2674472,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.063029"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.063029"
+            },
+            {
+              "material": "erratum",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.089905"
+            },
+            {
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.063029"
+            }
+          ],
+          "earliest_date": "2023-07-05",
+          "preprint_date": "2023-07-05",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Multipole tidal effects in the post-Newtonian gravitational-wave phase of compact binary coalescences"
+            },
+            {
+              "source": "arXiv",
+              "title": "Multipole tidal effects in the post-Newtonian gravitational-wave phase of compact binary coalescences"
+            },
+            {
+              "source": "arXiv",
+              "title": "Multipole tidal effects in the gravitational-wave phases of compact binary coalescences"
+            },
+            {
+              "source": "APS",
+              "title": "Erratum: Multipole tidal effects in the post-Newtonian gravitational-wave phase of compact binary coalescences [Phys. Rev. D 108, 063029 (2023)]"
+            }
+          ]
+        },
+        "updated": "2025-05-21T08:29:23.571805+00:00"
+      },
+      {
+        "created": "2023-11-12T15:36:13.941414+00:00",
+        "id": "2720972",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2720972?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2720972",
+          "cv": "https://inspirehep.net/api/literature/2720972?format=cv",
+          "json": "https://inspirehep.net/api/literature/2720972?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2720972?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2720972?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2720972?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2720972,
+          "earliest_date": "2023-05-29",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Modelling and phenomenology of boson stars as gravitational sources for future ground- and space-based interferometers"
+            },
+            {
+              "source": "submitter",
+              "title": "Modelling and phenomenology of boson stars as gravitational sources for future ground- and space-based interferometers"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:39:02.256877+00:00"
+      },
+      {
+        "created": "2023-04-12T03:06:20.477008+00:00",
+        "id": "2650500",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2650500?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2650500",
+          "cv": "https://inspirehep.net/api/literature/2650500?format=cv",
+          "json": "https://inspirehep.net/api/literature/2650500?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2650500?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2650500?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2650500?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.IM",
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2304.05349"
+            }
+          ],
+          "control_number": 2650500,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.023018"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.023018"
+            }
+          ],
+          "earliest_date": "2023-04-09",
+          "preprint_date": "2023-04-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Measuring tidal effects with the Einstein Telescope: A design study"
+            },
+            {
+              "source": "arXiv",
+              "title": "Measuring tidal effects with the Einstein Telescope: A design study"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:57:06.721925+00:00"
+      },
+      {
+        "created": "2023-03-03T03:30:57.531553+00:00",
+        "id": "2637965",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2637965?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2637965",
+          "cv": "https://inspirehep.net/api/literature/2637965?format=cv",
+          "json": "https://inspirehep.net/api/literature/2637965?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2637965?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2637965?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2637965?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2303.01398"
+            }
+          ],
+          "control_number": 2637965,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.124014"
+            }
+          ],
+          "earliest_date": "2023-03-02",
+          "preprint_date": "2023-03-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Eccentricity-tide coupling: Impact on binary neutron stars and extreme mass ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Eccentricity-tide coupling: impact on binary neutron stars and extreme mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2025-05-16T13:32:13.481188+00:00"
+      },
+      {
+        "created": "2023-02-28T03:09:11.786285+00:00",
+        "id": "2636814",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2636814?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2636814",
+          "cv": "https://inspirehep.net/api/literature/2636814?format=cv",
+          "json": "https://inspirehep.net/api/literature/2636814?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2636814?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2636814?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2636814?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2302.13954"
+            }
+          ],
+          "control_number": 2636814,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.023021"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.023021"
+            }
+          ],
+          "earliest_date": "2023-02-27",
+          "preprint_date": "2023-02-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Bayesian parameter estimation on boson-star binary signals with a coherent inspiral template and spin-dependent quadrupolar corrections"
+            },
+            {
+              "source": "arXiv",
+              "title": "Bayesian parameter estimation on boson-star binary signals with a coherent inspiral template and spin-dependent quadrupolar corrections"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:21:46.767486+00:00"
+      },
+      {
+        "created": "2023-03-13T15:42:04.961781+00:00",
+        "id": "2641172",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2641172?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2641172",
+          "cv": "https://inspirehep.net/api/literature/2641172?format=cv",
+          "json": "https://inspirehep.net/api/literature/2641172?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2641172?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2641172?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2641172?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2641172,
+          "dois": [
+            {
+              "source": "U. Tubingen",
+              "value": "10.15496/publikation-76851"
+            }
+          ],
+          "earliest_date": "2023-01-18",
+          "titles": [
+            {
+              "source": "U. Tubingen",
+              "title": "Tidal Effects in Pre-merger Neutron Stars and Dynamics of Scalarized Compact Objects"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:22:40.925579+00:00"
+      },
+      {
+        "created": "2022-12-12T02:48:54.557259+00:00",
+        "id": "2612665",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2612665?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2612665",
+          "cv": "https://inspirehep.net/api/literature/2612665?format=cv",
+          "json": "https://inspirehep.net/api/literature/2612665?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2612665?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2612665?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2612665?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2212.04657"
+            }
+          ],
+          "control_number": 2612665,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.043018"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.043018"
+            }
+          ],
+          "earliest_date": "2022-12-08",
+          "preprint_date": "2022-12-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Efficient fully precessing gravitational waveforms for binaries with neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Efficient fully precessing gravitational waveforms for binaries with neutron stars"
+            }
+          ]
+        },
+        "updated": "2024-09-14T15:45:40.906775+00:00"
+      },
+      {
+        "created": "2022-06-24T02:44:12.846158+00:00",
+        "id": "2099990",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2099990?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2099990",
+          "cv": "https://inspirehep.net/api/literature/2099990?format=cv",
+          "json": "https://inspirehep.net/api/literature/2099990?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2099990?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2099990?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2099990?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "nucl-th"
+              ],
+              "value": "2206.11286"
+            }
+          ],
+          "control_number": 2099990,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.083010"
+            }
+          ],
+          "earliest_date": "2022-06-22",
+          "preprint_date": "2022-06-22",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Sensitivity of neutron star observations to three-nucleon forces"
+            },
+            {
+              "source": "arXiv",
+              "title": "Sensitivity of Neutron Star Observations to Three-nucleon Forces"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:52:23.472787+00:00"
+      },
+      {
+        "created": "2022-05-17T03:14:11.677123+00:00",
+        "id": "2082609",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2082609?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2082609",
+          "cv": "https://inspirehep.net/api/literature/2082609?format=cv",
+          "json": "https://inspirehep.net/api/literature/2082609?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2082609?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2082609?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2082609?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "2205.07577"
+            }
+          ],
+          "control_number": 2082609,
+          "dois": [
+            {
+              "source": "Oxford University Press",
+              "value": "10.1093/mnras/stad3593"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1093/mnras/stad3593"
+            }
+          ],
+          "earliest_date": "2022-05-16",
+          "preprint_date": "2022-05-16",
+          "titles": [
+            {
+              "source": "Oxford University Press",
+              "title": "The dynamical tides of spinning Newtonian stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Rotating Love: The dynamical tides of spinning Newtonian stars"
+            }
+          ]
+        },
+        "updated": "2026-02-02T06:54:02.264507+00:00"
+      },
+      {
+        "created": "2022-05-05T03:13:53.733349+00:00",
+        "id": "2077175",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2077175?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2077175",
+          "cv": "https://inspirehep.net/api/literature/2077175?format=cv",
+          "json": "https://inspirehep.net/api/literature/2077175?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2077175?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2077175?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2077175?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2205.01705"
+            }
+          ],
+          "control_number": 2077175,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.064052"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.064052"
+            }
+          ],
+          "earliest_date": "2022-05-03",
+          "preprint_date": "2022-05-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "<math display=\"inline\"><mi>f</mi></math>-mode imprints on gravitational waves from coalescing binaries involving aligned spinning neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "$f$-mode Imprints in Gravitational Waves from Coalescing Binaries involving Aligned Spinning Neutron Stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "$f$-mode Imprints in Gravitational Waves from Coalescing Binaries involving Spinning Neutron Stars"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:38:44.038775+00:00"
+      }
+    ],
+    "total": 21
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2072876&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2072876&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2072876&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2072876&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2072876&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2072876&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2072876&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

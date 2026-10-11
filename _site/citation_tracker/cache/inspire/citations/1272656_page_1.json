@@ -1,0 +1,254 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2017-05-01T00:00:00+00:00",
+        "id": "1597283",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1597283?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1597283",
+          "cv": "https://inspirehep.net/api/literature/1597283?format=cv",
+          "json": "https://inspirehep.net/api/literature/1597283?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1597283?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1597283?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1597283?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE"
+              ],
+              "value": "1704.08697"
+            }
+          ],
+          "control_number": 1597283,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.3847/2041-8213/aa7f2f"
+            },
+            {
+              "value": "10.3847/2041-8213/aa7f2f"
+            }
+          ],
+          "earliest_date": "2017-04-27",
+          "preprint_date": "2017-04-27",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The Fate of Neutron Star Binary Mergers"
+            }
+          ]
+        },
+        "updated": "2025-06-10T15:41:05.977363+00:00"
+      },
+      {
+        "created": "2017-04-25T00:00:00+00:00",
+        "id": "1594703",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1594703?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1594703",
+          "cv": "https://inspirehep.net/api/literature/1594703?format=cv",
+          "json": "https://inspirehep.net/api/literature/1594703?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1594703?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1594703?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1594703?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE"
+              ],
+              "value": "1704.07286"
+            }
+          ],
+          "control_number": 1594703,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.96.023005"
+            },
+            {
+              "value": "10.1103/PhysRevD.96.023005"
+            }
+          ],
+          "earliest_date": "2017-04-24",
+          "preprint_date": "2017-04-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Dark stars: gravitational and electromagnetic observables"
+            }
+          ]
+        },
+        "updated": "2023-12-13T18:47:17.622792+00:00"
+      },
+      {
+        "created": "2016-06-13T00:00:00+00:00",
+        "id": "1468767",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1468767?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1468767",
+          "cv": "https://inspirehep.net/api/literature/1468767?format=cv",
+          "json": "https://inspirehep.net/api/literature/1468767?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1468767?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1468767?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1468767?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1468767,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1742-6596/718/2/022004"
+            }
+          ],
+          "earliest_date": "2016-06-09",
+          "titles": [
+            {
+              "title": "Multi-messenger astronomy: gravitational waves, neutrinos, photons, and cosmic rays"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:32:24.866964+00:00"
+      },
+      {
+        "created": "2015-06-22T00:00:00+00:00",
+        "id": "1377186",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1377186?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1377186",
+          "cv": "https://inspirehep.net/api/literature/1377186?format=cv",
+          "json": "https://inspirehep.net/api/literature/1377186?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1377186?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1377186?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1377186?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "1506.06032"
+            }
+          ],
+          "control_number": 1377186,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.92.044056"
+            }
+          ],
+          "earliest_date": "2015-06-19",
+          "preprint_date": "2015-06-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Rapid gravitational wave parameter estimation with a single spin: Systematic uncertainties in parameter estimation with the SpinTaylorF2 approximation"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:01:13.785142+00:00"
+      },
+      {
+        "created": "2014-06-25T00:00:00+00:00",
+        "id": "1302773",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1302773?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302773",
+          "cv": "https://inspirehep.net/api/literature/1302773?format=cv",
+          "json": "https://inspirehep.net/api/literature/1302773?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1302773?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1302773?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1302773?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1406.6057"
+            }
+          ],
+          "control_number": 1302773,
+          "dois": [
+            {
+              "value": "10.1088/2041-8205/791/1/L7"
+            }
+          ],
+          "earliest_date": "2014-06-23",
+          "preprint_date": "2014-06-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Prospects for joint gravitational-wave and electromagnetic observations of neutron-star--black-hole coalescing binaries"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:20:53.338083+00:00"
+      },
+      {
+        "created": "2014-03-20T00:00:00+00:00",
+        "id": "1286421",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1286421?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1286421",
+          "cv": "https://inspirehep.net/api/literature/1286421?format=cv",
+          "json": "https://inspirehep.net/api/literature/1286421?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1286421?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1286421?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1286421?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "1403.4754"
+            }
+          ],
+          "control_number": 1286421,
+          "dois": [
+            {
+              "value": "10.12942/lrr-2014-3"
+            }
+          ],
+          "earliest_date": "2014-03-19",
+          "preprint_date": "2014-03-19",
+          "titles": [
+            {
+              "title": "The Evolution of Compact Binary Star Systems"
+            },
+            {
+              "source": "arXiv",
+              "title": "Close Binary White Dwarfs, Neutron Stars, Black Holes: Formation, Evolution, and Related Phenomena"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Evolution of Compact Binary Star Systems"
+            }
+          ]
+        },
+        "updated": "2024-12-07T12:27:22.719617+00:00"
+      }
+    ],
+    "total": 6
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1272656&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1272656&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1272656&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1272656&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1272656&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1272656&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1272656&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

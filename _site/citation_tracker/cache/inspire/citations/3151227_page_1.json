@@ -1,0 +1,159 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-09-10T06:06:20.241745+00:00",
+        "id": "3201838",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3201838?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3201838",
+          "cv": "https://inspirehep.net/api/literature/3201838?format=cv",
+          "json": "https://inspirehep.net/api/literature/3201838?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3201838?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3201838?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3201838?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2609.09284"
+            }
+          ],
+          "control_number": 3201838,
+          "earliest_date": "2026-09-08",
+          "preprint_date": "2026-09-08",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Ruling out matter-induced bumps in black-hole effective potentials"
+            }
+          ]
+        },
+        "updated": "2026-09-11T03:53:34.564525+00:00"
+      },
+      {
+        "created": "2026-08-11T04:32:21.880297+00:00",
+        "id": "3189040",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3189040?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3189040",
+          "cv": "https://inspirehep.net/api/literature/3189040?format=cv",
+          "json": "https://inspirehep.net/api/literature/3189040?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3189040?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3189040?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3189040?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2608.07678"
+            }
+          ],
+          "control_number": 3189040,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/mvys-wjf4"
+            }
+          ],
+          "earliest_date": "2026-08-07",
+          "preprint_date": "2026-08-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The Ringdown and the Tide: Fingerprints of Dark Matter Halo Profiles"
+            }
+          ]
+        },
+        "updated": "2026-09-23T04:54:04.862842+00:00"
+      },
+      {
+        "created": "2026-07-29T04:16:41.900303+00:00",
+        "id": "3183885",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3183885?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3183885",
+          "cv": "https://inspirehep.net/api/literature/3183885?format=cv",
+          "json": "https://inspirehep.net/api/literature/3183885?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3183885?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3183885?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3183885?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2607.24938"
+            }
+          ],
+          "control_number": 3183885,
+          "earliest_date": "2026-07-27",
+          "preprint_date": "2026-07-27",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal deformation of an accreting compact object"
+            }
+          ]
+        },
+        "updated": "2026-08-18T11:43:57.350514+00:00"
+      },
+      {
+        "created": "2026-06-11T04:13:57.183086+00:00",
+        "id": "3167534",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3167534?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3167534",
+          "cv": "https://inspirehep.net/api/literature/3167534?format=cv",
+          "json": "https://inspirehep.net/api/literature/3167534?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3167534?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3167534?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3167534?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2606.11380"
+            }
+          ],
+          "control_number": 3167534,
+          "earliest_date": "2026-06-09",
+          "preprint_date": "2026-06-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes and tidal responses of black holes in generic anisotropic matter environments"
+            }
+          ]
+        },
+        "updated": "2026-06-17T11:50:41.609843+00:00"
+      }
+    ],
+    "total": 4
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3151227&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3151227&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3151227&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3151227&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3151227&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3151227&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A3151227&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

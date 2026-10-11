@@ -42,6 +42,18 @@ document.addEventListener("DOMContentLoaded", () => {
     return decimals === 0 ? rounded : rounded.replace(/\.0+$/, "");
   };
 
+  const compactValue = (data, point) => {
+    if (data.metricId === "penalties_yards") return formatNumber(point.value, 0);
+    if (point.display.includes(" pp") || point.display.includes(" sec/play")) {
+      return formatNumber(point.value, data.meta.decimals);
+    }
+    return point.display;
+  };
+
+  const averageDisplay = (data) => (
+    `${formatNumber(data.average, data.meta.averageDecimals)}${data.meta.suffix}`
+  );
+
   const parseButtonData = (button) => {
     let series = [];
     try {
@@ -93,13 +105,13 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const renderSparkline = (button, data) => {
-    const width = 170;
-    const height = 54;
+    const width = 180;
+    const height = 78;
     const geometry = chartGeometry(data.points, data.average, width, height, {
-      top: 7,
-      right: 7,
-      bottom: 7,
-      left: 7,
+      top: 20,
+      right: 9,
+      bottom: 20,
+      left: 9,
     });
     const svg = svgElement("svg", {
       class: "nfl-trend-sparkline",
@@ -107,6 +119,14 @@ document.addEventListener("DOMContentLoaded", () => {
       "aria-hidden": "true",
       focusable: "false",
     });
+
+    svg.append(svgElement("line", {
+      class: "nfl-trend-spark-axis",
+      x1: 5,
+      x2: width - 5,
+      y1: height - 17,
+      y2: height - 17,
+    }));
 
     svg.append(svgElement("line", {
       class: "nfl-trend-average",
@@ -134,6 +154,24 @@ document.addEventListener("DOMContentLoaded", () => {
       title.textContent = `${point.label}: ${point.display}`;
       circle.append(title);
       svg.append(circle);
+
+      const valueLabel = svgElement("text", {
+        class: "nfl-trend-spark-value",
+        x: geometry.x(point.week),
+        y: Math.max(geometry.y(point.value) - 7, 9),
+        "text-anchor": "middle",
+      });
+      valueLabel.textContent = compactValue(data, point);
+      svg.append(valueLabel);
+
+      const weekLabel = svgElement("text", {
+        class: "nfl-trend-spark-week",
+        x: geometry.x(point.week),
+        y: height - 5,
+        "text-anchor": "middle",
+      });
+      weekLabel.textContent = point.label.replace("Week ", "W");
+      svg.append(weekLabel);
     });
 
     button.replaceChildren(svg);
@@ -207,12 +245,13 @@ document.addEventListener("DOMContentLoaded", () => {
       svg.append(label);
     });
 
+    const averageY = geometry.y(data.average);
     svg.append(svgElement("line", {
       class: "nfl-trend-average",
       x1: padding.left,
       x2: width - padding.right,
-      y1: geometry.y(data.average),
-      y2: geometry.y(data.average),
+      y1: averageY,
+      y2: averageY,
     }));
 
     if (data.points.length > 1) {
@@ -241,6 +280,15 @@ document.addEventListener("DOMContentLoaded", () => {
       svg.append(valueLabel);
     });
 
+    const averageLabel = svgElement("text", {
+      class: "nfl-trend-average-label",
+      x: width - padding.right - 4,
+      y: averageY < 28 ? averageY + 18 : averageY - 9,
+      "text-anchor": "end",
+    });
+    averageLabel.textContent = `Average: ${averageDisplay(data)}`;
+    svg.append(averageLabel);
+
     chart.replaceChildren(svg);
   };
 
@@ -251,8 +299,7 @@ document.addEventListener("DOMContentLoaded", () => {
     button.addEventListener("click", () => {
       trigger = button;
       heading.textContent = data.label;
-      const average = `${formatNumber(data.average, data.meta.averageDecimals)}${data.meta.suffix}`;
-      summary.textContent = `Packers game values through ${data.points.at(-1).label} · dashed line: weekly average ${average}`;
+      summary.textContent = `Packers game values through ${data.points.at(-1).label} · dashed line: weekly average ${averageDisplay(data)}`;
       renderExpandedChart(data);
       dialog.showModal();
     });

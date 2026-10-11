@@ -1,0 +1,357 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-09-21T03:13:41.861595+00:00",
+        "id": "3205263",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3205263?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3205263",
+          "cv": "https://inspirehep.net/api/literature/3205263?format=cv",
+          "json": "https://inspirehep.net/api/literature/3205263?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3205263?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3205263?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3205263?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "nucl-th"
+              ],
+              "value": "2609.21891"
+            }
+          ],
+          "control_number": 3205263,
+          "earliest_date": "2026-09-18",
+          "preprint_date": "2026-09-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Structure and astrophysical properties of dark energy admixed neutron stars"
+            }
+          ]
+        },
+        "updated": "2026-09-22T04:40:31.104881+00:00"
+      },
+      {
+        "created": "2026-07-03T04:16:52.255172+00:00",
+        "id": "3176579",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3176579?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3176579",
+          "cv": "https://inspirehep.net/api/literature/3176579?format=cv",
+          "json": "https://inspirehep.net/api/literature/3176579?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3176579?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3176579?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3176579?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2607.01937"
+            }
+          ],
+          "control_number": 3176579,
+          "earliest_date": "2026-07-02",
+          "preprint_date": "2026-07-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Neutron stars with primary scalar hair"
+            }
+          ]
+        },
+        "updated": "2026-08-14T06:04:10.911002+00:00"
+      },
+      {
+        "created": "2026-06-08T12:36:40.705411+00:00",
+        "id": "3166024",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3166024?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3166024",
+          "cv": "https://inspirehep.net/api/literature/3166024?format=cv",
+          "json": "https://inspirehep.net/api/literature/3166024?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3166024?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3166024?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3166024?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3166024,
+          "dois": [
+            {
+              "source": "WSP",
+              "value": "10.1142/s0218271826500276"
+            },
+            {
+              "value": "10.1142/s0218271826500276"
+            }
+          ],
+          "earliest_date": "2026-06-03",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Mass gap solutions from vacuum energy in compact stars"
+            },
+            {
+              "source": "submitter",
+              "title": "Mass gap solutions from vacuum energy in compact stars"
+            }
+          ]
+        },
+        "updated": "2026-08-21T13:32:18.952993+00:00"
+      },
+      {
+        "created": "2026-08-30T15:58:03.736730+00:00",
+        "id": "3197174",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3197174?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3197174",
+          "cv": "https://inspirehep.net/api/literature/3197174?format=cv",
+          "json": "https://inspirehep.net/api/literature/3197174?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3197174?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3197174?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3197174?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3197174,
+          "earliest_date": "2026-05-29",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "Baryonic Dark Matter: Explaining the Dark Matter-Baryon Coincidence"
+            }
+          ]
+        },
+        "updated": "2026-08-30T15:58:04.731249+00:00"
+      },
+      {
+        "created": "2025-07-25T09:12:51.677287+00:00",
+        "id": "2954342",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2954342?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2954342",
+          "cv": "https://inspirehep.net/api/literature/2954342?format=cv",
+          "json": "https://inspirehep.net/api/literature/2954342?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2954342?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2954342?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2954342?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2508.04744"
+            }
+          ],
+          "control_number": 2954342,
+          "dois": [
+            {
+              "source": "WSP",
+              "value": "10.1142/S0217751X2550112X"
+            },
+            {
+              "value": "10.1142/s0217751x2550112x"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1142/S0217751X2550112X"
+            }
+          ],
+          "earliest_date": "2025-07-21",
+          "preprint_date": "2025-08-06",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Quintessence–Chameleon transitions in anisotropic Kiselev model of neutron stars"
+            },
+            {
+              "source": "submitter",
+              "title": "Quintessence–Chameleon transitions in anisotropic Kiselev model of neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quintessence-Chameleon transitions in anisotropic Kiselev model of neutron stars"
+            }
+          ]
+        },
+        "updated": "2026-08-08T19:33:48.242210+00:00"
+      },
+      {
+        "created": "2025-02-28T04:13:09.233169+00:00",
+        "id": "2895228",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2895228?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2895228",
+          "cv": "https://inspirehep.net/api/literature/2895228?format=cv",
+          "json": "https://inspirehep.net/api/literature/2895228?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2895228?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2895228?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2895228?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-ph",
+                "hep-lat",
+                "nucl-th"
+              ],
+              "value": "2502.20241"
+            }
+          ],
+          "control_number": 2895228,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/sp4n-twcz"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/sp4n-twcz"
+            }
+          ],
+          "earliest_date": "2025-02-27",
+          "preprint_date": "2025-02-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "QCD vacuum energy and its implication for quark nugget stability"
+            },
+            {
+              "source": "arXiv",
+              "title": "QCD Vacuum Energy and Its Implication for Quark Nugget Stability"
+            },
+            {
+              "source": "arXiv",
+              "title": "Excluding Stable Quark Matter: Insights from the QCD Vacuum Energy"
+            }
+          ]
+        },
+        "updated": "2026-06-17T04:03:56.680993+00:00"
+      },
+      {
+        "created": "2024-11-08T10:17:06.352389+00:00",
+        "id": "2846355",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2846355?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2846355",
+          "cv": "https://inspirehep.net/api/literature/2846355?format=cv",
+          "json": "https://inspirehep.net/api/literature/2846355?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2846355?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2846355?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2846355?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2411.04455"
+            }
+          ],
+          "control_number": 2846355,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier Inc.",
+              "value": "10.1016/j.aop.2025.170029"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.aop.2025.170029"
+            }
+          ],
+          "earliest_date": "2024-11-07",
+          "preprint_date": "2024-11-07",
+          "titles": [
+            {
+              "source": "Elsevier Inc.",
+              "title": "A note on stability of neutron star and cosmological constant"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stability of Neutron Star and Cosmological Constant"
+            }
+          ]
+        },
+        "updated": "2025-05-22T01:15:37.056499+00:00"
+      },
+      {
+        "created": "2024-05-29T03:54:32.604936+00:00",
+        "id": "2790906",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2790906?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2790906",
+          "cv": "https://inspirehep.net/api/literature/2790906?format=cv",
+          "json": "https://inspirehep.net/api/literature/2790906?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2790906?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2790906?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2790906?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2405.17908"
+            }
+          ],
+          "control_number": 2790906,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/01/073"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/01/073"
+            }
+          ],
+          "earliest_date": "2024-05-28",
+          "preprint_date": "2024-05-28",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Deep learning inference of the neutron star equation of state"
+            },
+            {
+              "source": "arXiv",
+              "title": "Deep learning inference of the neutron star equation of state"
+            }
+          ]
+        },
+        "updated": "2025-05-16T13:44:49.649228+00:00"
+      }
+    ],
+    "total": 8
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2782253&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2782253&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2782253&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2782253&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2782253&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2782253&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2782253&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

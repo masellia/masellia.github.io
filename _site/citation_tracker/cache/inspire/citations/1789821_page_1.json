@@ -1,0 +1,4175 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-08-25T04:20:39.105393+00:00",
+        "id": "3195309",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3195309?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3195309",
+          "cv": "https://inspirehep.net/api/literature/3195309?format=cv",
+          "json": "https://inspirehep.net/api/literature/3195309?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3195309?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3195309?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3195309?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2608.22249"
+            }
+          ],
+          "control_number": 3195309,
+          "earliest_date": "2026-08-23",
+          "preprint_date": "2026-08-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspirals around rotating accelerating black holes"
+            }
+          ]
+        },
+        "updated": "2026-08-26T04:21:02.739613+00:00"
+      },
+      {
+        "created": "2026-08-24T02:48:17.433123+00:00",
+        "id": "3194527",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3194527?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3194527",
+          "cv": "https://inspirehep.net/api/literature/3194527?format=cv",
+          "json": "https://inspirehep.net/api/literature/3194527?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3194527?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3194527?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3194527?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2608.20463"
+            }
+          ],
+          "control_number": 3194527,
+          "earliest_date": "2026-08-20",
+          "preprint_date": "2026-08-20",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Spinning test particles in a weak gravitational wave and the memory effect"
+            }
+          ]
+        },
+        "updated": "2026-09-21T01:13:46.940194+00:00"
+      },
+      {
+        "created": "2026-06-30T04:22:13.681167+00:00",
+        "id": "3174523",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3174523?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3174523",
+          "cv": "https://inspirehep.net/api/literature/3174523?format=cv",
+          "json": "https://inspirehep.net/api/literature/3174523?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3174523?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3174523?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3174523?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2606.28937"
+            }
+          ],
+          "control_number": 3174523,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/wmsn-pl9n"
+            }
+          ],
+          "earliest_date": "2026-06-27",
+          "preprint_date": "2026-06-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quadrupole and quadratic-in-spin effects in quasicircular, spinning, asymmetric binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quadrupole and quadratic-in-spin effects in quasicircular, spinning, asymmetric binaries"
+            }
+          ]
+        },
+        "updated": "2026-09-20T06:31:40.286079+00:00"
+      },
+      {
+        "created": "2026-06-02T04:22:06.374488+00:00",
+        "id": "3164326",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3164326?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3164326",
+          "cv": "https://inspirehep.net/api/literature/3164326?format=cv",
+          "json": "https://inspirehep.net/api/literature/3164326?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3164326?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3164326?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3164326?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2606.01569"
+            }
+          ],
+          "control_number": 3164326,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/dy3h-65ty"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/dy3h-65ty"
+            }
+          ],
+          "earliest_date": "2026-06-01",
+          "preprint_date": "2026-06-01",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Pitching Cosmic Curveballs: Environmental Effects on Extreme-Mass-Ratio Inspirals with Spinning Secondaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Pitching Cosmic Curveballs: Environmental Effects on Extreme-Mass-Ratio Inspirals with Spinning Secondaries"
+            }
+          ]
+        },
+        "updated": "2026-09-17T15:07:17.014130+00:00"
+      },
+      {
+        "created": "2026-03-20T04:15:49.596824+00:00",
+        "id": "3131551",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3131551?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3131551",
+          "cv": "https://inspirehep.net/api/literature/3131551?format=cv",
+          "json": "https://inspirehep.net/api/literature/3131551?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3131551?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3131551?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3131551?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2603.18075"
+            }
+          ],
+          "control_number": 3131551,
+          "earliest_date": "2026-03-18",
+          "preprint_date": "2026-03-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Waveforms and Fluxes of Generic Extreme-Mass-Ratio Inspirals with a Spinning Secondary"
+            },
+            {
+              "source": "arXiv",
+              "title": "Fluxes of Generic Extreme-Mass-Ratio Inspirals with a Spinning Secondary"
+            }
+          ]
+        },
+        "updated": "2026-07-17T04:06:11.776400+00:00"
+      },
+      {
+        "created": "2026-03-19T04:19:57.103631+00:00",
+        "id": "3131042",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3131042?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3131042",
+          "cv": "https://inspirehep.net/api/literature/3131042?format=cv",
+          "json": "https://inspirehep.net/api/literature/3131042?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3131042?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3131042?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3131042?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.IM",
+                "astro-ph.GA",
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2603.17072"
+            }
+          ],
+          "control_number": 3131042,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/k15y-nq5f"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/k15y-nq5f"
+            }
+          ],
+          "earliest_date": "2026-03-17",
+          "preprint_date": "2026-03-17",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quantifying the scientific potential of intermediate and extreme mass ratio inspirals with the Laser Interferometer Space Antenna"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quantifying the Scientific Potential of Intermediate and Extreme Mass Ratio Inspirals with the Laser Interferometer Space Antenna"
+            }
+          ]
+        },
+        "updated": "2026-09-05T15:27:15.172640+00:00"
+      },
+      {
+        "created": "2026-03-17T04:19:07.295074+00:00",
+        "id": "3129497",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3129497?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3129497",
+          "cv": "https://inspirehep.net/api/literature/3129497?format=cv",
+          "json": "https://inspirehep.net/api/literature/3129497?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3129497?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3129497?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3129497?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2603.13482"
+            }
+          ],
+          "control_number": 3129497,
+          "earliest_date": "2026-03-13",
+          "preprint_date": "2026-03-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "A new approach to the calculation of extreme-mass-ratio inspirals with a spinning secondary"
+            }
+          ]
+        },
+        "updated": "2026-03-31T07:25:59.770856+00:00"
+      },
+      {
+        "created": "2026-03-13T04:17:24.190644+00:00",
+        "id": "3128808",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3128808?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3128808",
+          "cv": "https://inspirehep.net/api/literature/3128808?format=cv",
+          "json": "https://inspirehep.net/api/literature/3128808?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3128808?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3128808?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3128808?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2603.12189"
+            }
+          ],
+          "control_number": 3128808,
+          "earliest_date": "2026-03-12",
+          "preprint_date": "2026-03-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Shifted-geodesic approximation for spinning-body gravitational wave fluxes"
+            }
+          ]
+        },
+        "updated": "2026-03-30T02:37:31.611905+00:00"
+      },
+      {
+        "created": "2026-03-06T04:16:27.177150+00:00",
+        "id": "3126856",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3126856?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3126856",
+          "cv": "https://inspirehep.net/api/literature/3126856?format=cv",
+          "json": "https://inspirehep.net/api/literature/3126856?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3126856?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3126856?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3126856?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2603.04682"
+            }
+          ],
+          "control_number": 3126856,
+          "earliest_date": "2026-03-04",
+          "preprint_date": "2026-03-04",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Going into a tailspin near the abyss: analytic solutions for spinning particles on near equatorial, plunging orbits in Kerr spacetime"
+            }
+          ]
+        },
+        "updated": "2026-03-13T20:00:15.804729+00:00"
+      },
+      {
+        "created": "2026-01-13T04:19:48.000906+00:00",
+        "id": "3103184",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3103184?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3103184",
+          "cv": "https://inspirehep.net/api/literature/3103184?format=cv",
+          "json": "https://inspirehep.net/api/literature/3103184?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3103184?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3103184?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3103184?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "nlin.SI"
+              ],
+              "value": "2601.06416"
+            }
+          ],
+          "control_number": 3103184,
+          "earliest_date": "2026-01-10",
+          "preprint_date": "2026-01-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Symplectic mechanics of relativistic spinning compact bodies. III. quadratic-in-spin integrability in Type-D Einstein spacetimes: persistence and breakdown"
+            }
+          ]
+        },
+        "updated": "2026-08-09T10:25:02.568416+00:00"
+      },
+      {
+        "created": "2025-10-16T04:17:22.091997+00:00",
+        "id": "3070014",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3070014?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3070014",
+          "cv": "https://inspirehep.net/api/literature/3070014?format=cv",
+          "json": "https://inspirehep.net/api/literature/3070014?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3070014?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3070014?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3070014?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.GA",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2510.13604"
+            }
+          ],
+          "control_number": 3070014,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/grjg-5k5w"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/grjg-5k5w"
+            }
+          ],
+          "earliest_date": "2025-10-15",
+          "preprint_date": "2025-10-15",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Mass and spin coevolution of black holes inspiralling through dark matter"
+            },
+            {
+              "source": "arXiv",
+              "title": "Mass and spin coevolution of black holes inspiralling through dark matter"
+            }
+          ]
+        },
+        "updated": "2026-08-07T14:30:00.266434+00:00"
+      },
+      {
+        "created": "2025-09-11T17:56:32.938936+00:00",
+        "id": "2968883",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2968883?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2968883",
+          "cv": "https://inspirehep.net/api/literature/2968883?format=cv",
+          "json": "https://inspirehep.net/api/literature/2968883?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2968883?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2968883?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2968883?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2509.16838"
+            }
+          ],
+          "control_number": 2968883,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-14701-0"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-025-14701-0"
+            }
+          ],
+          "earliest_date": "2025-09-09",
+          "preprint_date": "2025-09-20",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Probing Kalb–Ramond field with extreme mass ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing Kalb-Ramond field with extreme mass ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2025-09-24T04:11:06.889619+00:00"
+      },
+      {
+        "created": "2025-08-04T04:07:07.683488+00:00",
+        "id": "2956201",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2956201?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2956201",
+          "cv": "https://inspirehep.net/api/literature/2956201?format=cv",
+          "json": "https://inspirehep.net/api/literature/2956201?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2956201?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2956201?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2956201?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2508.00516"
+            }
+          ],
+          "control_number": 2956201,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2026/04/074"
+            }
+          ],
+          "earliest_date": "2025-08-01",
+          "preprint_date": "2025-08-01",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Probing scalar field with generic extreme mass-ratio inspirals around Kerr black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing scalar field with generic extreme mass-ratio inspirals around Kerr black holes"
+            }
+          ]
+        },
+        "updated": "2026-04-30T06:12:43.196592+00:00"
+      },
+      {
+        "created": "2025-07-10T04:14:51.763948+00:00",
+        "id": "2944129",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2944129?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2944129",
+          "cv": "https://inspirehep.net/api/literature/2944129?format=cv",
+          "json": "https://inspirehep.net/api/literature/2944129?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2944129?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2944129?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2944129?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2507.06923"
+            }
+          ],
+          "control_number": 2944129,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/76m9-rpzj"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/76m9-rpzj"
+            }
+          ],
+          "earliest_date": "2025-07-09",
+          "preprint_date": "2025-07-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Postadiabatic waveforms from extreme mass ratio inspirals in the presence of dark matter"
+            },
+            {
+              "source": "arXiv",
+              "title": "Post-adiabatic waveforms from extreme mass ratio inspirals in the presence of dark matter"
+            }
+          ]
+        },
+        "updated": "2026-04-08T06:40:45.347474+00:00"
+      },
+      {
+        "created": "2025-07-08T04:12:05.227056+00:00",
+        "id": "2942833",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2942833?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2942833",
+          "cv": "https://inspirehep.net/api/literature/2942833?format=cv",
+          "json": "https://inspirehep.net/api/literature/2942833?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2942833?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2942833?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2942833?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2507.03380"
+            }
+          ],
+          "control_number": 2942833,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/pnh5-9yqn"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/pnh5-9yqn"
+            }
+          ],
+          "earliest_date": "2025-07-04",
+          "preprint_date": "2025-07-04",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme mass-ratio inspirals and extra dimensions: Insights from modified Teukolsky framework"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspirals and extra dimensions: Insights from modified Teukolsky framework"
+            }
+          ]
+        },
+        "updated": "2026-06-30T04:05:09.891922+00:00"
+      },
+      {
+        "created": "2025-06-27T04:14:51.056741+00:00",
+        "id": "2939141",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2939141?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2939141",
+          "cv": "https://inspirehep.net/api/literature/2939141?format=cv",
+          "json": "https://inspirehep.net/api/literature/2939141?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2939141?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2939141?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2939141?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2506.20726"
+            }
+          ],
+          "control_number": 2939141,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/x9yy-c2jq"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/x9yy-c2jq"
+            }
+          ],
+          "earliest_date": "2025-06-25",
+          "preprint_date": "2025-06-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Spherical inspirals of spinning bodies into Kerr black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Spherical inspirals of spinning bodies into Kerr black holes"
+            }
+          ]
+        },
+        "updated": "2025-12-17T04:06:53.162850+00:00"
+      },
+      {
+        "created": "2025-06-12T08:39:25.274814+00:00",
+        "id": "2933397",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2933397?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2933397",
+          "cv": "https://inspirehep.net/api/literature/2933397?format=cv",
+          "json": "https://inspirehep.net/api/literature/2933397?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2933397?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2933397?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2933397?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2506.09470"
+            }
+          ],
+          "control_number": 2933397,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/scbp-75pf"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/scbp-75pf"
+            }
+          ],
+          "earliest_date": "2025-06-11",
+          "preprint_date": "2025-06-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Efficient waveforms for asymmetric-mass eccentric equatorial inspirals into rapidly spinning black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Fast and the Frame-Dragging: Efficient waveforms for asymmetric-mass eccentric equatorial inspirals into rapidly-spinning black holes"
+            }
+          ]
+        },
+        "updated": "2026-09-09T08:20:28.577267+00:00"
+      },
+      {
+        "created": "2025-06-13T13:26:43.483042+00:00",
+        "id": "2934111",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2934111?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2934111",
+          "cv": "https://inspirehep.net/api/literature/2934111?format=cv",
+          "json": "https://inspirehep.net/api/literature/2934111?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2934111?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2934111?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2934111?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2934111,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.physletb.2025.139630"
+            }
+          ],
+          "earliest_date": "2025-06-10",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Gravitational waves from extreme mass ratio inspirals around rotating black holes surrounded by dark matter halo"
+            }
+          ]
+        },
+        "updated": "2025-09-24T23:25:38.142070+00:00"
+      },
+      {
+        "created": "2025-04-15T04:25:37.258341+00:00",
+        "id": "2911644",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2911644?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2911644",
+          "cv": "https://inspirehep.net/api/literature/2911644?format=cv",
+          "json": "https://inspirehep.net/api/literature/2911644?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2911644?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2911644?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2911644?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2504.09460"
+            }
+          ],
+          "control_number": 2911644,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/xnxb-cjpl"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/xnxb-cjpl"
+            },
+            {
+              "material": "erratum",
+              "source": "APS",
+              "value": "10.1103/m9yx-fd8z"
+            },
+            {
+              "source": "APS",
+              "value": "10.1103/xnxb-cjpl"
+            }
+          ],
+          "earliest_date": "2025-04-13",
+          "preprint_date": "2025-04-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Imprints of extra dimensions in eccentric extreme mass-ratio inspiral gravitational waveforms"
+            },
+            {
+              "source": "arXiv",
+              "title": "Imprints of extra dimensions in eccentric extreme-mass-ratio inspirals gravitational waveforms"
+            },
+            {
+              "source": "arXiv",
+              "title": "Imprints of extra dimensions in eccentric eccentric extreme-mass-ratio inspirals gravitational waveforms"
+            },
+            {
+              "source": "arXiv",
+              "title": "Imprints of extra dimensions in eccentric EMRI gravitational waveforms"
+            },
+            {
+              "source": "APS",
+              "title": "Erratum: Imprints of extra dimensions in eccentric extreme mass-ratio inspiral gravitational waveforms [Phys. Rev. D 112, 024039 (2025)]"
+            }
+          ]
+        },
+        "updated": "2026-07-27T08:51:09.652392+00:00"
+      },
+      {
+        "created": "2025-03-18T04:51:07.629334+00:00",
+        "id": "2901213",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2901213?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2901213",
+          "cv": "https://inspirehep.net/api/literature/2901213?format=cv",
+          "json": "https://inspirehep.net/api/literature/2901213?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2901213?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2901213?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2901213?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "nucl-th"
+              ],
+              "value": "2503.12263"
+            }
+          ],
+          "control_number": 2901213,
+          "dois": [
+            {
+              "value": "10.1088/1475-7516/2026/03/081"
+            }
+          ],
+          "earliest_date": "2025-03-15",
+          "preprint_date": "2025-03-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The Science of the Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2026-09-18T17:16:43.413509+00:00"
+      },
+      {
+        "created": "2025-03-04T04:19:06.277975+00:00",
+        "id": "2896246",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2896246?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2896246",
+          "cv": "https://inspirehep.net/api/literature/2896246?format=cv",
+          "json": "https://inspirehep.net/api/literature/2896246?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2896246?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2896246?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2896246?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2503.01120"
+            }
+          ],
+          "control_number": 2896246,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/7f8h-w4yz"
+            }
+          ],
+          "earliest_date": "2025-03-02",
+          "preprint_date": "2025-03-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Bias-corrected importance sampling for inferring beyond-vacuum-GR effects in gravitational-wave sources"
+            },
+            {
+              "source": "arXiv",
+              "title": "Bias-Corrected Importance Sampling for Inferring Beyond-Vacuum-GR Effects in Gravitational-Wave Sources"
+            },
+            {
+              "source": "arXiv",
+              "title": "Bias-Corrected Importance Sampling for Inferring Beyond Vacuum-GR Effects in Gravitational Wave Sources"
+            }
+          ]
+        },
+        "updated": "2025-07-16T17:24:30.894664+00:00"
+      },
+      {
+        "created": "2025-01-03T04:18:07.814679+00:00",
+        "id": "2864471",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2864471?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2864471",
+          "cv": "https://inspirehep.net/api/literature/2864471?format=cv",
+          "json": "https://inspirehep.net/api/literature/2864471?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2864471?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2864471?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2864471?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.IM"
+              ],
+              "value": "2501.01413"
+            }
+          ],
+          "control_number": 2864471,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/rbkb-qnxv"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/rbkb-qnxv"
+            }
+          ],
+          "earliest_date": "2025-01-02",
+          "preprint_date": "2025-01-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Postadiabatic waveform-generation framework for asymmetric precessing binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Post-adiabatic waveform-generation framework for asymmetric precessing binaries"
+            }
+          ]
+        },
+        "updated": "2026-09-09T08:20:16.645141+00:00"
+      },
+      {
+        "created": "2024-12-23T04:10:24.728468+00:00",
+        "id": "2861941",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2861941?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2861941",
+          "cv": "https://inspirehep.net/api/literature/2861941?format=cv",
+          "json": "https://inspirehep.net/api/literature/2861941?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2861941?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2861941?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2861941?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2412.16077"
+            }
+          ],
+          "control_number": 2861941,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.064086"
+            }
+          ],
+          "earliest_date": "2024-12-20",
+          "preprint_date": "2024-12-20",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Comparing effective-one-body and Mathisson-Papapetrou-Dixon results for a spinning test particle on circular equatorial orbits around a Kerr black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Comparing effective-one-body and Mathisson-Papapetrou-Dixon results for a spinning test particle on circular equatorial orbits around a Kerr black hole"
+            }
+          ]
+        },
+        "updated": "2025-06-06T17:09:12.967492+00:00"
+      },
+      {
+        "created": "2024-12-06T04:23:18.885685+00:00",
+        "id": "2856292",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2856292?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2856292",
+          "cv": "https://inspirehep.net/api/literature/2856292?format=cv",
+          "json": "https://inspirehep.net/api/literature/2856292?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2856292?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2856292?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2856292?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-ph",
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2412.03655"
+            }
+          ],
+          "control_number": 2856292,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.083044"
+            }
+          ],
+          "earliest_date": "2024-12-04",
+          "preprint_date": "2024-12-04",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Stepping up superradiance constraints on axions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stepping Up Superradiance Constraints on Axions"
+            }
+          ]
+        },
+        "updated": "2025-05-16T13:29:19.810795+00:00"
+      },
+      {
+        "created": "2024-10-15T04:25:12.334821+00:00",
+        "id": "2839686",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2839686?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2839686",
+          "cv": "https://inspirehep.net/api/literature/2839686?format=cv",
+          "json": "https://inspirehep.net/api/literature/2839686?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2839686?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2839686?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2839686?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2410.09796"
+            }
+          ],
+          "control_number": 2839686,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.103007"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.111.103007"
+            }
+          ],
+          "earliest_date": "2024-10-13",
+          "preprint_date": "2024-10-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Relativistic model of binary extreme-mass-ratio inspiral systems and their gravitational radiation"
+            },
+            {
+              "source": "arXiv",
+              "title": "A relativistic model of b-EMRI systems and their gravitational radiation"
+            },
+            {
+              "source": "arXiv",
+              "title": "Relativistic model of binary extreme-mass-ratio inspiral systems and their gravitational radiation"
+            }
+          ]
+        },
+        "updated": "2026-09-09T08:20:16.875575+00:00"
+      },
+      {
+        "created": "2024-10-10T04:45:37.305920+00:00",
+        "id": "2838453",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2838453?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2838453",
+          "cv": "https://inspirehep.net/api/literature/2838453?format=cv",
+          "json": "https://inspirehep.net/api/literature/2838453?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2838453?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2838453?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2838453?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2410.05769"
+            }
+          ],
+          "control_number": 2838453,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.044009"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.111.044009"
+            }
+          ],
+          "earliest_date": "2024-10-08",
+          "preprint_date": "2024-10-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Spinning particles near Kerr black holes: Orbits and gravitational-wave fluxes through the Hamilton-Jacobi formalism"
+            },
+            {
+              "source": "arXiv",
+              "title": "Spinning particles near Kerr black holes: Orbits and gravitational-wave fluxes through the Hamilton-Jacobi formalism"
+            }
+          ]
+        },
+        "updated": "2025-11-15T04:02:45.214071+00:00"
+      },
+      {
+        "created": "2024-09-27T04:25:04.733056+00:00",
+        "id": "2833856",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2833856?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2833856",
+          "cv": "https://inspirehep.net/api/literature/2833856?format=cv",
+          "json": "https://inspirehep.net/api/literature/2833856?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2833856?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2833856?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2833856?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2409.17760"
+            }
+          ],
+          "control_number": 2833856,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/05/044"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/05/044"
+            }
+          ],
+          "earliest_date": "2024-09-26",
+          "preprint_date": "2024-09-26",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Motion of spinning particles around black hole in a dark matter halo"
+            },
+            {
+              "source": "arXiv",
+              "title": "Motion of spinning particles around black hole in a dark matter halo"
+            }
+          ]
+        },
+        "updated": "2025-12-17T04:05:14.229473+00:00"
+      },
+      {
+        "created": "2024-06-13T03:48:38.647914+00:00",
+        "id": "2797381",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2797381?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2797381",
+          "cv": "https://inspirehep.net/api/literature/2797381?format=cv",
+          "json": "https://inspirehep.net/api/literature/2797381?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2797381?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2797381?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2797381?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2406.07607"
+            }
+          ],
+          "control_number": 2797381,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/cnhz-6zlk"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/cnhz-6zlk"
+            }
+          ],
+          "earliest_date": "2024-06-11",
+          "preprint_date": "2024-06-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing fundamental physics with extreme mass ratio inspirals: Full Bayesian inference for scalar charge"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing fundamental physics with Extreme Mass Ratio Inspirals: a full Bayesian inference for scalar charge"
+            }
+          ]
+        },
+        "updated": "2026-02-11T13:35:47.236625+00:00"
+      },
+      {
+        "created": "2024-05-14T10:34:18.512870+00:00",
+        "id": "2786414",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2786414?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2786414",
+          "cv": "https://inspirehep.net/api/literature/2786414?format=cv",
+          "json": "https://inspirehep.net/api/literature/2786414?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2786414?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2786414?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2786414?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2405.07113"
+            }
+          ],
+          "control_number": 2786414,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-026-15455-z"
+            }
+          ],
+          "earliest_date": "2024-05-11",
+          "preprint_date": "2024-05-11",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Observability of gravitational waves excited by binary stars orbiting around a supermassive black hole by space-based gravitational wave observatory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Observability of gravitational waves excited by binary stars orbiting around a supermassive black hole by space-based gravitational wave observatory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational waves excited by binary stars orbiting around a supermassive black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Distinguish the EMRI and B-EMRI system by gravitational waves"
+            }
+          ]
+        },
+        "updated": "2026-03-16T10:41:34.480395+00:00"
+      },
+      {
+        "created": "2024-05-16T06:01:35.812226+00:00",
+        "id": "2786987",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2786987?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2786987",
+          "cv": "https://inspirehep.net/api/literature/2786987?format=cv",
+          "json": "https://inspirehep.net/api/literature/2786987?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2786987?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2786987?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2786987?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2786987,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s11433-024-2366-5"
+            }
+          ],
+          "earliest_date": "2024-05-09",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "General formalism for dirty extreme-mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2024-05-16T06:01:37.086556+00:00"
+      },
+      {
+        "created": "2024-05-11T17:55:21.563303+00:00",
+        "id": "2785134",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2785134?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2785134",
+          "cv": "https://inspirehep.net/api/literature/2785134?format=cv",
+          "json": "https://inspirehep.net/api/literature/2785134?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2785134?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2785134?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2785134?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2785134,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-024-12841-3"
+            }
+          ],
+          "earliest_date": "2024-05-08",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Distinguishability of binary extreme-mass-ratio inspirals in low frequency band"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:52:15.127892+00:00"
+      },
+      {
+        "created": "2024-10-12T16:22:19.800965+00:00",
+        "id": "2839285",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2839285?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2839285",
+          "cv": "https://inspirehep.net/api/literature/2839285?format=cv",
+          "json": "https://inspirehep.net/api/literature/2839285?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2839285?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2839285?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2839285?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2839285,
+          "earliest_date": "2024-05",
+          "titles": [
+            {
+              "source": "MIT",
+              "title": "Gyroscropes Orbiting Gargantuan Black Holes: Spinning Secondaries in Extreme Mass Ratio Inspirals"
+            }
+          ]
+        },
+        "updated": "2024-10-12T16:22:20.878887+00:00"
+      },
+      {
+        "created": "2024-02-27T16:14:06.117213+00:00",
+        "id": "2762049",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2762049?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2762049",
+          "cv": "https://inspirehep.net/api/literature/2762049?format=cv",
+          "json": "https://inspirehep.net/api/literature/2762049?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2762049?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2762049?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2762049?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2762049,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.physletb.2024.138538"
+            }
+          ],
+          "earliest_date": "2024-02-21",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Extreme mass-ratio inspiral as a probe of extra dimensions: The case of spinning massive object"
+            }
+          ]
+        },
+        "updated": "2025-08-14T05:00:12.846606+00:00"
+      },
+      {
+        "created": "2024-02-15T03:42:00.238731+00:00",
+        "id": "2758389",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2758389?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2758389",
+          "cv": "https://inspirehep.net/api/literature/2758389?format=cv",
+          "json": "https://inspirehep.net/api/literature/2758389?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2758389?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2758389?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2758389?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2402.08883"
+            }
+          ],
+          "control_number": 2758389,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.024006"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.110.024006"
+            }
+          ],
+          "earliest_date": "2024-02-13",
+          "preprint_date": "2024-02-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Analytical model of precessing binaries using post-Newtonian theory in the extreme mass-ratio limit: General formalism"
+            },
+            {
+              "source": "arXiv",
+              "title": "Analytical model of precessing binaries using post-Newtonian theory in the extreme mass-ratio limit I: General Formalism"
+            }
+          ]
+        },
+        "updated": "2025-03-06T13:38:39.087291+00:00"
+      },
+      {
+        "created": "2024-02-13T19:58:27.221820+00:00",
+        "id": "2757960",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2757960?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2757960",
+          "cv": "https://inspirehep.net/api/literature/2757960?format=cv",
+          "json": "https://inspirehep.net/api/literature/2757960?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2757960?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2757960?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2757960?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2757960,
+          "earliest_date": "2024-01-24",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Searching for new physics in the neighborhood of a black hole: fundamental interactions, plasmas and tests of gravity"
+            },
+            {
+              "source": "submitter",
+              "title": "Searching for new physics in the neighborhood of a black hole: fundamental interactions, plasmas and tests of gravity"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:46:21.754311+00:00"
+      },
+      {
+        "created": "2024-06-17T14:45:45.457660+00:00",
+        "id": "2799085",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2799085?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2799085",
+          "cv": "https://inspirehep.net/api/literature/2799085?format=cv",
+          "json": "https://inspirehep.net/api/literature/2799085?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2799085?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2799085?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2799085?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2799085,
+          "earliest_date": "2024-01-24",
+          "titles": [
+            {
+              "source": "UNITesi",
+              "title": "Testing general relativity with gravitational waves from extreme mass-ratio inspirals"
+            },
+            {
+              "source": "Rome U.",
+              "title": "Testing General Relativity with Gravitational Waves from Extreme Mass-Ratio Inspirals"
+            },
+            {
+              "source": "submitter",
+              "title": "Testing General Relativity with Gravitational Waves from Extreme Mass-Ratio Inspirals"
+            }
+          ]
+        },
+        "updated": "2024-12-13T05:31:00.572904+00:00"
+      },
+      {
+        "created": "2024-01-19T04:37:13.283950+00:00",
+        "id": "2748816",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2748816?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2748816",
+          "cv": "https://inspirehep.net/api/literature/2748816?format=cv",
+          "json": "https://inspirehep.net/api/literature/2748816?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2748816?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2748816?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2748816?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2401.09542"
+            }
+          ],
+          "control_number": 2748816,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.104079"
+            }
+          ],
+          "earliest_date": "2024-01-17",
+          "preprint_date": "2024-01-17",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme mass-ratio inspirals as probes of scalar fields: Inclined circular orbits around Kerr black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspirals as probes of scalar fields: inclined circular orbits around Kerr black holes"
+            }
+          ]
+        },
+        "updated": "2025-02-18T09:53:27.020960+00:00"
+      },
+      {
+        "created": "2024-01-17T03:49:10.828021+00:00",
+        "id": "2747239",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2747239?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2747239",
+          "cv": "https://inspirehep.net/api/literature/2747239?format=cv",
+          "json": "https://inspirehep.net/api/literature/2747239?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2747239?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2747239?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2747239?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2401.08085"
+            }
+          ],
+          "control_number": 2747239,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-981-97-2871-8_8"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-981-97-2871-8_8"
+            }
+          ],
+          "earliest_date": "2024-01-15",
+          "preprint_date": "2024-01-15",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Testing Gravity with Extreme-Mass-Ratio Inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing gravity with Extreme-Mass-Ratio Inspirals"
+            }
+          ]
+        },
+        "updated": "2025-06-10T12:59:10.604020+00:00"
+      },
+      {
+        "created": "2024-10-28T13:37:17.447601+00:00",
+        "id": "2843010",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2843010?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2843010",
+          "cv": "https://inspirehep.net/api/literature/2843010?format=cv",
+          "json": "https://inspirehep.net/api/literature/2843010?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2843010?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2843010?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2843010?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2843010,
+          "dois": [
+            {
+              "source": "Glasgow U.",
+              "value": "10.5525/gla.thesis.84613"
+            }
+          ],
+          "earliest_date": "2024",
+          "titles": [
+            {
+              "source": "Glasgow U.",
+              "title": "Extracting astrophysics from long-lived gravitational wave signals with the Laser Interferometer Space Antenna"
+            }
+          ]
+        },
+        "updated": "2026-02-09T14:19:15.077254+00:00"
+      },
+      {
+        "created": "2023-12-08T03:46:12.845514+00:00",
+        "id": "2732728",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2732728?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2732728",
+          "cv": "https://inspirehep.net/api/literature/2732728?format=cv",
+          "json": "https://inspirehep.net/api/literature/2732728?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2732728?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2732728?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2732728?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2312.04320"
+            }
+          ],
+          "control_number": 2732728,
+          "earliest_date": "2023-12-07",
+          "preprint_date": "2023-12-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Resolving \"dirty\" effects around black holes by decoupling the Teukolsky equation"
+            }
+          ]
+        },
+        "updated": "2024-10-01T15:09:36.831689+00:00"
+      },
+      {
+        "created": "2023-11-03T02:49:17.673073+00:00",
+        "id": "2717996",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2717996?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2717996",
+          "cv": "https://inspirehep.net/api/literature/2717996?format=cv",
+          "json": "https://inspirehep.net/api/literature/2717996?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2717996?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2717996?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2717996?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2311.01300"
+            }
+          ],
+          "control_number": 2717996,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-025-00056-1"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-025-00056-1"
+            }
+          ],
+          "earliest_date": "2023-11-02",
+          "preprint_date": "2023-11-02",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Waveform modelling for the Laser Interferometer Space Antenna"
+            },
+            {
+              "source": "arXiv",
+              "title": "Waveform Modelling for the Laser Interferometer Space Antenna"
+            }
+          ]
+        },
+        "updated": "2026-09-09T08:20:04.885611+00:00"
+      },
+      {
+        "created": "2023-10-16T02:38:19.575032+00:00",
+        "id": "2710635",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2710635?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2710635",
+          "cv": "https://inspirehep.net/api/literature/2710635?format=cv",
+          "json": "https://inspirehep.net/api/literature/2710635?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2710635?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2710635?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2710635?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2310.08927"
+            }
+          ],
+          "control_number": 2710635,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.124048"
+            }
+          ],
+          "earliest_date": "2023-10-13",
+          "preprint_date": "2023-10-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Assessing the importance of first postadiabatic terms for small-mass-ratio binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Accuracy Requirements: Assessing the Importance of First Post-Adiabatic Terms for Small-Mass-Ratio Binaries"
+            }
+          ]
+        },
+        "updated": "2026-01-17T21:10:42.046009+00:00"
+      },
+      {
+        "created": "2023-10-16T10:47:05.069595+00:00",
+        "id": "2710892",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2710892?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2710892",
+          "cv": "https://inspirehep.net/api/literature/2710892?format=cv",
+          "json": "https://inspirehep.net/api/literature/2710892?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2710892?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2710892?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2710892?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2310.08438"
+            }
+          ],
+          "control_number": 2710892,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.064030"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.109.064030"
+            }
+          ],
+          "earliest_date": "2023-10-12",
+          "preprint_date": "2023-10-12",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme mass-ratio inspiral and waveforms for a spinning body into a Kerr black hole via osculating geodesics and near-identity transformations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspiral and waveforms for a spinning body into a Kerr black hole via osculating geodesics and near-identity transformations"
+            }
+          ]
+        },
+        "updated": "2026-06-28T02:38:45.675398+00:00"
+      },
+      {
+        "created": "2023-10-13T02:50:34.768194+00:00",
+        "id": "2709905",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2709905?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2709905",
+          "cv": "https://inspirehep.net/api/literature/2709905?format=cv",
+          "json": "https://inspirehep.net/api/literature/2709905?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2709905?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2709905?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2709905?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2310.07772"
+            }
+          ],
+          "control_number": 2709905,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.044052"
+            }
+          ],
+          "earliest_date": "2023-10-11",
+          "preprint_date": "2023-10-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme mass-ratio inspirals as probes of fundamental dipoles"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspirals as probes of fundamental dipoles"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:23:00.529713+00:00"
+      },
+      {
+        "created": "2023-10-05T02:44:33.743204+00:00",
+        "id": "2706023",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2706023?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2706023",
+          "cv": "https://inspirehep.net/api/literature/2706023?format=cv",
+          "json": "https://inspirehep.net/api/literature/2706023?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2706023?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2706023?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2706023?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2310.02315"
+            }
+          ],
+          "control_number": 2706023,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.064022"
+            }
+          ],
+          "earliest_date": "2023-10-03",
+          "preprint_date": "2023-10-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Measuring scalar charge with compact binaries: High accuracy modeling with self-force"
+            },
+            {
+              "source": "arXiv",
+              "title": "Measuring scalar charge with compact binaries: High accuracy modelling with self-force"
+            }
+          ]
+        },
+        "updated": "2026-08-28T12:19:45.846929+00:00"
+      },
+      {
+        "created": "2023-09-08T08:21:18.865859+00:00",
+        "id": "2694543",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2694543?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2694543",
+          "cv": "https://inspirehep.net/api/literature/2694543?format=cv",
+          "json": "https://inspirehep.net/api/literature/2694543?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2694543?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2694543?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2694543?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2309.03778"
+            }
+          ],
+          "control_number": 2694543,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.044021"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.109.044021"
+            }
+          ],
+          "earliest_date": "2023-09-07",
+          "preprint_date": "2023-09-07",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Second-order gravitational self-force in a highly regular gauge: Covariant and coordinate punctures"
+            },
+            {
+              "source": "arXiv",
+              "title": "Second-order gravitational self-force in a highly regular gauge: Covariant and coordinate punctures"
+            }
+          ]
+        },
+        "updated": "2024-02-16T03:39:28.393877+00:00"
+      },
+      {
+        "created": "2023-08-08T08:28:59.080770+00:00",
+        "id": "2686054",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2686054?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2686054",
+          "cv": "https://inspirehep.net/api/literature/2686054?format=cv",
+          "json": "https://inspirehep.net/api/literature/2686054?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2686054?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2686054?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2686054?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE"
+              ],
+              "value": "2308.03250"
+            }
+          ],
+          "control_number": 2686054,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.124079"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.124079"
+            }
+          ],
+          "earliest_date": "2023-08-06",
+          "preprint_date": "2023-08-06",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Detectability of dense-environment effects on black-hole mergers: The scalar field case, higher-order ringdown modes, and parameter biases"
+            },
+            {
+              "source": "arXiv",
+              "title": "Impact of ringdown higher-order modes on black-hole mergers in dense environments: the scalar field case, detectability and parameter biases"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:36:26.590207+00:00"
+      },
+      {
+        "created": "2023-08-02T02:53:37.770010+00:00",
+        "id": "2684226",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2684226?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2684226",
+          "cv": "https://inspirehep.net/api/literature/2684226?format=cv",
+          "json": "https://inspirehep.net/api/literature/2684226?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2684226?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2684226?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2684226?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2308.00021"
+            }
+          ],
+          "control_number": 2684226,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevLett.132.171401"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevLett.132.171401"
+            }
+          ],
+          "earliest_date": "2023-07-31",
+          "preprint_date": "2023-07-31",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Analytic Solutions for the Motion of Spinning Particles near Spherically Symmetric Black Holes and Exotic Compact Objects"
+            },
+            {
+              "source": "arXiv",
+              "title": "Analytic solutions for the motion of spinning particles near spherically symmetric black holes and exotic compact objects"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:31:52.510082+00:00"
+      },
+      {
+        "created": "2023-07-28T02:56:24.734550+00:00",
+        "id": "2682390",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2682390?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2682390",
+          "cv": "https://inspirehep.net/api/literature/2682390?format=cv",
+          "json": "https://inspirehep.net/api/literature/2682390?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2682390?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2682390?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2682390?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2307.14616"
+            }
+          ],
+          "control_number": 2682390,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2023/11/070"
+            }
+          ],
+          "earliest_date": "2023-07-27",
+          "preprint_date": "2023-07-27",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Radiation fluxes of gravitational, electromagnetic, and scalar perturbations in type-D black holes: an exact approach"
+            },
+            {
+              "source": "arXiv",
+              "title": "Radiation fluxes of gravitational, electromagnetic, and scalar perturbations in type-D black holes: an exact approach"
+            },
+            {
+              "source": "arXiv",
+              "title": "Exact solutions of general Teukolsky equations with source and their applications"
+            }
+          ]
+        },
+        "updated": "2024-04-09T13:24:46.796532+00:00"
+      },
+      {
+        "created": "2023-07-25T04:03:11.177147+00:00",
+        "id": "2679864",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2679864?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2679864",
+          "cv": "https://inspirehep.net/api/literature/2679864?format=cv",
+          "json": "https://inspirehep.net/api/literature/2679864?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2679864?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2679864?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2679864?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.IM"
+              ],
+              "value": "2307.12585"
+            }
+          ],
+          "control_number": 2679864,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3389/fams.2023.1266739"
+            }
+          ],
+          "earliest_date": "2023-07-24",
+          "preprint_date": "2023-07-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Fast and Fourier: Extreme Mass Ratio Inspiral Waveforms in the Frequency Domain"
+            }
+          ]
+        },
+        "updated": "2025-09-17T13:37:50.475502+00:00"
+      },
+      {
+        "created": "2023-06-30T02:50:41.670886+00:00",
+        "id": "2672942",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2672942?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2672942",
+          "cv": "https://inspirehep.net/api/literature/2672942?format=cv",
+          "json": "https://inspirehep.net/api/literature/2672942?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2672942?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2672942?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2672942?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2306.16469"
+            }
+          ],
+          "control_number": 2672942,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.124070"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.110.124070"
+            }
+          ],
+          "earliest_date": "2023-06-28",
+          "preprint_date": "2023-06-28",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Recipes for computing radiation from a Kerr black hole using a generalized Sasaki-Nakamura formalism: Homogeneous solutions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Recipes for computing radiation from a Kerr black hole using Generalized Sasaki-Nakamura formalism: I. Homogeneous solutions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Recipes for computing radiation from a Kerr black hole using a generalized Sasaki-Nakamura formalism: Homogeneous solutions"
+            }
+          ]
+        },
+        "updated": "2025-04-09T16:20:56.915417+00:00"
+      },
+      {
+        "created": "2023-06-28T02:53:04.442728+00:00",
+        "id": "2672339",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2672339?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2672339",
+          "cv": "https://inspirehep.net/api/literature/2672339?format=cv",
+          "json": "https://inspirehep.net/api/literature/2672339?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2672339?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2672339?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2672339?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.GA",
+                "hep-th"
+              ],
+              "value": "2306.14971"
+            }
+          ],
+          "control_number": 2672339,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2024/01/035"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2024/01/035"
+            }
+          ],
+          "earliest_date": "2023-06-26",
+          "preprint_date": "2023-06-26",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Probing astrophysical environment with eccentric extreme mass-ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing astrophysical environment with eccentric extreme mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2026-05-05T17:56:11.449494+00:00"
+      },
+      {
+        "created": "2023-06-21T02:56:10.543282+00:00",
+        "id": "2670043",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2670043?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2670043",
+          "cv": "https://inspirehep.net/api/literature/2670043?format=cv",
+          "json": "https://inspirehep.net/api/literature/2670043?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2670043?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2670043?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2670043?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2306.11558"
+            }
+          ],
+          "control_number": 2670043,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.084023"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.084023"
+            }
+          ],
+          "earliest_date": "2023-06-20",
+          "preprint_date": "2023-06-20",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extended bodies with spin induced quadrupoles on circular equatorial orbits in Kerr spacetime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extended bodies with spin induced quadrupoles on circular equatorial orbits in Kerr spacetime"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:28:47.166534+00:00"
+      },
+      {
+        "created": "2023-06-06T03:18:42.190829+00:00",
+        "id": "2665824",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2665824?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2665824",
+          "cv": "https://inspirehep.net/api/literature/2665824?format=cv",
+          "json": "https://inspirehep.net/api/literature/2665824?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2665824?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2665824?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2665824?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2306.02683"
+            }
+          ],
+          "control_number": 2665824,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.084001"
+            }
+          ],
+          "earliest_date": "2023-06-05",
+          "preprint_date": "2023-06-05",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational waves from extreme-mass-ratio inspirals around a hairy Kerr black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational waves from extreme mass ratio inspirals around a hairy Kerr black hole"
+            }
+          ]
+        },
+        "updated": "2025-08-14T05:00:14.607983+00:00"
+      },
+      {
+        "created": "2023-05-19T02:58:54.448933+00:00",
+        "id": "2660865",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2660865?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2660865",
+          "cv": "https://inspirehep.net/api/literature/2660865?format=cv",
+          "json": "https://inspirehep.net/api/literature/2660865?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2660865?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2660865?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2660865?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2305.10533"
+            }
+          ],
+          "control_number": 2660865,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.084072"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.109.084072"
+            }
+          ],
+          "earliest_date": "2023-05-17",
+          "preprint_date": "2023-05-17",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Self-forced inspirals with spin-orbit precession"
+            },
+            {
+              "source": "arXiv",
+              "title": "Self-forced inspirals with spin-orbit precession"
+            }
+          ]
+        },
+        "updated": "2025-05-28T10:08:02.123351+00:00"
+      },
+      {
+        "created": "2023-05-17T03:07:37.529841+00:00",
+        "id": "2660300",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2660300?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2660300",
+          "cv": "https://inspirehep.net/api/literature/2660300?format=cv",
+          "json": "https://inspirehep.net/api/literature/2660300?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2660300?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2660300?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2660300?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2305.08919"
+            }
+          ],
+          "control_number": 2660300,
+          "earliest_date": "2023-05-15",
+          "preprint_date": "2023-05-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspiral of a spinning body into a Kerr black hole I: Evolution along generic trajectories"
+            }
+          ]
+        },
+        "updated": "2026-06-28T02:38:48.250904+00:00"
+      },
+      {
+        "created": "2023-05-11T02:43:59.105938+00:00",
+        "id": "2658384",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2658384?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2658384",
+          "cv": "https://inspirehep.net/api/literature/2658384?format=cv",
+          "json": "https://inspirehep.net/api/literature/2658384?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2658384?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2658384?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2658384?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th",
+                "nlin.CD"
+              ],
+              "value": "2305.05691"
+            }
+          ],
+          "control_number": 2658384,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.084062"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.084062"
+            }
+          ],
+          "earliest_date": "2023-05-09",
+          "preprint_date": "2023-05-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme-mass-ratio inspirals into rotating boson stars: Nonintegrability, chaos, and transient resonances"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme-mass-ratio inspirals into rotating boson stars: nonintegrability, chaos, and transient resonances"
+            }
+          ]
+        },
+        "updated": "2025-06-10T12:44:43.259617+00:00"
+      },
+      {
+        "created": "2023-05-02T03:04:28.110198+00:00",
+        "id": "2655661",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2655661?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2655661",
+          "cv": "https://inspirehep.net/api/literature/2655661?format=cv",
+          "json": "https://inspirehep.net/api/literature/2655661?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2655661?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2655661?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2655661?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2305.00652"
+            }
+          ],
+          "control_number": 2655661,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1674-1137/ad50ba"
+            }
+          ],
+          "earliest_date": "2023-05-01",
+          "preprint_date": "2023-05-01",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Detecting secondary spin with extreme mass ratio inspirals in scalar-tensor theory*"
+            },
+            {
+              "source": "arXiv",
+              "title": "Detecting the secondary spin with extreme mass ratio inspirals in Scalar-Tensor theory"
+            }
+          ]
+        },
+        "updated": "2024-07-29T08:48:00.716176+00:00"
+      },
+      {
+        "created": "2023-03-30T03:14:48.003394+00:00",
+        "id": "2646988",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2646988?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2646988",
+          "cv": "https://inspirehep.net/api/literature/2646988?format=cv",
+          "json": "https://inspirehep.net/api/literature/2646988?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2646988?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2646988?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2646988?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2303.16798"
+            }
+          ],
+          "control_number": 2646988,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.044041"
+            }
+          ],
+          "earliest_date": "2023-03-29",
+          "preprint_date": "2023-03-29",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Asymptotic gravitational-wave fluxes from a spinning test body on generic orbits around a Kerr black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Asymptotic gravitational-wave fluxes from a spinning test body on generic orbits around a Kerr black hole"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:23:52.042745+00:00"
+      },
+      {
+        "created": "2023-03-27T02:52:29.674978+00:00",
+        "id": "2645689",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2645689?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2645689",
+          "cv": "https://inspirehep.net/api/literature/2645689?format=cv",
+          "json": "https://inspirehep.net/api/literature/2645689?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2645689?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2645689?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2645689?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2303.13749"
+            }
+          ],
+          "control_number": 2645689,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.064015"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.064015"
+            }
+          ],
+          "earliest_date": "2023-03-23",
+          "preprint_date": "2023-03-23",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Influence of mass-ratio corrections in extreme-mass-ratio inspirals for testing general relativity"
+            },
+            {
+              "source": "arXiv",
+              "title": "The influence of mass-ratio in extreme-mass-ratio inspirals for testing general relativity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Influence of mass-ratio corrections in extreme-mass-ratio inspirals for testing general relativity"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:32:00.319764+00:00"
+      },
+      {
+        "created": "2023-01-18T03:07:12.467108+00:00",
+        "id": "2623836",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2623836?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2623836",
+          "cv": "https://inspirehep.net/api/literature/2623836?format=cv",
+          "json": "https://inspirehep.net/api/literature/2623836?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2623836?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2623836?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2623836?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2301.05915"
+            }
+          ],
+          "control_number": 2623836,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2023/06/020"
+            }
+          ],
+          "earliest_date": "2023-01-14",
+          "preprint_date": "2023-01-14",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Detecting vector charge with extreme mass ratio inspirals onto Kerr black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Detecting vector charge with extreme mass ratio inspirals onto Kerr black holes"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:19:18.662464+00:00"
+      },
+      {
+        "created": "2023-11-21T14:56:00.220165+00:00",
+        "id": "2724756",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2724756?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2724756",
+          "cv": "https://inspirehep.net/api/literature/2724756?format=cv",
+          "json": "https://inspirehep.net/api/literature/2724756?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2724756?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2724756?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2724756?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2724756,
+          "earliest_date": "2023",
+          "titles": [
+            {
+              "source": "Charles U., Prague (main)",
+              "title": "Gravitational wave templates from Extreme Mass Ratio Inspirals"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:39:45.126391+00:00"
+      },
+      {
+        "created": "2022-12-06T03:09:05.194458+00:00",
+        "id": "2610558",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2610558?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2610558",
+          "cv": "https://inspirehep.net/api/literature/2610558?format=cv",
+          "json": "https://inspirehep.net/api/literature/2610558?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2610558?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2610558?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2610558?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2212.01404"
+            }
+          ],
+          "control_number": 2610558,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2023/01/046"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2023/01/046"
+            }
+          ],
+          "earliest_date": "2022-12-02",
+          "preprint_date": "2022-12-02",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Gravitational wave from extreme mass-ratio inspirals as a probe of extra dimensions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational wave from extreme mass-ratio inspirals as a probe of extra dimensions"
+            }
+          ]
+        },
+        "updated": "2026-03-06T04:03:16.283385+00:00"
+      },
+      {
+        "created": "2022-12-02T03:07:32.829808+00:00",
+        "id": "2606562",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2606562?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2606562",
+          "cv": "https://inspirehep.net/api/literature/2606562?format=cv",
+          "json": "https://inspirehep.net/api/literature/2606562?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2606562?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2606562?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2606562?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2212.00747"
+            }
+          ],
+          "control_number": 2606562,
+          "earliest_date": "2022-11-30",
+          "preprint_date": "2022-11-30",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quasi Normal Modes of Black Holes and Detection in Ringdown Process"
+            }
+          ]
+        },
+        "updated": "2026-02-09T12:52:40.064580+00:00"
+      },
+      {
+        "created": "2022-10-11T05:25:17.215068+00:00",
+        "id": "2163270",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2163270?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2163270",
+          "cv": "https://inspirehep.net/api/literature/2163270?format=cv",
+          "json": "https://inspirehep.net/api/literature/2163270?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2163270?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2163270?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2163270?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "math-ph",
+                "math.MP"
+              ],
+              "value": "2210.03866"
+            }
+          ],
+          "control_number": 2163270,
+          "earliest_date": "2022-10-07",
+          "preprint_date": "2022-10-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Symplectic mechanics of relativistic spinning compact bodies. I. linear-in-spin integrability under Killing-Yano symmetry"
+            },
+            {
+              "source": "arXiv",
+              "title": "Symplectic mechanics of relativistic spinning compact bodies I.: Covariant foundations and integrability around black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Symplectic mechanics of spinning particles in curved spacetime: I. Integrability in the Schwarzschild spacetime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Symplectic mechanics of spinning particles in curved spacetime"
+            }
+          ]
+        },
+        "updated": "2026-08-09T10:25:19.697671+00:00"
+      },
+      {
+        "created": "2024-05-10T21:30:49.935533+00:00",
+        "id": "2785005",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2785005?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2785005",
+          "cv": "https://inspirehep.net/api/literature/2785005?format=cv",
+          "json": "https://inspirehep.net/api/literature/2785005?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2785005?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2785005?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2785005?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2785005,
+          "earliest_date": "2022-09-22",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "Efficient trajectory calculations for extreme mass-ratio inspirals using near-identity (averaging) transformations"
+            }
+          ]
+        },
+        "updated": "2024-12-10T22:40:12.772400+00:00"
+      },
+      {
+        "created": "2022-07-29T03:00:59.622585+00:00",
+        "id": "2127397",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2127397?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2127397",
+          "cv": "https://inspirehep.net/api/literature/2127397?format=cv",
+          "json": "https://inspirehep.net/api/literature/2127397?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2127397?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2127397?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2127397?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2207.14002"
+            }
+          ],
+          "control_number": 2127397,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.064049"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.064049"
+            }
+          ],
+          "earliest_date": "2022-07-28",
+          "preprint_date": "2022-07-28",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Toward a gravitational self-force-informed effective-one-body waveform model for nonprecessing, eccentric, large-mass-ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Towards a gravitational self force-informed effective-one-body waveform model for nonprecessing, eccentric, large-mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:39:57.241819+00:00"
+      },
+      {
+        "created": "2022-07-19T03:29:51.699826+00:00",
+        "id": "2116349",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2116349?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2116349",
+          "cv": "https://inspirehep.net/api/literature/2116349?format=cv",
+          "json": "https://inspirehep.net/api/literature/2116349?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2116349?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2116349?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2116349?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.CO",
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2207.08638"
+            }
+          ],
+          "control_number": 2116349,
+          "dois": [
+            {
+              "source": "U. Geneva(main)",
+              "value": "10.13097/archive-ouverte/unige:162100"
+            }
+          ],
+          "earliest_date": "2022-07-18",
+          "preprint_date": "2022-07-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Signals from the Early Universe: Black Holes, Gravitational Waves and Particle Physics"
+            }
+          ]
+        },
+        "updated": "2024-10-01T16:09:29.328876+00:00"
+      },
+      {
+        "created": "2022-07-18T02:40:43.644817+00:00",
+        "id": "2115299",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2115299?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2115299",
+          "cv": "https://inspirehep.net/api/literature/2115299?format=cv",
+          "json": "https://inspirehep.net/api/literature/2115299?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2115299?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2115299?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2115299?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2207.07452"
+            }
+          ],
+          "control_number": 2115299,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.024021"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.107.024021"
+            }
+          ],
+          "earliest_date": "2022-07-15",
+          "preprint_date": "2022-07-15",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Constraining the tidal deformability of supermassive objects with extreme mass ratio inspirals and semianalytical frequency-domain waveforms"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme Love in the SPA: constraining the tidal deformability of supermassive objects with extreme mass ratio inspirals and semi-analytical, frequency-domain waveforms"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:04:14.753319+00:00"
+      },
+      {
+        "created": "2022-06-23T03:32:31.176238+00:00",
+        "id": "2099481",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2099481?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2099481",
+          "cv": "https://inspirehep.net/api/literature/2099481?format=cv",
+          "json": "https://inspirehep.net/api/literature/2099481?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2099481?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2099481?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2099481?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2206.11149"
+            }
+          ],
+          "control_number": 2099481,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.044039"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.044039"
+            }
+          ],
+          "earliest_date": "2022-06-22",
+          "preprint_date": "2022-06-22",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Spinning test body orbiting around a Kerr black hole: Comparing spin supplementary conditions for circular equatorial orbits"
+            },
+            {
+              "source": "arXiv",
+              "title": "Spinning test body orbiting around a Kerr black hole: Comparing Spin Supplementary Conditions for Circular Equatorial Orbits"
+            }
+          ]
+        },
+        "updated": "2026-04-25T11:49:34.725378+00:00"
+      },
+      {
+        "created": "2022-08-19T07:56:09.243942+00:00",
+        "id": "2139100",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2139100?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2139100",
+          "cv": "https://inspirehep.net/api/literature/2139100?format=cv",
+          "json": "https://inspirehep.net/api/literature/2139100?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2139100?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2139100?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2139100?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2139100,
+          "earliest_date": "2022-05-20",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Spinning compact objects in extreme-mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:06:23.080026+00:00"
+      },
+      {
+        "created": "2022-03-14T14:46:28.731352+00:00",
+        "id": "2050693",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2050693?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2050693",
+          "cv": "https://inspirehep.net/api/literature/2050693?format=cv",
+          "json": "https://inspirehep.net/api/literature/2050693?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2050693?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2050693?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2050693?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.GA",
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "astro-ph.SR"
+              ],
+              "value": "2203.06016"
+            }
+          ],
+          "control_number": 2050693,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-022-00041-y"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-022-00041-y"
+            }
+          ],
+          "earliest_date": "2022-03-11",
+          "preprint_date": "2022-03-11",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Astrophysics with the Laser Interferometer Space Antenna"
+            },
+            {
+              "source": "arXiv",
+              "title": "Astrophysics with the Laser Interferometer Space Antenna"
+            }
+          ]
+        },
+        "updated": "2026-05-16T11:43:59.168424+00:00"
+      },
+      {
+        "created": "2022-03-11T02:56:42.644286+00:00",
+        "id": "2049604",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2049604?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2049604",
+          "cv": "https://inspirehep.net/api/literature/2049604?format=cv",
+          "json": "https://inspirehep.net/api/literature/2049604?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2049604?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2049604?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2049604?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2203.05003"
+            }
+          ],
+          "control_number": 2049604,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.044029"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.044029"
+            }
+          ],
+          "earliest_date": "2022-03-09",
+          "preprint_date": "2022-03-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme mass-ratio inspirals as probes of scalar fields: Eccentric equatorial orbits around Kerr black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspirals as probes of scalar fields: eccentric equatorial orbits around Kerr black holes"
+            }
+          ]
+        },
+        "updated": "2026-03-30T19:38:55.385551+00:00"
+      },
+      {
+        "created": "2022-08-19T07:00:33.493600+00:00",
+        "id": "2139044",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2139044?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2139044",
+          "cv": "https://inspirehep.net/api/literature/2139044?format=cv",
+          "json": "https://inspirehep.net/api/literature/2139044?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2139044?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2139044?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2139044?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2211.16900"
+            }
+          ],
+          "control_number": 2139044,
+          "earliest_date": "2022-02-22",
+          "preprint_date": "2022-11-30",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Probing new physics on the horizon of black holes with gravitational waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing new physics on the horizon of black holes with gravitational waves"
+            }
+          ]
+        },
+        "updated": "2025-09-20T06:07:32.781232+00:00"
+      },
+      {
+        "created": "2022-02-01T03:09:21.528183+00:00",
+        "id": "2022671",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2022671?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2022671",
+          "cv": "https://inspirehep.net/api/literature/2022671?format=cv",
+          "json": "https://inspirehep.net/api/literature/2022671?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2022671?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2022671?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2022671?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2201.13334"
+            }
+          ],
+          "control_number": 2022671,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.124040"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.124040"
+            }
+          ],
+          "earliest_date": "2022-01-31",
+          "preprint_date": "2022-01-31",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Precisely computing bound orbits of spinning bodies around black holes. I. General framework and results for nearly equatorial orbits"
+            },
+            {
+              "source": "arXiv",
+              "title": "Precisely computing bound orbits of spinning bodies around black holes I: General framework and results for nearly equatorial orbits"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:36:43.771188+00:00"
+      },
+      {
+        "created": "2022-01-27T03:07:51.397996+00:00",
+        "id": "2018008",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2018008?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2018008",
+          "cv": "https://inspirehep.net/api/literature/2018008?format=cv",
+          "json": "https://inspirehep.net/api/literature/2018008?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2018008?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2018008?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2018008?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2201.10748"
+            }
+          ],
+          "control_number": 2018008,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.024047"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.024047"
+            }
+          ],
+          "earliest_date": "2022-01-25",
+          "preprint_date": "2022-01-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Detection of scalar fields by extreme mass ratio inspirals with a Kerr black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Detection of scalar fields by Extreme Mass Ratio Inspirals with Kerr black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Detection of scalar fields by Extreme Mass Ratio Inspirals with a Kerr black hole"
+            }
+          ]
+        },
+        "updated": "2025-02-18T09:13:11.545113+00:00"
+      },
+      {
+        "created": "2022-01-20T03:20:37.147214+00:00",
+        "id": "2012948",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2012948?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2012948",
+          "cv": "https://inspirehep.net/api/literature/2012948?format=cv",
+          "json": "https://inspirehep.net/api/literature/2012948?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2012948?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2012948?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2012948?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2201.07044"
+            }
+          ],
+          "control_number": 2012948,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.084033"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.084033"
+            }
+          ],
+          "earliest_date": "2022-01-18",
+          "preprint_date": "2022-01-18",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Adiabatic equatorial inspirals of a spinning body into a Kerr black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Adiabatic equatorial inspirals of a spinning body into a Kerr black hole"
+            }
+          ]
+        },
+        "updated": "2025-06-06T15:52:23.426105+00:00"
+      },
+      {
+        "created": "2021-12-30T02:49:30.644690+00:00",
+        "id": "1997918",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1997918?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1997918",
+          "cv": "https://inspirehep.net/api/literature/1997918?format=cv",
+          "json": "https://inspirehep.net/api/literature/1997918?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1997918?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1997918?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1997918?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2112.13869"
+            }
+          ],
+          "control_number": 1997918,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.024006"
+            },
+            {
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.024006"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.107.024006"
+            }
+          ],
+          "earliest_date": "2021-12-27",
+          "preprint_date": "2021-12-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Prospects for determining the nature of the secondaries of extreme mass-ratio inspirals using the spin-induced quadrupole deformation"
+            },
+            {
+              "source": "arXiv",
+              "title": "Prospects for determining the nature of the secondaries of extreme mass-ratio inspirals using the spin-induced quadrupole deformation"
+            },
+            {
+              "source": "arXiv",
+              "title": "The prospect of distinguishing astrophysical objects with LISA"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:44:35.980660+00:00"
+      },
+      {
+        "created": "2021-12-28T02:55:08.611829+00:00",
+        "id": "1997188",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1997188?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1997188",
+          "cv": "https://inspirehep.net/api/literature/1997188?format=cv",
+          "json": "https://inspirehep.net/api/literature/1997188?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1997188?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1997188?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1997188?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2112.13069"
+            }
+          ],
+          "control_number": 1997188,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.084031"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.084031"
+            }
+          ],
+          "earliest_date": "2021-12-24",
+          "preprint_date": "2021-12-24",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Self-force calculations with a spinning secondary"
+            },
+            {
+              "source": "arXiv",
+              "title": "Self-Force Calculations with a Spinning Secondary"
+            }
+          ]
+        },
+        "updated": "2026-09-09T08:19:57.715648+00:00"
+      },
+      {
+        "created": "2021-09-30T03:42:22.710588+00:00",
+        "id": "1933911",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1933911?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1933911",
+          "cv": "https://inspirehep.net/api/literature/1933911?format=cv",
+          "json": "https://inspirehep.net/api/literature/1933911?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1933911?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1933911?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1933911?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.IM"
+              ],
+              "value": "2109.14254"
+            }
+          ],
+          "control_number": 1933911,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.124046"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.124046"
+            }
+          ],
+          "earliest_date": "2021-09-29",
+          "preprint_date": "2021-09-29",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Nonlocal parameter degeneracy in the intrinsic space of gravitational-wave signals from extreme-mass-ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Non-local parameter degeneracy in the intrinsic space of gravitational-wave signals from extreme-mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2025-07-18T19:31:33.372379+00:00"
+      },
+      {
+        "created": "2021-09-07T03:25:08.228919+00:00",
+        "id": "1917507",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1917507?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1917507",
+          "cv": "https://inspirehep.net/api/literature/1917507?format=cv",
+          "json": "https://inspirehep.net/api/literature/1917507?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1917507?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1917507?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1917507?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph"
+              ],
+              "value": "2109.02170"
+            }
+          ],
+          "control_number": 1917507,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevLett.128.111104"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevLett.128.111104"
+            }
+          ],
+          "earliest_date": "2021-09-05",
+          "preprint_date": "2021-09-05",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Detecting Subsolar-Mass Primordial Black Holes in Extreme Mass-Ratio Inspirals with LISA and Einstein Telescope"
+            },
+            {
+              "source": "arXiv",
+              "title": "Detecting Subsolar-Mass Primordial Black Holes in Extreme Mass-Ratio Inspirals with LISA and Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2024-06-14T08:15:53.908434+00:00"
+      },
+      {
+        "created": "2021-09-02T03:44:01.243808+00:00",
+        "id": "1914753",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1914753?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1914753",
+          "cv": "https://inspirehep.net/api/literature/1914753?format=cv",
+          "json": "https://inspirehep.net/api/literature/1914753?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1914753?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1914753?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1914753?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2109.00056"
+            }
+          ],
+          "control_number": 1914753,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.084050"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.084050"
+            }
+          ],
+          "earliest_date": "2021-08-31",
+          "preprint_date": "2021-08-31",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Highly eccentric extreme-mass-ratio-inspiral waveforms via fast self-forced inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Highly eccentric EMRI waveforms via fast self-forced inspirals"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:27:27.165609+00:00"
+      },
+      {
+        "created": "2021-07-06T03:13:38.410547+00:00",
+        "id": "1876641",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1876641?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1876641",
+          "cv": "https://inspirehep.net/api/literature/1876641?format=cv",
+          "json": "https://inspirehep.net/api/literature/1876641?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1876641?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1876641?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1876641?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2107.01298"
+            }
+          ],
+          "control_number": 1876641,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevLett.127.151102"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevLett.127.151102"
+            }
+          ],
+          "earliest_date": "2021-07-02",
+          "preprint_date": "2021-07-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational-Wave Energy Flux for Compact Binaries through Second Order in the Mass Ratio"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational-wave energy flux for compact binaries through second order in the mass ratio"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:07:37.346196+00:00"
+      },
+      {
+        "created": "2021-06-15T00:00:00+00:00",
+        "id": "1868405",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1868405?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1868405",
+          "cv": "https://inspirehep.net/api/literature/1868405?format=cv",
+          "json": "https://inspirehep.net/api/literature/1868405?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1868405?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1868405?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1868405?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2106.07195"
+            }
+          ],
+          "control_number": 1868405,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.104026"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.104026"
+            }
+          ],
+          "earliest_date": "2021-06-14",
+          "preprint_date": "2021-06-14",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme mass-ratio inspirals around a spinning horizonless compact object"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspirals around a spinning horizonless compact object"
+            }
+          ]
+        },
+        "updated": "2024-10-17T04:06:55.426086+00:00"
+      },
+      {
+        "created": "2021-05-18T00:00:00+00:00",
+        "id": "1863562",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1863562?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1863562",
+          "cv": "https://inspirehep.net/api/literature/1863562?format=cv",
+          "json": "https://inspirehep.net/api/literature/1863562?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1863562?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1863562?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1863562?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2105.07083"
+            }
+          ],
+          "control_number": 1863562,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.124019"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.124019"
+            }
+          ],
+          "earliest_date": "2021-05-14",
+          "preprint_date": "2021-05-14",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Assessing the detectability of the secondary spin in extreme mass-ratio inspirals with fully relativistic numerical waveforms"
+            },
+            {
+              "source": "arXiv",
+              "title": "Assessing the detectability of the secondary spin in extreme mass-ratio inspirals with fully-relativistic numerical waveforms"
+            }
+          ]
+        },
+        "updated": "2025-06-06T15:40:34.726225+00:00"
+      },
+      {
+        "created": "2021-04-28T00:00:00+00:00",
+        "id": "1861021",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1861021?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1861021",
+          "cv": "https://inspirehep.net/api/literature/1861021?format=cv",
+          "json": "https://inspirehep.net/api/literature/1861021?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1861021?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1861021?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1861021?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2104.12968"
+            }
+          ],
+          "control_number": 1861021,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.024059"
+            }
+          ],
+          "earliest_date": "2021-04-27",
+          "preprint_date": "2021-04-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Prospects for estimating parameters from gravitational waves of superspinar binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Prospects for estimating parameters from gravitational waves of superspinar binaries"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:39:57.151742+00:00"
+      },
+      {
+        "created": "2021-04-13T00:00:00+00:00",
+        "id": "1857835",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1857835?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1857835",
+          "cv": "https://inspirehep.net/api/literature/1857835?format=cv",
+          "json": "https://inspirehep.net/api/literature/1857835?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1857835?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1857835?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1857835?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2104.04582"
+            }
+          ],
+          "control_number": 1857835,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.064047"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.064047"
+            }
+          ],
+          "earliest_date": "2021-04-09",
+          "preprint_date": "2021-04-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Fast extreme-mass-ratio-inspiral waveforms: New tools for millihertz gravitational-wave data analysis"
+            },
+            {
+              "source": "arXiv",
+              "title": "FastEMRIWaveforms: New tools for millihertz gravitational-wave data analysis"
+            }
+          ]
+        },
+        "updated": "2025-09-17T13:37:46.716110+00:00"
+      },
+      {
+        "created": "2021-02-10T00:00:00+00:00",
+        "id": "1845604",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1845604?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1845604",
+          "cv": "https://inspirehep.net/api/literature/1845604?format=cv",
+          "json": "https://inspirehep.net/api/literature/1845604?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1845604?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1845604?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1845604?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2102.04819"
+            }
+          ],
+          "control_number": 1845604,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.103.104045"
+            }
+          ],
+          "earliest_date": "2021-02-09",
+          "preprint_date": "2021-02-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Spinning test body orbiting around a Kerr black hole: Eccentric equatorial orbits and their asymptotic gravitational-wave fluxes"
+            }
+          ]
+        },
+        "updated": "2025-06-06T15:37:17.012314+00:00"
+      },
+      {
+        "created": "2021-02-05T00:00:00+00:00",
+        "id": "1844795",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1844795?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1844795",
+          "cv": "https://inspirehep.net/api/literature/1844795?format=cv",
+          "json": "https://inspirehep.net/api/literature/1844795?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1844795?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1844795?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1844795?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2102.02713"
+            }
+          ],
+          "control_number": 1844795,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.103.104014"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.103.104014"
+            },
+            {
+              "material": "erratum",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.089901"
+            },
+            {
+              "source": "APS",
+              "value": "10.1103/PhysRevD.103.104014"
+            }
+          ],
+          "earliest_date": "2021-02-04",
+          "preprint_date": "2021-02-04",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Adiabatic waveforms for extreme mass-ratio inspirals via multivoice decomposition in time and frequency"
+            },
+            {
+              "source": "APS",
+              "title": "Erratum: Adiabatic waveforms for extreme mass-ratio inspirals via multivoice decomposition in time and frequency [Phys. Rev. D 103, 104014 (2021)]"
+            }
+          ]
+        },
+        "updated": "2024-04-02T03:35:28.822718+00:00"
+      },
+      {
+        "created": "2021-01-13T00:00:00+00:00",
+        "id": "1840397",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1840397?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1840397",
+          "cv": "https://inspirehep.net/api/literature/1840397?format=cv",
+          "json": "https://inspirehep.net/api/literature/1840397?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1840397?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1840397?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1840397?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2101.04533"
+            }
+          ],
+          "control_number": 1840397,
+          "earliest_date": "2021-01-12",
+          "preprint_date": "2021-01-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational wave templates from Extreme Mass Ratio Inspirals"
+            }
+          ]
+        },
+        "updated": "2025-06-06T15:36:18.426896+00:00"
+      },
+      {
+        "created": "2021-04-06T00:00:00+00:00",
+        "id": "1856202",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1856202?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1856202",
+          "cv": "https://inspirehep.net/api/literature/1856202?format=cv",
+          "json": "https://inspirehep.net/api/literature/1856202?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1856202?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1856202?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1856202?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1856202,
+          "earliest_date": "2020-11-19",
+          "titles": [
+            {
+              "source": "Georgia Tech",
+              "title": "Strong-Field Numerical Relativity in the Era of Gravitational Wave Astronomy"
+            },
+            {
+              "source": "oatd.org",
+              "title": "Strong-Field Numerical Relativity in the Era of Gravitational Wave Astronomy"
+            }
+          ]
+        },
+        "updated": "2023-09-18T08:04:00.089615+00:00"
+      },
+      {
+        "created": "2020-09-02T00:00:00+00:00",
+        "id": "1814311",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1814311?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1814311",
+          "cv": "https://inspirehep.net/api/literature/1814311?format=cv",
+          "json": "https://inspirehep.net/api/literature/1814311?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1814311?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1814311?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1814311?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "nlin.CD"
+              ],
+              "value": "2009.00028"
+            }
+          ],
+          "control_number": 1814311,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.064041"
+            }
+          ],
+          "earliest_date": "2020-08-31",
+          "preprint_date": "2020-08-31",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing spacetime symmetry through gravitational waves from extreme-mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:12:04.562040+00:00"
+      },
+      {
+        "created": "2020-03-20T00:00:00+00:00",
+        "id": "1787047",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1787047?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1787047",
+          "cv": "https://inspirehep.net/api/literature/1787047?format=cv",
+          "json": "https://inspirehep.net/api/literature/1787047?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1787047?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1787047?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1787047?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2003.08448"
+            }
+          ],
+          "control_number": 1787047,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.physletb.2020.135860"
+            }
+          ],
+          "earliest_date": "2020-03-18",
+          "preprint_date": "2020-03-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Model independent tests of the Kerr bound with extreme mass ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:22:28.949985+00:00"
+      },
+      {
+        "created": "2019-12-20T00:00:00+00:00",
+        "id": "1771919",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1771919?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1771919",
+          "cv": "https://inspirehep.net/api/literature/1771919?format=cv",
+          "json": "https://inspirehep.net/api/literature/1771919?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1771919?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1771919?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1771919?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1912.09461"
+            }
+          ],
+          "control_number": 1771919,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.102.064013"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.064013"
+            }
+          ],
+          "earliest_date": "2019-12-19",
+          "preprint_date": "2019-12-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Dissipation in extreme-mass ratio binaries with a spinning secondary"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:52:09.758087+00:00"
+      }
+    ],
+    "total": 94
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1789821&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1789821&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1789821&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1789821&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1789821&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1789821&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1789821&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

@@ -1,0 +1,4571 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-08-07T16:29:01.151510+00:00",
+        "id": "3188495",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3188495?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3188495",
+          "cv": "https://inspirehep.net/api/literature/3188495?format=cv",
+          "json": "https://inspirehep.net/api/literature/3188495?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3188495?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3188495?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3188495?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3188495,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.physletb.2026.140821"
+            }
+          ],
+          "earliest_date": "2026-08-04",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Magnetized non-commutative inspired black holes: From charged particle dynamics to QPO studies"
+            }
+          ]
+        },
+        "updated": "2026-09-04T09:22:07.360680+00:00"
+      },
+      {
+        "created": "2026-08-04T10:28:40.790172+00:00",
+        "id": "3186644",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3186644?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3186644",
+          "cv": "https://inspirehep.net/api/literature/3186644?format=cv",
+          "json": "https://inspirehep.net/api/literature/3186644?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3186644?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3186644?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3186644?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3186644,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjp/s13360-026-08024-6"
+            }
+          ],
+          "earliest_date": "2026-07-07",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Thermodynamics and QPO Signatures of Rotating Kazakov-Solodukhin Quantum Black Holes"
+            }
+          ]
+        },
+        "updated": "2026-08-07T10:13:10.191719+00:00"
+      },
+      {
+        "created": "2026-05-12T04:32:38.172737+00:00",
+        "id": "3154409",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3154409?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3154409",
+          "cv": "https://inspirehep.net/api/literature/3154409?format=cv",
+          "json": "https://inspirehep.net/api/literature/3154409?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3154409?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3154409?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3154409?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE"
+              ],
+              "value": "2605.10214"
+            }
+          ],
+          "control_number": 3154409,
+          "earliest_date": "2026-05-11",
+          "preprint_date": "2026-05-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Astrophysical signatures of Kerr-Bertotti-Robinson black holes in a cloud of strings: ISCO, microquasar QPOs, and Bondi-Hoyle-Lyttleton accretion"
+            }
+          ]
+        },
+        "updated": "2026-07-11T07:19:01.586303+00:00"
+      },
+      {
+        "created": "2026-03-20T04:14:16.129541+00:00",
+        "id": "3131529",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3131529?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3131529",
+          "cv": "https://inspirehep.net/api/literature/3131529?format=cv",
+          "json": "https://inspirehep.net/api/literature/3131529?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3131529?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3131529?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3131529?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2603.18129"
+            }
+          ],
+          "control_number": 3131529,
+          "earliest_date": "2026-03-18",
+          "preprint_date": "2026-03-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Probing Kerr black hole in a uniform Bertotti-Robinson magnetic field through astrophysical quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2026-04-05T04:06:49.628275+00:00"
+      },
+      {
+        "created": "2026-02-13T04:17:07.493745+00:00",
+        "id": "3119024",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3119024?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3119024",
+          "cv": "https://inspirehep.net/api/literature/3119024?format=cv",
+          "json": "https://inspirehep.net/api/literature/3119024?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3119024?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3119024?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3119024?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2602.11525"
+            }
+          ],
+          "control_number": 3119024,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-026-15772-3"
+            }
+          ],
+          "earliest_date": "2026-02-12",
+          "preprint_date": "2026-02-12",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Precessions and parameter constraints from quasiperiodic oscillations in a rotating charged black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Precessions and parameter constraints from quasiperiodic oscillations in a rotating charged black hole"
+            }
+          ]
+        },
+        "updated": "2026-05-21T12:08:20.033819+00:00"
+      },
+      {
+        "created": "2026-01-07T13:22:50.925214+00:00",
+        "id": "3097516",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3097516?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3097516",
+          "cv": "https://inspirehep.net/api/literature/3097516?format=cv",
+          "json": "https://inspirehep.net/api/literature/3097516?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3097516?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3097516?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3097516?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2601.03088"
+            }
+          ],
+          "control_number": 3097516,
+          "earliest_date": "2026-01-06",
+          "preprint_date": "2026-01-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Epicyclic motion and accretion disk around a charged black hole in Einstein-ModMax theory with a quintessence field"
+            }
+          ]
+        },
+        "updated": "2026-03-12T00:50:02.409274+00:00"
+      },
+      {
+        "created": "2025-12-17T04:23:38.695412+00:00",
+        "id": "3093309",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3093309?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3093309",
+          "cv": "https://inspirehep.net/api/literature/3093309?format=cv",
+          "json": "https://inspirehep.net/api/literature/3093309?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3093309?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3093309?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3093309?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2512.14456"
+            }
+          ],
+          "control_number": 3093309,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.dark.2026.102380"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.dark.2026.102380"
+            }
+          ],
+          "earliest_date": "2025-12-16",
+          "preprint_date": "2025-12-16",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Probing hairy Kerr black holes through quasi-periodic oscillations I: A study based on the kinematic models"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing Hairy Kerr Black Holes through Quasi-Periodic Oscillations I: A study based on the kinematic models"
+            }
+          ]
+        },
+        "updated": "2026-09-02T07:09:08.767013+00:00"
+      },
+      {
+        "created": "2026-01-19T15:32:59.571864+00:00",
+        "id": "3109012",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3109012?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3109012",
+          "cv": "https://inspirehep.net/api/literature/3109012?format=cv",
+          "json": "https://inspirehep.net/api/literature/3109012?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3109012?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3109012?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3109012?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3109012,
+          "earliest_date": "2025-12-15",
+          "titles": [
+            {
+              "source": "ICTS, Bangalore",
+              "title": "Microlensing of gravitational waves as a new tool for astrophysics"
+            }
+          ]
+        },
+        "updated": "2026-07-01T07:01:16.864495+00:00"
+      },
+      {
+        "created": "2025-12-16T04:21:22.254632+00:00",
+        "id": "3092792",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3092792?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3092792",
+          "cv": "https://inspirehep.net/api/literature/3092792?format=cv",
+          "json": "https://inspirehep.net/api/literature/3092792?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3092792?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3092792?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3092792?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2512.12557"
+            }
+          ],
+          "control_number": 3092792,
+          "earliest_date": "2025-12-14",
+          "preprint_date": "2025-12-14",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Constraint on magnetized black bounce spacetime from HFQPOs data and the selection of resonance models via information criterion"
+            }
+          ]
+        },
+        "updated": "2026-01-08T18:13:39.875292+00:00"
+      },
+      {
+        "created": "2025-10-28T04:19:09.031067+00:00",
+        "id": "3073878",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3073878?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3073878",
+          "cv": "https://inspirehep.net/api/literature/3073878?format=cv",
+          "json": "https://inspirehep.net/api/literature/3073878?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3073878?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3073878?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3073878?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2510.23029"
+            }
+          ],
+          "control_number": 3073878,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-026-15815-9"
+            }
+          ],
+          "earliest_date": "2025-10-27",
+          "preprint_date": "2025-10-27",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Exploring the accelerating black holes from the observations of quasi-periodic oscillations in X-ray binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Exploring the accelerating black holes from the observations of quasi-periodic oscillations in X-ray binaries"
+            }
+          ]
+        },
+        "updated": "2026-05-27T03:42:27.898844+00:00"
+      },
+      {
+        "created": "2025-10-01T04:24:39.207785+00:00",
+        "id": "2983620",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2983620?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2983620",
+          "cv": "https://inspirehep.net/api/literature/2983620?format=cv",
+          "json": "https://inspirehep.net/api/literature/2983620?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2983620?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2983620?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2983620?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2509.26270"
+            }
+          ],
+          "control_number": 2983620,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s11433-025-2874-6"
+            }
+          ],
+          "earliest_date": "2025-09-30",
+          "preprint_date": "2025-09-30",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Using precession and quasiperiodic oscillations to constrain a rotating regular black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Using precession and Lense-Thirring effect to constrain a rotating regular black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Using precession and quasiperiodic oscillations to constrain a rotating regular black hole"
+            }
+          ]
+        },
+        "updated": "2026-03-04T04:08:17.632204+00:00"
+      },
+      {
+        "created": "2025-09-30T04:20:56.514030+00:00",
+        "id": "2974414",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2974414?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2974414",
+          "cv": "https://inspirehep.net/api/literature/2974414?format=cv",
+          "json": "https://inspirehep.net/api/literature/2974414?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2974414?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2974414?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2974414?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2509.23187"
+            }
+          ],
+          "control_number": 2974414,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-14857-9"
+            }
+          ],
+          "earliest_date": "2025-09-27",
+          "preprint_date": "2025-09-27",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "The characteristics of circular motion and quasiperiodic oscillations around accelerating black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "The characteristics of circular motion and quasiperiodic oscillations around accelerating black hole"
+            }
+          ]
+        },
+        "updated": "2026-03-26T04:52:58.027570+00:00"
+      },
+      {
+        "created": "2025-09-22T04:07:17.838730+00:00",
+        "id": "2971517",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2971517?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2971517",
+          "cv": "https://inspirehep.net/api/literature/2971517?format=cv",
+          "json": "https://inspirehep.net/api/literature/2971517?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2971517?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2971517?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2971517?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2509.15761"
+            }
+          ],
+          "control_number": 2971517,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/2x2n-t383"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/2x2n-t383"
+            }
+          ],
+          "earliest_date": "2025-09-19",
+          "preprint_date": "2025-09-19",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Constraining the rotating Simpson-Visser spacetime from the observed quasiperiodic oscillations in black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraining the rotating Simpson-Visser spacetime from the observed quasi-periodic oscillations in black holes"
+            }
+          ]
+        },
+        "updated": "2025-12-09T04:08:55.311557+00:00"
+      },
+      {
+        "created": "2025-08-20T04:19:52.040702+00:00",
+        "id": "2962259",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2962259?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2962259",
+          "cv": "https://inspirehep.net/api/literature/2962259?format=cv",
+          "json": "https://inspirehep.net/api/literature/2962259?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2962259?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2962259?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2962259?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2508.13974"
+            }
+          ],
+          "control_number": 2962259,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-15244-0"
+            }
+          ],
+          "earliest_date": "2025-08-19",
+          "preprint_date": "2025-08-19",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Parameter constraints on Horndeski rotating black hole through quasiperiodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Parameter constraints on Horndeski rotating black hole through quasiperiodic oscillations"
+            }
+          ]
+        },
+        "updated": "2026-02-02T06:42:31.575489+00:00"
+      },
+      {
+        "created": "2025-07-30T04:17:33.611829+00:00",
+        "id": "2955230",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2955230?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2955230",
+          "cv": "https://inspirehep.net/api/literature/2955230?format=cv",
+          "json": "https://inspirehep.net/api/literature/2955230?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2955230?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2955230?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2955230?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2507.22031"
+            }
+          ],
+          "control_number": 2955230,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-14888-2"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-025-14888-2"
+            }
+          ],
+          "earliest_date": "2025-07-29",
+          "preprint_date": "2025-07-29",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Accretion dynamics in black holes with spontaneous Lorentz symmetry breaking"
+            },
+            {
+              "source": "arXiv",
+              "title": "Accretion dynamics in black holes with spontaneous Lorentz symmetry breaking"
+            }
+          ]
+        },
+        "updated": "2026-07-25T22:33:11.626414+00:00"
+      },
+      {
+        "created": "2025-07-29T04:17:36.221101+00:00",
+        "id": "2954786",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2954786?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2954786",
+          "cv": "https://inspirehep.net/api/literature/2954786?format=cv",
+          "json": "https://inspirehep.net/api/literature/2954786?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2954786?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2954786?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2954786?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2507.20165"
+            }
+          ],
+          "control_number": 2954786,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2026/01/060"
+            }
+          ],
+          "earliest_date": "2025-07-27",
+          "preprint_date": "2025-07-27",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Constraints on extra charges in dyonic Kerr-Newman-Kasuya-Taub-NUT black hole from the observations of quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraints on extra charges in dyonic Kerr-Newman-Kasuya-Taub-NUT black hole from the observations of quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2026-01-30T07:37:23.889803+00:00"
+      },
+      {
+        "created": "2025-06-23T04:13:56.262185+00:00",
+        "id": "2937323",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2937323?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2937323",
+          "cv": "https://inspirehep.net/api/literature/2937323?format=cv",
+          "json": "https://inspirehep.net/api/literature/2937323?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2937323?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2937323?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2937323?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2506.16405"
+            }
+          ],
+          "control_number": 2937323,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/10/068"
+            }
+          ],
+          "earliest_date": "2025-06-19",
+          "preprint_date": "2025-06-19",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Testing quantum-corrected black holes with QPOs observations: a study of particle dynamics and accretion flow"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing Quantum-Corrected Black Holes with QPOs Observations: A Study of Particle Dynamics and Accretion Flow"
+            }
+          ]
+        },
+        "updated": "2026-04-08T06:42:22.809441+00:00"
+      },
+      {
+        "created": "2025-05-28T04:24:24.526630+00:00",
+        "id": "2925640",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2925640?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2925640",
+          "cv": "https://inspirehep.net/api/literature/2925640?format=cv",
+          "json": "https://inspirehep.net/api/literature/2925640?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2925640?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2925640?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2925640?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2505.20402"
+            }
+          ],
+          "control_number": 2925640,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/cv93-pty4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/cv93-pty4"
+            }
+          ],
+          "earliest_date": "2025-05-26",
+          "preprint_date": "2025-05-26",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing supermassive black hole scalarization with pulsar timing arrays"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing supermassive black hole scalarization with Pulsar Timing Arrays"
+            }
+          ]
+        },
+        "updated": "2026-04-10T01:25:31.466283+00:00"
+      },
+      {
+        "created": "2025-05-21T12:24:28.015045+00:00",
+        "id": "2923261",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2923261?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2923261",
+          "cv": "https://inspirehep.net/api/literature/2923261?format=cv",
+          "json": "https://inspirehep.net/api/literature/2923261?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2923261?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2923261?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2923261?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2923261,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-14298-4"
+            }
+          ],
+          "earliest_date": "2025-05-19",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "QPOs tests and circular motions of charged particles around magnetized Bocharova–Bronnikov–Melnikov–Bekenstein black holes"
+            }
+          ]
+        },
+        "updated": "2025-05-28T07:59:07.533491+00:00"
+      },
+      {
+        "created": "2025-05-14T04:28:24.481554+00:00",
+        "id": "2920771",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2920771?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2920771",
+          "cv": "https://inspirehep.net/api/literature/2920771?format=cv",
+          "json": "https://inspirehep.net/api/literature/2920771?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2920771?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2920771?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2920771?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "2505.08409"
+            }
+          ],
+          "control_number": 2920771,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-14640-w"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-025-14640-w"
+            }
+          ],
+          "earliest_date": "2025-05-13",
+          "preprint_date": "2025-05-13",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Observational constraints on the Kerr and its several single-parameter modified spacetimes using quasi-periodic oscillation data"
+            },
+            {
+              "source": "arXiv",
+              "title": "Observational constraints on the Kerr and its several single-parameter modified spacetimes using quasi-periodic oscillation data"
+            }
+          ]
+        },
+        "updated": "2025-09-01T14:35:45.846906+00:00"
+      },
+      {
+        "created": "2025-05-01T16:12:54.632556+00:00",
+        "id": "2917140",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2917140?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2917140",
+          "cv": "https://inspirehep.net/api/literature/2917140?format=cv",
+          "json": "https://inspirehep.net/api/literature/2917140?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2917140?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2917140?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2917140?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2917140,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.nuclphysb.2025.116928"
+            }
+          ],
+          "earliest_date": "2025-04-25",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Barrow entropy effects on thermodynamics and quasi-periodic oscillations around a Frolov black hole"
+            }
+          ]
+        },
+        "updated": "2025-07-02T03:59:30.090417+00:00"
+      },
+      {
+        "created": "2025-09-09T16:26:05.024232+00:00",
+        "id": "2967695",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2967695?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2967695",
+          "cv": "https://inspirehep.net/api/literature/2967695?format=cv",
+          "json": "https://inspirehep.net/api/literature/2967695?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2967695?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2967695?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2967695?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2967695,
+          "dois": [
+            {
+              "source": "CrossRef",
+              "value": "10.1002/asna.20250029"
+            },
+            {
+              "value": "10.1002/asna.20250029"
+            }
+          ],
+          "earliest_date": "2025-03-14",
+          "titles": [
+            {
+              "source": "CrossRef",
+              "title": "Gauss–Bonnet Theory and Applications in Cosmology"
+            },
+            {
+              "source": "submitter",
+              "title": "Gauss–Bonnet Theory and Applications in Cosmology"
+            }
+          ]
+        },
+        "updated": "2025-11-15T19:54:04.482964+00:00"
+      },
+      {
+        "created": "2025-03-05T04:27:10.192421+00:00",
+        "id": "2896708",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2896708?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2896708",
+          "cv": "https://inspirehep.net/api/literature/2896708?format=cv",
+          "json": "https://inspirehep.net/api/literature/2896708?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2896708?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2896708?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2896708?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2503.02708"
+            }
+          ],
+          "control_number": 2896708,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/10/054"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/10/054"
+            }
+          ],
+          "earliest_date": "2025-03-04",
+          "preprint_date": "2025-03-04",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Signatures of Einstein-Maxwell dilaton-axion gravity from the observed quasi-periodic oscillations in black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Signatures of Einstein-Maxwell dilaton-axion gravity from the observed quasi-periodic oscillations in black holes"
+            }
+          ]
+        },
+        "updated": "2026-02-09T14:33:52.076846+00:00"
+      },
+      {
+        "created": "2025-02-19T08:51:15.652309+00:00",
+        "id": "2891053",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2891053?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2891053",
+          "cv": "https://inspirehep.net/api/literature/2891053?format=cv",
+          "json": "https://inspirehep.net/api/literature/2891053?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2891053?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2891053?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2891053?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2891053,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.physletb.2025.139307"
+            }
+          ],
+          "earliest_date": "2025-02-05",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Orbital precession and Lense-Thirring effect of Horndeski rotating spacetimes"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:27:34.381157+00:00"
+      },
+      {
+        "created": "2025-01-30T15:41:12.278808+00:00",
+        "id": "2874083",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2874083?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2874083",
+          "cv": "https://inspirehep.net/api/literature/2874083?format=cv",
+          "json": "https://inspirehep.net/api/literature/2874083?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2874083?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2874083?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2874083?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2504.00360"
+            }
+          ],
+          "control_number": 2874083,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-025-13755-4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-025-13755-4"
+            }
+          ],
+          "earliest_date": "2025-01-28",
+          "preprint_date": "2025-03-31",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Parameter constraints on a black hole with Minkowski core through quasiperiodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Parameter constraints on a black hole with Minkowski core through quasiperiodic oscillations"
+            }
+          ]
+        },
+        "updated": "2025-05-16T13:38:29.954152+00:00"
+      },
+      {
+        "created": "2025-03-09T17:45:19.602280+00:00",
+        "id": "2897791",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2897791?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2897791",
+          "cv": "https://inspirehep.net/api/literature/2897791?format=cv",
+          "json": "https://inspirehep.net/api/literature/2897791?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2897791?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2897791?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2897791?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2897791,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/universe11020038"
+            }
+          ],
+          "earliest_date": "2025-01-26",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "Thermal Profile of Accretion Disk Around Black Hole in 4D Einstein–Gauss–Bonnet Gravity"
+            }
+          ]
+        },
+        "updated": "2025-03-09T17:45:19.815537+00:00"
+      },
+      {
+        "created": "2024-11-22T14:14:25.160264+00:00",
+        "id": "2850934",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2850934?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2850934",
+          "cv": "https://inspirehep.net/api/literature/2850934?format=cv",
+          "json": "https://inspirehep.net/api/literature/2850934?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2850934?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2850934?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2850934?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2850934,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.dark.2024.101725"
+            }
+          ],
+          "earliest_date": "2024-11-15",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Orbital motion and QPOs testing around rotating Hairy black holes in Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2025-02-04T20:21:31.938749+00:00"
+      },
+      {
+        "created": "2024-10-14T04:10:48.910434+00:00",
+        "id": "2839402",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2839402?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2839402",
+          "cv": "https://inspirehep.net/api/literature/2839402?format=cv",
+          "json": "https://inspirehep.net/api/literature/2839402?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2839402?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2839402?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2839402?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2410.08955"
+            }
+          ],
+          "control_number": 2839402,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.jheap.2024.11.015"
+            }
+          ],
+          "earliest_date": "2024-10-11",
+          "preprint_date": "2024-10-11",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Probing the warped vacuum geometry around a Kerr black hole by quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing the warped vacuum geometry around a Kerr black hole by quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2026-03-30T08:12:47.968708+00:00"
+      },
+      {
+        "created": "2024-07-04T13:26:24.950436+00:00",
+        "id": "2804532",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2804532?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2804532",
+          "cv": "https://inspirehep.net/api/literature/2804532?format=cv",
+          "json": "https://inspirehep.net/api/literature/2804532?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2804532?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2804532?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2804532?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2407.02313"
+            }
+          ],
+          "control_number": 2804532,
+          "earliest_date": "2024-07-02",
+          "preprint_date": "2024-07-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "A Casimir-like probe for 4D Einstein-Gauss-Bonnet gravity"
+            }
+          ]
+        },
+        "updated": "2025-07-11T19:29:05.916694+00:00"
+      },
+      {
+        "created": "2024-06-24T11:46:55.228913+00:00",
+        "id": "2801434",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2801434?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2801434",
+          "cv": "https://inspirehep.net/api/literature/2801434?format=cv",
+          "json": "https://inspirehep.net/api/literature/2801434?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2801434?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2801434?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2801434?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2406.05820"
+            }
+          ],
+          "control_number": 2801434,
+          "dois": [
+            {
+              "source": "Wiley",
+              "value": "10.1002/prop.70079"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1002/prop.70079"
+            }
+          ],
+          "earliest_date": "2024-06-09",
+          "preprint_date": "2024-06-09",
+          "titles": [
+            {
+              "source": "Wiley",
+              "title": "Short‐Distance Thermal Phase Structure of Charged Black Holes in 4D Einstein–Gauss–Bonnet Gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Short-distance thermal phase structure of charged black holes in 4D Einstein-Gauss-Bonnet gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Thermodynamic phase description of charged 4D Gauss-Bonnet black holes in quantum regime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Thermodynamic phase description of charged 4D Gauss-Bonnet black holes in a quantum regime"
+            },
+            {
+              "source": "arXiv",
+              "title": "An information geometric probe for charged black holes in 4D Einstein-Gauss-Bonnet gravity"
+            }
+          ]
+        },
+        "updated": "2026-08-12T15:40:34.200536+00:00"
+      },
+      {
+        "created": "2024-04-01T03:37:34.629608+00:00",
+        "id": "2772581",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2772581?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2772581",
+          "cv": "https://inspirehep.net/api/literature/2772581?format=cv",
+          "json": "https://inspirehep.net/api/literature/2772581?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2772581?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2772581?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2772581?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2403.19942"
+            }
+          ],
+          "control_number": 2772581,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.nuclphysb.2024.116775"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.nuclphysb.2024.116775"
+            }
+          ],
+          "earliest_date": "2024-03-28",
+          "preprint_date": "2024-03-28",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Research on high-frequency quasi-periodic oscillations in black bounce-type spacetime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Research on high-frequency quasi-periodic oscillations in generalized black-bounce spacetime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Research on high-frequency quasi-periodic oscillations in black bounce-type spacetime"
+            }
+          ]
+        },
+        "updated": "2026-02-09T13:51:58.788760+00:00"
+      },
+      {
+        "created": "2024-03-27T03:59:54.511733+00:00",
+        "id": "2771765",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2771765?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2771765",
+          "cv": "https://inspirehep.net/api/literature/2771765?format=cv",
+          "json": "https://inspirehep.net/api/literature/2771765?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2771765?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2771765?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2771765?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2403.17454"
+            }
+          ],
+          "control_number": 2771765,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ada90e"
+            }
+          ],
+          "earliest_date": "2024-03-26",
+          "preprint_date": "2024-03-26",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Study on high-frequency quasi-periodic oscillations in rotating black bounce spacetime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Study on high-frequency quasi-periodic oscillations in rotating black bounce spacetime"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:08:44.448938+00:00"
+      },
+      {
+        "created": "2024-02-28T03:54:17.718923+00:00",
+        "id": "2762204",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2762204?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2762204",
+          "cv": "https://inspirehep.net/api/literature/2762204?format=cv",
+          "json": "https://inspirehep.net/api/literature/2762204?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2762204?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2762204?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2762204?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2402.16707"
+            }
+          ],
+          "control_number": 2762204,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2024/09/006"
+            }
+          ],
+          "earliest_date": "2024-02-26",
+          "preprint_date": "2024-02-26",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Bondi-Hoyle-Lyttleton accretion around the rotating hairy Horndeski black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Bondi-Hoyle-Lyttleton Accretion around the Rotating Hairy Horndeski Black Hole"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:02:18.977987+00:00"
+      },
+      {
+        "created": "2024-02-26T03:38:47.524277+00:00",
+        "id": "2761402",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2761402?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2761402",
+          "cv": "https://inspirehep.net/api/literature/2761402?format=cv",
+          "json": "https://inspirehep.net/api/literature/2761402?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2761402?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2761402?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2761402?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2402.15336"
+            }
+          ],
+          "control_number": 2761402,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.124047"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.109.124047"
+            }
+          ],
+          "earliest_date": "2024-02-23",
+          "preprint_date": "2024-02-23",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing black hole charge from the binary black hole inspiral"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing black hole `charge' from the binary black hole inspiral"
+            }
+          ]
+        },
+        "updated": "2026-04-22T12:22:06.133425+00:00"
+      },
+      {
+        "created": "2024-01-15T03:39:57.562792+00:00",
+        "id": "2746338",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2746338?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2746338",
+          "cv": "https://inspirehep.net/api/literature/2746338?format=cv",
+          "json": "https://inspirehep.net/api/literature/2746338?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2746338?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2746338?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2746338?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "2401.06553"
+            }
+          ],
+          "control_number": 2746338,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.064028"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.111.064028"
+            }
+          ],
+          "earliest_date": "2024-01-12",
+          "preprint_date": "2024-01-12",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing the charge of compact objects with gravitational microlensing of gravitational waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing charge of compact objects with gravitational microlensing of gravitational waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing black hole charge with gravitational microlensing of gravitational waves"
+            }
+          ]
+        },
+        "updated": "2025-11-17T06:58:26.113991+00:00"
+      },
+      {
+        "created": "2024-01-24T15:03:45.175942+00:00",
+        "id": "2750876",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2750876?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2750876",
+          "cv": "https://inspirehep.net/api/literature/2750876?format=cv",
+          "json": "https://inspirehep.net/api/literature/2750876?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2750876?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2750876?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2750876?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2750876,
+          "dois": [
+            {
+              "source": "U. Tubingen",
+              "value": "10.15496/publikation-90502"
+            }
+          ],
+          "earliest_date": "2024-01-11",
+          "titles": [
+            {
+              "source": "U. Tubingen",
+              "title": "On Tensor Multi-Scalar Theories in a Post-Newtonian Setting"
+            }
+          ]
+        },
+        "updated": "2025-02-18T09:53:44.478110+00:00"
+      },
+      {
+        "created": "2023-11-22T03:44:51.128555+00:00",
+        "id": "2724919",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2724919?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2724919",
+          "cv": "https://inspirehep.net/api/literature/2724919?format=cv",
+          "json": "https://inspirehep.net/api/literature/2724919?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2724919?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2724919?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2724919?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2311.12423"
+            }
+          ],
+          "control_number": 2724919,
+          "earliest_date": "2023-11-21",
+          "preprint_date": "2023-11-21",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Constraints on Hairy Kerr black hole with quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2023-12-15T13:22:33.843089+00:00"
+      },
+      {
+        "created": "2023-09-19T03:14:06.116159+00:00",
+        "id": "2698843",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2698843?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2698843",
+          "cv": "https://inspirehep.net/api/literature/2698843?format=cv",
+          "json": "https://inspirehep.net/api/literature/2698843?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2698843?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2698843?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2698843?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2309.09712"
+            }
+          ],
+          "control_number": 2698843,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ad2e43"
+            }
+          ],
+          "earliest_date": "2023-09-18",
+          "preprint_date": "2023-09-18",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Testing alternative spacetimes by high-frequency quasi-periodic oscillations observed in microquasars and active galactic nuclei"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing alternative spacetimes by high-frequency quasi-periodic oscillations observed in microquasars and active galactic nuclei"
+            }
+          ]
+        },
+        "updated": "2025-07-18T15:24:27.671154+00:00"
+      },
+      {
+        "created": "2023-05-30T11:57:39.381018+00:00",
+        "id": "2663477",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2663477?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2663477",
+          "cv": "https://inspirehep.net/api/literature/2663477?format=cv",
+          "json": "https://inspirehep.net/api/literature/2663477?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2663477?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2663477?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2663477?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2663477,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier Inc.",
+              "value": "10.1016/j.aop.2023.169360"
+            },
+            {
+              "value": "10.1016/j.aop.2023.169360"
+            }
+          ],
+          "earliest_date": "2023-05-27",
+          "titles": [
+            {
+              "source": "Elsevier Inc.",
+              "title": "Dynamics of test particles around hairy black holes in Horndeski’s theory"
+            },
+            {
+              "source": "submitter",
+              "title": "Dynamics of test particles around hairy black holes in Horndeski’s theory"
+            }
+          ]
+        },
+        "updated": "2024-10-01T15:50:08.480887+00:00"
+      },
+      {
+        "created": "2023-05-23T08:02:31.995319+00:00",
+        "id": "2661586",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2661586?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2661586",
+          "cv": "https://inspirehep.net/api/literature/2661586?format=cv",
+          "json": "https://inspirehep.net/api/literature/2661586?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2661586?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2661586?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2661586?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2305.12323"
+            }
+          ],
+          "control_number": 2661586,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2023/11/096"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2023/11/096"
+            }
+          ],
+          "earliest_date": "2023-05-20",
+          "preprint_date": "2023-05-20",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Constraints on the rotating self-dual black hole with quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraints on the rotating self-dual black hole with quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraints on rotating self-dual black hole with quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2025-12-22T03:53:36.473838+00:00"
+      },
+      {
+        "created": "2022-10-12T03:17:27.851442+00:00",
+        "id": "2164127",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2164127?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2164127",
+          "cv": "https://inspirehep.net/api/literature/2164127?format=cv",
+          "json": "https://inspirehep.net/api/literature/2164127?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2164127?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2164127?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2164127?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2210.05322"
+            }
+          ],
+          "control_number": 2164127,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-981-97-2871-8_5"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-981-97-2871-8_5"
+            }
+          ],
+          "earliest_date": "2022-10-11",
+          "preprint_date": "2022-10-11",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Testing Gravity with Black Hole X-Ray Data"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing Gravity with Black Hole X-Ray Data"
+            }
+          ]
+        },
+        "updated": "2024-07-15T08:48:35.010655+00:00"
+      },
+      {
+        "created": "2022-06-15T03:07:10.542661+00:00",
+        "id": "2095908",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2095908?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2095908",
+          "cv": "https://inspirehep.net/api/literature/2095908?format=cv",
+          "json": "https://inspirehep.net/api/literature/2095908?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2095908?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2095908?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2095908?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2206.06516"
+            }
+          ],
+          "control_number": 2095908,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.124007"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.124007"
+            }
+          ],
+          "earliest_date": "2022-06-13",
+          "preprint_date": "2022-06-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gauss-Bonnet black holes in (<math display=\"inline\"><mrow><mn>2</mn><mo>+</mo><mn>1</mn></mrow></math>) dimensions: Perturbative aspects and entropy features"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gauss-Bonnet black holes in (2+1) dimensions: Perturbative aspects and entropy features"
+            }
+          ]
+        },
+        "updated": "2024-02-01T03:35:10.936876+00:00"
+      },
+      {
+        "created": "2022-05-14T15:47:11.114986+00:00",
+        "id": "2081545",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2081545?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2081545",
+          "cv": "https://inspirehep.net/api/literature/2081545?format=cv",
+          "json": "https://inspirehep.net/api/literature/2081545?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2081545?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2081545?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2081545?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2081545,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/universe8050278"
+            },
+            {
+              "value": "10.3390/universe8050278"
+            }
+          ],
+          "earliest_date": "2022-05-10",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "Bound Orbits and Epicyclic Motions around Renormalization Group Improved Schwarzschild Black Holes"
+            },
+            {
+              "source": "submitter",
+              "title": "Bound Orbits and Epicyclic Motions around Renormalization Group Improved Schwarzschild Black Holes"
+            }
+          ]
+        },
+        "updated": "2025-07-18T19:46:19.929039+00:00"
+      },
+      {
+        "created": "2024-09-21T12:57:34.758267+00:00",
+        "id": "2830904",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2830904?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2830904",
+          "cv": "https://inspirehep.net/api/literature/2830904?format=cv",
+          "json": "https://inspirehep.net/api/literature/2830904?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2830904?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2830904?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2830904?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2830904,
+          "earliest_date": "2022-02-21",
+          "titles": [
+            {
+              "source": "U. Pisa (main)",
+              "title": "Black Hole Spectroscopy: from a mathematical problem to an observational reality"
+            }
+          ]
+        },
+        "updated": "2025-12-04T09:22:18.749078+00:00"
+      },
+      {
+        "created": "2021-12-13T02:45:18.895449+00:00",
+        "id": "1987921",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1987921?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1987921",
+          "cv": "https://inspirehep.net/api/literature/1987921?format=cv",
+          "json": "https://inspirehep.net/api/literature/1987921?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1987921?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1987921?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1987921?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2112.05385"
+            }
+          ],
+          "control_number": 1987921,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.064073"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.064073"
+            }
+          ],
+          "earliest_date": "2021-12-10",
+          "preprint_date": "2021-12-10",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasar continuum spectrum disfavors black holes with a magnetic monopole charge"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasar continuum spectrum disfavors black holes with a magnetic monopole charge"
+            }
+          ]
+        },
+        "updated": "2025-11-21T15:48:19.518177+00:00"
+      },
+      {
+        "created": "2021-12-07T03:20:51.995115+00:00",
+        "id": "1985143",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1985143?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1985143",
+          "cv": "https://inspirehep.net/api/literature/1985143?format=cv",
+          "json": "https://inspirehep.net/api/literature/1985143?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1985143?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1985143?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1985143?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.GA"
+              ],
+              "value": "2112.02895"
+            }
+          ],
+          "control_number": 1985143,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-022-10475-x"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-022-10475-x"
+            }
+          ],
+          "earliest_date": "2021-12-06",
+          "preprint_date": "2021-12-06",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Constraint on parameters of a rotating black hole in Einstein-bumblebee theory by quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraint on parameters of a rotating black hole in Einstein-bumblebee theory by quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraint on Lorentz symmetry breaking in Einstein-bumblebee theory by quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:11:33.224183+00:00"
+      },
+      {
+        "created": "2021-11-30T05:12:53.975659+00:00",
+        "id": "1979574",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1979574?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1979574",
+          "cv": "https://inspirehep.net/api/literature/1979574?format=cv",
+          "json": "https://inspirehep.net/api/literature/1979574?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1979574?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1979574?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1979574?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2111.13918"
+            }
+          ],
+          "control_number": 1979574,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-981-16-4544-0_131-1"
+            }
+          ],
+          "earliest_date": "2021-11-27",
+          "preprint_date": "2021-11-27",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tests of General Relativity using black hole X-ray data"
+            }
+          ]
+        },
+        "updated": "2024-10-01T15:25:13.245812+00:00"
+      },
+      {
+        "created": "2021-11-12T06:49:03.166781+00:00",
+        "id": "1966757",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1966757?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1966757",
+          "cv": "https://inspirehep.net/api/literature/1966757?format=cv",
+          "json": "https://inspirehep.net/api/literature/1966757?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1966757?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1966757?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1966757?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1966757,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-021-09782-6"
+            }
+          ],
+          "earliest_date": "2021-11-09",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Dynamics of charged test particles around quantum-corrected Schwarzschild black holes"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:41:02.583641+00:00"
+      },
+      {
+        "created": "2021-11-14T12:55:26.504045+00:00",
+        "id": "1966918",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1966918?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1966918",
+          "cv": "https://inspirehep.net/api/literature/1966918?format=cv",
+          "json": "https://inspirehep.net/api/literature/1966918?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1966918?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1966918?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1966918?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1966918,
+          "dois": [
+            {
+              "source": "WSP",
+              "value": "10.1142/S0217732321502370"
+            },
+            {
+              "value": "10.1142/s0217732321502370"
+            }
+          ],
+          "earliest_date": "2021-10-30",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Bound orbits around modified Hayward black holes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:12:58.863452+00:00"
+      },
+      {
+        "created": "2021-09-02T03:44:16.708688+00:00",
+        "id": "1914755",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1914755?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1914755",
+          "cv": "https://inspirehep.net/api/literature/1914755?format=cv",
+          "json": "https://inspirehep.net/api/literature/1914755?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1914755?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1914755?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1914755?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.GA",
+                "physics.space-ph"
+              ],
+              "value": "2109.00005"
+            }
+          ],
+          "control_number": 1914755,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.L061501"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.L061501"
+            }
+          ],
+          "earliest_date": "2021-08-31",
+          "preprint_date": "2021-08-31",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Black holes in galaxies: Environmental impact on gravitational-wave generation and propagation"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black holes in galaxies: environmental impact on gravitational-wave generation and propagation"
+            },
+            {
+              "source": "arXiv",
+              "title": "(F)hairy tails: black holes in galaxies"
+            }
+          ]
+        },
+        "updated": "2025-07-18T19:30:12.424901+00:00"
+      },
+      {
+        "created": "2021-07-23T03:18:03.741166+00:00",
+        "id": "1890445",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1890445?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1890445",
+          "cv": "https://inspirehep.net/api/literature/1890445?format=cv",
+          "json": "https://inspirehep.net/api/literature/1890445?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1890445?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1890445?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1890445?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2107.10758"
+            }
+          ],
+          "control_number": 1890445,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-021-09816-z"
+            },
+            {
+              "material": "erratum",
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-021-09923-x"
+            }
+          ],
+          "earliest_date": "2021-07-22",
+          "preprint_date": "2021-07-22",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Testing Kerr black hole mimickers with quasi-periodic oscillations from GRO J1655-40"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing Kerr Black Hole Mimickers with Quasi-Periodic Oscillations from GRO J1655-40"
+            },
+            {
+              "source": "Springer",
+              "title": "Erratum to: Testing Kerr black hole mimickers with quasi-periodic oscillations from GRO J1655-40 [doi: 10.1140/epjc/s10052-021-09816-z]"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:25:39.087475+00:00"
+      },
+      {
+        "created": "2021-07-15T03:31:48.036303+00:00",
+        "id": "1883933",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1883933?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1883933",
+          "cv": "https://inspirehep.net/api/literature/1883933?format=cv",
+          "json": "https://inspirehep.net/api/literature/1883933?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1883933?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1883933?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1883933?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2107.06828"
+            }
+          ],
+          "control_number": 1883933,
+          "dois": [
+            {
+              "source": "Oxford University Press",
+              "value": "10.1093/mnras/stac2740"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1093/mnras/stac2740"
+            }
+          ],
+          "earliest_date": "2021-07-14",
+          "preprint_date": "2021-07-14",
+          "titles": [
+            {
+              "source": "Oxford University Press",
+              "title": "Testing general relativity using quasi-periodic oscillations from X-ray black holes: XTE J1550-564 and GRO J1655-40"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing General Relativity using Quasi-Periodic Oscillations from X-ray Black Holes: XTE J1550-564 and GRO J1655-40"
+            }
+          ]
+        },
+        "updated": "2024-12-17T09:27:27.985013+00:00"
+      },
+      {
+        "created": "2021-07-06T03:13:49.040804+00:00",
+        "id": "1876642",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1876642?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1876642",
+          "cv": "https://inspirehep.net/api/literature/1876642?format=cv",
+          "json": "https://inspirehep.net/api/literature/1876642?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1876642?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1876642?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1876642?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2107.01421"
+            }
+          ],
+          "control_number": 1876642,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.064043"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.064043"
+            }
+          ],
+          "earliest_date": "2021-07-03",
+          "preprint_date": "2021-07-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasiperiodic oscillations in rotating Ellis wormhole spacetimes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasi-periodic Oscillations in Rotating Ellis Wormhole Spacetimes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:26:12.145985+00:00"
+      },
+      {
+        "created": "2021-05-17T00:00:00+00:00",
+        "id": "1863332",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1863332?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1863332",
+          "cv": "https://inspirehep.net/api/literature/1863332?format=cv",
+          "json": "https://inspirehep.net/api/literature/1863332?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1863332?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1863332?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1863332?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2105.06636"
+            }
+          ],
+          "control_number": 1863332,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2021/09/037"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2021/09/037"
+            }
+          ],
+          "earliest_date": "2021-05-14",
+          "preprint_date": "2021-05-14",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Looking for extra dimensions in the observed quasi-periodic oscillations of black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Looking for extra dimensions in the observed quasi-periodic oscillations of black holes"
+            }
+          ]
+        },
+        "updated": "2026-02-09T11:52:49.844229+00:00"
+      },
+      {
+        "created": "2022-08-19T09:29:50.680513+00:00",
+        "id": "2139132",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2139132?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2139132",
+          "cv": "https://inspirehep.net/api/literature/2139132?format=cv",
+          "json": "https://inspirehep.net/api/literature/2139132?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2139132?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2139132?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2139132?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2139132,
+          "earliest_date": "2021-04-28",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Testing the nature of black holes with gravitational waves"
+            }
+          ]
+        },
+        "updated": "2025-09-27T00:58:48.273803+00:00"
+      },
+      {
+        "created": "2021-03-26T00:00:00+00:00",
+        "id": "1853504",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1853504?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1853504",
+          "cv": "https://inspirehep.net/api/literature/1853504?format=cv",
+          "json": "https://inspirehep.net/api/literature/1853504?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1853504?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1853504?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1853504?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2103.13504"
+            }
+          ],
+          "control_number": 1853504,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.024048"
+            },
+            {
+              "value": "10.1103/PhysRevD.104.024048"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.024048"
+            }
+          ],
+          "earliest_date": "2021-03-24",
+          "preprint_date": "2021-03-24",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasiperiodic oscillations around rotating traversable wormholes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasi-periodic oscillations from the accretion disk around rotating traversable wormholes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:08:50.614106+00:00"
+      },
+      {
+        "created": "2021-03-23T00:00:00+00:00",
+        "id": "1852902",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1852902?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1852902",
+          "cv": "https://inspirehep.net/api/literature/1852902?format=cv",
+          "json": "https://inspirehep.net/api/literature/1852902?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1852902?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1852902?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1852902?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2103.11788"
+            }
+          ],
+          "control_number": 1852902,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2021/06/043"
+            }
+          ],
+          "earliest_date": "2021-03-22",
+          "preprint_date": "2021-03-22",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing gravity of a disformal Kerr black hole in quadratic degenerate higher-order scalar-tensor theories by quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:20:44.222524+00:00"
+      },
+      {
+        "created": "2021-02-12T00:00:00+00:00",
+        "id": "1846054",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1846054?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1846054",
+          "cv": "https://inspirehep.net/api/literature/1846054?format=cv",
+          "json": "https://inspirehep.net/api/literature/1846054?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1846054?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1846054?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1846054?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2102.05939"
+            }
+          ],
+          "control_number": 1846054,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.103.124043"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.103.124043"
+            }
+          ],
+          "earliest_date": "2021-02-11",
+          "preprint_date": "2021-02-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Enhancing modified gravity detection from gravitational-wave observations using the parametrized ringdown spin expansion coeffcients formalism"
+            },
+            {
+              "source": "arXiv",
+              "title": "Accelerating modified gravity detection from gravitational-wave observations using the Parametrized ringdown spin expansion coefficients formalism"
+            },
+            {
+              "source": "arXiv",
+              "title": "Enhancing modified gravity detection from gravitational-wave observations using the Parametrized ringdown spin expansion coefficients formalism"
+            }
+          ]
+        },
+        "updated": "2025-12-04T09:22:36.254919+00:00"
+      },
+      {
+        "created": "2021-02-05T00:00:00+00:00",
+        "id": "1844758",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1844758?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1844758",
+          "cv": "https://inspirehep.net/api/literature/1844758?format=cv",
+          "json": "https://inspirehep.net/api/literature/1844758?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1844758?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1844758?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1844758?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE"
+              ],
+              "value": "2102.02232"
+            }
+          ],
+          "control_number": 1844758,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2021/10/003"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2021/10/003"
+            }
+          ],
+          "earliest_date": "2021-02-03",
+          "preprint_date": "2021-02-03",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Testing no-hair theorem by quasi-periodic oscillations: the quadrupole of GRO J1655–40"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing No-Hair Theorem by Quasi-Periodic Oscillations: the quadrupole of GRO J1655$-$40"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:19:01.207919+00:00"
+      },
+      {
+        "created": "2020-08-07T00:00:00+00:00",
+        "id": "1810381",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1810381?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1810381",
+          "cv": "https://inspirehep.net/api/literature/1810381?format=cv",
+          "json": "https://inspirehep.net/api/literature/1810381?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1810381?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1810381?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1810381?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2008.02510"
+            }
+          ],
+          "control_number": 1810381,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s10714-020-02779-8"
+            }
+          ],
+          "earliest_date": "2020-08-06",
+          "preprint_date": "2020-08-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "A family of solutions to the inverse problem in gravitation: building a theory around a metric"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:10:34.196938+00:00"
+      },
+      {
+        "created": "2020-07-29T00:00:00+00:00",
+        "id": "1809097",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1809097?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1809097",
+          "cv": "https://inspirehep.net/api/literature/1809097?format=cv",
+          "json": "https://inspirehep.net/api/literature/1809097?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1809097?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1809097?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1809097?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2007.13980"
+            }
+          ],
+          "control_number": 1809097,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1093/mnras/staa3232"
+            }
+          ],
+          "earliest_date": "2020-07-28",
+          "preprint_date": "2020-07-28",
+          "titles": [
+            {
+              "source": "OUP",
+              "title": "Implications of Einstein–Maxwell dilaton–axion gravity from the black hole continuum spectrum"
+            },
+            {
+              "source": "arXiv",
+              "title": "Implications of Einstein-Maxwell dilaton-axion gravity from the black hole continuum spectrum"
+            }
+          ]
+        },
+        "updated": "2026-02-09T11:37:02.881025+00:00"
+      },
+      {
+        "created": "2020-06-24T00:00:00+00:00",
+        "id": "1802568",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1802568?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1802568",
+          "cv": "https://inspirehep.net/api/literature/1802568?format=cv",
+          "json": "https://inspirehep.net/api/literature/1802568?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1802568?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1802568?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1802568?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2006.12954"
+            }
+          ],
+          "control_number": 1802568,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-020-08473-y"
+            }
+          ],
+          "earliest_date": "2020-06-23",
+          "preprint_date": "2020-06-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Slowly rotating topological neutron stars -- universal relations and epicyclic frequencies"
+            }
+          ]
+        },
+        "updated": "2025-07-22T06:36:57.497156+00:00"
+      },
+      {
+        "created": "2020-06-25T00:00:00+00:00",
+        "id": "1802758",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1802758?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1802758",
+          "cv": "https://inspirehep.net/api/literature/1802758?format=cv",
+          "json": "https://inspirehep.net/api/literature/1802758?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1802758?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1802758?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1802758?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2006.13638"
+            }
+          ],
+          "control_number": 1802758,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-020-7915-9"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-020-7915-9"
+            }
+          ],
+          "earliest_date": "2020-06-05",
+          "preprint_date": "2020-06-24",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Testing Ghasemi-Nodehi–Bambi metric parameters with quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing Ghasemi-Nodehi-Bambi metric parameters with quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2025-06-10T11:56:22.850853+00:00"
+      },
+      {
+        "created": "2020-06-02T00:00:00+00:00",
+        "id": "1798693",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1798693?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1798693",
+          "cv": "https://inspirehep.net/api/literature/1798693?format=cv",
+          "json": "https://inspirehep.net/api/literature/1798693?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1798693?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1798693?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1798693?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2006.00634"
+            }
+          ],
+          "control_number": 1798693,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.102.064031"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.064031"
+            }
+          ],
+          "earliest_date": "2020-05-31",
+          "preprint_date": "2020-05-31",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Rotating black holes in valid vector-tensor theories after GW170817"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:07:04.495317+00:00"
+      },
+      {
+        "created": "2020-10-13T00:00:00+00:00",
+        "id": "1822303",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1822303?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1822303",
+          "cv": "https://inspirehep.net/api/literature/1822303?format=cv",
+          "json": "https://inspirehep.net/api/literature/1822303?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1822303?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1822303?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1822303?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2010.04745"
+            }
+          ],
+          "control_number": 1822303,
+          "dois": [
+            {
+              "source": "Virginia U.",
+              "value": "10.18130/v3-pxdw-2144"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.18130/v3-pxdw-2144"
+            }
+          ],
+          "earliest_date": "2020-05-10",
+          "preprint_date": "2020-10-09",
+          "titles": [
+            {
+              "source": "Virginia U.",
+              "title": "Probing Fundamental Physics with Gravitational Waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing Fundamental Physics with Gravitational Waves"
+            }
+          ]
+        },
+        "updated": "2026-04-03T13:44:41.843955+00:00"
+      },
+      {
+        "created": "2020-05-01T00:00:00+00:00",
+        "id": "1793629",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1793629?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1793629",
+          "cv": "https://inspirehep.net/api/literature/1793629?format=cv",
+          "json": "https://inspirehep.net/api/literature/1793629?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1793629?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1793629?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1793629?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2004.14935"
+            }
+          ],
+          "control_number": 1793629,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjc/s10052-020-8311-1"
+            }
+          ],
+          "earliest_date": "2020-04-30",
+          "preprint_date": "2020-04-30",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Quasinormal modes and greybody factors of the novel four dimensional Gauss–Bonnet black holes in asymptotically de Sitter space time: scalar, electromagnetic and Dirac perturbations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes and greybody factors of the novel four dimensional Gauss-Bonnet black holes in asymptotically de Sitter space time: Scalar, Electromagnetic and Dirac perturbations"
+            }
+          ]
+        },
+        "updated": "2024-10-01T12:53:04.053313+00:00"
+      },
+      {
+        "created": "2020-03-30T00:00:00+00:00",
+        "id": "1788553",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1788553?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1788553",
+          "cv": "https://inspirehep.net/api/literature/1788553?format=cv",
+          "json": "https://inspirehep.net/api/literature/1788553?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1788553?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1788553?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1788553?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2003.12171"
+            }
+          ],
+          "control_number": 1788553,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.064004"
+            }
+          ],
+          "earliest_date": "2020-03-26",
+          "preprint_date": "2020-03-26",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "BTZ black holes with higher curvature corrections in the 3D Einstein-Lovelock gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "BTZ black holes with higher curvature corrections in the 3D Einstein-Lovelock theory"
+            }
+          ]
+        },
+        "updated": "2024-10-01T12:51:30.309539+00:00"
+      },
+      {
+        "created": "2020-03-04T00:00:00+00:00",
+        "id": "1783746",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1783746?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1783746",
+          "cv": "https://inspirehep.net/api/literature/1783746?format=cv",
+          "json": "https://inspirehep.net/api/literature/1783746?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1783746?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1783746?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1783746?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2003.01188"
+            }
+          ],
+          "control_number": 1783746,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-020-08639-8"
+            }
+          ],
+          "earliest_date": "2020-03-02",
+          "preprint_date": "2020-03-02",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Quasinormal modes, stability and shadows of a black hole in the 4D Einstein–Gauss–Bonnet gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes, stability and shadows of a black hole in the novel 4D Einstein-Gauss-Bonnet gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes, stability and shadows of a black hole in the 4D Einstein-Gauss-Bonnet gravity"
+            }
+          ]
+        },
+        "updated": "2023-11-21T16:33:22.064408+00:00"
+      },
+      {
+        "created": "2020-03-04T00:00:00+00:00",
+        "id": "1783760",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1783760?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1783760",
+          "cv": "https://inspirehep.net/api/literature/1783760?format=cv",
+          "json": "https://inspirehep.net/api/literature/1783760?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1783760?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1783760?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1783760?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2003.01252"
+            }
+          ],
+          "control_number": 1783760,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.102.064023"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.064023"
+            }
+          ],
+          "earliest_date": "2020-03-02",
+          "preprint_date": "2020-03-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasiperiodic oscillations from the accretion disk around distorted black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasi-periodic oscillations from the accretion disk around distorted black holes"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:41:33.253210+00:00"
+      },
+      {
+        "created": "2020-02-10T00:00:00+00:00",
+        "id": "1779137",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1779137?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1779137",
+          "cv": "https://inspirehep.net/api/literature/1779137?format=cv",
+          "json": "https://inspirehep.net/api/literature/1779137?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1779137?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1779137?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1779137?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2002.02555"
+            }
+          ],
+          "control_number": 1779137,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.102.044045"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.044045"
+            }
+          ],
+          "earliest_date": "2020-02-06",
+          "preprint_date": "2020-02-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Axisymmetric deformations of neutron stars and gravitational-wave astronomy"
+            }
+          ]
+        },
+        "updated": "2026-03-14T06:35:46.189638+00:00"
+      },
+      {
+        "created": "2020-02-05T00:00:00+00:00",
+        "id": "1778513",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1778513?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1778513",
+          "cv": "https://inspirehep.net/api/literature/1778513?format=cv",
+          "json": "https://inspirehep.net/api/literature/1778513?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1778513?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1778513?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1778513?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2002.01028"
+            }
+          ],
+          "control_number": 1778513,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.084030"
+            }
+          ],
+          "earliest_date": "2020-02-03",
+          "preprint_date": "2020-02-03",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Asymptotically flat, parameterized black hole metric preserving Kerr symmetries"
+            },
+            {
+              "source": "APS",
+              "title": "Asymptotically flat, parametrized black hole metric preserving Kerr symmetries"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:10:37.391400+00:00"
+      },
+      {
+        "created": "2019-09-30T00:00:00+00:00",
+        "id": "1756626",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1756626?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1756626",
+          "cv": "https://inspirehep.net/api/literature/1756626?format=cv",
+          "json": "https://inspirehep.net/api/literature/1756626?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1756626?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1756626?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1756626?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1909.12664"
+            }
+          ],
+          "control_number": 1756626,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjc/s10052-019-7425-9"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-019-7425-9"
+            }
+          ],
+          "earliest_date": "2019-09-27",
+          "preprint_date": "2019-09-27",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Quasinormal modes of Dirac field in the Einstein–Dilaton–Gauss–Bonnet and Einstein–Weyl gravities"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes of Dirac field in the Einstein-dilaton-Gauss-Bonnet and Einstein-Weyl gravities"
+            }
+          ]
+        },
+        "updated": "2024-11-07T22:41:45.870177+00:00"
+      },
+      {
+        "created": "2019-05-21T00:00:00+00:00",
+        "id": "1735700",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1735700?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1735700",
+          "cv": "https://inspirehep.net/api/literature/1735700?format=cv",
+          "json": "https://inspirehep.net/api/literature/1735700?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1735700?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1735700?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1735700?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1905.08043"
+            }
+          ],
+          "control_number": 1735700,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.100.044045"
+            }
+          ],
+          "earliest_date": "2019-05-20",
+          "preprint_date": "2019-05-20",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Decoding signatures of extra dimensions and estimating spin of quasars from the continuum spectrum"
+            }
+          ]
+        },
+        "updated": "2026-02-09T11:14:52.211106+00:00"
+      },
+      {
+        "created": "2019-05-15T00:00:00+00:00",
+        "id": "1735000",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1735000?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1735000",
+          "cv": "https://inspirehep.net/api/literature/1735000?format=cv",
+          "json": "https://inspirehep.net/api/literature/1735000?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1735000?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1735000?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1735000?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.SR",
+                "gr-qc"
+              ],
+              "value": "1905.05616"
+            }
+          ],
+          "control_number": 1735000,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.3847/1538-4357/ab9ff4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/ab9ff4"
+            }
+          ],
+          "earliest_date": "2019-05-12",
+          "preprint_date": "2019-05-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "A new method to constrain neutron star structure from quasi-periodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Can we constrain the neutron-star equation of state from QPO observations?"
+            }
+          ]
+        },
+        "updated": "2025-07-18T18:58:28.286768+00:00"
+      },
+      {
+        "created": "2019-03-14T00:00:00+00:00",
+        "id": "1724842",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1724842?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1724842",
+          "cv": "https://inspirehep.net/api/literature/1724842?format=cv",
+          "json": "https://inspirehep.net/api/literature/1724842?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1724842?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1724842?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1724842?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1903.05427"
+            }
+          ],
+          "control_number": 1724842,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.101.064068"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.064068"
+            }
+          ],
+          "earliest_date": "2019-03-13",
+          "preprint_date": "2019-03-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Cosmology with subdominant Horndeski scalar field"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:34:58.164676+00:00"
+      },
+      {
+        "created": "2019-03-11T00:00:00+00:00",
+        "id": "1724391",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1724391?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1724391",
+          "cv": "https://inspirehep.net/api/literature/1724391?format=cv",
+          "json": "https://inspirehep.net/api/literature/1724391?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1724391?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1724391?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1724391?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1903.03483"
+            }
+          ],
+          "control_number": 1724391,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.99.124042"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.124042"
+            }
+          ],
+          "earliest_date": "2019-03-08",
+          "preprint_date": "2019-03-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quasinormal modes, scattering, and Hawking radiation in the vicinity of an Einstein-dilaton-Gauss-Bonnet black hole"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quasinormal modes, scattering and Hawking radiation in the vicinity of Einstein-dilaton-Gauss-Bonnet black hole"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:24:23.662263+00:00"
+      },
+      {
+        "created": "2019-02-26T00:00:00+00:00",
+        "id": "1721779",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1721779?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1721779",
+          "cv": "https://inspirehep.net/api/literature/1721779?format=cv",
+          "json": "https://inspirehep.net/api/literature/1721779?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1721779?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1721779?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1721779?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1902.09208"
+            }
+          ],
+          "control_number": 1721779,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/s10509-019-3666-1"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s10509-019-3666-1"
+            }
+          ],
+          "earliest_date": "2019-02-25",
+          "preprint_date": "2019-02-25",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Orbital and epicyclic frequencies in massive scalar-tensor theory with self-interaction"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:27:57.320507+00:00"
+      },
+      {
+        "created": "2020-03-02T00:00:00+00:00",
+        "id": "1783189",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1783189?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1783189",
+          "cv": "https://inspirehep.net/api/literature/1783189?format=cv",
+          "json": "https://inspirehep.net/api/literature/1783189?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1783189?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1783189?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1783189?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1783189,
+          "earliest_date": "2019",
+          "titles": [
+            {
+              "title": "Testing gravity with black holes"
+            }
+          ]
+        },
+        "updated": "2023-11-21T16:33:14.682823+00:00"
+      },
+      {
+        "created": "2018-10-15T00:00:00+00:00",
+        "id": "1698245",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1698245?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1698245",
+          "cv": "https://inspirehep.net/api/literature/1698245?format=cv",
+          "json": "https://inspirehep.net/api/literature/1698245?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1698245?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1698245?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1698245?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1810.05177"
+            }
+          ],
+          "control_number": 1698245,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.99.064035"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.064035"
+            }
+          ],
+          "earliest_date": "2018-10-11",
+          "preprint_date": "2018-10-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black holes and binary mergers in scalar Gauss-Bonnet gravity: scalar field dynamics"
+            }
+          ]
+        },
+        "updated": "2023-12-07T17:04:49.685649+00:00"
+      },
+      {
+        "created": "2018-10-02T00:00:00+00:00",
+        "id": "1696626",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1696626?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1696626",
+          "cv": "https://inspirehep.net/api/literature/1696626?format=cv",
+          "json": "https://inspirehep.net/api/literature/1696626?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1696626?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1696626?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1696626?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1696626,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s10701-018-0212-x"
+            }
+          ],
+          "earliest_date": "2018-09-06",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Probing the Strong (Stationary) Gravitational Field of Accreting Black Holes with X-ray Observations"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:09:18.856674+00:00"
+      },
+      {
+        "created": "2018-11-04T00:00:00+00:00",
+        "id": "1701601",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1701601?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1701601",
+          "cv": "https://inspirehep.net/api/literature/1701601?format=cv",
+          "json": "https://inspirehep.net/api/literature/1701601?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1701601?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1701601?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1701601?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1701601,
+          "earliest_date": "2018-08-31",
+          "titles": [
+            {
+              "source": "U. Brussels",
+              "title": "Applications of space-time symmetries to black holes and gravitational radiation"
+            },
+            {
+              "source": "submitter",
+              "title": "Applications of space-time symmetries to black holes and gravitational radiation"
+            }
+          ]
+        },
+        "updated": "2025-07-18T18:52:31.972535+00:00"
+      },
+      {
+        "created": "2018-07-24T00:00:00+00:00",
+        "id": "1683523",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1683523?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1683523",
+          "cv": "https://inspirehep.net/api/literature/1683523?format=cv",
+          "json": "https://inspirehep.net/api/literature/1683523?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1683523?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1683523?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1683523?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1807.08422"
+            }
+          ],
+          "control_number": 1683523,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/aae87b"
+            },
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1361-6382/aae87b"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/aae87b"
+            }
+          ],
+          "earliest_date": "2018-07-22",
+          "preprint_date": "2018-07-22",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Black hole shadow as a test of general relativity: quadratic gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black Hole Shadow as a Test of General Relativity: Quadratic Gravity"
+            }
+          ]
+        },
+        "updated": "2026-04-13T12:28:01.628123+00:00"
+      },
+      {
+        "created": "2018-06-15T00:00:00+00:00",
+        "id": "1677928",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1677928?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1677928",
+          "cv": "https://inspirehep.net/api/literature/1677928?format=cv",
+          "json": "https://inspirehep.net/api/literature/1677928?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1677928?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1677928?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1677928?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1806.05195"
+            }
+          ],
+          "control_number": 1677928,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1361-6382/ab0587"
+            }
+          ],
+          "earliest_date": "2018-06-13",
+          "preprint_date": "2018-06-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black holes, gravitational waves and fundamental physics: a roadmap"
+            }
+          ]
+        },
+        "updated": "2026-07-29T19:32:05.459553+00:00"
+      },
+      {
+        "created": "2018-02-26T00:00:00+00:00",
+        "id": "1657216",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1657216?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1657216",
+          "cv": "https://inspirehep.net/api/literature/1657216?format=cv",
+          "json": "https://inspirehep.net/api/literature/1657216?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1657216?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1657216?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1657216?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "1802.08606"
+            }
+          ],
+          "control_number": 1657216,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.97.084005"
+            },
+            {
+              "value": "10.1103/PhysRevD.97.084005"
+            }
+          ],
+          "earliest_date": "2018-02-23",
+          "preprint_date": "2018-02-23",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Speed of gravitational waves and black hole hair"
+            },
+            {
+              "source": "arXiv",
+              "title": "The speed of gravitational waves and black hole hair"
+            },
+            {
+              "source": "arXiv",
+              "title": "Speed of gravitational waves and black hole hair"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:16:24.754858+00:00"
+      },
+      {
+        "created": "2017-08-04T00:00:00+00:00",
+        "id": "1614305",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1614305?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1614305",
+          "cv": "https://inspirehep.net/api/literature/1614305?format=cv",
+          "json": "https://inspirehep.net/api/literature/1614305?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1614305?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1614305?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1614305?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1708.01150"
+            }
+          ],
+          "control_number": 1614305,
+          "earliest_date": "2017-08-02",
+          "preprint_date": "2017-08-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Early-universe cosmology in Einstein-scalar-Gauss-Bonnet gravity"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:14:17.590623+00:00"
+      },
+      {
+        "created": "2017-07-25T00:00:00+00:00",
+        "id": "1611395",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1611395?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1611395",
+          "cv": "https://inspirehep.net/api/literature/1611395?format=cv",
+          "json": "https://inspirehep.net/api/literature/1611395?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1611395?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1611395?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1611395?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1611395,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1134/S1063776117050065"
+            }
+          ],
+          "earliest_date": "2017-07-23",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Strong field gravitational lensing by a stringy charged black hole"
+            }
+          ]
+        },
+        "updated": "2023-03-06T18:04:00.313126+00:00"
+      },
+      {
+        "created": "2017-06-26T00:00:00+00:00",
+        "id": "1607219",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1607219?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1607219",
+          "cv": "https://inspirehep.net/api/literature/1607219?format=cv",
+          "json": "https://inspirehep.net/api/literature/1607219?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1607219?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1607219?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1607219?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1706.07460"
+            }
+          ],
+          "control_number": 1607219,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.96.064004"
+            }
+          ],
+          "earliest_date": "2017-06-22",
+          "preprint_date": "2017-06-22",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Analytical approximation for the Einstein-dilaton-Gauss-Bonnet black hole metric"
+            },
+            {
+              "source": "arXiv",
+              "title": "An analytical approximation for the Einstein-dilaton-Gauss-Bonnet black hole metric"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:05:14.147234+00:00"
+      },
+      {
+        "created": "2017-03-07T00:00:00+00:00",
+        "id": "1516141",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1516141?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1516141",
+          "cv": "https://inspirehep.net/api/literature/1516141?format=cv",
+          "json": "https://inspirehep.net/api/literature/1516141?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1516141?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1516141?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1516141?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "1703.01472"
+            }
+          ],
+          "control_number": 1516141,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.3847/1538-4357/aa72e2"
+            },
+            {
+              "value": "10.3847/1538-4357/aa72e2"
+            }
+          ],
+          "earliest_date": "2017-03-04",
+          "preprint_date": "2017-03-04",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Geodesic models of quasi-periodic-oscillations as probes of quadratic gravity"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:06:17.087488+00:00"
+      },
+      {
+        "created": "2017-01-25T00:00:00+00:00",
+        "id": "1510414",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1510414?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1510414",
+          "cv": "https://inspirehep.net/api/literature/1510414?format=cv",
+          "json": "https://inspirehep.net/api/literature/1510414?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1510414?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1510414?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1510414?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1701.07003"
+            }
+          ],
+          "control_number": 1510414,
+          "dois": [
+            {
+              "value": "10.1088/1361-6382/aa6dbc"
+            }
+          ],
+          "earliest_date": "2017-01-24",
+          "preprint_date": "2017-01-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black Hole Continuum Spectra as a Test of General Relativity: Quadratic Gravity"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:23:10.950770+00:00"
+      },
+      {
+        "created": "2017-04-30T00:00:00+00:00",
+        "id": "1597280",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1597280?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1597280",
+          "cv": "https://inspirehep.net/api/literature/1597280?format=cv",
+          "json": "https://inspirehep.net/api/literature/1597280?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1597280?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1597280?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1597280?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1597280,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-981-10-4524-0"
+            },
+            {
+              "source": "submitter",
+              "value": "10.1007/978-981-10-4524-0"
+            }
+          ],
+          "earliest_date": "2017",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Black Holes: A Laboratory for Testing Strong Gravity"
+            },
+            {
+              "source": "submitter",
+              "title": "Black Holes: A Laboratory for Testing Strong Gravity"
+            }
+          ]
+        },
+        "updated": "2025-07-17T18:57:58.007310+00:00"
+      },
+      {
+        "created": "2017-12-05T00:00:00+00:00",
+        "id": "1640982",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1640982?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1640982",
+          "cv": "https://inspirehep.net/api/literature/1640982?format=cv",
+          "json": "https://inspirehep.net/api/literature/1640982?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1640982?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1640982?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1640982?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1640982,
+          "dois": [
+            {
+              "source": "World Scientific",
+              "value": "10.1142/9789813226609_0193"
+            }
+          ],
+          "earliest_date": "2017",
+          "titles": [
+            {
+              "source": "WSP",
+              "title": "Testing the strong field gravity regime with QPO observations"
+            }
+          ]
+        },
+        "updated": "2023-03-09T20:21:32.568530+00:00"
+      },
+      {
+        "created": "2018-02-28T00:00:00+00:00",
+        "id": "1657831",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1657831?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1657831",
+          "cv": "https://inspirehep.net/api/literature/1657831?format=cv",
+          "json": "https://inspirehep.net/api/literature/1657831?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1657831?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1657831?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1657831?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1657831,
+          "earliest_date": "2017",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "Black hole electromagnetic observations as tests of general relativity: quadratic gravity"
+            }
+          ]
+        },
+        "updated": "2023-12-07T16:57:51.710821+00:00"
+      },
+      {
+        "created": "2016-12-02T00:00:00+00:00",
+        "id": "1501214",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1501214?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1501214",
+          "cv": "https://inspirehep.net/api/literature/1501214?format=cv",
+          "json": "https://inspirehep.net/api/literature/1501214?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1501214?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1501214?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1501214?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "1612.00038"
+            }
+          ],
+          "control_number": 1501214,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.95.124025"
+            },
+            {
+              "value": "10.1103/PhysRevD.95.124025"
+            }
+          ],
+          "earliest_date": "2016-11-30",
+          "preprint_date": "2016-11-30",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Constraining black holes with light boson hair and boson stars using epicyclic frequencies and quasiperiodic oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraining Black Holes with Light Boson Hair and Boson Stars using Quasi Periodic Oscillations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraining Black Holes with Light Boson Hair and Boson Stars using Epicyclic Frequencies and QPOs"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:00:05.751388+00:00"
+      },
+      {
+        "created": "2016-10-31T00:00:00+00:00",
+        "id": "1495019",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1495019?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1495019",
+          "cv": "https://inspirehep.net/api/literature/1495019?format=cv",
+          "json": "https://inspirehep.net/api/literature/1495019?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1495019?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1495019?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1495019?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1610.09214"
+            }
+          ],
+          "control_number": 1495019,
+          "dois": [
+            {
+              "value": "10.1017/S1743921316012965"
+            }
+          ],
+          "earliest_date": "2016-10-28",
+          "preprint_date": "2016-10-28",
+          "titles": [
+            {
+              "source": "Cambridge University Press",
+              "title": "Black holes in Einstein-Gauß-Bonnet-dilaton theory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black holes in Einstein-Gau\\ss -Bonnet-dilaton theory"
+            }
+          ]
+        },
+        "updated": "2023-03-06T21:56:31.892720+00:00"
+      },
+      {
+        "created": "2016-09-07T00:00:00+00:00",
+        "id": "1485304",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1485304?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1485304",
+          "cv": "https://inspirehep.net/api/literature/1485304?format=cv",
+          "json": "https://inspirehep.net/api/literature/1485304?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1485304?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1485304?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1485304?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1609.01286"
+            }
+          ],
+          "control_number": 1485304,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.94.104024"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.94.104024"
+            }
+          ],
+          "earliest_date": "2016-09-05",
+          "preprint_date": "2016-09-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Perturbed black holes in Einstein-dilaton-Gauss-Bonnet gravity: Stability, ringdown, and gravitational-wave emission"
+            },
+            {
+              "source": "arXiv",
+              "title": "Perturbed black holes in Einstein-dilaton-Gauss-Bonnet gravity: stability, ringdown, and gravitational-wave emission"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:46:19.821095+00:00"
+      },
+      {
+        "created": "2016-04-26T00:00:00+00:00",
+        "id": "1451752",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1451752?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1451752",
+          "cv": "https://inspirehep.net/api/literature/1451752?format=cv",
+          "json": "https://inspirehep.net/api/literature/1451752?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1451752?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1451752?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1451752?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1604.07106"
+            }
+          ],
+          "control_number": 1451752,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/0264-9381/33/19/195002"
+            }
+          ],
+          "earliest_date": "2016-04-24",
+          "preprint_date": "2016-04-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing gravity of a regular and slowly rotating phantom black hole by quasi-periodic oscillations"
+            }
+          ]
+        },
+        "updated": "2023-03-06T17:57:59.715486+00:00"
+      },
+      {
+        "created": "2016-03-22T00:00:00+00:00",
+        "id": "1430856",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1430856?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1430856",
+          "cv": "https://inspirehep.net/api/literature/1430856?format=cv",
+          "json": "https://inspirehep.net/api/literature/1430856?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1430856?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1430856?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1430856?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1603.06146"
+            }
+          ],
+          "control_number": 1430856,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1142/S0218271816410224"
+            }
+          ],
+          "earliest_date": "2016-03-19",
+          "preprint_date": "2016-03-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Numerical Relativity and High Energy Physics: Recent Developments"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:28.154462+00:00"
+      },
+      {
+        "created": "2016-02-26T00:00:00+00:00",
+        "id": "1424205",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1424205?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1424205",
+          "cv": "https://inspirehep.net/api/literature/1424205?format=cv",
+          "json": "https://inspirehep.net/api/literature/1424205?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1424205?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1424205?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1424205?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.GA",
+                "gr-qc"
+              ],
+              "value": "1602.07694"
+            }
+          ],
+          "control_number": 1424205,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/0264-9381/33/12/124001"
+            }
+          ],
+          "earliest_date": "2016-02-24",
+          "preprint_date": "2016-02-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing the No-Hair Theorem with Observations of Black Holes in the Electromagnetic Spectrum"
+            }
+          ]
+        },
+        "updated": "2025-07-18T18:17:23.878806+00:00"
+      },
+      {
+        "created": "2016-02-22T00:00:00+00:00",
+        "id": "1422592",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1422592?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1422592",
+          "cv": "https://inspirehep.net/api/literature/1422592?format=cv",
+          "json": "https://inspirehep.net/api/literature/1422592?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1422592?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1422592?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1422592?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1602.05997"
+            }
+          ],
+          "control_number": 1422592,
+          "dois": [
+            {
+              "value": "10.1142/S0218271816410066"
+            }
+          ],
+          "earliest_date": "2016-02-18",
+          "preprint_date": "2016-02-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Compact objects in Horndeski gravity"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:29.807315+00:00"
+      },
+      {
+        "created": "2016-02-09T00:00:00+00:00",
+        "id": "1420113",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1420113?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1420113",
+          "cv": "https://inspirehep.net/api/literature/1420113?format=cv",
+          "json": "https://inspirehep.net/api/literature/1420113?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1420113?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1420113?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1420113?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1602.02413"
+            }
+          ],
+          "control_number": 1420113,
+          "dois": [
+            {
+              "value": "10.1088/0264-9381/33/5/054001"
+            }
+          ],
+          "earliest_date": "2016-02-04",
+          "preprint_date": "2016-02-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black Hole Based Tests of General Relativity"
+            }
+          ]
+        },
+        "updated": "2025-06-10T15:25:28.597516+00:00"
+      },
+      {
+        "created": "2015-12-15T00:00:00+00:00",
+        "id": "1409424",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1409424?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1409424",
+          "cv": "https://inspirehep.net/api/literature/1409424?format=cv",
+          "json": "https://inspirehep.net/api/literature/1409424?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1409424?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1409424?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1409424?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.GA",
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "1512.03818"
+            }
+          ],
+          "control_number": 1409424,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/0264-9381/33/11/113001"
+            }
+          ],
+          "earliest_date": "2015-12-11",
+          "preprint_date": "2015-12-11",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Sgr A* and General Relativity"
+            }
+          ]
+        },
+        "updated": "2026-03-24T10:34:41.176984+00:00"
+      },
+      {
+        "created": "2015-11-25T00:00:00+00:00",
+        "id": "1406094",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1406094?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1406094",
+          "cv": "https://inspirehep.net/api/literature/1406094?format=cv",
+          "json": "https://inspirehep.net/api/literature/1406094?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1406094?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1406094?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1406094?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1511.07587"
+            }
+          ],
+          "control_number": 1406094,
+          "dois": [
+            {
+              "value": "10.1088/0264-9381/33/6/064001"
+            }
+          ],
+          "earliest_date": "2015-11-24",
+          "preprint_date": "2015-11-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing the no-hair theorem with the continuum-fitting and the iron line methods: a short review"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:51:45.938226+00:00"
+      },
+      {
+        "created": "2015-09-15T00:00:00+00:00",
+        "id": "1393220",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1393220?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1393220",
+          "cv": "https://inspirehep.net/api/literature/1393220?format=cv",
+          "json": "https://inspirehep.net/api/literature/1393220?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1393220?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1393220?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1393220?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1509.03884"
+            }
+          ],
+          "control_number": 1393220,
+          "dois": [
+            {
+              "value": "10.1103/RevModPhys.89.025001"
+            }
+          ],
+          "earliest_date": "2015-09-13",
+          "preprint_date": "2015-09-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing black hole candidates with electromagnetic radiation"
+            }
+          ]
+        },
+        "updated": "2025-06-10T15:21:55.408315+00:00"
+      },
+      {
+        "created": "2015-09-01T00:00:00+00:00",
+        "id": "1391114",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1391114?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1391114",
+          "cv": "https://inspirehep.net/api/literature/1391114?format=cv",
+          "json": "https://inspirehep.net/api/literature/1391114?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1391114?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1391114?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1391114?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1508.07790"
+            }
+          ],
+          "control_number": 1391114,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjc/s10052-015-3789-7"
+            }
+          ],
+          "earliest_date": "2015-08-31",
+          "preprint_date": "2015-08-31",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Orbital and epicyclic frequencies around neutron and strange stars in $R^2$ gravity"
+            }
+          ]
+        },
+        "updated": "2025-07-22T10:22:06.769914+00:00"
+      },
+      {
+        "created": "2015-07-03T00:00:00+00:00",
+        "id": "1380905",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1380905?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1380905",
+          "cv": "https://inspirehep.net/api/literature/1380905?format=cv",
+          "json": "https://inspirehep.net/api/literature/1380905?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1380905?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1380905?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1380905?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1507.00680"
+            }
+          ],
+          "control_number": 1380905,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.92.083014"
+            },
+            {
+              "value": "10.1103/PhysRevD.92.083014"
+            }
+          ],
+          "earliest_date": "2015-07-02",
+          "preprint_date": "2015-07-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Rotating black holes in Einstein-Dilaton-Gauss-Bonnet gravity with finite coupling"
+            }
+          ]
+        },
+        "updated": "2023-07-18T10:01:59.164974+00:00"
+      },
+      {
+        "created": "2015-03-26T00:00:00+00:00",
+        "id": "1355517",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1355517?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1355517",
+          "cv": "https://inspirehep.net/api/literature/1355517?format=cv",
+          "json": "https://inspirehep.net/api/literature/1355517?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1355517?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1355517?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1355517?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "1503.07365"
+            }
+          ],
+          "control_number": 1355517,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.92.024010"
+            }
+          ],
+          "earliest_date": "2015-03-25",
+          "preprint_date": "2015-03-25",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal deformations of a spinning compact object"
+            }
+          ]
+        },
+        "updated": "2025-06-06T10:07:32.101183+00:00"
+      },
+      {
+        "created": "2015-01-30T00:00:00+00:00",
+        "id": "1341964",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1341964?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1341964",
+          "cv": "https://inspirehep.net/api/literature/1341964?format=cv",
+          "json": "https://inspirehep.net/api/literature/1341964?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1341964?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1341964?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1341964?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1501.07274"
+            }
+          ],
+          "control_number": 1341964,
+          "dois": [
+            {
+              "value": "10.1088/0264-9381/32/24/243001"
+            }
+          ],
+          "earliest_date": "2015-01-28",
+          "preprint_date": "2015-01-28",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing General Relativity with Present and Future Astrophysical Observations"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:37.092795+00:00"
+      },
+      {
+        "created": "2015-06-30T00:00:00+00:00",
+        "id": "1380299",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1380299?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1380299",
+          "cv": "https://inspirehep.net/api/literature/1380299?format=cv",
+          "json": "https://inspirehep.net/api/literature/1380299?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1380299?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1380299?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1380299?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1380299,
+          "dois": [
+            {
+              "source": "World Scientific",
+              "value": "10.1142/9789814689304_0051"
+            }
+          ],
+          "earliest_date": "2015",
+          "titles": [
+            {
+              "title": "Gravidynamics (scalar-tensor Gravitation) and the Observed Discrete Mass Spectrum of Compact Stellar Remnants in Close Binary Systems"
+            }
+          ]
+        },
+        "updated": "2023-03-06T18:09:28.678470+00:00"
+      },
+      {
+        "created": "2015-07-19T00:00:00+00:00",
+        "id": "1383630",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1383630?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1383630",
+          "cv": "https://inspirehep.net/api/literature/1383630?format=cv",
+          "json": "https://inspirehep.net/api/literature/1383630?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1383630?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1383630?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1383630?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1383630,
+          "dois": [
+            {
+              "source": "HINDAWI",
+              "value": "10.1155/2015/635625"
+            },
+            {
+              "material": "erratum",
+              "source": "bibmatch",
+              "value": "10.1155/2015/219762"
+            }
+          ],
+          "earliest_date": "2015",
+          "titles": [
+            {
+              "title": "Null Geodesics and Strong Field Gravitational Lensing in a String Cloud Background"
+            }
+          ]
+        },
+        "updated": "2023-03-07T02:04:34.079050+00:00"
+      }
+    ],
+    "total": 109
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1333805&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1333805&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1333805&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1333805&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1333805&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1333805&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1333805&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

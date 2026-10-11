@@ -1,0 +1,2112 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-08-07T03:41:32.195621+00:00",
+        "id": "3188162",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3188162?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3188162",
+          "cv": "https://inspirehep.net/api/literature/3188162?format=cv",
+          "json": "https://inspirehep.net/api/literature/3188162?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3188162?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3188162?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3188162?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2608.05818"
+            }
+          ],
+          "control_number": 3188162,
+          "earliest_date": "2026-08-06",
+          "preprint_date": "2026-08-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Asymmetric Quantum Oppenheimer-Snyder Collapse"
+            }
+          ]
+        },
+        "updated": "2026-09-21T00:45:42.997020+00:00"
+      },
+      {
+        "created": "2026-07-31T03:55:23.904870+00:00",
+        "id": "3184794",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3184794?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3184794",
+          "cv": "https://inspirehep.net/api/literature/3184794?format=cv",
+          "json": "https://inspirehep.net/api/literature/3184794?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3184794?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3184794?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3184794?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2607.27587"
+            }
+          ],
+          "control_number": 3184794,
+          "earliest_date": "2026-07-30",
+          "preprint_date": "2026-07-30",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal Love numbers of multi-state Boson stars"
+            }
+          ]
+        },
+        "updated": "2026-09-21T00:35:55.570707+00:00"
+      },
+      {
+        "created": "2026-07-22T04:20:17.463220+00:00",
+        "id": "3182258",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3182258?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3182258",
+          "cv": "https://inspirehep.net/api/literature/3182258?format=cv",
+          "json": "https://inspirehep.net/api/literature/3182258?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3182258?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3182258?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3182258?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2607.18851"
+            }
+          ],
+          "control_number": 3182258,
+          "earliest_date": "2026-07-21",
+          "preprint_date": "2026-07-21",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Defrosting the Born-Infeld dyonic frozen star with tachyon matter: spectrum of oscillations"
+            }
+          ]
+        },
+        "updated": "2026-08-17T02:36:35.148211+00:00"
+      },
+      {
+        "created": "2026-07-07T04:21:11.418793+00:00",
+        "id": "3177607",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3177607?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3177607",
+          "cv": "https://inspirehep.net/api/literature/3177607?format=cv",
+          "json": "https://inspirehep.net/api/literature/3177607?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3177607?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3177607?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3177607?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2607.04799"
+            }
+          ],
+          "control_number": 3177607,
+          "earliest_date": "2026-07-06",
+          "preprint_date": "2026-07-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Chaotic particle dynamics near a traversable wormhole throat"
+            }
+          ]
+        },
+        "updated": "2026-09-20T06:35:22.839886+00:00"
+      },
+      {
+        "created": "2026-07-07T04:16:28.028649+00:00",
+        "id": "3177496",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3177496?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3177496",
+          "cv": "https://inspirehep.net/api/literature/3177496?format=cv",
+          "json": "https://inspirehep.net/api/literature/3177496?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3177496?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3177496?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3177496?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2607.03452"
+            }
+          ],
+          "control_number": 3177496,
+          "earliest_date": "2026-07-03",
+          "preprint_date": "2026-07-03",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quantum nucleation of black hole mimickers via chaos dominated tunneling"
+            }
+          ]
+        },
+        "updated": "2026-07-08T04:16:01.897554+00:00"
+      },
+      {
+        "created": "2026-07-03T04:17:03.387927+00:00",
+        "id": "3176576",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3176576?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3176576",
+          "cv": "https://inspirehep.net/api/literature/3176576?format=cv",
+          "json": "https://inspirehep.net/api/literature/3176576?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3176576?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3176576?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3176576?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2607.02017"
+            }
+          ],
+          "control_number": 3176576,
+          "earliest_date": "2026-07-02",
+          "preprint_date": "2026-07-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Boson Stars in Teleparallel Gravity with a Nonminimally Coupled Field: The Violation of Energy Conditions and Gravitational Waveforms from EMRIs"
+            }
+          ]
+        },
+        "updated": "2026-09-08T07:37:00.222768+00:00"
+      },
+      {
+        "created": "2026-07-01T04:19:19.632552+00:00",
+        "id": "3175027",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3175027?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3175027",
+          "cv": "https://inspirehep.net/api/literature/3175027?format=cv",
+          "json": "https://inspirehep.net/api/literature/3175027?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3175027?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3175027?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3175027?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2606.30794"
+            }
+          ],
+          "control_number": 3175027,
+          "earliest_date": "2026-06-29",
+          "preprint_date": "2026-06-29",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "On Black Holes Surrounded by Radiation: I. Classical Considerations"
+            }
+          ]
+        },
+        "updated": "2026-09-16T04:53:03.241380+00:00"
+      },
+      {
+        "created": "2026-07-01T04:20:24.284054+00:00",
+        "id": "3175054",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3175054?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3175054",
+          "cv": "https://inspirehep.net/api/literature/3175054?format=cv",
+          "json": "https://inspirehep.net/api/literature/3175054?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3175054?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3175054?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3175054?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2606.30798"
+            }
+          ],
+          "control_number": 3175054,
+          "earliest_date": "2026-06-29",
+          "preprint_date": "2026-06-29",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "As Cold as a Black Hole: Extended Photon Spheres"
+            }
+          ]
+        },
+        "updated": "2026-09-16T04:51:14.333825+00:00"
+      },
+      {
+        "created": "2026-07-01T04:20:32.212293+00:00",
+        "id": "3175056",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3175056?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3175056",
+          "cv": "https://inspirehep.net/api/literature/3175056?format=cv",
+          "json": "https://inspirehep.net/api/literature/3175056?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3175056?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3175056?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3175056?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2606.30729"
+            }
+          ],
+          "control_number": 3175056,
+          "earliest_date": "2026-06-29",
+          "preprint_date": "2026-06-29",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Ray tracing ultracompact boson stars: visibility modulations and incomplete photon rings"
+            }
+          ]
+        },
+        "updated": "2026-08-10T06:36:21.555951+00:00"
+      },
+      {
+        "created": "2026-07-01T04:21:03.592233+00:00",
+        "id": "3175072",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3175072?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3175072",
+          "cv": "https://inspirehep.net/api/literature/3175072?format=cv",
+          "json": "https://inspirehep.net/api/literature/3175072?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3175072?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3175072?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3175072?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2606.30797"
+            }
+          ],
+          "control_number": 3175072,
+          "earliest_date": "2026-06-29",
+          "preprint_date": "2026-06-29",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "On Black Holes Surrounded by Radiation II: Thermodynamics"
+            }
+          ]
+        },
+        "updated": "2026-09-16T04:52:59.835883+00:00"
+      },
+      {
+        "created": "2026-06-24T04:27:40.090850+00:00",
+        "id": "3171550",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3171550?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3171550",
+          "cv": "https://inspirehep.net/api/literature/3171550?format=cv",
+          "json": "https://inspirehep.net/api/literature/3171550?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3171550?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3171550?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3171550?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2606.24215"
+            }
+          ],
+          "control_number": 3171550,
+          "earliest_date": "2026-06-23",
+          "preprint_date": "2026-06-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Nonlinear Stability of Kerr-Sen Black Holes in Merging Binaries"
+            }
+          ]
+        },
+        "updated": "2026-07-31T01:05:46.808489+00:00"
+      },
+      {
+        "created": "2026-06-23T04:21:31.504914+00:00",
+        "id": "3170979",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3170979?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3170979",
+          "cv": "https://inspirehep.net/api/literature/3170979?format=cv",
+          "json": "https://inspirehep.net/api/literature/3170979?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3170979?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3170979?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3170979?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2606.21522"
+            }
+          ],
+          "control_number": 3170979,
+          "earliest_date": "2026-06-19",
+          "preprint_date": "2026-06-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Asymptotically safe quantum gravity and its phenomenology -- a review"
+            },
+            {
+              "source": "arXiv",
+              "title": "Asymptotically safe quantum gravity and its phenomenology - a review"
+            }
+          ]
+        },
+        "updated": "2026-07-06T06:17:20.985572+00:00"
+      },
+      {
+        "created": "2026-05-12T04:20:47.228530+00:00",
+        "id": "3154233",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3154233?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3154233",
+          "cv": "https://inspirehep.net/api/literature/3154233?format=cv",
+          "json": "https://inspirehep.net/api/literature/3154233?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3154233?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3154233?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3154233?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2605.09521"
+            }
+          ],
+          "control_number": 3154233,
+          "earliest_date": "2026-05-10",
+          "preprint_date": "2026-05-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Bayesian Analysis of Massive Boson Star Models for Sagittarius A* Using Near-Infrared Astrometry Data"
+            }
+          ]
+        },
+        "updated": "2026-06-03T08:59:46.352480+00:00"
+      },
+      {
+        "created": "2026-05-06T04:18:36.641513+00:00",
+        "id": "3152046",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3152046?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3152046",
+          "cv": "https://inspirehep.net/api/literature/3152046?format=cv",
+          "json": "https://inspirehep.net/api/literature/3152046?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3152046?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3152046?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3152046?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2605.03428"
+            }
+          ],
+          "control_number": 3152046,
+          "earliest_date": "2026-05-05",
+          "preprint_date": "2026-05-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Families of regular spacetimes and energy conditions"
+            }
+          ]
+        },
+        "updated": "2026-06-16T09:05:58.795073+00:00"
+      },
+      {
+        "created": "2026-04-13T04:10:38.084200+00:00",
+        "id": "3143537",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3143537?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3143537",
+          "cv": "https://inspirehep.net/api/literature/3143537?format=cv",
+          "json": "https://inspirehep.net/api/literature/3143537?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3143537?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3143537?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3143537?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2604.08679"
+            }
+          ],
+          "control_number": 3143537,
+          "earliest_date": "2026-04-09",
+          "preprint_date": "2026-04-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal Response of Compact Objects"
+            }
+          ]
+        },
+        "updated": "2026-08-26T02:31:49.989729+00:00"
+      },
+      {
+        "created": "2026-03-30T08:10:35.331502+00:00",
+        "id": "3136497",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3136497?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3136497",
+          "cv": "https://inspirehep.net/api/literature/3136497?format=cv",
+          "json": "https://inspirehep.net/api/literature/3136497?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3136497?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3136497?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3136497?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2603.24729"
+            }
+          ],
+          "control_number": 3136497,
+          "earliest_date": "2026-03-25",
+          "preprint_date": "2026-03-25",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quantum gravitational effects suppress the formation of trapped surfaces"
+            },
+            {
+              "source": "arXiv",
+              "title": "Suppression of Trapped Surface Formation by Quantum Gravitational Effects"
+            }
+          ]
+        },
+        "updated": "2026-04-13T02:54:47.248399+00:00"
+      },
+      {
+        "created": "2026-03-10T04:17:00.478710+00:00",
+        "id": "3127649",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3127649?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3127649",
+          "cv": "https://inspirehep.net/api/literature/3127649?format=cv",
+          "json": "https://inspirehep.net/api/literature/3127649?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3127649?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3127649?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3127649?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2603.06786"
+            }
+          ],
+          "control_number": 3127649,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/v3j1-j6jg"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/v3j1-j6jg"
+            }
+          ],
+          "earliest_date": "2026-03-06",
+          "preprint_date": "2026-03-06",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "All <math display=\"inline\"><mn>2</mn><mi>D</mi></math> generalized dilaton theories from <math display=\"inline\"><mi>d</mi><mo>≥</mo><mn>4</mn></math> gravities"
+            },
+            {
+              "source": "arXiv",
+              "title": "All $2D$ generalised dilaton theories from $d\\geq 4$ gravities"
+            }
+          ]
+        },
+        "updated": "2026-07-01T04:08:13.751146+00:00"
+      },
+      {
+        "created": "2026-02-20T04:13:20.367855+00:00",
+        "id": "3121639",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3121639?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3121639",
+          "cv": "https://inspirehep.net/api/literature/3121639?format=cv",
+          "json": "https://inspirehep.net/api/literature/3121639?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3121639?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3121639?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3121639?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2602.16773"
+            }
+          ],
+          "control_number": 3121639,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/6x2z-qbkh"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/6x2z-qbkh"
+            }
+          ],
+          "earliest_date": "2026-02-18",
+          "preprint_date": "2026-02-18",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Regular black holes from pure gravity in four dimensions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Regular black holes from pure gravity in four dimensions"
+            }
+          ]
+        },
+        "updated": "2026-06-05T04:16:54.857325+00:00"
+      },
+      {
+        "created": "2026-02-20T04:14:48.969062+00:00",
+        "id": "3121660",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3121660?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3121660",
+          "cv": "https://inspirehep.net/api/literature/3121660?format=cv",
+          "json": "https://inspirehep.net/api/literature/3121660?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3121660?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3121660?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3121660?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2602.16916"
+            }
+          ],
+          "control_number": 3121660,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ae7a2e"
+            }
+          ],
+          "earliest_date": "2026-02-18",
+          "preprint_date": "2026-02-18",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Black-Hole mimickers in GR and $R^2-$gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black-Hole mimickers in GR and $f(R)$ gravity"
+            }
+          ]
+        },
+        "updated": "2026-07-24T08:06:48.777346+00:00"
+      },
+      {
+        "created": "2026-02-17T04:19:50.053284+00:00",
+        "id": "3120728",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3120728?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3120728",
+          "cv": "https://inspirehep.net/api/literature/3120728?format=cv",
+          "json": "https://inspirehep.net/api/literature/3120728?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3120728?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3120728?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3120728?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2602.14458"
+            }
+          ],
+          "control_number": 3120728,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1674-1137/ae5ef3"
+            }
+          ],
+          "earliest_date": "2026-02-16",
+          "preprint_date": "2026-02-16",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Circular orbits and observational features of the rotating Simpson-Visser black hole surrounded by a thin accretion disk"
+            },
+            {
+              "source": "arXiv",
+              "title": "Circular orbits and observational features of the rotating Simpson-Visser black hole surrounded by a thin accretion disk"
+            }
+          ]
+        },
+        "updated": "2026-06-19T09:49:39.784692+00:00"
+      },
+      {
+        "created": "2026-01-22T05:00:20.656720+00:00",
+        "id": "3109818",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3109818?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3109818",
+          "cv": "https://inspirehep.net/api/literature/3109818?format=cv",
+          "json": "https://inspirehep.net/api/literature/3109818?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3109818?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3109818?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3109818?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2601.14775"
+            }
+          ],
+          "control_number": 3109818,
+          "earliest_date": "2026-01-20",
+          "preprint_date": "2026-01-21",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "From quantum amplitudes to spacetime geometry: a multipolar framework for black hole signatures"
+            },
+            {
+              "source": "arXiv",
+              "title": "From Quantum Amplitudes to Spacetime Geometry: a Multipolar Framework for Black Hole Signatures"
+            }
+          ]
+        },
+        "updated": "2026-03-17T02:53:44.591204+00:00"
+      },
+      {
+        "created": "2026-01-05T04:10:22.397793+00:00",
+        "id": "3096892",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3096892?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3096892",
+          "cv": "https://inspirehep.net/api/literature/3096892?format=cv",
+          "json": "https://inspirehep.net/api/literature/3096892?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3096892?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3096892?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3096892?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "2601.00164"
+            }
+          ],
+          "control_number": 3096892,
+          "earliest_date": "2026-01-01",
+          "preprint_date": "2026-01-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational Wave Tails and Transient Behaviors of Quantum-Corrected Black Holes"
+            }
+          ]
+        },
+        "updated": "2026-03-04T06:45:41.888663+00:00"
+      },
+      {
+        "created": "2026-09-15T12:27:20.752838+00:00",
+        "id": "3203440",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3203440?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3203440",
+          "cv": "https://inspirehep.net/api/literature/3203440?format=cv",
+          "json": "https://inspirehep.net/api/literature/3203440?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3203440?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3203440?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3203440?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3203440,
+          "earliest_date": "2026",
+          "titles": [
+            {
+              "source": "Iceland U.",
+              "title": "Holographic Models of Emergent Spacetime"
+            }
+          ]
+        },
+        "updated": "2026-09-16T07:02:22.491926+00:00"
+      },
+      {
+        "created": "2025-12-18T04:19:48.759482+00:00",
+        "id": "3093606",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3093606?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3093606",
+          "cv": "https://inspirehep.net/api/literature/3093606?format=cv",
+          "json": "https://inspirehep.net/api/literature/3093606?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3093606?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3093606?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3093606?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2512.14920"
+            }
+          ],
+          "control_number": 3093606,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier Inc.",
+              "value": "10.1016/j.aop.2026.170540"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.aop.2026.170540"
+            }
+          ],
+          "earliest_date": "2025-12-16",
+          "preprint_date": "2025-12-16",
+          "titles": [
+            {
+              "source": "Elsevier Inc.",
+              "title": "Gravitational decoupling and regular hairy black holes: Geodesic stability, quasinormal modes, and thermodynamic properties"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational decoupling and regular hairy black holes: Geodesic stability, quasinormal modes, and thermodynamic properties"
+            }
+          ]
+        },
+        "updated": "2026-08-05T04:43:52.891022+00:00"
+      },
+      {
+        "created": "2025-12-16T04:21:03.554789+00:00",
+        "id": "3092787",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3092787?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3092787",
+          "cv": "https://inspirehep.net/api/literature/3092787?format=cv",
+          "json": "https://inspirehep.net/api/literature/3092787?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3092787?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3092787?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3092787?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "2512.12242"
+            }
+          ],
+          "control_number": 3092787,
+          "earliest_date": "2025-12-13",
+          "preprint_date": "2025-12-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The macroscopic precession model: describing quasi-periodic oscillations including internal structures of test bodies"
+            }
+          ]
+        },
+        "updated": "2025-12-17T04:12:03.856986+00:00"
+      },
+      {
+        "created": "2025-12-12T04:15:16.009248+00:00",
+        "id": "3092134",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3092134?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3092134",
+          "cv": "https://inspirehep.net/api/literature/3092134?format=cv",
+          "json": "https://inspirehep.net/api/literature/3092134?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3092134?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3092134?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3092134?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2512.10526"
+            }
+          ],
+          "control_number": 3092134,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/2jnw-68dm"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/2jnw-68dm"
+            }
+          ],
+          "earliest_date": "2025-12-11",
+          "preprint_date": "2025-12-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Nonlinear evolution of the ergoregion instability: Turbulence, bursts of radiation, and black hole formation"
+            },
+            {
+              "source": "arXiv",
+              "title": "Nonlinear evolution of the ergoregion instability: Turbulence, bursts of radiation, and black hole formation"
+            }
+          ]
+        },
+        "updated": "2026-09-11T03:50:55.234435+00:00"
+      },
+      {
+        "created": "2025-12-12T04:16:13.215633+00:00",
+        "id": "3092154",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3092154?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3092154",
+          "cv": "https://inspirehep.net/api/literature/3092154?format=cv",
+          "json": "https://inspirehep.net/api/literature/3092154?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3092154?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3092154?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3092154?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2512.10710"
+            }
+          ],
+          "control_number": 3092154,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/v5d2-k3f4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/v5d2-k3f4"
+            }
+          ],
+          "earliest_date": "2025-12-11",
+          "preprint_date": "2025-12-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Macroscopic backreaction of the trace anomaly on classical vacuum backgrounds"
+            },
+            {
+              "source": "arXiv",
+              "title": "Macroscopic backreaction of the trace anomaly on classical vacuum backgrounds"
+            }
+          ]
+        },
+        "updated": "2026-06-10T04:06:34.892583+00:00"
+      },
+      {
+        "created": "2025-12-12T04:19:35.151926+00:00",
+        "id": "3092205",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3092205?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3092205",
+          "cv": "https://inspirehep.net/api/literature/3092205?format=cv",
+          "json": "https://inspirehep.net/api/literature/3092205?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3092205?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3092205?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3092205?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2512.10855"
+            }
+          ],
+          "control_number": 3092205,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/vv8y-m96j"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/vv8y-m96j"
+            }
+          ],
+          "earliest_date": "2025-12-11",
+          "preprint_date": "2025-12-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Measuring the neutron star equation of state from EMRIs in dark matter environments with LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "Measuring the neutron star equation of state from EMRIs in dark matter environments with LISA"
+            }
+          ]
+        },
+        "updated": "2026-09-22T04:34:39.851027+00:00"
+      },
+      {
+        "created": "2025-11-14T04:16:45.664831+00:00",
+        "id": "3082758",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3082758?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3082758",
+          "cv": "https://inspirehep.net/api/literature/3082758?format=cv",
+          "json": "https://inspirehep.net/api/literature/3082758?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3082758?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3082758?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3082758?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2511.10307"
+            }
+          ],
+          "control_number": 3082758,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/d1sr-qklw"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/d1sr-qklw"
+            }
+          ],
+          "earliest_date": "2025-11-13",
+          "preprint_date": "2025-11-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational atoms from topological stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational Atoms from Topological Stars"
+            }
+          ]
+        },
+        "updated": "2026-05-01T04:04:29.678230+00:00"
+      },
+      {
+        "created": "2025-11-13T04:14:49.215847+00:00",
+        "id": "3082203",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3082203?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3082203",
+          "cv": "https://inspirehep.net/api/literature/3082203?format=cv",
+          "json": "https://inspirehep.net/api/literature/3082203?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3082203?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3082203?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3082203?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2511.08692"
+            }
+          ],
+          "control_number": 3082203,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/v7pv-y3qy"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/v7pv-y3qy"
+            }
+          ],
+          "earliest_date": "2025-11-11",
+          "preprint_date": "2025-11-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Excitation factors for horizonless compact objects: Long-lived modes, echoes, and greybody factors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Excitation factors for horizonless compact objects: long-lived modes, echoes, and greybody factors"
+            }
+          ]
+        },
+        "updated": "2026-05-15T04:05:26.395120+00:00"
+      },
+      {
+        "created": "2025-11-12T04:19:47.540867+00:00",
+        "id": "3081766",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3081766?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3081766",
+          "cv": "https://inspirehep.net/api/literature/3081766?format=cv",
+          "json": "https://inspirehep.net/api/literature/3081766?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3081766?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3081766?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3081766?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE"
+              ],
+              "value": "2511.07520"
+            }
+          ],
+          "control_number": 3081766,
+          "earliest_date": "2025-11-10",
+          "preprint_date": "2025-11-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tests of General Relativity with Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2026-01-30T07:04:52.372841+00:00"
+      },
+      {
+        "created": "2025-10-23T04:15:49.766469+00:00",
+        "id": "3072053",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3072053?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3072053",
+          "cv": "https://inspirehep.net/api/literature/3072053?format=cv",
+          "json": "https://inspirehep.net/api/literature/3072053?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3072053?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3072053?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3072053?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2510.19677"
+            }
+          ],
+          "control_number": 3072053,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/wzxv-9wk1"
+            }
+          ],
+          "earliest_date": "2025-10-22",
+          "preprint_date": "2025-10-22",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Multiphoton ring structure of reflection-asymmetric traversable thin-shell wormholes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Multi-photon ring structure of reflection-asymmetric traversable thin-shell wormholes"
+            }
+          ]
+        },
+        "updated": "2026-03-09T08:47:04.024546+00:00"
+      },
+      {
+        "created": "2025-10-13T04:50:46.009987+00:00",
+        "id": "3066816",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3066816?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3066816",
+          "cv": "https://inspirehep.net/api/literature/3066816?format=cv",
+          "json": "https://inspirehep.net/api/literature/3066816?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3066816?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3066816?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3066816?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-ph",
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2510.09395"
+            }
+          ],
+          "control_number": 3066816,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1140/epjc/s10052-026-15811-z"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-026-15811-z"
+            }
+          ],
+          "earliest_date": "2025-10-10",
+          "preprint_date": "2025-10-10",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Dark matter production from evaporation of regular primordial black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Dark matter production from evaporation of regular primordial black holes"
+            }
+          ]
+        },
+        "updated": "2026-05-26T10:10:47.937953+00:00"
+      },
+      {
+        "created": "2025-10-10T04:14:24.208470+00:00",
+        "id": "3065788",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3065788?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3065788",
+          "cv": "https://inspirehep.net/api/literature/3065788?format=cv",
+          "json": "https://inspirehep.net/api/literature/3065788?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3065788?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3065788?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3065788?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2510.07468"
+            }
+          ],
+          "control_number": 3065788,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/sbtt-jnjg"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/sbtt-jnjg"
+            }
+          ],
+          "earliest_date": "2025-10-08",
+          "preprint_date": "2025-10-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Ergoregion instability in bosonic stars: Scalar mode structure, universality, and weakly nonlinear effects"
+            },
+            {
+              "source": "arXiv",
+              "title": "Ergoregion instability in bosonic stars: scalar mode structure, universality, and weakly nonlinear effects"
+            }
+          ]
+        },
+        "updated": "2026-04-07T08:53:19.571360+00:00"
+      },
+      {
+        "created": "2025-10-10T04:14:34.114416+00:00",
+        "id": "3065790",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3065790?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3065790",
+          "cv": "https://inspirehep.net/api/literature/3065790?format=cv",
+          "json": "https://inspirehep.net/api/literature/3065790?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3065790?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3065790?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3065790?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2510.07467"
+            }
+          ],
+          "control_number": 3065790,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/ytqg-v1j8"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/ytqg-v1j8"
+            }
+          ],
+          "earliest_date": "2025-10-08",
+          "preprint_date": "2025-10-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Weakly Turbulent Saturation of the Nonlinear Scalar Ergoregion Instability"
+            },
+            {
+              "source": "arXiv",
+              "title": "Weakly turbulent saturation of the nonlinear scalar ergoregion instability"
+            }
+          ]
+        },
+        "updated": "2026-05-01T04:03:52.418626+00:00"
+      },
+      {
+        "created": "2025-09-29T04:06:35.345858+00:00",
+        "id": "2973917",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2973917?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2973917",
+          "cv": "https://inspirehep.net/api/literature/2973917?format=cv",
+          "json": "https://inspirehep.net/api/literature/2973917?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2973917?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2973917?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2973917?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2509.22118"
+            }
+          ],
+          "control_number": 2973917,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/universe11100325"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3390/universe11100325"
+            }
+          ],
+          "earliest_date": "2025-09-24",
+          "preprint_date": "2025-09-26",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "Quadrupole Perturbations of Slowly Spinning Ellis–Bronnikov Wormholes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quadrupole perturbations of slowly spinning Ellis-Bronnikov wormholes"
+            }
+          ]
+        },
+        "updated": "2026-03-07T09:55:10.486834+00:00"
+      },
+      {
+        "created": "2025-09-18T04:18:59.865902+00:00",
+        "id": "2970595",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2970595?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2970595",
+          "cv": "https://inspirehep.net/api/literature/2970595?format=cv",
+          "json": "https://inspirehep.net/api/literature/2970595?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2970595?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2970595?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2970595?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2509.13421"
+            }
+          ],
+          "control_number": 2970595,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/919y-m4yj"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/919y-m4yj"
+            }
+          ],
+          "earliest_date": "2025-09-16",
+          "preprint_date": "2025-09-16",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "From de Sitter to anti–de Sitter singularity regularization: Theory and phenomenology"
+            },
+            {
+              "source": "arXiv",
+              "title": "From de Sitter to Anti-de Sitter singularity regularization: theory and phenomenology"
+            },
+            {
+              "source": "arXiv",
+              "title": "From de Sitter to anti-de Sitter singularity regularization: Theory and phenomenology"
+            }
+          ]
+        },
+        "updated": "2025-12-13T04:05:02.420777+00:00"
+      },
+      {
+        "created": "2025-09-12T17:38:32.964505+00:00",
+        "id": "2969201",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2969201?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2969201",
+          "cv": "https://inspirehep.net/api/literature/2969201?format=cv",
+          "json": "https://inspirehep.net/api/literature/2969201?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2969201?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2969201?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2969201?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2969201,
+          "earliest_date": "2025-09-12",
+          "titles": [
+            {
+              "source": "submitter",
+              "title": "Theory and phenomenology of area-metric gravity"
+            }
+          ]
+        },
+        "updated": "2026-01-11T10:14:41.139033+00:00"
+      },
+      {
+        "created": "2025-09-15T04:05:41.069635+00:00",
+        "id": "2969272",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2969272?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2969272",
+          "cv": "https://inspirehep.net/api/literature/2969272?format=cv",
+          "json": "https://inspirehep.net/api/literature/2969272?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2969272?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2969272?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2969272?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2509.09986"
+            }
+          ],
+          "control_number": 2969272,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/cyxd-6myn"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/cyxd-6myn"
+            }
+          ],
+          "earliest_date": "2025-09-12",
+          "preprint_date": "2025-09-12",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Plunge spectra as discriminators of black-hole mimickers"
+            },
+            {
+              "source": "arXiv",
+              "title": "Plunge spectra as discriminators of black hole mimickers"
+            }
+          ]
+        },
+        "updated": "2026-05-08T04:04:19.447659+00:00"
+      },
+      {
+        "created": "2025-08-28T04:12:07.613411+00:00",
+        "id": "2964335",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2964335?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2964335",
+          "cv": "https://inspirehep.net/api/literature/2964335?format=cv",
+          "json": "https://inspirehep.net/api/literature/2964335?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2964335?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2964335?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2964335?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2508.19460"
+            }
+          ],
+          "control_number": 2964335,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1742-6596/3177/1/012046"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1742-6596/3177/1/012046"
+            }
+          ],
+          "earliest_date": "2025-08-26",
+          "preprint_date": "2025-08-26",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Search for growing angular modes in ultracompact boson star evolutions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Search for growing angular modes in ultracompact boson star evolutions"
+            }
+          ]
+        },
+        "updated": "2026-04-07T06:48:02.563205+00:00"
+      },
+      {
+        "created": "2025-08-18T04:06:09.043303+00:00",
+        "id": "2960960",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2960960?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2960960",
+          "cv": "https://inspirehep.net/api/literature/2960960?format=cv",
+          "json": "https://inspirehep.net/api/literature/2960960?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2960960?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2960960?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2960960?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2508.11527"
+            }
+          ],
+          "control_number": 2960960,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/2vz3-s39r"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/2vz3-s39r"
+            }
+          ],
+          "earliest_date": "2025-08-15",
+          "preprint_date": "2025-08-15",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Assessing the stability of ultracompact spinning boson stars with nonlinear evolutions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Assessing the stability of ultracompact spinning boson stars with nonlinear evolutions"
+            }
+          ]
+        },
+        "updated": "2026-02-19T04:05:29.453537+00:00"
+      },
+      {
+        "created": "2025-08-05T04:21:48.425958+00:00",
+        "id": "2957292",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2957292?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2957292",
+          "cv": "https://inspirehep.net/api/literature/2957292?format=cv",
+          "json": "https://inspirehep.net/api/literature/2957292?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2957292?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2957292?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2957292?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2508.02100"
+            }
+          ],
+          "control_number": 2957292,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/hxll-2lr3"
+            }
+          ],
+          "earliest_date": "2025-08-04",
+          "preprint_date": "2025-08-04",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Formation of frozen stars from collapsing matter by tunneling"
+            },
+            {
+              "source": "arXiv",
+              "title": "Formation of Frozen Stars from collapsing matter by tunneling"
+            }
+          ]
+        },
+        "updated": "2026-05-07T15:32:35.631314+00:00"
+      },
+      {
+        "created": "2025-07-30T04:17:37.357025+00:00",
+        "id": "2955231",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2955231?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2955231",
+          "cv": "https://inspirehep.net/api/literature/2955231?format=cv",
+          "json": "https://inspirehep.net/api/literature/2955231?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2955231?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2955231?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2955231?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2507.21580"
+            }
+          ],
+          "control_number": 2955231,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2026/02/027"
+            }
+          ],
+          "earliest_date": "2025-07-29",
+          "preprint_date": "2025-07-29",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Bondi accretion disc luminosity around neutral and charged Simpson-Visser spacetimes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Bondi accretion disk luminosity around neutral and charged Simpson-Visser spacetimes"
+            }
+          ]
+        },
+        "updated": "2026-03-04T06:49:46.502830+00:00"
+      },
+      {
+        "created": "2025-07-29T04:16:35.749758+00:00",
+        "id": "2954767",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2954767?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2954767",
+          "cv": "https://inspirehep.net/api/literature/2954767?format=cv",
+          "json": "https://inspirehep.net/api/literature/2954767?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2954767?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2954767?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2954767?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2507.19582"
+            }
+          ],
+          "control_number": 2954767,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/9713-l7bx"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/9713-l7bx"
+            }
+          ],
+          "earliest_date": "2025-07-25",
+          "preprint_date": "2025-07-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "There and back again: Outspiraling motion in non-Kerr compact objects"
+            },
+            {
+              "source": "arXiv",
+              "title": "There and back again: outspiralling motion in non-Kerr compact objects"
+            },
+            {
+              "source": "arXiv",
+              "title": "There and back again: Outspiraling motion in non-Kerr compact objects"
+            }
+          ]
+        },
+        "updated": "2026-01-14T04:07:57.190887+00:00"
+      },
+      {
+        "created": "2025-07-15T04:15:18.497795+00:00",
+        "id": "2945935",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2945935?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2945935",
+          "cv": "https://inspirehep.net/api/literature/2945935?format=cv",
+          "json": "https://inspirehep.net/api/literature/2945935?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2945935?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2945935?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2945935?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2507.08946"
+            }
+          ],
+          "control_number": 2945935,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/djk9-pjtb"
+            }
+          ],
+          "earliest_date": "2025-07-11",
+          "preprint_date": "2025-07-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Frozen states of charged boson stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Frozen states of charged boson stars"
+            }
+          ]
+        },
+        "updated": "2026-03-26T15:31:14.427386+00:00"
+      },
+      {
+        "created": "2025-06-19T04:16:32.887295+00:00",
+        "id": "2936602",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2936602?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2936602",
+          "cv": "https://inspirehep.net/api/literature/2936602?format=cv",
+          "json": "https://inspirehep.net/api/literature/2936602?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2936602?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2936602?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2936602?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2506.14875"
+            }
+          ],
+          "control_number": 2936602,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/3ng1-y6vs"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/3ng1-y6vs"
+            }
+          ],
+          "earliest_date": "2025-06-17",
+          "preprint_date": "2025-06-17",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Regular Vaidya Solutions of Effective Gravitational Theories"
+            },
+            {
+              "source": "arXiv",
+              "title": "Regular Vaidya solutions of effective gravitational theories"
+            }
+          ]
+        },
+        "updated": "2026-04-30T15:31:57.243059+00:00"
+      },
+      {
+        "created": "2025-06-18T04:16:07.734426+00:00",
+        "id": "2935604",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2935604?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2935604",
+          "cv": "https://inspirehep.net/api/literature/2935604?format=cv",
+          "json": "https://inspirehep.net/api/literature/2935604?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2935604?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2935604?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2935604?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2506.13850"
+            }
+          ],
+          "control_number": 2935604,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/gvd3-lqkv"
+            }
+          ],
+          "earliest_date": "2025-06-16",
+          "preprint_date": "2025-06-16",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Superradiant amplification by rotating viscous compact objects"
+            },
+            {
+              "source": "arXiv",
+              "title": "Superradiant amplification by rotating viscous compact objects"
+            }
+          ]
+        },
+        "updated": "2026-03-31T13:27:04.791799+00:00"
+      },
+      {
+        "created": "2025-06-04T10:01:31.171745+00:00",
+        "id": "2928972",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2928972?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2928972",
+          "cv": "https://inspirehep.net/api/literature/2928972?format=cv",
+          "json": "https://inspirehep.net/api/literature/2928972?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2928972?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2928972?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2928972?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th"
+              ],
+              "value": "2506.02117"
+            }
+          ],
+          "control_number": 2928972,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/JHEP09(2025)167"
+            }
+          ],
+          "earliest_date": "2025-06-02",
+          "preprint_date": "2025-06-02",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Black shell thermodynamics"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black Shell Thermodynamics"
+            }
+          ]
+        },
+        "updated": "2025-09-22T05:32:53.262807+00:00"
+      },
+      {
+        "created": "2025-05-28T04:28:24.536911+00:00",
+        "id": "2925700",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2925700?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2925700",
+          "cv": "https://inspirehep.net/api/literature/2925700?format=cv",
+          "json": "https://inspirehep.net/api/literature/2925700?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2925700?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2925700?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2925700?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2505.21431"
+            }
+          ],
+          "control_number": 2925700,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/pxpm-8dgy"
+            }
+          ],
+          "earliest_date": "2025-05-27",
+          "preprint_date": "2025-05-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Nonminimal light-curvature couplings and black-hole imaging"
+            },
+            {
+              "source": "arXiv",
+              "title": "Non-minimal light-curvature couplings and black-hole imaging"
+            }
+          ]
+        },
+        "updated": "2025-11-17T12:12:53.550353+00:00"
+      },
+      {
+        "created": "2025-02-25T04:25:37.233857+00:00",
+        "id": "2893848",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2893848?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2893848",
+          "cv": "https://inspirehep.net/api/literature/2893848?format=cv",
+          "json": "https://inspirehep.net/api/literature/2893848?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2893848?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2893848?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2893848?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2502.17032"
+            }
+          ],
+          "control_number": 2893848,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/zmq2-tz63"
+            }
+          ],
+          "earliest_date": "2025-02-24",
+          "preprint_date": "2025-02-24",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Multipole-based framework for Kerr black hole mimickers: From general construction to a specific case of study"
+            },
+            {
+              "source": "arXiv",
+              "title": "A Multipole-Based Framework for Kerr Black Hole Mimickers: From General Construction to a Specific Case of Study"
+            }
+          ]
+        },
+        "updated": "2025-08-26T16:10:19.976462+00:00"
+      }
+    ],
+    "total": 50
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2921225&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2921225&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2921225&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2921225&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2921225&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2921225&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2921225&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

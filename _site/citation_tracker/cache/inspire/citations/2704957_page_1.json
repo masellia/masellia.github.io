@@ -1,0 +1,555 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-04-08T04:21:49.399675+00:00",
+        "id": "3140713",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3140713?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3140713",
+          "cv": "https://inspirehep.net/api/literature/3140713?format=cv",
+          "json": "https://inspirehep.net/api/literature/3140713?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3140713?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3140713?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3140713?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2604.06053"
+            }
+          ],
+          "control_number": 3140713,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/l12t-9c9m"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/l12t-9c9m"
+            }
+          ],
+          "earliest_date": "2026-04-07",
+          "preprint_date": "2026-04-07",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing Kerr symmetry breaking with LISA: Extreme-mass-ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing Kerr Symmetry Breaking with LISA Extreme-Mass-Ratio Inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing Kerr symmetry breaking with LISA extreme-mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2026-09-23T04:51:58.394375+00:00"
+      },
+      {
+        "created": "2026-09-16T13:07:40.720303+00:00",
+        "id": "3204253",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3204253?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3204253",
+          "cv": "https://inspirehep.net/api/literature/3204253?format=cv",
+          "json": "https://inspirehep.net/api/literature/3204253?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3204253?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3204253?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3204253?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-th",
+                "gr-qc"
+              ],
+              "value": "2604.06009"
+            }
+          ],
+          "control_number": 3204253,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/xx4j-9gbh"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/xx4j-9gbh"
+            }
+          ],
+          "earliest_date": "2026-04-07",
+          "preprint_date": "2026-04-07",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Probing fuzzballs and beyond: Model-independent tests of Kerr symmetry breaking with LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "Are Black Holes Fuzzballs? Probing Horizon-Scale Structure with LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "Probing fuzzballs and beyond: Model-independent tests of Kerr symmetry breaking with LISA"
+            }
+          ]
+        },
+        "updated": "2026-09-23T04:51:44.454811+00:00"
+      },
+      {
+        "created": "2025-09-09T17:42:29.573907+00:00",
+        "id": "2967980",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2967980?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2967980",
+          "cv": "https://inspirehep.net/api/literature/2967980?format=cv",
+          "json": "https://inspirehep.net/api/literature/2967980?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2967980?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2967980?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2967980?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2967980,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/adf935"
+            }
+          ],
+          "earliest_date": "2025-09-04",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Multipole measurements through gravitational waves of compact object binaries"
+            }
+          ]
+        },
+        "updated": "2025-09-25T07:29:11.730440+00:00"
+      },
+      {
+        "created": "2025-03-10T13:51:33.367123+00:00",
+        "id": "2898228",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2898228?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2898228",
+          "cv": "https://inspirehep.net/api/literature/2898228?format=cv",
+          "json": "https://inspirehep.net/api/literature/2898228?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2898228?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2898228?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2898228?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2898228,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-024-00054-9"
+            }
+          ],
+          "earliest_date": "2025-03-03",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Gravitational-wave tests of general relativity with ground-based detectors and pulsar-timing arrays"
+            }
+          ]
+        },
+        "updated": "2025-06-10T13:23:54.767357+00:00"
+      },
+      {
+        "created": "2025-02-10T13:12:22.579004+00:00",
+        "id": "2878087",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2878087?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2878087",
+          "cv": "https://inspirehep.net/api/literature/2878087?format=cv",
+          "json": "https://inspirehep.net/api/literature/2878087?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2878087?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2878087?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2878087?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2878087,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s10714-025-03361-w"
+            }
+          ],
+          "earliest_date": "2025-02-08",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Testing the nature of compact objects and the black hole paradigm"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:49:40.732901+00:00"
+      },
+      {
+        "created": "2024-10-21T04:14:16.680887+00:00",
+        "id": "2841291",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2841291?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2841291",
+          "cv": "https://inspirehep.net/api/literature/2841291?format=cv",
+          "json": "https://inspirehep.net/api/literature/2841291?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2841291?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2841291?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2841291?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2410.14414"
+            }
+          ],
+          "control_number": 2841291,
+          "earliest_date": "2024-10-18",
+          "preprint_date": "2024-10-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Black Holes Inside and Out 2024: visions for the future of black hole physics"
+            }
+          ]
+        },
+        "updated": "2026-09-02T22:35:48.650155+00:00"
+      },
+      {
+        "created": "2024-08-13T04:25:42.344755+00:00",
+        "id": "2817308",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2817308?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2817308",
+          "cv": "https://inspirehep.net/api/literature/2817308?format=cv",
+          "json": "https://inspirehep.net/api/literature/2817308?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2817308?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2817308?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2817308?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2408.05240"
+            }
+          ],
+          "control_number": 2817308,
+          "earliest_date": "2024-08-05",
+          "preprint_date": "2024-08-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational-Wave Tests of General Relativity with Ground-Based Detectors and Pulsar-Timing Arrays"
+            }
+          ]
+        },
+        "updated": "2025-06-10T13:11:38.485037+00:00"
+      },
+      {
+        "created": "2024-05-06T03:40:44.345748+00:00",
+        "id": "2783272",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2783272?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2783272",
+          "cv": "https://inspirehep.net/api/literature/2783272?format=cv",
+          "json": "https://inspirehep.net/api/literature/2783272?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2783272?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2783272?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2783272?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2405.02197"
+            }
+          ],
+          "control_number": 2783272,
+          "dois": [
+            {
+              "source": "SciPost Fundation",
+              "value": "10.21468/SciPostPhysCommRep.5"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.21468/SciPostPhysCommRep.5"
+            }
+          ],
+          "earliest_date": "2024-05-03",
+          "preprint_date": "2024-05-03",
+          "titles": [
+            {
+              "source": "SciPost Fundation",
+              "title": "Possible causes of false general relativity violations in gravitational wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Possible Causes of False General Relativity Violations in Gravitational Wave Observations"
+            }
+          ]
+        },
+        "updated": "2026-04-06T13:30:55.664130+00:00"
+      },
+      {
+        "created": "2024-04-16T03:55:30.780861+00:00",
+        "id": "2777334",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2777334?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2777334",
+          "cv": "https://inspirehep.net/api/literature/2777334?format=cv",
+          "json": "https://inspirehep.net/api/literature/2777334?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2777334?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2777334?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2777334?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "2404.09181"
+            }
+          ],
+          "control_number": 2777334,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/01/108"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/01/108"
+            }
+          ],
+          "earliest_date": "2024-04-14",
+          "preprint_date": "2024-04-14",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "The Lunar Gravitational-wave Antenna: mission studies and science case"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Lunar Gravitational-wave Antenna: Mission Studies and Science Case"
+            }
+          ]
+        },
+        "updated": "2026-04-22T19:55:43.365174+00:00"
+      },
+      {
+        "created": "2024-02-15T03:42:00.238731+00:00",
+        "id": "2758389",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2758389?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2758389",
+          "cv": "https://inspirehep.net/api/literature/2758389?format=cv",
+          "json": "https://inspirehep.net/api/literature/2758389?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2758389?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2758389?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2758389?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2402.08883"
+            }
+          ],
+          "control_number": 2758389,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.024006"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.110.024006"
+            }
+          ],
+          "earliest_date": "2024-02-13",
+          "preprint_date": "2024-02-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Analytical model of precessing binaries using post-Newtonian theory in the extreme mass-ratio limit: General formalism"
+            },
+            {
+              "source": "arXiv",
+              "title": "Analytical model of precessing binaries using post-Newtonian theory in the extreme mass-ratio limit I: General Formalism"
+            }
+          ]
+        },
+        "updated": "2025-03-06T13:38:39.087291+00:00"
+      },
+      {
+        "created": "2024-02-06T03:45:21.412253+00:00",
+        "id": "2755438",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2755438?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2755438",
+          "cv": "https://inspirehep.net/api/literature/2755438?format=cv",
+          "json": "https://inspirehep.net/api/literature/2755438?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2755438?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2755438?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2755438?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2402.03120"
+            }
+          ],
+          "control_number": 2755438,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ad424f"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1361-6382/ad424f"
+            }
+          ],
+          "earliest_date": "2024-02-05",
+          "preprint_date": "2024-02-05",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Cosmography with next-generation gravitational wave detectors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Cosmography with next-generation gravitational wave detectors"
+            }
+          ]
+        },
+        "updated": "2026-04-06T13:33:12.248737+00:00"
+      },
+      {
+        "created": "2024-02-13T19:58:27.221820+00:00",
+        "id": "2757960",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2757960?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2757960",
+          "cv": "https://inspirehep.net/api/literature/2757960?format=cv",
+          "json": "https://inspirehep.net/api/literature/2757960?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2757960?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2757960?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2757960?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2757960,
+          "earliest_date": "2024-01-24",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Searching for new physics in the neighborhood of a black hole: fundamental interactions, plasmas and tests of gravity"
+            },
+            {
+              "source": "submitter",
+              "title": "Searching for new physics in the neighborhood of a black hole: fundamental interactions, plasmas and tests of gravity"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:46:21.754311+00:00"
+      },
+      {
+        "created": "2023-10-13T02:50:34.768194+00:00",
+        "id": "2709905",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2709905?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2709905",
+          "cv": "https://inspirehep.net/api/literature/2709905?format=cv",
+          "json": "https://inspirehep.net/api/literature/2709905?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2709905?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2709905?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2709905?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2310.07772"
+            }
+          ],
+          "control_number": 2709905,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.044052"
+            }
+          ],
+          "earliest_date": "2023-10-11",
+          "preprint_date": "2023-10-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extreme mass-ratio inspirals as probes of fundamental dipoles"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme mass-ratio inspirals as probes of fundamental dipoles"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:23:00.529713+00:00"
+      }
+    ],
+    "total": 13
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2704957&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2704957&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2704957&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2704957&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2704957&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2704957&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2704957&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

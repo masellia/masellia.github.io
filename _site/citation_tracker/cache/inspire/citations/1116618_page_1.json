@@ -1,0 +1,1482 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-04-13T04:10:38.084200+00:00",
+        "id": "3143537",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3143537?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3143537",
+          "cv": "https://inspirehep.net/api/literature/3143537?format=cv",
+          "json": "https://inspirehep.net/api/literature/3143537?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3143537?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3143537?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3143537?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2604.08679"
+            }
+          ],
+          "control_number": 3143537,
+          "earliest_date": "2026-04-09",
+          "preprint_date": "2026-04-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal Response of Compact Objects"
+            }
+          ]
+        },
+        "updated": "2026-08-26T02:31:49.989729+00:00"
+      },
+      {
+        "created": "2025-07-08T04:10:16.084349+00:00",
+        "id": "2942801",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2942801?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2942801",
+          "cv": "https://inspirehep.net/api/literature/2942801?format=cv",
+          "json": "https://inspirehep.net/api/literature/2942801?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2942801?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2942801?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2942801?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th"
+              ],
+              "value": "2507.03664"
+            }
+          ],
+          "control_number": 2942801,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2025/11/052"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2025/11/052"
+            }
+          ],
+          "earliest_date": "2025-07-04",
+          "preprint_date": "2025-07-04",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Equation-of-state independent relations in rapidly rotating hybrid stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Equation-of-State Independent Relations in Rapidly Rotating Hybrid Stars"
+            }
+          ]
+        },
+        "updated": "2026-02-05T04:04:31.426582+00:00"
+      },
+      {
+        "created": "2025-03-26T09:21:15.396745+00:00",
+        "id": "2904048",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2904048?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2904048",
+          "cv": "https://inspirehep.net/api/literature/2904048?format=cv",
+          "json": "https://inspirehep.net/api/literature/2904048?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2904048?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2904048?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2904048?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th",
+                "gr-qc"
+              ],
+              "value": "2503.19362"
+            }
+          ],
+          "control_number": 2904048,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.astropartphys.2025.103108"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.astropartphys.2025.103108"
+            }
+          ],
+          "earliest_date": "2025-03-25",
+          "preprint_date": "2025-03-25",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "I-C-Q relations for rapidly rotating stable hybrid stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "I-C-Q relations for rapidly rotating stable hybrid stars"
+            }
+          ]
+        },
+        "updated": "2026-02-05T04:06:12.319934+00:00"
+      },
+      {
+        "created": "2025-03-10T13:51:33.367123+00:00",
+        "id": "2898228",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2898228?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2898228",
+          "cv": "https://inspirehep.net/api/literature/2898228?format=cv",
+          "json": "https://inspirehep.net/api/literature/2898228?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2898228?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2898228?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2898228?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2898228,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-024-00054-9"
+            }
+          ],
+          "earliest_date": "2025-03-03",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Gravitational-wave tests of general relativity with ground-based detectors and pulsar-timing arrays"
+            }
+          ]
+        },
+        "updated": "2025-06-10T13:23:54.767357+00:00"
+      },
+      {
+        "created": "2024-08-13T04:25:42.344755+00:00",
+        "id": "2817308",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2817308?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2817308",
+          "cv": "https://inspirehep.net/api/literature/2817308?format=cv",
+          "json": "https://inspirehep.net/api/literature/2817308?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2817308?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2817308?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2817308?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2408.05240"
+            }
+          ],
+          "control_number": 2817308,
+          "earliest_date": "2024-08-05",
+          "preprint_date": "2024-08-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational-Wave Tests of General Relativity with Ground-Based Detectors and Pulsar-Timing Arrays"
+            }
+          ]
+        },
+        "updated": "2025-06-10T13:11:38.485037+00:00"
+      },
+      {
+        "created": "2023-03-03T03:30:57.531553+00:00",
+        "id": "2637965",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2637965?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2637965",
+          "cv": "https://inspirehep.net/api/literature/2637965?format=cv",
+          "json": "https://inspirehep.net/api/literature/2637965?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2637965?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2637965?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2637965?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2303.01398"
+            }
+          ],
+          "control_number": 2637965,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.124014"
+            }
+          ],
+          "earliest_date": "2023-03-02",
+          "preprint_date": "2023-03-02",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Eccentricity-tide coupling: Impact on binary neutron stars and extreme mass ratio inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "Eccentricity-tide coupling: impact on binary neutron stars and extreme mass-ratio inspirals"
+            }
+          ]
+        },
+        "updated": "2025-05-16T13:32:13.481188+00:00"
+      },
+      {
+        "created": "2023-03-13T15:42:04.961781+00:00",
+        "id": "2641172",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2641172?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2641172",
+          "cv": "https://inspirehep.net/api/literature/2641172?format=cv",
+          "json": "https://inspirehep.net/api/literature/2641172?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2641172?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2641172?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2641172?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2641172,
+          "dois": [
+            {
+              "source": "U. Tubingen",
+              "value": "10.15496/publikation-76851"
+            }
+          ],
+          "earliest_date": "2023-01-18",
+          "titles": [
+            {
+              "source": "U. Tubingen",
+              "title": "Tidal Effects in Pre-merger Neutron Stars and Dynamics of Scalarized Compact Objects"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:22:40.925579+00:00"
+      },
+      {
+        "created": "2022-05-17T03:14:11.677123+00:00",
+        "id": "2082609",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2082609?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2082609",
+          "cv": "https://inspirehep.net/api/literature/2082609?format=cv",
+          "json": "https://inspirehep.net/api/literature/2082609?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2082609?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2082609?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2082609?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "2205.07577"
+            }
+          ],
+          "control_number": 2082609,
+          "dois": [
+            {
+              "source": "Oxford University Press",
+              "value": "10.1093/mnras/stad3593"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1093/mnras/stad3593"
+            }
+          ],
+          "earliest_date": "2022-05-16",
+          "preprint_date": "2022-05-16",
+          "titles": [
+            {
+              "source": "Oxford University Press",
+              "title": "The dynamical tides of spinning Newtonian stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Rotating Love: The dynamical tides of spinning Newtonian stars"
+            }
+          ]
+        },
+        "updated": "2026-02-02T06:54:02.264507+00:00"
+      },
+      {
+        "created": "2022-05-04T04:01:45.297111+00:00",
+        "id": "2076195",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2076195?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2076195",
+          "cv": "https://inspirehep.net/api/literature/2076195?format=cv",
+          "json": "https://inspirehep.net/api/literature/2076195?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2076195?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2076195?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2076195?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2205.01597"
+            }
+          ],
+          "control_number": 2076195,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-022-00036-9"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-022-00036-9"
+            }
+          ],
+          "earliest_date": "2022-05-03",
+          "preprint_date": "2022-05-03",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "New horizons for fundamental physics with LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "New Horizons for Fundamental Physics with LISA"
+            }
+          ]
+        },
+        "updated": "2026-03-08T22:15:17.502674+00:00"
+      },
+      {
+        "created": "2022-05-05T03:13:53.733349+00:00",
+        "id": "2077175",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2077175?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2077175",
+          "cv": "https://inspirehep.net/api/literature/2077175?format=cv",
+          "json": "https://inspirehep.net/api/literature/2077175?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2077175?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2077175?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2077175?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2205.01705"
+            }
+          ],
+          "control_number": 2077175,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.064052"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.106.064052"
+            }
+          ],
+          "earliest_date": "2022-05-03",
+          "preprint_date": "2022-05-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "<math display=\"inline\"><mi>f</mi></math>-mode imprints on gravitational waves from coalescing binaries involving aligned spinning neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "$f$-mode Imprints in Gravitational Waves from Coalescing Binaries involving Aligned Spinning Neutron Stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "$f$-mode Imprints in Gravitational Waves from Coalescing Binaries involving Spinning Neutron Stars"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:38:44.038775+00:00"
+      },
+      {
+        "created": "2021-10-14T07:04:48.947521+00:00",
+        "id": "1944370",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1944370?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1944370",
+          "cv": "https://inspirehep.net/api/literature/1944370?format=cv",
+          "json": "https://inspirehep.net/api/literature/1944370?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1944370?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1944370?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1944370?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2110.06218"
+            }
+          ],
+          "control_number": 1944370,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-021-00033-4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-021-00033-4"
+            }
+          ],
+          "earliest_date": "2021-10-12",
+          "preprint_date": "2021-10-12",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Coalescence of black hole–neutron star binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Coalescence of black hole--neutron star binaries"
+            }
+          ]
+        },
+        "updated": "2025-07-17T15:11:04.575855+00:00"
+      },
+      {
+        "created": "2021-04-01T00:00:00+00:00",
+        "id": "1854753",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1854753?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1854753",
+          "cv": "https://inspirehep.net/api/literature/1854753?format=cv",
+          "json": "https://inspirehep.net/api/literature/1854753?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1854753?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1854753?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1854753?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2103.16595"
+            }
+          ],
+          "control_number": 1854753,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.044052"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.044052"
+            }
+          ],
+          "earliest_date": "2021-03-30",
+          "preprint_date": "2021-03-30",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Hidden symmetry between rotational tidal Love numbers of spinning neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Hidden symmetry between rotational tidal Love numbers of spinning neutron stars"
+            }
+          ]
+        },
+        "updated": "2025-06-06T06:58:06.653597+00:00"
+      },
+      {
+        "created": "2020-04-07T00:00:00+00:00",
+        "id": "1789833",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1789833?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1789833",
+          "cv": "https://inspirehep.net/api/literature/1789833?format=cv",
+          "json": "https://inspirehep.net/api/literature/1789833?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1789833?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1789833?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1789833?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE"
+              ],
+              "value": "2004.02527"
+            }
+          ],
+          "control_number": 1789833,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/s10714-020-02751-6"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s10714-020-02751-6"
+            }
+          ],
+          "earliest_date": "2020-04-06",
+          "preprint_date": "2020-04-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Interpreting Binary Neutron Star Mergers: Describing the Binary Neutron Star Dynamics, Modelling Gravitational Waveforms, and Analyzing Detections"
+            }
+          ]
+        },
+        "updated": "2025-06-06T11:03:16.161108+00:00"
+      },
+      {
+        "created": "2020-03-24T00:00:00+00:00",
+        "id": "1787525",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1787525?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1787525",
+          "cv": "https://inspirehep.net/api/literature/1787525?format=cv",
+          "json": "https://inspirehep.net/api/literature/1787525?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1787525?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1787525?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1787525?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "2003.10427"
+            }
+          ],
+          "control_number": 1787525,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.101.104028"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.104028"
+            }
+          ],
+          "earliest_date": "2020-03-23",
+          "preprint_date": "2020-03-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitomagnetic tidal resonance in neutron-star binary inspirals"
+            }
+          ]
+        },
+        "updated": "2025-06-06T15:25:52.197782+00:00"
+      },
+      {
+        "created": "2019-05-02T00:00:00+00:00",
+        "id": "1732560",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1732560?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1732560",
+          "cv": "https://inspirehep.net/api/literature/1732560?format=cv",
+          "json": "https://inspirehep.net/api/literature/1732560?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1732560?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1732560?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1732560?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1905.00408"
+            }
+          ],
+          "control_number": 1732560,
+          "earliest_date": "2019-05-01",
+          "preprint_date": "2019-05-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal deformations of compact objects and gravitational wave emission"
+            }
+          ]
+        },
+        "updated": "2025-06-06T10:52:17.547123+00:00"
+      },
+      {
+        "created": "2018-05-07T00:00:00+00:00",
+        "id": "1671798",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1671798?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1671798",
+          "cv": "https://inspirehep.net/api/literature/1671798?format=cv",
+          "json": "https://inspirehep.net/api/literature/1671798?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1671798?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1671798?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1671798?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "1805.01487"
+            }
+          ],
+          "control_number": 1671798,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.98.104046"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.98.104046"
+            }
+          ],
+          "earliest_date": "2018-05-03",
+          "preprint_date": "2018-05-03",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Post-Newtonian spin-tidal couplings for compact binaries"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:45:02.103017+00:00"
+      },
+      {
+        "created": "2018-04-06T00:00:00+00:00",
+        "id": "1666044",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1666044?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1666044",
+          "cv": "https://inspirehep.net/api/literature/1666044?format=cv",
+          "json": "https://inspirehep.net/api/literature/1666044?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1666044?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1666044?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1666044?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1804.01848"
+            }
+          ],
+          "control_number": 1666044,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.97.124048"
+            },
+            {
+              "value": "10.1103/PhysRevD.97.124048"
+            }
+          ],
+          "earliest_date": "2018-04-05",
+          "preprint_date": "2018-04-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Nonrotating black hole in a post-Newtonian tidal environment II"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:38:53.911645+00:00"
+      },
+      {
+        "created": "2019-01-15T00:00:00+00:00",
+        "id": "1713648",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1713648?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1713648",
+          "cv": "https://inspirehep.net/api/literature/1713648?format=cv",
+          "json": "https://inspirehep.net/api/literature/1713648?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1713648?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1713648?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1713648?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1713648,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/978-3-319-97616-7_10"
+            }
+          ],
+          "earliest_date": "2018",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Gravitational Waves from Merging Binary Neutron-Star Systems"
+            }
+          ]
+        },
+        "updated": "2025-06-06T10:49:22.754407+00:00"
+      },
+      {
+        "created": "2018-01-31T00:00:00+00:00",
+        "id": "1651240",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1651240?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1651240",
+          "cv": "https://inspirehep.net/api/literature/1651240?format=cv",
+          "json": "https://inspirehep.net/api/literature/1651240?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1651240?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1651240?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1651240?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "1801.09675"
+            }
+          ],
+          "control_number": 1651240,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/aa906e"
+            },
+            {
+              "value": "10.3847/1538-4357/aa906e"
+            }
+          ],
+          "earliest_date": "2017",
+          "preprint_date": "2018-01-27",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Equation of State Dependence of Nonlinear Mode-tide Coupling in Coalescing Binary Neutron Stars"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:05:51.999706+00:00"
+      },
+      {
+        "created": "2016-12-14T00:00:00+00:00",
+        "id": "1503162",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1503162?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1503162",
+          "cv": "https://inspirehep.net/api/literature/1503162?format=cv",
+          "json": "https://inspirehep.net/api/literature/1503162?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1503162?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1503162?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1503162?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1612.04255"
+            }
+          ],
+          "control_number": 1503162,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.95.044023"
+            }
+          ],
+          "earliest_date": "2016-12-13",
+          "preprint_date": "2016-12-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitomagnetic tidal currents in rotating neutron stars"
+            }
+          ]
+        },
+        "updated": "2023-12-13T18:43:27.590928+00:00"
+      },
+      {
+        "created": "2016-08-10T00:00:00+00:00",
+        "id": "1480157",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1480157?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1480157",
+          "cv": "https://inspirehep.net/api/literature/1480157?format=cv",
+          "json": "https://inspirehep.net/api/literature/1480157?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1480157?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1480157?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1480157?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1608.02582"
+            }
+          ],
+          "control_number": 1480157,
+          "dois": [
+            {
+              "value": "10.1016/j.physrep.2017.03.002"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.physrep.2017.03.002"
+            }
+          ],
+          "earliest_date": "2016-08-08",
+          "preprint_date": "2016-08-08",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Approximate Universal Relations for Neutron Stars and Quark Stars"
+            }
+          ]
+        },
+        "updated": "2025-07-22T10:35:36.153473+00:00"
+      },
+      {
+        "created": "2016-08-08T00:00:00+00:00",
+        "id": "1479741",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1479741?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1479741",
+          "cv": "https://inspirehep.net/api/literature/1479741?format=cv",
+          "json": "https://inspirehep.net/api/literature/1479741?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1479741?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1479741?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1479741?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1608.01907"
+            }
+          ],
+          "control_number": 1479741,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.94.104028"
+            }
+          ],
+          "earliest_date": "2016-08-05",
+          "preprint_date": "2016-08-05",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Dynamical Tides in General Relativity: Effective Action and Effective-One-Body Hamiltonian"
+            }
+          ]
+        },
+        "updated": "2023-12-13T11:32:44.485557+00:00"
+      },
+      {
+        "created": "2016-07-14T00:00:00+00:00",
+        "id": "1475455",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1475455?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1475455",
+          "cv": "https://inspirehep.net/api/literature/1475455?format=cv",
+          "json": "https://inspirehep.net/api/literature/1475455?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1475455?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1475455?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1475455?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1607.03540"
+            }
+          ],
+          "control_number": 1475455,
+          "dois": [
+            {
+              "value": "10.1088/1361-6633/aa67bb"
+            }
+          ],
+          "earliest_date": "2016-07-12",
+          "preprint_date": "2016-07-12",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Binary neutron star mergers: a review of Einstein’s richest laboratory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Binary neutron-star mergers: a review of Einstein's richest laboratory"
+            }
+          ]
+        },
+        "updated": "2025-02-18T08:11:36.856540+00:00"
+      },
+      {
+        "created": "2017-01-13T00:00:00+00:00",
+        "id": "1508953",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1508953?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1508953",
+          "cv": "https://inspirehep.net/api/literature/1508953?format=cv",
+          "json": "https://inspirehep.net/api/literature/1508953?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1508953?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1508953?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1508953?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1508953,
+          "dois": [
+            {
+              "value": "10.22323/1.262.0014"
+            }
+          ],
+          "earliest_date": "2016-02-28",
+          "titles": [
+            {
+              "title": "From macro to micro: universal properties of neutron stars"
+            }
+          ]
+        },
+        "updated": "2023-03-06T22:34:14.754382+00:00"
+      },
+      {
+        "created": "2016-02-03T00:00:00+00:00",
+        "id": "1419049",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1419049?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1419049",
+          "cv": "https://inspirehep.net/api/literature/1419049?format=cv",
+          "json": "https://inspirehep.net/api/literature/1419049?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1419049?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1419049?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1419049?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1602.01031"
+            }
+          ],
+          "control_number": 1419049,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.93.064075"
+            }
+          ],
+          "earliest_date": "2016-02-02",
+          "preprint_date": "2016-02-02",
+          "titles": [
+            {
+              "title": "Relativistic tidal effects in nonstandard Kerr spacetime"
+            },
+            {
+              "source": "arXiv",
+              "title": "Relativistic tidal effects in non standard Kerr space-time"
+            }
+          ]
+        },
+        "updated": "2023-03-06T23:04:02.459131+00:00"
+      },
+      {
+        "created": "2016-02-02T00:00:00+00:00",
+        "id": "1418792",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1418792?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1418792",
+          "cv": "https://inspirehep.net/api/literature/1418792?format=cv",
+          "json": "https://inspirehep.net/api/literature/1418792?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1418792?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1418792?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1418792?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.SR"
+              ],
+              "value": "1602.00599"
+            }
+          ],
+          "control_number": 1418792,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevLett.116.181101"
+            }
+          ],
+          "earliest_date": "2016-02-01",
+          "preprint_date": "2016-02-01",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Effects of neutron-star dynamic tides on gravitational waveforms within the effective-one-body approach"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:31:31.155382+00:00"
+      },
+      {
+        "created": "2015-02-25T00:00:00+00:00",
+        "id": "1346306",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1346306?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1346306",
+          "cv": "https://inspirehep.net/api/literature/1346306?format=cv",
+          "json": "https://inspirehep.net/api/literature/1346306?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1346306?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1346306?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1346306?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1346306,
+          "earliest_date": "2013-11-18",
+          "titles": [
+            {
+              "title": "Advanced Numerical Approaches in the Dynamics of Relativistic Flows"
+            }
+          ]
+        },
+        "updated": "2025-07-17T13:46:29.436246+00:00"
+      },
+      {
+        "created": "2013-11-06T00:00:00+00:00",
+        "id": "1263332",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1263332?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1263332",
+          "cv": "https://inspirehep.net/api/literature/1263332?format=cv",
+          "json": "https://inspirehep.net/api/literature/1263332?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1263332?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1263332?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1263332?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1311.0872"
+            }
+          ],
+          "control_number": 1263332,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.89.043011"
+            },
+            {
+              "material": "erratum",
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.96.129904"
+            },
+            {
+              "material": "erratum",
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.97.129901"
+            }
+          ],
+          "earliest_date": "2013-11-04",
+          "preprint_date": "2013-11-04",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Multipole Love Relations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Multipole Love Relations"
+            }
+          ]
+        },
+        "updated": "2023-03-07T04:16:51.300259+00:00"
+      },
+      {
+        "created": "2022-04-20T14:04:39.915308+00:00",
+        "id": "2069613",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2069613?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2069613",
+          "cv": "https://inspirehep.net/api/literature/2069613?format=cv",
+          "json": "https://inspirehep.net/api/literature/2069613?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2069613?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2069613?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2069613?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2069613,
+          "earliest_date": "2013-08-19",
+          "titles": [
+            {
+              "source": "Cornell U.",
+              "title": "Gravitational Waves From Binary Systems: The Conservative Self-Force Via Worldline Actions And Hamiltonians And Post-Newtonian Tidal Effects"
+            }
+          ]
+        },
+        "updated": "2023-03-06T23:14:32.005620+00:00"
+      },
+      {
+        "created": "2013-06-26T00:00:00+00:00",
+        "id": "1239812",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1239812?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1239812",
+          "cv": "https://inspirehep.net/api/literature/1239812?format=cv",
+          "json": "https://inspirehep.net/api/literature/1239812?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1239812?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1239812?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1239812?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "1306.6052"
+            }
+          ],
+          "control_number": 1239812,
+          "dois": [
+            {
+              "value": "10.1093/mnrasl/slt137"
+            }
+          ],
+          "earliest_date": "2013-06-25",
+          "preprint_date": "2013-06-25",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Beyond second-order convergence in simulations of binary neutron stars in full general-relativity"
+            }
+          ]
+        },
+        "updated": "2023-03-07T04:32:45.562046+00:00"
+      },
+      {
+        "created": "2013-06-26T00:00:00+00:00",
+        "id": "1239781",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1239781?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1239781",
+          "cv": "https://inspirehep.net/api/literature/1239781?format=cv",
+          "json": "https://inspirehep.net/api/literature/1239781?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1239781?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1239781?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1239781?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.SR"
+              ],
+              "value": "1306.5820"
+            }
+          ],
+          "control_number": 1239781,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.88.084038"
+            }
+          ],
+          "earliest_date": "2013-06-24",
+          "preprint_date": "2013-06-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Effective action and linear response of compact objects in Newtonian gravity"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:19:49.629419+00:00"
+      },
+      {
+        "created": "2013-04-15T00:00:00+00:00",
+        "id": "1228165",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1228165?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1228165",
+          "cv": "https://inspirehep.net/api/literature/1228165?format=cv",
+          "json": "https://inspirehep.net/api/literature/1228165?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1228165?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1228165?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1228165?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1304.3473"
+            }
+          ],
+          "control_number": 1228165,
+          "dois": [
+            {
+              "value": "10.12942/lrr-2013-9"
+            }
+          ],
+          "earliest_date": "2013-04-11",
+          "preprint_date": "2013-04-11",
+          "titles": [
+            {
+              "title": "Gravitational-Wave Tests of General Relativity with Ground-Based Detectors and Pulsar Timing-Arrays"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational Wave Tests of General Relativity with Ground-Based Detectors and Pulsar Timing Arrays"
+            }
+          ]
+        },
+        "updated": "2025-06-10T14:59:54.800645+00:00"
+      },
+      {
+        "created": "2013-04-09T00:00:00+00:00",
+        "id": "1227471",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1227471?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1227471",
+          "cv": "https://inspirehep.net/api/literature/1227471?format=cv",
+          "json": "https://inspirehep.net/api/literature/1227471?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1227471?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1227471?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1227471?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.SR",
+                "hep-th"
+              ],
+              "value": "1304.2228"
+            }
+          ],
+          "control_number": 1227471,
+          "earliest_date": "2013-04-08",
+          "preprint_date": "2013-04-08",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "New perspectives on neutron star and black hole spectroscopy and dynamic tides"
+            }
+          ]
+        },
+        "updated": "2026-08-05T17:22:57.090290+00:00"
+      },
+      {
+        "created": "2013-04-09T00:00:00+00:00",
+        "id": "1227498",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1227498?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1227498",
+          "cv": "https://inspirehep.net/api/literature/1227498?format=cv",
+          "json": "https://inspirehep.net/api/literature/1227498?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1227498?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1227498?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1227498?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1304.2052"
+            }
+          ],
+          "control_number": 1227498,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.88.023007"
+            }
+          ],
+          "earliest_date": "2013-04-07",
+          "preprint_date": "2013-04-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Equation-of-state-independent relations in neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "I-Love-Q forever"
+            }
+          ]
+        },
+        "updated": "2023-03-06T23:22:58.098092+00:00"
+      },
+      {
+        "created": "2013-03-27T00:00:00+00:00",
+        "id": "1225510",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1225510?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1225510",
+          "cv": "https://inspirehep.net/api/literature/1225510?format=cv",
+          "json": "https://inspirehep.net/api/literature/1225510?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1225510?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1225510?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1225510?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1303.6298"
+            }
+          ],
+          "control_number": 1225510,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.89.043009"
+            }
+          ],
+          "earliest_date": "2013-03-25",
+          "preprint_date": "2013-03-25",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Extracting equation of state parameters from black hole-neutron star mergers: aligned-spin black holes and a preliminary waveform model"
+            }
+          ]
+        },
+        "updated": "2023-03-10T15:28:44.804789+00:00"
+      },
+      {
+        "created": "2013-02-22T00:00:00+00:00",
+        "id": "1220555",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1220555?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1220555",
+          "cv": "https://inspirehep.net/api/literature/1220555?format=cv",
+          "json": "https://inspirehep.net/api/literature/1220555?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1220555?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1220555?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1220555?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "1302.5249"
+            }
+          ],
+          "control_number": 1220555,
+          "dois": [
+            {
+              "source": "World Scientific",
+              "value": "10.1142/9789814623995_0052"
+            }
+          ],
+          "earliest_date": "2013-02-21",
+          "preprint_date": "2013-02-21",
+          "titles": [
+            {
+              "title": "On the validity of the adiabatic approximation in compact binary inspirals"
+            },
+            {
+              "source": "arXiv",
+              "title": "MG13 proceedings: On the validity of the adiabatic approximation in compact binary inspirals"
+            }
+          ]
+        },
+        "updated": "2023-12-13T18:08:34.602473+00:00"
+      }
+    ],
+    "total": 36
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1116618&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1116618&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1116618&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1116618&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1116618&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1116618&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1116618&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

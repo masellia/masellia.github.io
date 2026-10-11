@@ -1,0 +1,843 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-01-12T04:03:57.181564+00:00",
+        "id": "3100123",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3100123?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3100123",
+          "cv": "https://inspirehep.net/api/literature/3100123?format=cv",
+          "json": "https://inspirehep.net/api/literature/3100123?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3100123?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3100123?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3100123?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th",
+                "astro-ph.HE"
+              ],
+              "value": "2601.05999"
+            }
+          ],
+          "control_number": 3100123,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.physletb.2026.140771"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.physletb.2026.140771"
+            }
+          ],
+          "earliest_date": "2026-01-09",
+          "preprint_date": "2026-01-09",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Constraining Hamiltonians from chiral effective field theory with neutron-star data"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraining Hamiltonians from chiral effective field theory with neutron-star data"
+            }
+          ]
+        },
+        "updated": "2026-09-10T08:11:11.396266+00:00"
+      },
+      {
+        "created": "2025-03-18T04:51:07.629334+00:00",
+        "id": "2901213",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2901213?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2901213",
+          "cv": "https://inspirehep.net/api/literature/2901213?format=cv",
+          "json": "https://inspirehep.net/api/literature/2901213?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2901213?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2901213?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2901213?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "nucl-th"
+              ],
+              "value": "2503.12263"
+            }
+          ],
+          "control_number": 2901213,
+          "dois": [
+            {
+              "value": "10.1088/1475-7516/2026/03/081"
+            }
+          ],
+          "earliest_date": "2025-03-15",
+          "preprint_date": "2025-03-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "The Science of the Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2026-09-18T17:16:43.413509+00:00"
+      },
+      {
+        "created": "2025-07-24T15:14:11.805306+00:00",
+        "id": "2954056",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2954056?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2954056",
+          "cv": "https://inspirehep.net/api/literature/2954056?format=cv",
+          "json": "https://inspirehep.net/api/literature/2954056?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2954056?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2954056?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2954056?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2954056,
+          "dois": [
+            {
+              "source": "Potsdam U.",
+              "value": "10.25932/publishup-68297"
+            }
+          ],
+          "earliest_date": "2025",
+          "titles": [
+            {
+              "source": "Potsdam U.",
+              "title": "Von Wellen zu Relikten: Multimessenger-Studien kompakter Binärsysteme"
+            }
+          ]
+        },
+        "updated": "2026-02-09T08:40:58.226074+00:00"
+      },
+      {
+        "created": "2024-10-02T15:41:09.121950+00:00",
+        "id": "2836553",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2836553?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2836553",
+          "cv": "https://inspirehep.net/api/literature/2836553?format=cv",
+          "json": "https://inspirehep.net/api/literature/2836553?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2836553?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2836553?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2836553?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th"
+              ],
+              "value": "2410.00247"
+            }
+          ],
+          "control_number": 2836553,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1038/s41467-025-64756-6"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1038/s41467-025-64756-6"
+            }
+          ],
+          "earliest_date": "2024-09-30",
+          "preprint_date": "2024-09-30",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Inferring three-nucleon couplings from multi-messenger neutron-star observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Inferring three-nucleon couplings from multi-messenger neutron-star observations"
+            }
+          ]
+        },
+        "updated": "2025-12-04T04:03:25.581429+00:00"
+      },
+      {
+        "created": "2024-06-11T03:58:19.371876+00:00",
+        "id": "2796595",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2796595?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2796595",
+          "cv": "https://inspirehep.net/api/literature/2796595?format=cv",
+          "json": "https://inspirehep.net/api/literature/2796595?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2796595?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2796595?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2796595?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th",
+                "gr-qc"
+              ],
+              "value": "2406.05732"
+            }
+          ],
+          "control_number": 2796595,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevC.110.055801"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevC.110.055801"
+            }
+          ],
+          "earliest_date": "2024-06-09",
+          "preprint_date": "2024-06-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Relativistic corrections to the correlated basis function effective nuclear Hamiltonian"
+            },
+            {
+              "source": "arXiv",
+              "title": "Relativistic Corrections to the CBF Effective Nuclear Hamiltonian"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:57:22.486293+00:00"
+      },
+      {
+        "created": "2024-04-16T03:39:59.080086+00:00",
+        "id": "2777234",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2777234?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2777234",
+          "cv": "https://inspirehep.net/api/literature/2777234?format=cv",
+          "json": "https://inspirehep.net/api/literature/2777234?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2777234?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2777234?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2777234?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th",
+                "astro-ph.HE",
+                "astro-ph.SR",
+                "nucl-ex"
+              ],
+              "value": "2404.09511"
+            }
+          ],
+          "control_number": 2777234,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s11433-024-2406-4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s11433-024-2406-4"
+            }
+          ],
+          "earliest_date": "2024-04-15",
+          "preprint_date": "2024-04-15",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Bayesian inference of neutron-skin thickness and neutron-star observables based on effective nuclear interactions"
+            },
+            {
+              "source": "arXiv",
+              "title": "Bayesian inference of neutron-skin thickness and neutron-star observables based on effective nuclear interactions"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:43:54.186367+00:00"
+      },
+      {
+        "created": "2024-02-26T10:39:44.048537+00:00",
+        "id": "2761598",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2761598?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2761598",
+          "cv": "https://inspirehep.net/api/literature/2761598?format=cv",
+          "json": "https://inspirehep.net/api/literature/2761598?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2761598?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2761598?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2761598?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2761598,
+          "dois": [
+            {
+              "source": "OpenAIRE",
+              "value": "10.33540/2119"
+            }
+          ],
+          "earliest_date": "2024-02-07",
+          "titles": [
+            {
+              "source": "NIKHEF",
+              "title": "Fundamental physics with gravitational waves - Testing general relativity and studying neutron stars with current and future detectors"
+            },
+            {
+              "source": "OpenAIRE",
+              "title": "Fundamental physics with gravitational waves: Testing general relativity and studying neutron stars with current and future detectors"
+            }
+          ]
+        },
+        "updated": "2025-07-18T15:35:45.103465+00:00"
+      },
+      {
+        "created": "2025-01-15T09:07:33.920103+00:00",
+        "id": "2869160",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2869160?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2869160",
+          "cv": "https://inspirehep.net/api/literature/2869160?format=cv",
+          "json": "https://inspirehep.net/api/literature/2869160?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2869160?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2869160?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2869160?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2869160,
+          "earliest_date": "2024",
+          "titles": [
+            {
+              "source": "Penn State University",
+              "title": "Towards Exclusive Low-Latency Detection of Gravitational Waves and the Inference of Neutron Star Equation of State with Next Generation Detection Networks"
+            }
+          ]
+        },
+        "updated": "2025-01-27T10:34:21.741754+00:00"
+      },
+      {
+        "created": "2023-11-29T04:02:15.716308+00:00",
+        "id": "2727398",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2727398?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2727398",
+          "cv": "https://inspirehep.net/api/literature/2727398?format=cv",
+          "json": "https://inspirehep.net/api/literature/2727398?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2727398?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2727398?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2727398?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "nucl-th"
+              ],
+              "value": "2311.16561"
+            }
+          ],
+          "control_number": 2727398,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/1538-4357/ad31a8"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/ad31a8"
+            }
+          ],
+          "earliest_date": "2023-11-28",
+          "preprint_date": "2023-11-28",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Cost of Inferred Nuclear Parameters toward the f-mode Dynamical Tide in Binary Neutron Stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Cost of inferred nuclear parameters towards the f-mode dynamical tide in binary neutron stars"
+            }
+          ]
+        },
+        "updated": "2025-11-24T07:53:14.703914+00:00"
+      },
+      {
+        "created": "2023-08-21T09:08:48.941323+00:00",
+        "id": "2689277",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2689277?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2689277",
+          "cv": "https://inspirehep.net/api/literature/2689277?format=cv",
+          "json": "https://inspirehep.net/api/literature/2689277?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2689277?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2689277?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2689277?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.SR",
+                "nucl-th"
+              ],
+              "value": "2308.09469"
+            }
+          ],
+          "control_number": 2689277,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/1538-4357/acfb83"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/acfb83"
+            }
+          ],
+          "earliest_date": "2023-08-18",
+          "preprint_date": "2023-08-18",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "An Updated Mass–Radius Analysis of the 2017–2018 NICER Data Set of PSR J0030+0451"
+            },
+            {
+              "source": "arXiv",
+              "title": "An updated mass-radius analysis of the 2017-2018 NICER data set of PSR J0030+0451"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:37:58.878543+00:00"
+      },
+      {
+        "created": "2023-07-21T03:29:24.070620+00:00",
+        "id": "2678804",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2678804?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2678804",
+          "cv": "https://inspirehep.net/api/literature/2678804?format=cv",
+          "json": "https://inspirehep.net/api/literature/2678804?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2678804?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2678804?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2678804?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "astro-ph.IM"
+              ],
+              "value": "2307.10421"
+            }
+          ],
+          "control_number": 2678804,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1361-6382/ad7b99"
+            },
+            {
+              "value": "10.1088/1361-6382/ad7b99"
+            }
+          ],
+          "earliest_date": "2023-07-19",
+          "preprint_date": "2023-07-19",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Characterizing gravitational wave detector networks: from A$^\\sharp$ to cosmic explorer"
+            },
+            {
+              "source": "arXiv",
+              "title": "Characterizing Gravitational Wave Detector Networks: From A$^\\sharp$ to Cosmic Explorer"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:42.376460+00:00"
+      },
+      {
+        "created": "2023-07-12T03:04:17.330030+00:00",
+        "id": "2676052",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2676052?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2676052",
+          "cv": "https://inspirehep.net/api/literature/2676052?format=cv",
+          "json": "https://inspirehep.net/api/literature/2676052?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2676052?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2676052?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2676052?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2307.05376"
+            }
+          ],
+          "control_number": 2676052,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.103035"
+            }
+          ],
+          "earliest_date": "2023-07-10",
+          "preprint_date": "2023-07-10",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Accuracy of neutron star radius measurement with the next generation of terrestrial gravitational-wave observatories"
+            },
+            {
+              "source": "arXiv",
+              "title": "The Accuracy of Neutron Star Radius Measurement with the Next Generation of Terrestrial Gravitational-Wave Observatories"
+            }
+          ]
+        },
+        "updated": "2026-04-06T13:33:13.734059+00:00"
+      },
+      {
+        "created": "2023-06-08T03:15:19.269475+00:00",
+        "id": "2667002",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2667002?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2667002",
+          "cv": "https://inspirehep.net/api/literature/2667002?format=cv",
+          "json": "https://inspirehep.net/api/literature/2667002?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2667002?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2667002?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2667002?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "nucl-th",
+                "physics.data-an"
+              ],
+              "value": "2306.04386"
+            }
+          ],
+          "control_number": 2667002,
+          "earliest_date": "2023-06-07",
+          "preprint_date": "2023-06-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Framework for Multi-messenger Inference from Neutron Stars: Combining Nuclear Theory Priors"
+            }
+          ]
+        },
+        "updated": "2024-10-01T15:17:08.576557+00:00"
+      },
+      {
+        "created": "2023-06-05T04:03:57.976074+00:00",
+        "id": "2665414",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2665414?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2665414",
+          "cv": "https://inspirehep.net/api/literature/2665414?format=cv",
+          "json": "https://inspirehep.net/api/literature/2665414?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2665414?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2665414?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2665414?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th"
+              ],
+              "value": "2306.01367"
+            }
+          ],
+          "control_number": 2665414,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/particles6020035"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3390/particles6020035"
+            }
+          ],
+          "earliest_date": "2023-05-31",
+          "preprint_date": "2023-06-02",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "Testing the Paradigm of Nuclear Many-Body Theory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing the Paradigm of Nuclear Many-Body Theory"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:13:15.123709+00:00"
+      },
+      {
+        "created": "2023-09-15T15:37:25.815499+00:00",
+        "id": "2697985",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2697985?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2697985",
+          "cv": "https://inspirehep.net/api/literature/2697985?format=cv",
+          "json": "https://inspirehep.net/api/literature/2697985?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2697985?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2697985?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2697985?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2697985,
+          "earliest_date": "2023-05-29",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Modeling nuclear dynamics in the age of multimessenger astrophysics"
+            }
+          ]
+        },
+        "updated": "2024-06-11T08:32:48.312572+00:00"
+      },
+      {
+        "created": "2023-04-12T03:06:20.477008+00:00",
+        "id": "2650500",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2650500?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2650500",
+          "cv": "https://inspirehep.net/api/literature/2650500?format=cv",
+          "json": "https://inspirehep.net/api/literature/2650500?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2650500?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2650500?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2650500?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.IM",
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2304.05349"
+            }
+          ],
+          "control_number": 2650500,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.023018"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.108.023018"
+            }
+          ],
+          "earliest_date": "2023-04-09",
+          "preprint_date": "2023-04-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Measuring tidal effects with the Einstein Telescope: A design study"
+            },
+            {
+              "source": "arXiv",
+              "title": "Measuring tidal effects with the Einstein Telescope: A design study"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:57:06.721925+00:00"
+      },
+      {
+        "created": "2023-03-21T03:00:54.374938+00:00",
+        "id": "2644185",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2644185?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2644185",
+          "cv": "https://inspirehep.net/api/literature/2644185?format=cv",
+          "json": "https://inspirehep.net/api/literature/2644185?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2644185?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2644185?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2644185?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "nucl-th"
+              ],
+              "value": "2303.11201"
+            }
+          ],
+          "control_number": 2644185,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevC.108.025811"
+            }
+          ],
+          "earliest_date": "2023-03-20",
+          "preprint_date": "2023-03-20",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Revealing the strength of three-nucleon interactions with the proposed Einstein Telescope"
+            },
+            {
+              "source": "arXiv",
+              "title": "Revealing the strength of three-nucleon interactions with the Einstein Telescope"
+            }
+          ]
+        },
+        "updated": "2025-07-18T11:27:26.685421+00:00"
+      },
+      {
+        "created": "2022-12-12T07:28:18.370219+00:00",
+        "id": "2612882",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2612882?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2612882",
+          "cv": "https://inspirehep.net/api/literature/2612882?format=cv",
+          "json": "https://inspirehep.net/api/literature/2612882?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2612882?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2612882?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2612882?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "nucl-th",
+                "cond-mat.dis-nn",
+                "quant-ph"
+              ],
+              "value": "2212.04436"
+            }
+          ],
+          "control_number": 2612882,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevResearch.5.033062"
+            }
+          ],
+          "earliest_date": "2022-12-08",
+          "preprint_date": "2022-12-08",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Dilute neutron star matter from neural-network quantum states"
+            },
+            {
+              "source": "arXiv",
+              "title": "Dilute neutron star matter from neural-network quantum states"
+            }
+          ]
+        },
+        "updated": "2025-10-04T01:41:49.343186+00:00"
+      },
+      {
+        "created": "2022-10-19T03:13:59.192769+00:00",
+        "id": "2166811",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2166811?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2166811",
+          "cv": "https://inspirehep.net/api/literature/2166811?format=cv",
+          "json": "https://inspirehep.net/api/literature/2166811?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2166811?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2166811?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2166811?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2210.09425"
+            }
+          ],
+          "control_number": 2166811,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.023010"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.107.023010"
+            }
+          ],
+          "earliest_date": "2022-10-17",
+          "preprint_date": "2022-10-17",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Impact of updated multipole Love numbers and <math display=\"inline\"><mi>f</mi></math>-Love universal relations in the context of binary neutron stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Impact of updated Multipole Love numbers and f-Love Universal Relations in the context of Binary Neutron Stars"
+            },
+            {
+              "source": "arXiv",
+              "title": "Impact of updated Multipole Love and f-Love Universal Relations in context of Binary Neutron Stars"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:23:33.833674+00:00"
+      }
+    ],
+    "total": 19
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2099990&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2099990&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2099990&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2099990&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2099990&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2099990&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A2099990&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

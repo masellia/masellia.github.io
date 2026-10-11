@@ -1,0 +1,1440 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-09-09T04:13:38.649874+00:00",
+        "id": "3200913",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3200913?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3200913",
+          "cv": "https://inspirehep.net/api/literature/3200913?format=cv",
+          "json": "https://inspirehep.net/api/literature/3200913?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3200913?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3200913?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3200913?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "nucl-th"
+              ],
+              "value": "2609.06369"
+            }
+          ],
+          "control_number": 3200913,
+          "earliest_date": "2026-09-06",
+          "preprint_date": "2026-09-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Constraining the Equation of State of Neutron Stars with third-generation Gravitational Wave detectors"
+            }
+          ]
+        },
+        "updated": "2026-09-10T05:22:32.946726+00:00"
+      },
+      {
+        "created": "2026-03-30T08:08:09.673267+00:00",
+        "id": "3136359",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3136359?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3136359",
+          "cv": "https://inspirehep.net/api/literature/3136359?format=cv",
+          "json": "https://inspirehep.net/api/literature/3136359?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3136359?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3136359?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3136359?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2603.25102"
+            }
+          ],
+          "control_number": 3136359,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/j5cs-3d6r"
+            }
+          ],
+          "earliest_date": "2026-03-26",
+          "preprint_date": "2026-03-26",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Binary neutron star mergers with a subsolar mass star"
+            },
+            {
+              "source": "arXiv",
+              "title": "Binary neutron star mergers with a subsolar mass star"
+            }
+          ]
+        },
+        "updated": "2026-09-21T09:53:50.036217+00:00"
+      },
+      {
+        "created": "2025-12-01T04:13:59.539417+00:00",
+        "id": "3087529",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3087529?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3087529",
+          "cv": "https://inspirehep.net/api/literature/3087529?format=cv",
+          "json": "https://inspirehep.net/api/literature/3087529?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3087529?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3087529?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3087529?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2511.22987"
+            }
+          ],
+          "control_number": 3087529,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/8t5h-y4lf"
+            }
+          ],
+          "earliest_date": "2025-11-28",
+          "preprint_date": "2025-11-28",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Incorporating neutron star physics into gravitational wave inference with physics-informed priors using normalizing flows"
+            },
+            {
+              "source": "arXiv",
+              "title": "Incorporating neutron star physics into gravitational wave inference with neural priors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Incorporating neutron star physics into gravitational wave inference with physics-informed priors using normalizing flows"
+            }
+          ]
+        },
+        "updated": "2026-08-19T03:46:36.070778+00:00"
+      },
+      {
+        "created": "2025-09-15T04:05:44.775589+00:00",
+        "id": "2969269",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2969269?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2969269",
+          "cv": "https://inspirehep.net/api/literature/2969269?format=cv",
+          "json": "https://inspirehep.net/api/literature/2969269?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2969269?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2969269?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2969269?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2509.10420"
+            }
+          ],
+          "control_number": 2969269,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/rxdd-hq82"
+            }
+          ],
+          "earliest_date": "2025-09-12",
+          "preprint_date": "2025-09-12",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Testing the nature of compact objects in the lower mass gap using gravitational wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Testing the nature of compact objects in the lower mass gap using gravitational wave observations"
+            }
+          ]
+        },
+        "updated": "2026-02-09T08:41:55.627430+00:00"
+      },
+      {
+        "created": "2025-07-16T04:18:21.455244+00:00",
+        "id": "2946551",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2946551?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2946551",
+          "cv": "https://inspirehep.net/api/literature/2946551?format=cv",
+          "json": "https://inspirehep.net/api/literature/2946551?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2946551?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2946551?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2946551?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "cs.LG",
+                "stat.ML"
+              ],
+              "value": "2507.11192"
+            }
+          ],
+          "control_number": 2946551,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.61977/ati2025020"
+            }
+          ],
+          "earliest_date": "2025-07-15",
+          "preprint_date": "2025-07-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Recent Advances in Simulation-based Inference for Gravitational Wave Data Analysis"
+            }
+          ]
+        },
+        "updated": "2026-02-09T14:48:47.011170+00:00"
+      },
+      {
+        "created": "2025-07-03T04:17:18.126554+00:00",
+        "id": "2941345",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2941345?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2941345",
+          "cv": "https://inspirehep.net/api/literature/2941345?format=cv",
+          "json": "https://inspirehep.net/api/literature/2941345?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2941345?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2941345?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2941345?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2507.01189"
+            }
+          ],
+          "control_number": 2941345,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/1538-4357/ae3829"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/ae3829"
+            }
+          ],
+          "earliest_date": "2025-07-01",
+          "preprint_date": "2025-07-01",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Characterizing Compact-object Binaries in the Lower Mass Gap with Gravitational Waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Characterizing Compact Object Binaries in the Lower Mass Gap with Gravitational Waves"
+            },
+            {
+              "source": "arXiv",
+              "title": "Characterizing Compact-object Binaries in the Lower Mass Gap with Gravitational Waves"
+            }
+          ]
+        },
+        "updated": "2026-03-20T04:03:23.945390+00:00"
+      },
+      {
+        "created": "2025-04-11T08:11:32.023359+00:00",
+        "id": "2910740",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2910740?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2910740",
+          "cv": "https://inspirehep.net/api/literature/2910740?format=cv",
+          "json": "https://inspirehep.net/api/literature/2910740?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2910740?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2910740?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2910740?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE"
+              ],
+              "value": "2504.07699"
+            }
+          ],
+          "control_number": 2910740,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/1538-4357/adcb49"
+            }
+          ],
+          "earliest_date": "2025-04-10",
+          "preprint_date": "2025-04-10",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "How to Identify the Object with a Mass Range of (2.2–3) M$_{⊙}$ in the Merger of Compact Star Systems"
+            },
+            {
+              "source": "arXiv",
+              "title": "How to identify the object with mass range of $(2.2-3)M_\\odot$ in the merger of compact star systems"
+            }
+          ]
+        },
+        "updated": "2025-05-20T09:19:50.419523+00:00"
+      },
+      {
+        "created": "2024-09-18T13:40:53.205779+00:00",
+        "id": "2829587",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2829587?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2829587",
+          "cv": "https://inspirehep.net/api/literature/2829587?format=cv",
+          "json": "https://inspirehep.net/api/literature/2829587?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2829587?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2829587?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2829587?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2829587,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.jheap.2024.09.002"
+            }
+          ],
+          "earliest_date": "2024-09-04",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Modeling self-bound binary compact object with a slow rotation effect and effect of electric field gradient on the mass-radius limit and moment of inertia"
+            }
+          ]
+        },
+        "updated": "2025-11-01T04:25:56.781264+00:00"
+      },
+      {
+        "created": "2024-06-25T05:55:25.901243+00:00",
+        "id": "2801831",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2801831?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2801831",
+          "cv": "https://inspirehep.net/api/literature/2801831?format=cv",
+          "json": "https://inspirehep.net/api/literature/2801831?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2801831?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2801831?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2801831?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.IM"
+              ],
+              "value": "2406.15813"
+            }
+          ],
+          "control_number": 2801831,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/ywkw-13rk"
+            }
+          ],
+          "earliest_date": "2024-06-22",
+          "preprint_date": "2024-06-22",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Extraction of binary neutron star gravitational wave waveforms from Einstein Telescope using deep learning"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extraction of binary neutron star gravitational wave waveforms from Einstein Telescope using deep learning"
+            }
+          ]
+        },
+        "updated": "2025-07-01T15:32:48.588682+00:00"
+      },
+      {
+        "created": "2024-05-30T03:48:25.751619+00:00",
+        "id": "2791235",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2791235?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2791235",
+          "cv": "https://inspirehep.net/api/literature/2791235?format=cv",
+          "json": "https://inspirehep.net/api/literature/2791235?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2791235?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2791235?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2791235?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2405.18496"
+            }
+          ],
+          "control_number": 2791235,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.084065"
+            }
+          ],
+          "earliest_date": "2024-05-28",
+          "preprint_date": "2024-05-28",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Black hole-neutron star mergers in Einstein-scalar-Gauss-Bonnet gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black hole-neutron star mergers in Einstein-scalar-Gauss-Bonnet gravity"
+            }
+          ]
+        },
+        "updated": "2025-05-16T15:40:59.113718+00:00"
+      },
+      {
+        "created": "2025-01-15T09:05:44.765414+00:00",
+        "id": "2869150",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2869150?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2869150",
+          "cv": "https://inspirehep.net/api/literature/2869150?format=cv",
+          "json": "https://inspirehep.net/api/literature/2869150?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2869150?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2869150?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2869150?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2869150,
+          "earliest_date": "2024",
+          "titles": [
+            {
+              "source": "Penn State University",
+              "title": "Exploring Dark Matter through Gravitational-Wave Observations"
+            }
+          ]
+        },
+        "updated": "2025-06-26T09:21:14.913784+00:00"
+      },
+      {
+        "created": "2023-09-26T03:27:12.583793+00:00",
+        "id": "2702546",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2702546?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2702546",
+          "cv": "https://inspirehep.net/api/literature/2702546?format=cv",
+          "json": "https://inspirehep.net/api/literature/2702546?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2702546?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2702546?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2702546?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "2309.13161"
+            }
+          ],
+          "control_number": 2702546,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/galaxies11050101"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3390/galaxies11050101"
+            }
+          ],
+          "earliest_date": "2023-09-22",
+          "preprint_date": "2023-09-22",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "On Exotic Objects Made of Dark Energy and Dark Matter: Mass-to-Radius Profiles and Tidal Love Numbers"
+            },
+            {
+              "source": "arXiv",
+              "title": "On exotic objects made of dark energy and dark matter: Mass-to-radius profiles and tidal Love numbers"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:54:22.649674+00:00"
+      },
+      {
+        "created": "2023-09-19T07:41:33.538866+00:00",
+        "id": "2699210",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2699210?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2699210",
+          "cv": "https://inspirehep.net/api/literature/2699210?format=cv",
+          "json": "https://inspirehep.net/api/literature/2699210?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2699210?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2699210?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2699210?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2699210,
+          "dois": [
+            {
+              "source": "MDPI",
+              "value": "10.3390/app13179886"
+            }
+          ],
+          "earliest_date": "2023-08-31",
+          "titles": [
+            {
+              "source": "MDPI",
+              "title": "AI in Gravitational Wave Analysis, an Overview"
+            }
+          ]
+        },
+        "updated": "2023-12-12T12:36:02.300288+00:00"
+      },
+      {
+        "created": "2023-09-19T08:39:20.336479+00:00",
+        "id": "2699238",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2699238?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2699238",
+          "cv": "https://inspirehep.net/api/literature/2699238?format=cv",
+          "json": "https://inspirehep.net/api/literature/2699238?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2699238?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2699238?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2699238?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2699238,
+          "earliest_date": "2023-04-28",
+          "titles": [
+            {
+              "source": "Cardiff U.",
+              "title": "Bayesian techniques for astrophysical inference from gravitational-waves of compact binary coalescences: an application to the Third LIGO-Virgo-KAGRA observing run"
+            },
+            {
+              "source": "oatd.org",
+              "title": "Bayesian techniques for astrophysical inference from gravitational-waves of compact binary coalescences : an application to the Third LIGO-Virgo-KAGRA observing run"
+            }
+          ]
+        },
+        "updated": "2026-02-09T13:23:11.528276+00:00"
+      },
+      {
+        "created": "2023-04-07T03:13:41.023120+00:00",
+        "id": "2649624",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2649624?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2649624",
+          "cv": "https://inspirehep.net/api/literature/2649624?format=cv",
+          "json": "https://inspirehep.net/api/literature/2649624?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2649624?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2649624?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2649624?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-ph"
+              ],
+              "value": "2304.03160"
+            }
+          ],
+          "control_number": 2649624,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.043506"
+            }
+          ],
+          "earliest_date": "2023-04-06",
+          "preprint_date": "2023-04-06",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Searching for primordial black holes with the Einstein Telescope: Impact of design and systematics"
+            },
+            {
+              "source": "arXiv",
+              "title": "Searching for Primordial Black Holes with the Einstein Telescope: impact of design and systematics"
+            }
+          ]
+        },
+        "updated": "2023-11-23T12:06:20.670910+00:00"
+      },
+      {
+        "created": "2022-11-14T16:39:48.848192+00:00",
+        "id": "2181642",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2181642?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2181642",
+          "cv": "https://inspirehep.net/api/literature/2181642?format=cv",
+          "json": "https://inspirehep.net/api/literature/2181642?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2181642?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2181642?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2181642?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2181642,
+          "earliest_date": "2022-12-14",
+          "titles": [
+            {
+              "source": "NIKHEF",
+              "title": "From spacetime to nucleus - Probing nuclear physics and testing general relativity"
+            },
+            {
+              "source": "NARCIS",
+              "title": "From spacetime to nucleus: Probing nuclear physics and testing general relativity"
+            }
+          ]
+        },
+        "updated": "2025-07-18T15:03:16.331301+00:00"
+      },
+      {
+        "created": "2022-10-31T02:55:10.008825+00:00",
+        "id": "2173027",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2173027?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2173027",
+          "cv": "https://inspirehep.net/api/literature/2173027?format=cv",
+          "json": "https://inspirehep.net/api/literature/2173027?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2173027?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2173027?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2173027?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2210.15739"
+            }
+          ],
+          "control_number": 2173027,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.083037"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.107.083037"
+            }
+          ],
+          "earliest_date": "2022-10-27",
+          "preprint_date": "2022-10-27",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Constraining properties of asymmetric dark matter candidates from gravitational-wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Constraining properties of asymmetric dark matter candidates from gravitational-wave observations"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:52.306863+00:00"
+      },
+      {
+        "created": "2022-09-16T02:47:36.732755+00:00",
+        "id": "2152215",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2152215?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2152215",
+          "cv": "https://inspirehep.net/api/literature/2152215?format=cv",
+          "json": "https://inspirehep.net/api/literature/2152215?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2152215?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2152215?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2152215?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-th",
+                "nucl-ex",
+                "nucl-th"
+              ],
+              "value": "2209.07412"
+            }
+          ],
+          "control_number": 2152215,
+          "earliest_date": "2022-09-15",
+          "preprint_date": "2022-09-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Snowmass 2021 Cosmic Frontier White Paper: The Dense Matter Equation of State and QCD Phase Transitions"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:08:03.351913+00:00"
+      },
+      {
+        "created": "2022-10-13T14:36:04.255389+00:00",
+        "id": "2165107",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2165107?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2165107",
+          "cv": "https://inspirehep.net/api/literature/2165107?format=cv",
+          "json": "https://inspirehep.net/api/literature/2165107?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2165107?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2165107?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2165107?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2165107,
+          "earliest_date": "2022-08-05",
+          "titles": [
+            {
+              "source": "Shodhganga",
+              "title": "Unravelling the Mystery of Dark Matter with Stars & Black Holes"
+            },
+            {
+              "source": "submitter",
+              "title": "Unravelling the Mystery of Dark Matter with Stars & Black Holes"
+            }
+          ]
+        },
+        "updated": "2024-01-18T01:42:49.038646+00:00"
+      },
+      {
+        "created": "2022-04-13T02:43:38.562004+00:00",
+        "id": "2065951",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2065951?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2065951",
+          "cv": "https://inspirehep.net/api/literature/2065951?format=cv",
+          "json": "https://inspirehep.net/api/literature/2065951?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2065951?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2065951?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2065951?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.CO",
+                "astro-ph.SR",
+                "hep-ph",
+                "nucl-th"
+              ],
+              "value": "2204.05560"
+            }
+          ],
+          "control_number": 2065951,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/1538-4357/ac8544"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/ac8544"
+            }
+          ],
+          "earliest_date": "2022-04-12",
+          "preprint_date": "2022-04-12",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Dark Matter Admixed Neutron Star Properties in the Light of X-Ray Pulse Profile Observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Dark matter admixed neutron star properties in the light of X-ray pulse profile observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Structure and pulse profiles of dark matter admixed neutron stars"
+            }
+          ]
+        },
+        "updated": "2025-03-26T16:44:25.501570+00:00"
+      },
+      {
+        "created": "2021-12-21T03:14:07.942146+00:00",
+        "id": "1994164",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1994164?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1994164",
+          "cv": "https://inspirehep.net/api/literature/1994164?format=cv",
+          "json": "https://inspirehep.net/api/literature/1994164?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1994164?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1994164?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1994164?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.CO",
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2112.10660"
+            }
+          ],
+          "control_number": 1994164,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.063510"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.063510"
+            }
+          ],
+          "earliest_date": "2021-12-20",
+          "preprint_date": "2021-12-20",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "How to assess the primordial origin of single gravitational-wave events with mass, spin, eccentricity, and deformability measurements"
+            },
+            {
+              "source": "arXiv",
+              "title": "How to assess the primordial origin of single gravitational-wave events with mass, spin, eccentricity, and deformability measurements"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:35.186780+00:00"
+      },
+      {
+        "created": "2021-09-10T03:20:19.618119+00:00",
+        "id": "1919173",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1919173?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1919173",
+          "cv": "https://inspirehep.net/api/literature/1919173?format=cv",
+          "json": "https://inspirehep.net/api/literature/1919173?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1919173?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1919173?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1919173?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2109.04063"
+            }
+          ],
+          "control_number": 1919173,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.106.084039"
+            }
+          ],
+          "earliest_date": "2021-09-09",
+          "preprint_date": "2021-09-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Investigating GW190425 with numerical-relativity simulations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Investigating GW190425 with numerical-relativity simulations"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:55:40.085856+00:00"
+      },
+      {
+        "created": "2021-06-30T03:43:17.188313+00:00",
+        "id": "1871882",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1871882?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1871882",
+          "cv": "https://inspirehep.net/api/literature/1871882?format=cv",
+          "json": "https://inspirehep.net/api/literature/1871882?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1871882?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1871882?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1871882?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE"
+              ],
+              "value": "2106.15163"
+            }
+          ],
+          "control_number": 1871882,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/2041-8213/ac082e"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/2041-8213/ac082e"
+            }
+          ],
+          "earliest_date": "2021-06-29",
+          "preprint_date": "2021-06-29",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Observation of Gravitational Waves from Two Neutron Star–Black Hole Coalescences"
+            },
+            {
+              "source": "arXiv",
+              "title": "Observation of gravitational waves from two neutron star-black hole coalescences"
+            }
+          ]
+        },
+        "updated": "2026-08-14T18:50:03.645839+00:00"
+      },
+      {
+        "created": "2021-03-09T00:00:00+00:00",
+        "id": "1850562",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1850562?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1850562",
+          "cv": "https://inspirehep.net/api/literature/1850562?format=cv",
+          "json": "https://inspirehep.net/api/literature/1850562?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1850562?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1850562?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1850562?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2103.04144"
+            }
+          ],
+          "control_number": 1850562,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1016/j.physletb.2021.136222"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.physletb.2021.136222"
+            }
+          ],
+          "earliest_date": "2021-03-06",
+          "preprint_date": "2021-03-06",
+          "titles": [
+            {
+              "source": "Elsevier",
+              "title": "Causal limit of neutron star maximum mass in $f(R)$ gravity in view of GW190814"
+            },
+            {
+              "source": "arXiv",
+              "title": "Causal Limit of Neutron Star Maximal Mass in $f(R)$ Gravity in View of GW190814"
+            },
+            {
+              "source": "arXiv",
+              "title": "Causal Limit of Neutron Star Maximum Mass in $f(R)$ Gravity in View of GW190814"
+            }
+          ]
+        },
+        "updated": "2025-12-25T18:18:56.920211+00:00"
+      },
+      {
+        "created": "2021-03-09T00:00:00+00:00",
+        "id": "1850594",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1850594?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1850594",
+          "cv": "https://inspirehep.net/api/literature/1850594?format=cv",
+          "json": "https://inspirehep.net/api/literature/1850594?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1850594?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1850594?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1850594?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE"
+              ],
+              "value": "2103.04001"
+            }
+          ],
+          "control_number": 1850594,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.3847/2041-8213/ac0334"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/2041-8213/ac0334"
+            }
+          ],
+          "earliest_date": "2021-03-05",
+          "preprint_date": "2021-03-05",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Black Hole Leftovers: The Remnant Population from Binary Black Hole Mergers"
+            },
+            {
+              "source": "arXiv",
+              "title": "Black Hole Leftovers: The Remnant Population from Binary Black Hole Mergers"
+            }
+          ]
+        },
+        "updated": "2023-12-13T15:56:06.944411+00:00"
+      },
+      {
+        "created": "2020-11-30T00:00:00+00:00",
+        "id": "1833659",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1833659?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1833659",
+          "cv": "https://inspirehep.net/api/literature/1833659?format=cv",
+          "json": "https://inspirehep.net/api/literature/1833659?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1833659?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1833659?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1833659?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2011.13503"
+            }
+          ],
+          "control_number": 1833659,
+          "dois": [
+            {
+              "source": "Oxford University Press",
+              "value": "10.1093/mnras/stab973"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1093/mnras/stab973"
+            }
+          ],
+          "earliest_date": "2020-11-26",
+          "preprint_date": "2020-11-26",
+          "titles": [
+            {
+              "source": "Oxford University Press",
+              "title": "Modelling neutron star–black hole binaries: future pulsar surveys and gravitational wave detectors"
+            },
+            {
+              "source": "arXiv",
+              "title": "Modelling Neutron Star-Black Hole Binaries: Future Pulsar Surveys and Gravitational Wave Detectors"
+            }
+          ]
+        },
+        "updated": "2025-06-06T15:35:01.795639+00:00"
+      },
+      {
+        "created": "2020-09-04T00:00:00+00:00",
+        "id": "1814843",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1814843?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1814843",
+          "cv": "https://inspirehep.net/api/literature/1814843?format=cv",
+          "json": "https://inspirehep.net/api/literature/1814843?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1814843?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1814843?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1814843?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.CO",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2009.01825"
+            }
+          ],
+          "control_number": 1814843,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevLett.126.141105"
+            }
+          ],
+          "earliest_date": "2020-09-03",
+          "preprint_date": "2020-09-03",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Low Mass Black Holes from Dark Core Collapse"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:11:07.483347+00:00"
+      },
+      {
+        "created": "2020-07-14T00:00:00+00:00",
+        "id": "1806553",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1806553?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1806553",
+          "cv": "https://inspirehep.net/api/literature/1806553?format=cv",
+          "json": "https://inspirehep.net/api/literature/1806553?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1806553?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1806553?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1806553?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc",
+                "nucl-th"
+              ],
+              "value": "2007.06057"
+            }
+          ],
+          "control_number": 1806553,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/2041-8213/abdaae"
+            }
+          ],
+          "earliest_date": "2020-07-12",
+          "preprint_date": "2020-07-12",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "On the Nature of GW190814 and Its Impact on the Understanding of Supranuclear Matter"
+            },
+            {
+              "source": "arXiv",
+              "title": "On the nature of GW190814 and its impact on the understanding of supranuclear matter"
+            }
+          ]
+        },
+        "updated": "2023-03-07T03:24:21.138508+00:00"
+      },
+      {
+        "created": "2020-07-09T00:00:00+00:00",
+        "id": "1805785",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1805785?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1805785",
+          "cv": "https://inspirehep.net/api/literature/1805785?format=cv",
+          "json": "https://inspirehep.net/api/literature/1805785?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1805785?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1805785?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1805785?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.CO",
+                "astro-ph.GA",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2007.03686"
+            }
+          ],
+          "control_number": 1805785,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2021/10/019"
+            }
+          ],
+          "earliest_date": "2020-07-07",
+          "preprint_date": "2020-07-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Is GW170817 a Multimessenger Neutron Star-Primordial Black Hole Merger?"
+            }
+          ]
+        },
+        "updated": "2025-10-08T16:49:45.531445+00:00"
+      },
+      {
+        "created": "2020-07-08T00:00:00+00:00",
+        "id": "1805517",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1805517?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1805517",
+          "cv": "https://inspirehep.net/api/literature/1805517?format=cv",
+          "json": "https://inspirehep.net/api/literature/1805517?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1805517?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1805517?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1805517?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.IM",
+                "gr-qc"
+              ],
+              "value": "2007.03128"
+            }
+          ],
+          "control_number": 1805517,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1017/pasa.2020.39"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1017/pasa.2020.39"
+            }
+          ],
+          "earliest_date": "2020-07-06",
+          "preprint_date": "2020-07-06",
+          "titles": [
+            {
+              "source": "Cambridge University Press",
+              "title": "Neutron Star Extreme Matter Observatory: A kilohertz-band gravitational-wave detector in the global network"
+            },
+            {
+              "source": "arXiv",
+              "title": "Neutron Star Extreme Matter Observatory: A kilohertz-band gravitational-wave detector in the global network"
+            }
+          ]
+        },
+        "updated": "2026-02-09T11:36:02.341965+00:00"
+      },
+      {
+        "created": "2020-07-06T00:00:00+00:00",
+        "id": "1805127",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1805127?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1805127",
+          "cv": "https://inspirehep.net/api/literature/1805127?format=cv",
+          "json": "https://inspirehep.net/api/literature/1805127?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1805127?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1805127?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1805127?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2007.01372"
+            }
+          ],
+          "control_number": 1805127,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.3847/1538-4357/abbd3b"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/1538-4357/abbd3b"
+            }
+          ],
+          "earliest_date": "2020-07-02",
+          "preprint_date": "2020-07-02",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Discriminating between Neutron Stars and Black Holes with Imperfect Knowledge of the Maximum Neutron Star Mass"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:04:45.864657+00:00"
+      },
+      {
+        "created": "2020-06-24T00:00:00+00:00",
+        "id": "1802570",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1802570?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1802570",
+          "cv": "https://inspirehep.net/api/literature/1802570?format=cv",
+          "json": "https://inspirehep.net/api/literature/1802570?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1802570?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1802570?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1802570?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "gr-qc"
+              ],
+              "value": "2006.13178"
+            }
+          ],
+          "control_number": 1802570,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.3847/2041-8213/aba7b6"
+            }
+          ],
+          "earliest_date": "2020-06-23",
+          "preprint_date": "2020-06-23",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Does Matter Matter? Using the mass distribution to distinguish neutron stars and black holes"
+            }
+          ]
+        },
+        "updated": "2023-12-13T19:19:31.879350+00:00"
+      },
+      {
+        "created": "2020-05-13T00:00:00+00:00",
+        "id": "1795932",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1795932?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1795932",
+          "cv": "https://inspirehep.net/api/literature/1795932?format=cv",
+          "json": "https://inspirehep.net/api/literature/1795932?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1795932?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1795932?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1795932?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.CO",
+                "gr-qc",
+                "hep-ph"
+              ],
+              "value": "2005.05641"
+            }
+          ],
+          "control_number": 1795932,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1088/1475-7516/2020/06/044"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2020/06/044"
+            }
+          ],
+          "earliest_date": "2020-05-12",
+          "preprint_date": "2020-05-12",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Primordial Black Holes Confront LIGO/Virgo data: Current situation"
+            }
+          ]
+        },
+        "updated": "2023-12-13T08:33:10.989980+00:00"
+      }
+    ],
+    "total": 33
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1794398&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1794398&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1794398&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1794398&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1794398&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1794398&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1794398&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}

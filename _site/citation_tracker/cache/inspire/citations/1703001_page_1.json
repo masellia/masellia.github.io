@@ -1,0 +1,2097 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-09-17T04:46:25.088086+00:00",
+        "id": "3204523",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3204523?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3204523",
+          "cv": "https://inspirehep.net/api/literature/3204523?format=cv",
+          "json": "https://inspirehep.net/api/literature/3204523?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3204523?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3204523?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3204523?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.IM"
+              ],
+              "value": "2609.18337"
+            }
+          ],
+          "control_number": 3204523,
+          "earliest_date": "2026-09-16",
+          "preprint_date": "2026-09-16",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Searching for gravitational wave echo with group equivariant neural posterior estimation"
+            }
+          ]
+        },
+        "updated": "2026-09-22T11:50:28.554519+00:00"
+      },
+      {
+        "created": "2026-08-25T04:25:09.550573+00:00",
+        "id": "3195395",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3195395?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3195395",
+          "cv": "https://inspirehep.net/api/literature/3195395?format=cv",
+          "json": "https://inspirehep.net/api/literature/3195395?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3195395?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3195395?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3195395?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2608.23496"
+            }
+          ],
+          "control_number": 3195395,
+          "earliest_date": "2026-08-24",
+          "preprint_date": "2026-08-24",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Dynamical Love numbers of analogue rotating black and white holes"
+            }
+          ]
+        },
+        "updated": "2026-08-26T04:30:56.673629+00:00"
+      },
+      {
+        "created": "2026-05-04T04:09:21.502706+00:00",
+        "id": "3150908",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3150908?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3150908",
+          "cv": "https://inspirehep.net/api/literature/3150908?format=cv",
+          "json": "https://inspirehep.net/api/literature/3150908?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3150908?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3150908?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3150908?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2605.00693"
+            }
+          ],
+          "control_number": 3150908,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/lfq4-49k1"
+            }
+          ],
+          "earliest_date": "2026-05-01",
+          "preprint_date": "2026-05-01",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Dynamical tidal Love numbers of black holes under generic perturbations: Connecting black hole perturbation theory with effective field theory"
+            },
+            {
+              "source": "arXiv",
+              "title": "Dynamical tidal Love numbers of black holes under generic perturbations: Connecting black hole perturbation theory with effective field theory"
+            }
+          ]
+        },
+        "updated": "2026-09-07T04:14:20.287752+00:00"
+      },
+      {
+        "created": "2026-04-22T04:16:16.024158+00:00",
+        "id": "3147483",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3147483?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3147483",
+          "cv": "https://inspirehep.net/api/literature/3147483?format=cv",
+          "json": "https://inspirehep.net/api/literature/3147483?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3147483?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3147483?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3147483?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2604.18669"
+            }
+          ],
+          "control_number": 3147483,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/xm1k-65zs"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/xm1k-65zs"
+            }
+          ],
+          "earliest_date": "2026-04-20",
+          "preprint_date": "2026-04-20",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Hawking area law in quantum gravity"
+            },
+            {
+              "source": "arXiv",
+              "title": "Hawking area law in quantum gravity"
+            }
+          ]
+        },
+        "updated": "2026-07-30T03:29:01.422696+00:00"
+      },
+      {
+        "created": "2026-04-13T04:09:14.890565+00:00",
+        "id": "3143512",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3143512?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3143512",
+          "cv": "https://inspirehep.net/api/literature/3143512?format=cv",
+          "json": "https://inspirehep.net/api/literature/3143512?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3143512?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3143512?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3143512?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2604.08653"
+            }
+          ],
+          "control_number": 3143512,
+          "earliest_date": "2026-04-09",
+          "preprint_date": "2026-04-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Love numbers of black holes and compact objects"
+            }
+          ]
+        },
+        "updated": "2026-08-18T15:06:34.154873+00:00"
+      },
+      {
+        "created": "2026-04-13T04:10:38.084200+00:00",
+        "id": "3143537",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3143537?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3143537",
+          "cv": "https://inspirehep.net/api/literature/3143537?format=cv",
+          "json": "https://inspirehep.net/api/literature/3143537?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3143537?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3143537?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3143537?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2604.08679"
+            }
+          ],
+          "control_number": 3143537,
+          "earliest_date": "2026-04-09",
+          "preprint_date": "2026-04-09",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal Response of Compact Objects"
+            }
+          ]
+        },
+        "updated": "2026-08-26T02:31:49.989729+00:00"
+      },
+      {
+        "created": "2026-09-02T14:01:18.466191+00:00",
+        "id": "3198837",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3198837?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3198837",
+          "cv": "https://inspirehep.net/api/literature/3198837?format=cv",
+          "json": "https://inspirehep.net/api/literature/3198837?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3198837?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3198837?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3198837?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3198837,
+          "earliest_date": "2026",
+          "titles": [
+            {
+              "source": "Louisiana State U.",
+              "title": "Quantum Geometry Effects in the Very Early Universe and Black Hole Spacetimes"
+            }
+          ]
+        },
+        "updated": "2026-09-02T14:01:19.677822+00:00"
+      },
+      {
+        "created": "2025-12-09T04:17:46.927662+00:00",
+        "id": "3090411",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3090411?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3090411",
+          "cv": "https://inspirehep.net/api/literature/3090411?format=cv",
+          "json": "https://inspirehep.net/api/literature/3090411?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3090411?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3090411?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3090411?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2512.06082"
+            }
+          ],
+          "control_number": 3090411,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/5bdk-xclx"
+            }
+          ],
+          "earliest_date": "2025-12-05",
+          "preprint_date": "2025-12-05",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Hidden symmetries for tidal Love numbers: Generalities and applications to analog black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Hidden symmetries for tidal Love numbers: Generalities and applications to analog black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Hidden symmetries for tidal Love numbers: generalities and applications to analogue black holes"
+            }
+          ]
+        },
+        "updated": "2026-03-07T11:54:48.898730+00:00"
+      },
+      {
+        "created": "2025-11-18T04:20:36.841165+00:00",
+        "id": "3084052",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3084052?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3084052",
+          "cv": "https://inspirehep.net/api/literature/3084052?format=cv",
+          "json": "https://inspirehep.net/api/literature/3084052?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3084052?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3084052?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3084052?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2511.12580"
+            }
+          ],
+          "control_number": 3084052,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/4ql9-mgj5"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/4ql9-mgj5"
+            }
+          ],
+          "earliest_date": "2025-11-16",
+          "preprint_date": "2025-11-16",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Dynamical tidal response of nonrotating black holes: Connecting the Mano-Suzuki-Takasugi formalism and worldline EFT"
+            },
+            {
+              "source": "arXiv",
+              "title": "Dynamical Tidal Response of Non-rotating Black Holes: Connecting the MST Formalism and Worldline EFT"
+            }
+          ]
+        },
+        "updated": "2026-04-09T04:08:02.846471+00:00"
+      },
+      {
+        "created": "2025-11-12T10:00:09.464229+00:00",
+        "id": "3081908",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/3081908?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3081908",
+          "cv": "https://inspirehep.net/api/literature/3081908?format=cv",
+          "json": "https://inspirehep.net/api/literature/3081908?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/3081908?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/3081908?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/3081908?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 3081908,
+          "dois": [
+            {
+              "source": "Imperial Coll., London",
+              "value": "10.25560/124154"
+            },
+            {
+              "value": "10.25560/124154"
+            }
+          ],
+          "earliest_date": "2025-07-01",
+          "titles": [
+            {
+              "source": "Imperial Coll., London",
+              "title": "Stochastic dark sector"
+            },
+            {
+              "source": "submitter",
+              "title": "Stochastic dark sector"
+            }
+          ]
+        },
+        "updated": "2025-12-02T10:26:11.803998+00:00"
+      },
+      {
+        "created": "2025-06-23T04:12:53.175498+00:00",
+        "id": "2937292",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2937292?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2937292",
+          "cv": "https://inspirehep.net/api/literature/2937292?format=cv",
+          "json": "https://inspirehep.net/api/literature/2937292?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2937292?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2937292?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2937292?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2506.16516"
+            }
+          ],
+          "control_number": 2937292,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/pky4-23jb"
+            }
+          ],
+          "earliest_date": "2025-06-19",
+          "preprint_date": "2025-06-19",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Tidal deformations of compact objects from the membrane paradigm"
+            },
+            {
+              "source": "arXiv",
+              "title": "One Membrane to Love them all: Tidal deformations of compact objects from the membrane paradigm"
+            }
+          ]
+        },
+        "updated": "2026-04-10T01:23:04.985058+00:00"
+      },
+      {
+        "created": "2025-06-02T04:09:57.583248+00:00",
+        "id": "2926952",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2926952?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2926952",
+          "cv": "https://inspirehep.net/api/literature/2926952?format=cv",
+          "json": "https://inspirehep.net/api/literature/2926952?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2926952?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2926952?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2926952?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "2505.24620"
+            }
+          ],
+          "control_number": 2926952,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/wkyz-8yy5"
+            }
+          ],
+          "earliest_date": "2025-05-30",
+          "preprint_date": "2025-05-30",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Bounds on the covariant diffusion and drift parameters from the stochastic GW background using LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "Covariant diffusion and drift of the stochastic GW background with LISA"
+            }
+          ]
+        },
+        "updated": "2026-04-20T04:30:43.064558+00:00"
+      },
+      {
+        "created": "2025-05-27T04:23:16.750744+00:00",
+        "id": "2925076",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2925076?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2925076",
+          "cv": "https://inspirehep.net/api/literature/2925076?format=cv",
+          "json": "https://inspirehep.net/api/literature/2925076?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2925076?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2925076?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2925076?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2505.19725"
+            }
+          ],
+          "control_number": 2925076,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/yclz-lbbs"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/yclz-lbbs"
+            }
+          ],
+          "earliest_date": "2025-05-26",
+          "preprint_date": "2025-05-26",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Parametrized tidal dissipation numbers of nonrotating black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Parametrized Tidal Dissipation Numbers of Non-rotating Black Holes"
+            }
+          ]
+        },
+        "updated": "2026-04-08T06:43:54.899762+00:00"
+      },
+      {
+        "created": "2025-05-22T04:20:13.148856+00:00",
+        "id": "2923506",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2923506?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2923506",
+          "cv": "https://inspirehep.net/api/literature/2923506?format=cv",
+          "json": "https://inspirehep.net/api/literature/2923506?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2923506?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2923506?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2923506?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2505.14784"
+            }
+          ],
+          "control_number": 2923506,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/13lp-hydg"
+            }
+          ],
+          "earliest_date": "2025-05-20",
+          "preprint_date": "2025-05-20",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Love numbers of covariant loop quantum black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Love Numbers of Covariant Loop Quantum Black Holes"
+            }
+          ]
+        },
+        "updated": "2026-04-09T00:55:35.470861+00:00"
+      },
+      {
+        "created": "2025-03-17T04:09:31.174737+00:00",
+        "id": "2900473",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2900473?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2900473",
+          "cv": "https://inspirehep.net/api/literature/2900473?format=cv",
+          "json": "https://inspirehep.net/api/literature/2900473?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2900473?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2900473?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2900473?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE"
+              ],
+              "value": "2503.10746"
+            }
+          ],
+          "control_number": 2900473,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/h4nh-nl5s"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/h4nh-nl5s"
+            }
+          ],
+          "earliest_date": "2025-03-13",
+          "preprint_date": "2025-03-13",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Systematic biases from ignoring environmental tidal effects in gravitational wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tainted Love: Systematic biases from ignoring environmental tidal effects in gravitational wave observations"
+            },
+            {
+              "source": "arXiv",
+              "title": "Systematic biases from ignoring environmental tidal effects in gravitational wave observations"
+            }
+          ]
+        },
+        "updated": "2025-09-18T01:45:31.429313+00:00"
+      },
+      {
+        "created": "2025-05-14T14:18:35.583488+00:00",
+        "id": "2921055",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2921055?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2921055",
+          "cv": "https://inspirehep.net/api/literature/2921055?format=cv",
+          "json": "https://inspirehep.net/api/literature/2921055?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2921055?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2921055?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2921055?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2921055,
+          "dois": [
+            {
+              "source": "Vrije U., Amsterdam",
+              "value": "10.5463/thesis.1032"
+            }
+          ],
+          "earliest_date": "2025-03-06",
+          "titles": [
+            {
+              "source": "NIKHEF",
+              "title": "HoQI â Low-noise Interferometric Sensors for the Future of Gravitational Wave Detectors?"
+            },
+            {
+              "source": "NIKHEF",
+              "title": "HoQI -  Low-noise Interferometric Sensors for the Future of Gravitational Wave Detectors?"
+            },
+            {
+              "source": "Vrije U., Amsterdam",
+              "title": "HoQI - Low-noise Interferometric Sensors for the Future of Gravitational Wave Detectors"
+            }
+          ]
+        },
+        "updated": "2025-10-30T14:54:41.957986+00:00"
+      },
+      {
+        "created": "2024-12-13T04:18:26.119852+00:00",
+        "id": "2858819",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2858819?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2858819",
+          "cv": "https://inspirehep.net/api/literature/2858819?format=cv",
+          "json": "https://inspirehep.net/api/literature/2858819?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2858819?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2858819?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2858819?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2412.08728"
+            }
+          ],
+          "control_number": 2858819,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.044069"
+            }
+          ],
+          "earliest_date": "2024-12-11",
+          "preprint_date": "2024-12-11",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Tidal Love numbers of analog black holes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tidal Love numbers of analogue black holes"
+            }
+          ]
+        },
+        "updated": "2025-04-09T17:08:28.601888+00:00"
+      },
+      {
+        "created": "2024-10-04T11:44:03.839013+00:00",
+        "id": "2837004",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2837004?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2837004",
+          "cv": "https://inspirehep.net/api/literature/2837004?format=cv",
+          "json": "https://inspirehep.net/api/literature/2837004?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2837004?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2837004?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2837004?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2410.02531"
+            }
+          ],
+          "control_number": 2837004,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.111.084081"
+            }
+          ],
+          "earliest_date": "2024-10-03",
+          "preprint_date": "2024-10-03",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Tidal response beyond vacuum general relativity with a canonical definition"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tidal response beyond vacuum General Relativity with a canonical definition"
+            }
+          ]
+        },
+        "updated": "2025-06-06T08:07:35.836730+00:00"
+      },
+      {
+        "created": "2024-08-27T05:15:10.732424+00:00",
+        "id": "2821780",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2821780?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2821780",
+          "cv": "https://inspirehep.net/api/literature/2821780?format=cv",
+          "json": "https://inspirehep.net/api/literature/2821780?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2821780?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2821780?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2821780?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "astro-ph.HE",
+                "astro-ph.CO",
+                "gr-qc",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2408.14208"
+            }
+          ],
+          "control_number": 2821780,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.123004"
+            }
+          ],
+          "earliest_date": "2024-08-26",
+          "preprint_date": "2024-08-26",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Tidal deformability of black holes surrounded by thin accretion disks"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tidal deformability of black holes surrounded by thin accretion disks"
+            }
+          ]
+        },
+        "updated": "2026-03-14T04:02:57.882217+00:00"
+      },
+      {
+        "created": "2024-07-11T04:22:17.955327+00:00",
+        "id": "2806510",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2806510?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2806510",
+          "cv": "https://inspirehep.net/api/literature/2806510?format=cv",
+          "json": "https://inspirehep.net/api/literature/2806510?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2806510?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2806510?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2806510?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "2407.07156"
+            }
+          ],
+          "control_number": 2806510,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.064081"
+            }
+          ],
+          "earliest_date": "2024-07-09",
+          "preprint_date": "2024-07-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Tidal Love numbers and Green’s functions in black hole spacetimes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tidal Love numbers and Green's functions in black hole spacetimes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tidal Love numbers and Green's functions in black hole space-times"
+            }
+          ]
+        },
+        "updated": "2025-03-06T17:11:57.492004+00:00"
+      },
+      {
+        "created": "2024-05-20T03:44:15.501150+00:00",
+        "id": "2787933",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2787933?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2787933",
+          "cv": "https://inspirehep.net/api/literature/2787933?format=cv",
+          "json": "https://inspirehep.net/api/literature/2787933?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2787933?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2787933?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2787933?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2405.10813"
+            }
+          ],
+          "control_number": 2787933,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2024/09/001"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2024/09/001"
+            }
+          ],
+          "earliest_date": "2024-05-17",
+          "preprint_date": "2024-05-17",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "Tidal Love numbers from EFT of black hole perturbations with timelike scalar profile"
+            },
+            {
+              "source": "arXiv",
+              "title": "Tidal Love Numbers from EFT of Black Hole Perturbations with Timelike Scalar Profile"
+            }
+          ]
+        },
+        "updated": "2025-05-16T14:51:15.959087+00:00"
+      },
+      {
+        "created": "2023-10-12T02:44:36.122260+00:00",
+        "id": "2708733",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2708733?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2708733",
+          "cv": "https://inspirehep.net/api/literature/2708733?format=cv",
+          "json": "https://inspirehep.net/api/literature/2708733?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2708733?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2708733?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2708733?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "2310.06023"
+            }
+          ],
+          "control_number": 2708733,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.110.084042"
+            }
+          ],
+          "earliest_date": "2023-10-09",
+          "preprint_date": "2023-10-09",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Dynamical tidal Love numbers of Kerr-like compact objects"
+            },
+            {
+              "source": "arXiv",
+              "title": "Dynamical tidal Love numbers of Kerr-like compact objects"
+            }
+          ]
+        },
+        "updated": "2025-06-26T10:57:20.217261+00:00"
+      },
+      {
+        "created": "2023-08-09T03:01:49.248394+00:00",
+        "id": "2686365",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2686365?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2686365",
+          "cv": "https://inspirehep.net/api/literature/2686365?format=cv",
+          "json": "https://inspirehep.net/api/literature/2686365?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2686365?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2686365?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2686365?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2308.03850"
+            }
+          ],
+          "control_number": 2686365,
+          "earliest_date": "2023-08-07",
+          "preprint_date": "2023-08-07",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Gravitational Waves and the Galactic Potential"
+            }
+          ]
+        },
+        "updated": "2025-07-18T10:33:37.556852+00:00"
+      },
+      {
+        "created": "2023-07-12T03:04:04.621753+00:00",
+        "id": "2676045",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2676045?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2676045",
+          "cv": "https://inspirehep.net/api/literature/2676045?format=cv",
+          "json": "https://inspirehep.net/api/literature/2676045?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2676045?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2676045?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2676045?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2307.04836"
+            }
+          ],
+          "control_number": 2676045,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.109.064043"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.109.064043"
+            }
+          ],
+          "earliest_date": "2023-07-10",
+          "preprint_date": "2023-07-10",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Galactic wormholes: Geometry, stability, and echoes"
+            },
+            {
+              "source": "arXiv",
+              "title": "Galactic wormholes: Geometry, stability, and echoes"
+            }
+          ]
+        },
+        "updated": "2025-06-26T10:57:53.774366+00:00"
+      },
+      {
+        "created": "2023-04-11T08:11:40.887203+00:00",
+        "id": "2650136",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2650136?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2650136",
+          "cv": "https://inspirehep.net/api/literature/2650136?format=cv",
+          "json": "https://inspirehep.net/api/literature/2650136?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2650136?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2650136?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2650136?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2304.04551"
+            }
+          ],
+          "control_number": 2650136,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.108.084049"
+            }
+          ],
+          "earliest_date": "2023-04-10",
+          "preprint_date": "2023-04-10",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Stability of relativistic tidal response against small potential modification"
+            },
+            {
+              "source": "arXiv",
+              "title": "Stability of relativistic tidal response against small potential modification"
+            }
+          ]
+        },
+        "updated": "2025-07-16T04:02:50.974101+00:00"
+      },
+      {
+        "created": "2022-08-23T05:09:18.921105+00:00",
+        "id": "2140047",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2140047?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2140047",
+          "cv": "https://inspirehep.net/api/literature/2140047?format=cv",
+          "json": "https://inspirehep.net/api/literature/2140047?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2140047?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2140047?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2140047?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE"
+              ],
+              "value": "2208.09739"
+            }
+          ],
+          "control_number": 2140047,
+          "dois": [
+            {
+              "source": "IOP",
+              "value": "10.1088/1475-7516/2022/11/054"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2022/11/054"
+            }
+          ],
+          "earliest_date": "2022-08-20",
+          "preprint_date": "2022-08-20",
+          "titles": [
+            {
+              "source": "IOP",
+              "title": "What do gravitational wave detectors say about polymer quantum effects?"
+            },
+            {
+              "source": "arXiv",
+              "title": "What do gravitational wave detectors say about polymer quantum effects?"
+            }
+          ]
+        },
+        "updated": "2024-10-01T16:28:15.507177+00:00"
+      },
+      {
+        "created": "2022-07-18T02:40:43.644817+00:00",
+        "id": "2115299",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2115299?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2115299",
+          "cv": "https://inspirehep.net/api/literature/2115299?format=cv",
+          "json": "https://inspirehep.net/api/literature/2115299?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2115299?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2115299?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2115299?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2207.07452"
+            }
+          ],
+          "control_number": 2115299,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.107.024021"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.107.024021"
+            }
+          ],
+          "earliest_date": "2022-07-15",
+          "preprint_date": "2022-07-15",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Constraining the tidal deformability of supermassive objects with extreme mass ratio inspirals and semianalytical frequency-domain waveforms"
+            },
+            {
+              "source": "arXiv",
+              "title": "Extreme Love in the SPA: constraining the tidal deformability of supermassive objects with extreme mass ratio inspirals and semi-analytical, frequency-domain waveforms"
+            }
+          ]
+        },
+        "updated": "2025-06-06T16:04:14.753319+00:00"
+      },
+      {
+        "created": "2022-05-04T04:01:45.297111+00:00",
+        "id": "2076195",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2076195?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2076195",
+          "cv": "https://inspirehep.net/api/literature/2076195?format=cv",
+          "json": "https://inspirehep.net/api/literature/2076195?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2076195?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2076195?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2076195?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc"
+              ],
+              "value": "2205.01597"
+            }
+          ],
+          "control_number": 2076195,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1007/s41114-022-00036-9"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-022-00036-9"
+            }
+          ],
+          "earliest_date": "2022-05-03",
+          "preprint_date": "2022-05-03",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "New horizons for fundamental physics with LISA"
+            },
+            {
+              "source": "arXiv",
+              "title": "New Horizons for Fundamental Physics with LISA"
+            }
+          ]
+        },
+        "updated": "2026-03-08T22:15:17.502674+00:00"
+      },
+      {
+        "created": "2021-11-11T03:21:47.874917+00:00",
+        "id": "1965494",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1965494?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1965494",
+          "cv": "https://inspirehep.net/api/literature/1965494?format=cv",
+          "json": "https://inspirehep.net/api/literature/1965494?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1965494?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1965494?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1965494?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "hep-ph",
+                "astro-ph.HE",
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2111.05659"
+            }
+          ],
+          "control_number": 1965494,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "Elsevier B.V.",
+              "value": "10.1016/j.ppnp.2022.103948"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1016/j.ppnp.2022.103948"
+            }
+          ],
+          "earliest_date": "2021-11-10",
+          "preprint_date": "2021-11-10",
+          "titles": [
+            {
+              "source": "Elsevier B.V.",
+              "title": "Quantum gravity phenomenology at the dawn of the multi-messenger era—A review"
+            },
+            {
+              "source": "Elsevier",
+              "title": "Quantum gravity phenomenology at the dawn of the multi-messenger era—A review"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quantum gravity phenomenology at the dawn of the multi-messenger era -- A review"
+            }
+          ]
+        },
+        "updated": "2026-02-09T12:04:11.314378+00:00"
+      },
+      {
+        "created": "2021-11-14T15:06:19.207544+00:00",
+        "id": "1966930",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1966930?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1966930",
+          "cv": "https://inspirehep.net/api/literature/1966930?format=cv",
+          "json": "https://inspirehep.net/api/literature/1966930?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1966930?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1966930?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1966930?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1966930,
+          "earliest_date": "2021-10-23",
+          "titles": [
+            {
+              "source": "UC, Santa Barbara (main)",
+              "title": "Quantum Aspects of Spacetime Geometry"
+            }
+          ]
+        },
+        "updated": "2024-10-01T15:07:13.836822+00:00"
+      },
+      {
+        "created": "2021-05-14T00:00:00+00:00",
+        "id": "1863190",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1863190?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1863190",
+          "cv": "https://inspirehep.net/api/literature/1863190?format=cv",
+          "json": "https://inspirehep.net/api/literature/1863190?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1863190?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1863190?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1863190?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2105.06410"
+            }
+          ],
+          "control_number": 1863190,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-981-15-4702-7_29-1"
+            }
+          ],
+          "earliest_date": "2021-05-13",
+          "preprint_date": "2021-05-13",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing the nature of dark compact objects with gravitational waves"
+            }
+          ]
+        },
+        "updated": "2026-03-14T06:12:06.404389+00:00"
+      },
+      {
+        "created": "2022-08-19T09:29:50.680513+00:00",
+        "id": "2139132",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/2139132?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2139132",
+          "cv": "https://inspirehep.net/api/literature/2139132?format=cv",
+          "json": "https://inspirehep.net/api/literature/2139132?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/2139132?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/2139132?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/2139132?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 2139132,
+          "earliest_date": "2021-04-28",
+          "titles": [
+            {
+              "source": "Rome U.",
+              "title": "Testing the nature of black holes with gravitational waves"
+            }
+          ]
+        },
+        "updated": "2025-09-27T00:58:48.273803+00:00"
+      },
+      {
+        "created": "2021-05-17T00:00:00+00:00",
+        "id": "1863496",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1863496?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1863496",
+          "cv": "https://inspirehep.net/api/literature/1863496?format=cv",
+          "json": "https://inspirehep.net/api/literature/1863496?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1863496?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1863496?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1863496?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1863496,
+          "dois": [
+            {
+              "source": "Springer",
+              "value": "10.1038/s42254-021-00303-8"
+            }
+          ],
+          "earliest_date": "2021-04-14",
+          "titles": [
+            {
+              "source": "Springer",
+              "title": "Gravitational-wave physics and astronomy in the 2020s and 2030s"
+            }
+          ]
+        },
+        "updated": "2024-06-04T01:49:32.302938+00:00"
+      },
+      {
+        "created": "2020-12-16T00:00:00+00:00",
+        "id": "1836748",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1836748?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1836748",
+          "cv": "https://inspirehep.net/api/literature/1836748?format=cv",
+          "json": "https://inspirehep.net/api/literature/1836748?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1836748?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1836748?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1836748?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "2012.08251"
+            }
+          ],
+          "control_number": 1836748,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/978-981-15-4702-7_30-1"
+            }
+          ],
+          "earliest_date": "2020-12-15",
+          "preprint_date": "2020-12-15",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quantum gravity and gravitational-wave astronomy"
+            }
+          ]
+        },
+        "updated": "2023-03-07T01:12:47.982949+00:00"
+      },
+      {
+        "created": "2020-12-02T00:00:00+00:00",
+        "id": "1834270",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1834270?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1834270",
+          "cv": "https://inspirehep.net/api/literature/1834270?format=cv",
+          "json": "https://inspirehep.net/api/literature/1834270?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1834270?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1834270?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1834270?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "2012.00170"
+            }
+          ],
+          "control_number": 1834270,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2021/03/019"
+            }
+          ],
+          "earliest_date": "2020-11-30",
+          "preprint_date": "2020-11-30",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Stochastic gravitational-wave background in quantum gravity"
+            }
+          ]
+        },
+        "updated": "2023-10-03T09:22:07.406400+00:00"
+      },
+      {
+        "created": "2020-10-30T00:00:00+00:00",
+        "id": "1826849",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1826849?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1826849",
+          "cv": "https://inspirehep.net/api/literature/1826849?format=cv",
+          "json": "https://inspirehep.net/api/literature/1826849?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1826849?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1826849?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1826849?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "2010.15795"
+            }
+          ],
+          "control_number": 1826849,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.103.084021"
+            }
+          ],
+          "earliest_date": "2020-10-29",
+          "preprint_date": "2020-10-29",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Tidal Love Numbers of Kerr Black Holes"
+            }
+          ]
+        },
+        "updated": "2025-07-18T19:18:36.322934+00:00"
+      },
+      {
+        "created": "2021-04-07T00:00:00+00:00",
+        "id": "1856478",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1856478?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1856478",
+          "cv": "https://inspirehep.net/api/literature/1856478?format=cv",
+          "json": "https://inspirehep.net/api/literature/1856478?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1856478?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1856478?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1856478?format=latex-us"
+        },
+        "metadata": {
+          "control_number": 1856478,
+          "dois": [
+            {
+              "source": "IEEE",
+              "value": "10.1109/SENSORS47125.2020.9278617"
+            }
+          ],
+          "earliest_date": "2020-10-25",
+          "titles": [
+            {
+              "source": "IEEE",
+              "title": "Searching for gravitational waves with optically levitated nanosensors"
+            }
+          ]
+        },
+        "updated": "2026-02-09T11:50:55.745060+00:00"
+      },
+      {
+        "created": "2020-08-07T00:00:00+00:00",
+        "id": "1810385",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1810385?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1810385",
+          "cv": "https://inspirehep.net/api/literature/1810385?format=cv",
+          "json": "https://inspirehep.net/api/literature/1810385?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1810385?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1810385?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1810385?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2008.02738"
+            }
+          ],
+          "control_number": 1810385,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.105.024043"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.105.024043"
+            }
+          ],
+          "earliest_date": "2020-08-06",
+          "preprint_date": "2020-08-06",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Quantum Love numbers"
+            },
+            {
+              "source": "arXiv",
+              "title": "Quantum Love"
+            }
+          ]
+        },
+        "updated": "2023-11-23T11:23:14.877328+00:00"
+      },
+      {
+        "created": "2020-07-13T00:00:00+00:00",
+        "id": "1806429",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1806429?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1806429",
+          "cv": "https://inspirehep.net/api/literature/1806429?format=cv",
+          "json": "https://inspirehep.net/api/literature/1806429?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1806429?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1806429?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1806429?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "2007.05264"
+            }
+          ],
+          "control_number": 1806429,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.102.083002"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.102.083002"
+            }
+          ],
+          "earliest_date": "2020-07-10",
+          "preprint_date": "2020-07-10",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Gravitational-wave detectors as particle-physics laboratories: Constraining scalar interactions with a coherent inspiral model of boson-star binaries"
+            },
+            {
+              "source": "arXiv",
+              "title": "Gravitational-wave detectors as particle-physics laboratories: Constraining scalar interactions with boson-star binaries"
+            }
+          ]
+        },
+        "updated": "2023-03-07T05:00:24.021620+00:00"
+      },
+      {
+        "created": "2020-05-27T00:00:00+00:00",
+        "id": "1797855",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1797855?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1797855",
+          "cv": "https://inspirehep.net/api/literature/1797855?format=cv",
+          "json": "https://inspirehep.net/api/literature/1797855?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1797855?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1797855?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1797855?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "2005.12286"
+            }
+          ],
+          "control_number": 1797855,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "APS",
+              "value": "10.1103/PhysRevD.104.044044"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.104.044044"
+            }
+          ],
+          "earliest_date": "2020-05-25",
+          "preprint_date": "2020-05-25",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Modeling and detecting resonant tides of exotic compact objects"
+            },
+            {
+              "source": "arXiv",
+              "title": "Modeling and detecting resonant tides of exotic compact objects"
+            }
+          ]
+        },
+        "updated": "2023-11-08T09:07:13.090684+00:00"
+      },
+      {
+        "created": "2020-04-07T00:00:00+00:00",
+        "id": "1789833",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1789833?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1789833",
+          "cv": "https://inspirehep.net/api/literature/1789833?format=cv",
+          "json": "https://inspirehep.net/api/literature/1789833?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1789833?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1789833?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1789833?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "astro-ph.HE"
+              ],
+              "value": "2004.02527"
+            }
+          ],
+          "control_number": 1789833,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/s10714-020-02751-6"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s10714-020-02751-6"
+            }
+          ],
+          "earliest_date": "2020-04-06",
+          "preprint_date": "2020-04-06",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Interpreting Binary Neutron Star Mergers: Describing the Binary Neutron Star Dynamics, Modelling Gravitational Waveforms, and Analyzing Detections"
+            }
+          ]
+        },
+        "updated": "2025-06-06T11:03:16.161108+00:00"
+      },
+      {
+        "created": "2019-12-18T00:00:00+00:00",
+        "id": "1771367",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1771367?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1771367",
+          "cv": "https://inspirehep.net/api/literature/1771367?format=cv",
+          "json": "https://inspirehep.net/api/literature/1771367?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1771367?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1771367?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1771367?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-th"
+              ],
+              "value": "1912.07616"
+            }
+          ],
+          "control_number": 1771367,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.101.064028"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.101.064028"
+            }
+          ],
+          "earliest_date": "2019-12-16",
+          "preprint_date": "2019-12-16",
+          "titles": [
+            {
+              "source": "APS",
+              "title": "Environmental effects in gravitational-wave physics: Tidal deformability of black holes immersed in matter"
+            },
+            {
+              "source": "arXiv",
+              "title": "Environmental effects in GW physics: tidal deformability of black holes immersed in matter"
+            }
+          ]
+        },
+        "updated": "2023-10-03T08:18:17.183293+00:00"
+      },
+      {
+        "created": "2019-07-05T00:00:00+00:00",
+        "id": "1742650",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1742650?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1742650",
+          "cv": "https://inspirehep.net/api/literature/1742650?format=cv",
+          "json": "https://inspirehep.net/api/literature/1742650?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1742650?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1742650?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1742650?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO",
+                "hep-th"
+              ],
+              "value": "1907.02489"
+            }
+          ],
+          "control_number": 1742650,
+          "dois": [
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1088/1475-7516/2019/10/012"
+            }
+          ],
+          "earliest_date": "2019-07-04",
+          "preprint_date": "2019-07-04",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Quantum gravity and gravitational-wave astronomy"
+            }
+          ]
+        },
+        "updated": "2026-02-09T11:16:50.625912+00:00"
+      },
+      {
+        "created": "2019-04-12T00:00:00+00:00",
+        "id": "1729256",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1729256?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1729256",
+          "cv": "https://inspirehep.net/api/literature/1729256?format=cv",
+          "json": "https://inspirehep.net/api/literature/1729256?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1729256?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1729256?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1729256?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "physics.space-ph"
+              ],
+              "value": "1904.05363"
+            }
+          ],
+          "control_number": 1729256,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1007/s41114-019-0020-4"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1007/s41114-019-0020-4"
+            }
+          ],
+          "earliest_date": "2019-04-10",
+          "preprint_date": "2019-04-10",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Testing the nature of dark compact objects: a status report"
+            }
+          ]
+        },
+        "updated": "2025-07-18T18:57:34.871711+00:00"
+      },
+      {
+        "created": "2019-04-10T00:00:00+00:00",
+        "id": "1728944",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1728944?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1728944",
+          "cv": "https://inspirehep.net/api/literature/1728944?format=cv",
+          "json": "https://inspirehep.net/api/literature/1728944?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1728944?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1728944?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1728944?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "hep-th"
+              ],
+              "value": "1904.04258"
+            }
+          ],
+          "control_number": 1728944,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.100.044005"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.100.044005"
+            }
+          ],
+          "earliest_date": "2019-04-08",
+          "preprint_date": "2019-04-08",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Exploring strong-field deviations from general relativity via gravitational waves"
+            }
+          ]
+        },
+        "updated": "2024-02-16T10:04:28.649407+00:00"
+      },
+      {
+        "created": "2019-04-02T00:00:00+00:00",
+        "id": "1727573",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1727573?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1727573",
+          "cv": "https://inspirehep.net/api/literature/1727573?format=cv",
+          "json": "https://inspirehep.net/api/literature/1727573?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1727573?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1727573?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1727573?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.CO"
+              ],
+              "value": "1904.00212"
+            }
+          ],
+          "control_number": 1727573,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1140/epjc/s10052-019-7234-1"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1140/epjc/s10052-019-7234-1"
+            }
+          ],
+          "earliest_date": "2019-03-30",
+          "preprint_date": "2019-03-30",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "On echo intervals in gravitational wave echo analysis"
+            }
+          ]
+        },
+        "updated": "2023-03-07T00:30:17.309520+00:00"
+      },
+      {
+        "created": "2018-12-20T00:00:00+00:00",
+        "id": "1710031",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1710031?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1710031",
+          "cv": "https://inspirehep.net/api/literature/1710031?format=cv",
+          "json": "https://inspirehep.net/api/literature/1710031?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1710031?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1710031?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1710031?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph",
+                "hep-th"
+              ],
+              "value": "1812.07615"
+            }
+          ],
+          "control_number": 1710031,
+          "dois": [
+            {
+              "source": "bibmatch",
+              "value": "10.1103/PhysRevD.99.104050"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.104050"
+            }
+          ],
+          "earliest_date": "2018-12-18",
+          "preprint_date": "2018-12-18",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Exotic compact objects with soft hair"
+            }
+          ]
+        },
+        "updated": "2026-04-03T03:49:09.475354+00:00"
+      },
+      {
+        "created": "2018-11-21T00:00:00+00:00",
+        "id": "1704337",
+        "links": {
+          "bibtex": "https://inspirehep.net/api/literature/1704337?format=bibtex",
+          "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1704337",
+          "cv": "https://inspirehep.net/api/literature/1704337?format=cv",
+          "json": "https://inspirehep.net/api/literature/1704337?format=json",
+          "json-expanded": "https://inspirehep.net/api/literature/1704337?format=json-expanded",
+          "latex-eu": "https://inspirehep.net/api/literature/1704337?format=latex-eu",
+          "latex-us": "https://inspirehep.net/api/literature/1704337?format=latex-us"
+        },
+        "metadata": {
+          "arxiv_eprints": [
+            {
+              "categories": [
+                "gr-qc",
+                "astro-ph.HE",
+                "hep-ph"
+              ],
+              "value": "1811.07917"
+            }
+          ],
+          "control_number": 1704337,
+          "dois": [
+            {
+              "value": "10.1103/PhysRevD.99.104072"
+            },
+            {
+              "material": "publication",
+              "source": "arXiv",
+              "value": "10.1103/PhysRevD.99.104072"
+            }
+          ],
+          "earliest_date": "2018-11-19",
+          "preprint_date": "2018-11-19",
+          "titles": [
+            {
+              "source": "arXiv",
+              "title": "Anisotropic stars as ultracompact objects in General Relativity"
+            }
+          ]
+        },
+        "updated": "2025-06-10T15:57:49.031202+00:00"
+      }
+    ],
+    "total": 48
+  },
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1703001&size=1000&page=1&format=bibtex",
+    "cv": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1703001&size=1000&page=1&format=cv",
+    "json": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1703001&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois&format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1703001&size=1000&page=1&format=json-expanded",
+    "latex-eu": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1703001&size=1000&page=1&format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1703001&size=1000&page=1&format=latex-us",
+    "self": "https://inspirehep.net/api/literature/?sort=mostrecent&q=refersto%3Arecid%3A1703001&size=1000&page=1&fields=control_number,titles,arxiv_eprints,preprint_date,earliest_date,dois"
+  }
+}
