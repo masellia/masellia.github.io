@@ -218,13 +218,23 @@ tactical:
       last rust from his previous injury.
 
   defense: |
-    With the offense lagging in generating enough momentum to win the game, 
-      defense had to step up to hold the Buccaneers - again with a rookie QB - 
-      back. Gannon's group showed to be up to the taks since the beginning: 
-      On the very first series Edgerrin Cooper, later carted of with a season 
-      ending injure, sacks Daniels on a third down. On the next series 
-      by Tampa, Ewan Williams intercepts a pass directed to Egbuka on a first down 
-      attempt.
+    With the offense struggling to generate enough momentum to win the game, 
+      the defense had to step up to keep the Buccaneers — again with a rookie QB — 
+      in check. Gannon's group showed it was up to the task from the very beginning. 
+      On the very first series, Edgerrin Cooper, later carted off with a 
+      season-ending injury, sacked Daniels on third down. On Tampa Bay's next 
+      possession, Ewan Williams intercepted a pass intended for Egbuka on first down.
+      
+      The defense maintained that intensity throughout the game, 
+      proving to be effective in stopping Tampa's attack during all quarters, 
+      and holding the opponents to −0.038 EPA/play and a 44.3% offensive success rate.
+
+      The defense won the sack battle 3-0, also making its presence felt 
+      by hitting QB Jalon Daniels on 20% of his dropbacks. 
+      Gannon went heavy on the blitz against the Bucs, sending extra rushers on 
+      47.22% of defensive snaps, well above the NFL [average](https://sports.yahoo.com/articles/packers-numbers-stats-week-4-143000540.html){:target="_blank" rel="noopener noreferrer"}.
+      The strategy paid off, especially on the final series of the game, 
+      with three blitzes on four downs helping Green Bay secure the win.
       
 key_moments_intro: |
     The Packers continue their steady path of inflicting as much 
