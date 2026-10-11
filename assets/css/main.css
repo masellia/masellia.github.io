@@ -3484,9 +3484,26 @@ body {
   text-align: left;
 }
 
+.nfl-stats-col-metric {
+  width: 30%;
+}
+
+.nfl-stats-col-game,
+.nfl-stats-col-opponent {
+  width: 12%;
+}
+
+.nfl-stats-col-season {
+  width: 14%;
+}
+
+.nfl-stats-col-trend {
+  width: 32%;
+}
+
 .nfl-stats th,
 .nfl-stats td {
-  padding: 0.8rem 0.7rem;
+  padding: 0.8rem 0.5rem;
   border-bottom: 1px solid var(--nfl-rule);
 }
 
@@ -3532,6 +3549,148 @@ body {
 .nfl-stats th:not(:first-child),
 .nfl-stats td {
   text-align: right;
+}
+
+.nfl-stats-trend-cell {
+  padding-top: 0.3rem !important;
+  padding-bottom: 0.3rem !important;
+}
+
+.nfl-trend {
+  display: block;
+  width: 100%;
+  min-width: 125px;
+  min-height: 54px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #777777;
+  cursor: zoom-in;
+}
+
+.nfl-trend:hover .nfl-trend-line,
+.nfl-trend:focus-visible .nfl-trend-line {
+  stroke: var(--nfl-gold);
+}
+
+.nfl-trend:focus-visible {
+  outline: 2px solid var(--nfl-gold);
+  outline-offset: 2px;
+}
+
+.nfl-trend-fallback {
+  font-family: "DINLight", sans-serif;
+  font-size: 15px;
+}
+
+.nfl-trend-sparkline {
+  display: block;
+  width: 100%;
+  height: 54px;
+  overflow: visible;
+}
+
+.nfl-trend-line {
+  fill: none;
+  stroke: var(--nfl-green);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2.2;
+  vector-effect: non-scaling-stroke;
+}
+
+.nfl-trend-average {
+  stroke: var(--nfl-gold);
+  stroke-dasharray: 5 4;
+  stroke-width: 1.4;
+  vector-effect: non-scaling-stroke;
+}
+
+.nfl-trend-point {
+  fill: var(--nfl-green);
+  stroke: #ffffff;
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+
+.nfl-trend-dialog {
+  width: min(920px, calc(100% - 2rem));
+  max-width: none;
+  padding: 2.8rem 2rem 1.7rem;
+  border: 0;
+  background: #ffffff;
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.35);
+}
+
+.nfl-trend-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.76);
+}
+
+.nfl-trend-dialog-close {
+  position: absolute;
+  top: 0.45rem;
+  right: 0.7rem;
+  padding: 0.1rem 0.45rem;
+  border: 0;
+  background: transparent;
+  color: #333333;
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.nfl-trend-dialog h3 {
+  margin: 0;
+  color: var(--nfl-green);
+  font-family: "DINBoldCond", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.nfl-trend-dialog-summary {
+  margin: 0.3rem 0 1rem;
+  color: #666666;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.nfl-trend-dialog-chart {
+  width: 100%;
+}
+
+.nfl-trend-expanded {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.nfl-trend-expanded .nfl-trend-line {
+  stroke-width: 3;
+}
+
+.nfl-trend-expanded .nfl-trend-average {
+  stroke-width: 1.8;
+}
+
+.nfl-trend-gridline {
+  stroke: #e4e2dc;
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+
+.nfl-trend-axis-label {
+  fill: #777777;
+  font-family: "DINLight", sans-serif;
+  font-size: 13px;
+}
+
+.nfl-trend-value-label {
+  fill: #222222;
+  font-family: "DINBoldCond", sans-serif;
+  font-size: 15px;
 }
 
 .nfl-stats-note {
@@ -3662,7 +3821,11 @@ body {
   }
 
   .nfl-stats {
-    min-width: 600px;
+    min-width: 760px;
+  }
+
+  .nfl-trend-dialog {
+    padding: 2.6rem 1rem 1rem;
   }
 
   .nfl-key-moments li {

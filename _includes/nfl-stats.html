@@ -1,14 +1,23 @@
 {% assign nfl_stats_post = include.post %}
 {% assign nfl_stats = nfl_stats_post.stats %}
+{% assign nfl_trend_posts = site.nfl | where: 'season', nfl_stats_post.season | sort: 'week_order' %}
 {% if nfl_stats and nfl_stats.size > 0 %}
   <div class="nfl-stats-wrap">
     <table class="nfl-stats">
+      <colgroup>
+        <col class="nfl-stats-col-metric">
+        <col class="nfl-stats-col-game">
+        <col class="nfl-stats-col-opponent">
+        <col class="nfl-stats-col-season">
+        <col class="nfl-stats-col-trend">
+      </colgroup>
       <thead>
         <tr>
           <th scope="col">Metric</th>
           <th scope="col">{{ nfl_stats_post.stats_game_label | default: 'Game' }}</th>
           <th scope="col"><abbr title="{{ nfl_stats_post.opponent | escape }}">{{ nfl_stats_post.opponent_abbr | default: 'OPP' }}</abbr></th>
           <th scope="col">{{ nfl_stats_post.stats_season_label | default: 'Season' }}</th>
+          <th scope="col"><abbr title="Packers game-by-game trend">Trend</abbr></th>
         </tr>
       </thead>
       <tbody>
@@ -16,7 +25,7 @@
         {% for stat in nfl_stats %}
           {% if stat.group and stat.group != nfl_stats_group %}
             <tr class="nfl-stats-group">
-              <th colspan="4" scope="colgroup">{{ stat.group }}</th>
+              <th colspan="5" scope="colgroup">{{ stat.group }}</th>
             </tr>
             {% assign nfl_stats_group = stat.group %}
           {% endif %}
@@ -25,6 +34,29 @@
             <td>{% if stat.game != nil %}{{ stat.game }}{% else %}&mdash;{% endif %}</td>
             <td class="nfl-stats-opponent">{% if stat.opponent != nil %}[{{ stat.opponent }}]{% else %}&mdash;{% endif %}</td>
             <td>{% if stat.season != nil %}{{ stat.season }}{% else %}&mdash;{% endif %}</td>
+            <td class="nfl-stats-trend-cell">
+              {% capture nfl_trend_series %}[
+                {%- assign nfl_trend_separator = '' -%}
+                {%- for nfl_trend_post in nfl_trend_posts -%}
+                  {%- if nfl_trend_post.stats_ready == true and nfl_trend_post.week_order <= nfl_stats_post.week_order -%}
+                    {%- assign nfl_trend_stat = nfl_trend_post.stats | where: 'id', stat.id | first -%}
+                    {%- if nfl_trend_stat and nfl_trend_stat.game != nil -%}
+                      {{- nfl_trend_separator -}}{"week":{{ nfl_trend_post.week_order | jsonify }},"label":{{ nfl_trend_post.week_label | jsonify }},"value":{{ nfl_trend_stat.game | jsonify }}}
+                      {%- assign nfl_trend_separator = ',' -%}
+                    {%- endif -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              ]{% endcapture %}
+              <button
+                class="nfl-trend"
+                type="button"
+                data-metric-id="{{ stat.id | escape }}"
+                data-metric-label="{{ stat.metric | escape }}"
+                data-series="{{ nfl_trend_series | strip_newlines | escape }}"
+                aria-label="Expand {{ stat.metric | escape }} trend through {{ nfl_stats_post.week_label | escape }}">
+                <span class="nfl-trend-fallback" aria-hidden="true">&mdash;</span>
+              </button>
+            </td>
           </tr>
         {% endfor %}
       </tbody>
