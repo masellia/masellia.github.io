@@ -218,7 +218,14 @@ tactical:
       last rust from his previous injury.
 
   defense: |
-  
+    With the offense lagging in generating enough momentum to win the game, 
+      defense had to step up to hold the Buccaneers - again with a rookie QB - 
+      back. Gannon's group showed to be up to the taks since the beginning: 
+      On the very first series Edgerrin Cooper, later carted of with a season 
+      ending injure, sacks Daniels on a third down. On the next series 
+      by Tampa, Ewan Williams intercepts a pass directed to Egbuka on a first down 
+      attempt.
+      
 key_moments_intro: |
     The Packers continue their steady path of inflicting as much 
     damage on themselves as possible, committing 10 penalties for 
