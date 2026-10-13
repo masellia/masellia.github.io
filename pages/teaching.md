@@ -76,7 +76,7 @@ permalink: /teaching/
         <div class="teaching-year">2026</div>
         <div class="teaching-course"> Introduction to Gravitational Waves [Lecturer] </div>
         <div class="teaching-info">Observatoire de Paris PSL</div>
-        <div class="teaching-details">Seminar of the Graduate Program · Semester II</div>
+        <div class="teaching-details">Seminar of the Graduate Program · Semester I</div>
       </div>
 
 
