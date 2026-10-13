@@ -66,6 +66,21 @@ permalink: /teaching/
     <section class="teaching-timeline past-teaching-timeline">
 
       <div class="teaching-entry teaching-left past-teaching-entry">
+        <div class="teaching-year">2026</div>
+        <div class="teaching-course"> Neutron Stars and their Astrophysics [Lecturer] </div>
+        <div class="teaching-info">Observatoire de Paris PSL</div>
+        <div class="teaching-details">Seminar of the Graduate Program · Semester I</div>
+      </div>
+
+      <div class="teaching-entry teaching-right past-teaching-entry">
+        <div class="teaching-year">2026</div>
+        <div class="teaching-course"> Introduction to Gravitational Waves [Lecturer] </div>
+        <div class="teaching-info">Observatoire de Paris PSL</div>
+        <div class="teaching-details">PSeminar of the Graduate Program · Semester II</div>
+      </div>
+
+
+      <div class="teaching-entry teaching-left past-teaching-entry">
         <div class="teaching-year">2023</div>
         <div class="teaching-course"> Black Hole Perturbation Theory [Lecturer] </div>
         <div class="teaching-info">Gran Sasso Science Institute</div>
@@ -175,7 +190,7 @@ permalink: /teaching/
        </a>
       </div>
       <div class="teaching-info"> Galileo Galilei Institute, Florence, Italy </div>
-      <div class="teaching-details"> Lecture on Tidal effects in compact binaries </div>
+      <div class="teaching-details"> Lectures "Tidal effects in compact binaries" </div>
     </div>
 
     <div class="teaching-entry teaching-left">
@@ -212,7 +227,7 @@ Cosmology and Gravitation
        </a>
       </div>
       <div class="teaching-info"> Galileo Galilei Institute, Florence, Italy </div>
-      <div class="teaching-details">Exercise Lecture on Gravitational Waves I-II</div>
+      <div class="teaching-details">Exercise Lectures on Gravitational Waves I-II</div>
     </div>
 
     <div class="teaching-entry teaching-right">
