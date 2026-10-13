@@ -172,7 +172,7 @@ tactical:
   defense:
 key_moments_intro: |
     Five turnovers, with 3 interceptions and two recovered fumbles.
-key_moments: []
+key_moments:
   - quarter: Q1
     clock: "3:06"
     title: Roughing the passer 
