@@ -37,6 +37,7 @@
   - title: Axial tidal Love numbers of black holes in matter environments
     authors: S. D'Onofrio, S. Datta, A. Maselli
     arxiv: '2605.02633'
+    doi: 10.1103/7qcf-c8jv
     bibtex: |
       @article{DOnofrio:2026ulh,
           author = "D'Onofrio, Simone and Datta, Sayak and Maselli, Andrea",
@@ -44,7 +45,11 @@
           eprint = "2605.02633",
           archivePrefix = "arXiv",
           primaryClass = "gr-qc",
-          month = "5",
+          doi = "10.1103/7qcf-c8jv",
+          journal = "Phys. Rev. D",
+          volume = "114",
+          number = "8",
+          pages = "084024",
           year = "2026"
       }
 
