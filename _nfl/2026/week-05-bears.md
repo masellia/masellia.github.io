@@ -144,9 +144,46 @@ stats:
     opponent: "23.1 sec/play"
     season: "33.1 sec/play"
 tactical:
-  game_script:
+  game_script: | 
+    I hate the Bears. Since the first time I started following the Packers. One of my fondest 
+      football memories is Aaron Rodgers beating the Bears on one leg, after coming back from injury in 
+      the second half of the 2018 regular-season [game](https://www.youtube.com/watch?v=SeTJPojyLN0){:target="_blank" rel="noopener noreferrer"}. 
+      So this may be the only game in which "a win is a win", clean or dirty. 
+    
+      That said, the Packers entered Week 5 as heavy underdogs, facing their greatest 
+      [rivals](https://en.wikipedia.org/wiki/Bears–Packers_rivalry){:target="_blank" rel="noopener noreferrer"} 
+      in football after four weeks of criticism, still in search of an identity. 
+      Possibly a defining game, even at this early stage of the season.
+
+      The Bears played without their franchise quarterback. Still, I think it is 
+      fair to say that the game went far beyond expectations for the Packers, 
+      who dominated Chicago in every phase of the game. A punch in the face, to quote 
+      Ben Johnson (I could be more explicit if I really wanted to cite him and 
+      lose any sense of etiquette). The Packers scored 31 points, which could have been at least 38 
+      if Trey Smack had done his job when it mattered. And overall, a general sense of domination, 
+      with LaFleur (I liked him a lot today, including his poise during the 
+      postgame handshake) almost seeming intent on ridiculing the opposing defense.
+
+      Beyond the excitement, some questions, especially concerning the run 
+      game and the offense's ability to score in the red zone, 
+      remain open. For the time being, the Packers can prepare with less 
+      pressure and more confidence for the Monday night showdown against the Cowboys.
   offense:
   defense:
-key_moments_intro:
+key_moments_intro: |
+    Five turnovers, with 3 interceptions and two recovered fumbles.
 key_moments: []
+  - quarter: Q1
+    clock: "3:06"
+    title: Roughing the passer 
+    text: |
+      I get it, a penalty in the first quarter cannot define a game. Yet, when 
+      Brenton Cox roughed the passer, erasing a third-down stop by the 
+      defense, I felt something in the overall momentum of the game had just changed. 
+      Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
+      into Green Bay territory, setting the stage for Atlanta's touchdown. 
+
+
+
+
 ---
