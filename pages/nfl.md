@@ -21,18 +21,18 @@ permalink: /me/qb-room/
     <div class="nfl-archive">
       {% for nfl_season in nfl_seasons %}
         {% assign nfl_season_posts = nfl_season.items | sort: 'week_order' %}
-        <section class="nfl-season" aria-labelledby="nfl-season-{{ nfl_season.name }}">
-          <header class="nfl-season-header">
+        <details class="nfl-season"{% if forloop.first %} open{% endif %}>
+          <summary class="nfl-season-header">
             <span>{{ site.data.nfl.archive_label }}</span>
             <h2 id="nfl-season-{{ nfl_season.name }}">{{ nfl_season.name }} Season</h2>
-          </header>
+          </summary>
 
           <div class="nfl-season-list">
             {% for nfl_post in nfl_season_posts %}
               {% include nfl-archive-entry.html post=nfl_post %}
             {% endfor %}
           </div>
-        </section>
+        </details>
       {% endfor %}
     </div>
   {% else %}
