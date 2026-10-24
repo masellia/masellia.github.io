@@ -145,112 +145,153 @@ stats:
     season: "33.0 sec/play"
 tactical:
   game_script: |
-    The Packers winning the Divisional Round against the COwboys 
-    on January 15, 2017, with a incredible throw and catch by Rodgers and Cook. 
-    The thrilling [victory]( https://www.reddit.com/r/GreenBayPackers/comments/1x0qv3z/nine_years_ago_today_aaron_rodgers_needed_75_yds/){:target="_blank" rel="noopener noreferrer"} in Dallas during Week 8 of 2017, 
-    with a 12-yard touchdown pass to Davante Adams and only 11 seconds remaining. 
-    These remains as two of my most memorable memories of Packers in my ten years 
-    of tenure following the team. The game with the Cowboys stays as solid rivalry 
-    between NFC teams that have to play each other at least every three years. 
+    The Packers winning the Divisional Round against the Cowboys 
+      on January 15, 2017, with an incredible throw and catch by Rodgers and Cook. 
+      The thrilling [victory](https://www.reddit.com/r/GreenBayPackers/comments/1x0qv3z/nine_years_ago_today_aaron_rodgers_needed_75_yds/){:target="_blank" rel="noopener noreferrer"} in Dallas during Week 5 of 2017, 
+      with a 12-yard touchdown pass to Davante Adams and only 11 seconds remaining. 
+      These stay two of my fondest Packers memories from my ten years 
+      of following the team. The games against the Cowboys remain part of a strong rivalry 
+      between two NFC teams that face each other at least once every three years. 
 
-    The Sunday Night match was not the most spectacular among the last meetings in 
-    terms of scoring. Packers defense won the game, with Gannons group able to hold 
-    Dallas to 7 points until one minute from the end, intercepting Daks Preskott 
-    twice.
+      The Sunday Night game was not the most spectacular among their recent meetings 
+      in terms of scoring. The Packers defense won the game, with Gannon's group holding 
+      Dallas to just 7 points until the final minute, intercepting Dak Prescott 
+      twice.
 
-    Packers offese came as usual with highs and lows. 
-    The reeiver corp, led by Watson and Golden confirms to be elite in the 
-    leage - with three bleeding drops nonethlesess. The running game 
-    which remains the real Achilles tendon of LaFleur. Hopefully Josh Jacobs 
-    coming out of the Commissioner exempt list may spark new life into this offense 
-    which, for the moment, looks mono-dimensional. 
+      The Packers offense came with its usual highs and lows. 
+      The receiving corps, led by Watson and Golden, continues to look elite in the 
+      league — despite three costly drops. The running game, however, 
+      remains the real Achilles' heel of LaFleur's offense. Hopefully, Josh Jacobs 
+      coming off the Commissioner's Exempt List may spark new life into an offense 
+      that, for the moment, looks one-dimensional. 
 
-    Green Bay is now 4-2 after a rough start of the year, and many doubts on 
-    the team stability. I believe the Packers are still in search of a real identity, 
-    which will be soon be tested with tough opponents in the next four Week (Lions, 
-    Panthers, Patriots and Vikings).
+      Green Bay is now 4-2 after a rough start to the season and many doubts about 
+      the team's stability. I believe the Packers are still searching for a real identity, 
+      which will soon be tested against tough opponents over the next four weeks (Lions, 
+      Panthers, Patriots and Vikings).
+      
+  offense: |
+    I am not sure how to interpret the Packers' offensive performance. Love 
+      closes the first quarter with a touchdown on the opening possession, followed 
+      by an interception on the second. A field goal and another touchdown 
+      close out the first half. LaFleur's offense doesn't punt for the first 
+      time until one minute into the third quarter. Then, plenty of inconsistency, 
+      with only six additional points, all coming from Smack's field goals.
 
-  offense:
-  defense: |
-    Let me say it again. Gannon and its corp won the game, there is no doubt about it.
-    It's only Cowboyws offense was almost shut down until garbage time, rather the 
-    general sense of dominace during all four quarters. Packers defense was ferocious 
-    to attack any point of contact, stalling Dallas efficiency with a defensive EPA 
-    of -0.133. I think at moments "too ferocious". Two penalties for taunting at this 
-    level are unexcusable, and is something that could cost the season to the Packers 
-    when game will start to be in-or-out.
+      Offensive EPA/play remains close to the season average at 0.034, with the 
+      second-lowest offensive success rate of the season.
 
-    I think the secondary played particularly well. High marks for the 
-    safties Bullard and Williams, and the corners Nixon and Cisse, 
-    with 24 takles in total. 
-    Among the key plays of the game, a pick for Williams, who confirms to 
-    be a elite player in the league, and one the 2025 rookie Cisse, who is 
-    emergins as cornerback number for the Packers. A potential third interception 
-    by Carrington Valentine gets erased by a roughing the passer called on Luke 
-    Van Ness at 7:43 in the fourth quarter.
+      I don't think Love played particularly well. He completed 56% of his 
+      passes, ranking third from the bottom in completion percentage among QBs 
+      who have played six games. Completion Percentage Over Expected (CPOE) 
+      against the Cowboys also turned negative at -5.8 percentage points, 
+      after two positive weeks. 
+      Drops by receivers certainly don't help: the 
+      Packers rank [second](https://www.pro-football-reference.com/years/2026/advanced.htm){:target="_blank" rel="noopener noreferrer"} 
+      behind the Titans in this unfortunate category, with a 9% drop rate. 
+      Golden dropped a costly pass just one play before catching the 
+      touchdown at the end of the second quarter. Love also ranks sixth 
+      in percentage of bad throws, which could be partially explained by the 
+      offensive line's performance. The unit has actually improved in pass 
+      protection over the last two games (following the new additions), although 
+      Love was still sacked three times against the Cowboys.
+
+      Love also scored a TD from the 1-yard line. And that was about it for the run 
+      game which, I don't know how many times we can say this, is basically 
+      non-existent. A rush EPA/play of -0.157, 57 yards in total on 26 carries, 
+      with the longest run coming from Love himself for 13 yards. I don't think these 
+      numbers even deserve a comment.
+
+      I can only hope that Josh Jacobs can help reinvigorate the running game. 
+      Because the current running back corps doesn't seem up to the task, despite 
+      some recent [excitement](https://www.youtube.com/watch?v=l46RpJU4Tw0){:target="_blank" rel="noopener noreferrer"} 
+      which, to me, comes from completely naive analyses.
+    
+      The Packers rank ninth in the league with 21 red-zone trips (inside the opponent's 20), 
+      but 24th in the percentage of trips that [ended](https://www.sharpfootballanalysis.com/stats-nfl/nfl-red-zone-stats/){:target="_blank" rel="noopener noreferrer"} 
+      with a TD, and 31st (second from the bottom) in the percentage of trips 
+      ending with either a TD or a field goal.
+
+    defense: |
+    Let me say it again. Gannon and his unit won the game, there is no doubt about it.
+      It's not only that the Cowboys' offense was almost shut down until garbage time, 
+      but rather the general sense of dominance throughout all four quarters. 
+      The Packers defense was ferocious at every point of contact, holding Dallas 
+      to a defensive EPA of -0.133. I think at times it was "too ferocious". 
+      Two taunting penalties at this level are inexcusable, and this is something 
+      that could cost the Packers dearly when games become win-or-go-home affairs.
+
+      I think the secondary played particularly well. High marks for the 
+      safeties Bullard and Williams, and the cornerbacks Nixon and Cisse, 
+      who combined for 24 tackles. 
+      Among the key plays of the game were interceptions by Williams, who continues 
+      to establish himself as an elite player in the league, and 2025 rookie Cisse, 
+      who is emerging as a leading cornerback for the Packers. A potential third 
+      interception by Carrington Valentine was wiped out by a roughing-the-passer 
+      penalty on Lukas Van Ness at 7:43 in the fourth quarter.
    
-    The first interception by the Packers is a kind of beauty for the scheme 
-    orchestrated by Gannon, and Williams' execution. The two pictures before 
-    shows the play. Preskott comes to throw shaked by an heavy body shot from 
-    Zaire Franklin who blitzed him on the previous play. Williams lines at the 
-    line of scrimmages almost ready to blitz Preskott again. As soon as the 
-    ceneter snaps the ball he circles towards the middle of the field, 
-    unexpected for Preskott, whose intended throw for Lamb right ends in the 
-    arms of Packers' safety.
+      The first interception by the Packers was a thing of beauty, both for the scheme 
+      orchestrated by Gannon and Williams' execution. The two pictures below 
+      show the play. Prescott was about to throw, still shaken by a heavy hit from 
+      Zaire Franklin, who had blitzed him on the previous play. Williams lined up at 
+      the line of scrimmage, almost as if ready to blitz Prescott again. As soon as the 
+      center snapped the ball, he dropped back toward the middle of the field, 
+      catching Prescott by surprise. The intended throw to Lamb on the right 
+      ended up in the arms of the Packers safety.
 
-    I think William's interception has been a game changer, being as early in 
-    the match and killing Dallas momentum to answer the first Packers score. 
+      I think Williams' interception was a game changer, coming so early in 
+      the game and killing Dallas' momentum as they tried to answer the Packers' 
+      opening score. 
 
       <div class="nfl-img-row">
       <figure>
       <a class="nfl-img-link" href="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17.jpg">
-      <img src="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17.jpg" alt="Third-and-8 play for Dallay, 30 seconds into the 
-      second quarter" loading="lazy">
+      <img src="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17.jpg" alt="Third-and-8 play for Dallas, 37 seconds into the second quarter" loading="lazy">
       </a>
       <figcaption>Q2 · 3rd &amp; 8 · 14:23</figcaption>
       </figure>
       <figure>
       <a class="nfl-img-link" href="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17_v2.jpg">
-      <img src="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17_v2.jpg" alt="Third-and-8 play for Dallay, 30 seconds into the 
-      second quarter" loading="lazy">
+      <img src="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17_v2.jpg" alt="Third-and-8 play for Dallas, 37 seconds into the second quarter" loading="lazy">
       </a>
       <figcaption>Q2 · 3rd &amp; 8 · 14:23</figcaption>
       </figure>
       </div>
 
-    The second pick by Cisse at two minutes from the end of the second quarter has 
-    put a dagger into Dallas, giving Jordan Love the opportunity to score, 
-    going halftime 14-0. 
+      The second pick, by Cisse with two minutes remaining in the second quarter, 
+      put a dagger into Dallas, giving Jordan Love the opportunity to score 
+      and send the Packers into halftime with a 17-0 lead. 
 
-    I also want to grive credit to Javon Boullard, who I am been a bit critical 
-    in previous weeks for his excess of passion which has costed precious yards. 
-    His defense at the beginning of the fourth quarter, breaking a Preskot pass on a fourth and two, 
-    set the final tone to the game, showing the Cowboys that there was no space for 
-    high risk gambling. 
+      I also want to give credit to Javon Bullard, whom I have been somewhat critical 
+      of in previous weeks for his excessive passion, which has cost the team 
+      precious yards. His defensive play at the beginning of the fourth quarter, 
+      breaking up a Prescott pass on fourth-and-2, set the final tone for the game, 
+      showing the Cowboys that there was no room for high-risk gambles. 
 
-    If there is something to criticise, the defense lack to consistently 
-    pressure quarterback from the D-line. Only one sack from Van Ness, and the 
-    second lowest QB-hit rate of the season. Help from Paerson is much needed 
-    at this point. 
+      If there is something to criticize, it is the defense's inability to 
+      consistently pressure the quarterback with its defensive line. 
+      Only one sack, by Van Ness, and the second-lowest QB-hit rate of the season. 
+      Help from Micah Parsons coming off the injury list is much needed at this point.
 
 key_moments_intro: |
-    Two things worth mentioning. First, 3/3 on field attempts and 2/2 on 
-    extra points for Trey Smack who finally stay perfect during a game. 
-    Gold for LaFleur's special team.
+    Two things worth mentioning. First, 3/3 on field-goal attempts and 2/2 on 
+    extra points for Trey Smack, who finally went perfect for an entire game. 
+    Gold for LaFleur's special teams unit.
 
-    On the bad side, 11 Penalties for 96 yards set an new high since week 2 for 
-    the team, who now leads the league with 465 yards in total. If things are improving 
-    on other fronts, penalties remain a hughe problem for the Packers. I blame the coacing 
-    staff for the undicsiplined tone of the squad. A winning team cannot substain 
-    such level of self-inflict punishment - with such low margin on offense. Especially 
-    when games will become decisive for the season.
+    On the negative side, 11 penalties for 96 yards marked the team’s highest total 
+    since Week 2, which now leads the league with 465 penalty yards in total. 
+    While things are improving on other fronts, penalties remain a huge problem 
+    for the Packers. I blame the coaching staff for the team's lack of discipline. 
+    A winning team cannot sustain this level of self-inflicted punishment — 
+    especially with such narrow margins on offense, and even more so when 
+    games become decisive for the season.
 
 key_moments:
   - quarter: Q2
     clock: "14:23"
-    title: Williams intercepts Preskott 
+    title: Williams intercepts Prescott
     text: |
-      It's the third time I mention this play. But I think that Williams 
-      interception set the tone for Defense in the game, and broke 
-      Dallas initial momentum.
+      It's the third time I've mentioned this play. But I think Williams' 
+      interception set the tone for the defense throughout the game and broke 
+      Dallas' early momentum.
 ---
