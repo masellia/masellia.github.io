@@ -144,9 +144,95 @@ stats:
     opponent: "33.3 sec/play"
     season: "33.0 sec/play"
 tactical:
-  game_script:
+  game_script: |
+    The Packers winning the Divisional Round against the COwboys 
+    on January 15, 2017, with a incredible throw and catch by Rodgers and Cook. 
+    The thrilling [victory]( https://www.reddit.com/r/GreenBayPackers/comments/1x0qv3z/nine_years_ago_today_aaron_rodgers_needed_75_yds/){:target="_blank" rel="noopener noreferrer"} in Dallas during Week 8 of 2017, 
+    with a 12-yard touchdown pass to Davante Adams and only 11 seconds remaining. 
+    These remains as two of my most memorable memories of Packers in my ten years 
+    of tenure following the team. The game with the Cowboys stays as solid rivalry 
+    between NFC teams that have to play each other at least every three years. 
+
+    The Sunday Night match was not the most spectacular among the last meetings in 
+    terms of scoring. Packers defense won the game, with Gannons group able to hold 
+    Dallas to 7 points until one minute from the end, intercepting Daks Preskott 
+    twice.
+
+    Packers offese came as usual with highs and lows. 
+    The reeiver corp, led by Watson and Golden confirms to be elite in the 
+    leage - with three bleeding drops nonethlesess. The running game 
+    which remains the real Achilles tendon of LaFleur. Hopefully Josh Jacobs 
+    coming out of the Commissioner exempt list may spark new life into this offense 
+    which, for the moment, looks mono-dimensional. 
+
+    Green Bay is now 4-2 after a rough start of the year, and many doubts on 
+    the team stability. I believe the Packers are still in search of a real identity, 
+    which will be soon be tested with tough opponents in the next four Week (Lions, 
+    Panthers, Patriots and Vikings).
+
   offense:
-  defense:
+  defense: |
+    Let me say it again. Gannon and its corp won the game, there is no doubt about it.
+    It's only Cowboyws offense was almost shut down until garbage time, rather the 
+    general sense of dominace during all four quarters. Packers defense was ferocious 
+    to attack any point of contact, stalling Dallas efficiency with a defensive EPA 
+    of -0.133. I think at moments "too ferocious". Two penalties for taunting at this 
+    level are unexcusable, and is something that could cost the season to the Packers 
+    when game will start to be in-or-out.
+
+    I think the secondary played particularly well. High marks for the 
+    safties Bullard and Williams, and the corners Nixon and Cisse, 
+    with 24 takles in total. 
+    Among the key plays of the game, a pick for Williams, who confirms to 
+    be a elite player in the league, and one the 2025 rookie Cisse, who is 
+    emergins as cornerback number for the Packers. A potential third interception 
+    by Carrington Valentine gets erased by a roughing the passer called on Luke 
+    Van Ness at 7:43 in the fourth quarter.
+   
+    The first interception by the Packers is a kind of beauty for the scheme 
+    orchestrated by Gannon, and Williams' execution. The two pictures before 
+    shows the play. Preskott comes to throw shaked by an heavy body shot from 
+    Zaire Franklin who blitzed him on the previous play. Williams lines at the 
+    line of scrimmages almost ready to blitz Preskott again. As soon as the 
+    ceneter snaps the ball he circles towards the middle of the field, 
+    unexpected for Preskott, whose intended throw for Lamb right ends in the 
+    arms of Packers' safety.
+
+    I think William's interception has been a game changer, being as early in 
+    the match and killing Dallas momentum to answer the first Packers score. 
+
+      <div class="nfl-img-row">
+      <figure>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17.jpg">
+      <img src="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17.jpg" alt="Third-and-8 play for Dallay, 30 seconds into the 
+      second quarter" loading="lazy">
+      </a>
+      <figcaption>Q2 · 3rd &amp; 8 · 14:23</figcaption>
+      </figure>
+      <figure>
+      <a class="nfl-img-link" href="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17_v2.jpg">
+      <img src="/assets/img/nfl/week-06-cowboys/w626-q2-3-8-d-14-17_v2.jpg" alt="Third-and-8 play for Dallay, 30 seconds into the 
+      second quarter" loading="lazy">
+      </a>
+      <figcaption>Q2 · 3rd &amp; 8 · 14:23</figcaption>
+      </figure>
+      </div>
+
+    The second pick by Cisse at two minutes from the end of the second quarter has 
+    put a dagger into Dallas, giving Jordan Love the opportunity to score, 
+    going halftime 14-0. 
+
+    I also want to grive credit to Javon Boullard, who I am been a bit critical 
+    in previous weeks for his excess of passion which has costed precious yards. 
+    His defense at the beginning of the fourth quarter, breaking a Preskot pass on a fourth and two, 
+    set the final tone to the game, showing the Cowboys that there was no space for 
+    high risk gambling. 
+
+    If there is something to criticise, the defense lack to consistently 
+    pressure quarterback from the D-line. Only one sack from Van Ness, and the 
+    second lowest QB-hit rate of the season. Help from Paerson is much needed 
+    at this point. 
+    
 key_moments_intro:
 key_moments: []
 ---
