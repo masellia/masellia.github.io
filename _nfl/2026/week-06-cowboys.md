@@ -234,20 +234,21 @@ tactical:
     at this point. 
 
 key_moments_intro: |
-    3/3 on field attempts and 2/2 on extra points for Trey Smack who finally 
-    stay perfect during a game. Gold for LaFleur's special team.
+    Two things worth mentioning. First, 3/3 on field attempts and 2/2 on 
+    extra points for Trey Smack who finally stay perfect during a game. 
+    Gold for LaFleur's special team.
 
-    11 Penalties for 96 yards set an new high since week 2 for the team, who 
-    now leads the league with 465 yards in total. If things are improving on other 
-    fronts, penalties remain a hughe problem for the Packers. I blame the coacing 
+    On the bad side, 11 Penalties for 96 yards set an new high since week 2 for 
+    the team, who now leads the league with 465 yards in total. If things are improving 
+    on other fronts, penalties remain a hughe problem for the Packers. I blame the coacing 
     staff for the undicsiplined tone of the squad. A winning team cannot substain 
     such level of self-inflict punishment - with such low margin on offense. Especially 
     when games will become decisive for the season.
-    
+
 key_moments:
   - quarter: Q2
     clock: "14:23"
-    title: Williams intercept Preskott 
+    title: Williams intercepts Preskott 
     text: |
       It's the third time I mention this play. But I think that Williams 
       interception set the tone for Defense in the game, and broke 
