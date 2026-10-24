@@ -182,15 +182,16 @@ tactical:
       second-lowest offensive success rate of the season.
 
       I don't think Love played particularly well. He completed 56% of his 
-      passes, ranking third from the bottom in completion percentage among QBs 
+      passes, ranking now third from the bottom in completion percentage among QBs 
       who have played six games. Completion Percentage Over Expected (CPOE) 
       against the Cowboys also turned negative at -5.8 percentage points, 
       after two positive weeks. 
-      Drops by receivers certainly don't help: the 
+      On one hand, drops by receivers certainly don't help: the 
       Packers rank [second](https://www.pro-football-reference.com/years/2026/advanced.htm){:target="_blank" rel="noopener noreferrer"} 
       behind the Titans in this unfortunate category, with a 9% drop rate. 
       Golden dropped a costly pass just one play before catching the 
-      touchdown at the end of the second quarter. Love also ranks sixth 
+      touchdown at the end of the second quarter. On the other hand, 
+      Love also ranks sixth 
       in percentage of bad throws, which could be partially explained by the 
       offensive line's performance. The unit has actually improved in pass 
       protection over the last two games (following the new additions), although 
@@ -206,13 +207,16 @@ tactical:
       Because the current running back corps doesn't seem up to the task, despite 
       some recent [excitement](https://www.youtube.com/watch?v=l46RpJU4Tw0){:target="_blank" rel="noopener noreferrer"} 
       which, to me, comes from completely naive analyses.
-    
+
+      The 8:17 minute drive in the second quarter ended with a kick by Smack 
+      summarises the problems, I believe. 
       The Packers rank ninth in the league with 21 red-zone trips (inside the opponent's 20), 
-      but 24th in the percentage of trips that [ended](https://www.sharpfootballanalysis.com/stats-nfl/nfl-red-zone-stats/){:target="_blank" rel="noopener noreferrer"} 
-      with a TD, and 31st (second from the bottom) in the percentage of trips 
+      but 24th in the percentage of trips that [ended](https://www.sharpfootballanalysis.com/stats-nfl/nfl-red-zone-stats/){:target="_blank" rel="noopener noreferrer"} with a TD, and 31st (second from the bottom) in the percentage of trips 
       ending with either a TD or a field goal.
 
-    defense: |
+
+
+  defense: |
     Let me say it again. Gannon and his unit won the game, there is no doubt about it.
       It's not only that the Cowboys' offense was almost shut down until garbage time, 
       but rather the general sense of dominance throughout all four quarters. 
