@@ -208,14 +208,14 @@ tactical:
       some recent [excitement](https://www.youtube.com/watch?v=l46RpJU4Tw0){:target="_blank" rel="noopener noreferrer"} 
       which, to me, comes from completely naive analyses.
 
-      The 8:17 minute drive in the second quarter ended with a kick by Smack 
-      summarises the problems, I believe. 
+      The 8:17-minute drive in the second quarter, which ended with a field goal 
+      by Smack, summarises the problem, I believe.
       The Packers rank ninth in the league with 21 red-zone trips (inside the opponent's 20), 
       but 24th in the percentage of trips that [ended](https://www.sharpfootballanalysis.com/stats-nfl/nfl-red-zone-stats/){:target="_blank" rel="noopener noreferrer"} with a TD, and 31st (second from the bottom) in the percentage of trips 
       ending with either a TD or a field goal.
 
-
-
+      We don't know how to finish drives.
+      
   defense: |
     Let me say it again. Gannon and his unit won the game, there is no doubt about it.
       It's not only that the Cowboys' offense was almost shut down until garbage time, 
