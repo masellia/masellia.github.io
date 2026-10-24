@@ -185,7 +185,7 @@ tactical:
       especially when it comes to intercepting the opposing quarterback, 
       [leading](https://www.espn.com/nfl/stats/team/_/view/turnovers/split/opponent/table/passing/sort/interceptions/dir/desc){:target="_blank" rel="noopener noreferrer"} 
       the league in interceptions.
-  key_moments_intro: |
+key_moments_intro: |
     Only four penalties for 25 yards. A season low for the Packers, 
       addressing one of the team's most critical issues so far. 
       The numbers are particularly significant considering how emotionally 
