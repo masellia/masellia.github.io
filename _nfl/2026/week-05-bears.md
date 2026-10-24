@@ -168,22 +168,35 @@ tactical:
       game and the offense's ability to score in the red zone, 
       remain open. For the time being, the Packers can prepare with less 
       pressure and more confidence for the Monday night showdown against the Cowboys.
-  offense:
-  defense:
-key_moments_intro: |
-    Five turnovers, with 3 interceptions and two recovered fumbles.
+  offense: 
+  defense: |
+    Four sacks, eight tackles for loss, ten QB hits, three interceptions and two 
+      recovered fumbles. There is little to add except that the Packers' defense 
+      had a heck of a day, holding the Bears to just seven points, all scored 
+      in the second quarter. Green Bay recorded a defensive EPA/play allowed of 
+      −0.340, by far its lowest value this season, compared with a season average 
+      of −0.034, highlighting its complete control over the Bears' offense.
+    
+      Two things stand out above all. First, Gannon continues to demonstrate his 
+      ability to generate pressure on the QB, with a QB-hit rate above 19% for 
+      the second week in a row, even without his star pass rusher Parsons and 
+      the recently injured Edgerrin Cooper.
+      Second, the Packers' defense is elite at generating turnovers, 
+      especially when it comes to intercepting the opposing quarterback, 
+      [leading](https://www.espn.com/nfl/stats/team/_/view/turnovers/split/opponent/table/passing/sort/interceptions/dir/desc){:target="_blank" rel="noopener noreferrer"} 
+      the league in interceptions.
+    
+  key_moments_intro: |
+    Only four penalties for 25 yards. A season low for the Packers, 
+      addressing one of the team's most critical issues so far. 
+      The numbers are particularly significant considering how emotionally 
+      charged the game was, given the rivalry and the crisis Green Bay 
+      had been facing leading up to kickoff.
+
+      On the negative side, a big step backward for Trey Smack, who made only 
+      one of three field-goal attempts and missed an extra point. While 
+      wind was clearly a factor — Santos also missed a field goal for the Bears — 
+      the early part of the season has not been exceptional for Smack, 
+      who is 7-for-10 on field goals and 9-for-11 on extra points.
 key_moments:
-  - quarter: Q1
-    clock: "3:06"
-    title: Roughing the passer 
-    text: |
-      I get it, a penalty in the first quarter cannot define a game. Yet, when 
-      Brenton Cox roughed the passer, erasing a third-down stop by the 
-      defense, I felt something in the overall momentum of the game had just changed. 
-      Not to mention, on the very next play Bijan Robinson rushed for more than 50 yards 
-      into Green Bay territory, setting the stage for Atlanta's touchdown. 
-
-
-
-
 ---
