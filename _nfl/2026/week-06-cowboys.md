@@ -183,7 +183,7 @@ tactical:
 
       I don't think Love played particularly well. He completed 56% of his 
       passes, ranking now third from the bottom in completion percentage among QBs 
-      who have played six games. Completion Percentage Over Expected (CPOE) 
+      who have played six games. Completion Percentage Over Expected 
       against the Cowboys also turned negative at -5.8 percentage points, 
       after two positive weeks. 
       On one hand, drops by receivers certainly don't help: the 

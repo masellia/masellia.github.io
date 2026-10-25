@@ -237,5 +237,14 @@ key_moments_intro: |
       wind was clearly a factor — Santos also missed a field goal for the Bears — 
       the early part of the season has not been exceptional for Smack, 
       who is 7-for-10 on field goals and 9-for-11 on extra points.
-key_moments: []
+key_moments:
+  - quarter: Q3
+    clock: "13:22"
+    title: Love goes deep again to the end zone
+    text: |
+      I was almost shocked when Love went deep again to Watson to score, 
+      right after a 43-yard TD had been erased by an offensive pass interference 
+      penalty. The play really symbolises the attitude with which Green Bay's 
+      offense entered the game and challenged Johnson's defense, as well as 
+      his arrogance toward the Packers and their rivalry.
 ---
