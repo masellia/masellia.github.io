@@ -2972,6 +2972,7 @@ body {
 .nfl-landing {
   --nfl-green: #203731;
   --nfl-gold: var(--accent);
+  --nfl-blue: #2563a6;
   --nfl-rule: #d6d3cb;
   padding: 0 7vw var(--section-light-end-gap);
 }
@@ -3655,10 +3656,20 @@ body {
   vector-effect: non-scaling-stroke;
 }
 
-.nfl-trend-average {
-  stroke: var(--nfl-gold);
+.nfl-trend-median-line {
+  fill: none;
+  stroke: var(--nfl-blue);
   stroke-dasharray: 5 4;
   stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+
+.nfl-trend-median-point {
+  fill: var(--nfl-blue);
+  stroke: #ffffff;
+  stroke-width: 1;
   vector-effect: non-scaling-stroke;
 }
 
@@ -3672,6 +3683,7 @@ body {
 .nfl-trend-dialog {
   --nfl-green: #203731;
   --nfl-gold: var(--accent);
+  --nfl-blue: #2563a6;
   width: min(920px, calc(100% - 2rem));
   max-width: none;
   padding: 2.8rem 2rem 1.7rem;
@@ -3713,6 +3725,11 @@ body {
   line-height: 1.45;
 }
 
+.nfl-trend-median-key {
+  color: var(--nfl-blue);
+  font-weight: 700;
+}
+
 .nfl-trend-dialog-chart {
   width: 100%;
 }
@@ -3728,7 +3745,7 @@ body {
   stroke-width: 3;
 }
 
-.nfl-trend-expanded .nfl-trend-average {
+.nfl-trend-expanded .nfl-trend-median-line {
   stroke-dasharray: 7 5;
   stroke-width: 2.4;
 }
@@ -3747,15 +3764,6 @@ body {
 
 .nfl-trend-value-label {
   fill: #222222;
-  font-family: "DINBoldCond", sans-serif;
-  font-size: 15px;
-}
-
-.nfl-trend-average-label {
-  fill: var(--nfl-gold);
-  stroke: #ffffff;
-  stroke-width: 4px;
-  paint-order: stroke;
   font-family: "DINBoldCond", sans-serif;
   font-size: 15px;
 }

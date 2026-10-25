@@ -168,7 +168,17 @@ tactical:
       game and the offense's ability to score in the red zone, 
       remain open. For the time being, the Packers can prepare with less 
       pressure and more confidence for the Monday night showdown against the Cowboys.
-  offense: 
+  offense: |
+    If LaFleur could tell one of his offensive dream, I am pretty sure it 
+    would resemble the performance against the Bears. 367 yards for Love who 
+    completed 80% of his throws for 2 TD and the highest passer rating of 
+    the season. Two other touchdowns by MasSawn Lloyd for a gran total of 31 
+    points, which could have been 38 if Smack had done his kicking job. 
+
+    
+
+
+
   defense: |
     Four sacks, eight tackles for loss, ten QB hits, three interceptions and two 
       recovered fumbles. There is little to add except that the Packers' defense 

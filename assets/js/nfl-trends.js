@@ -12,28 +12,31 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const metricMeta = (metricId, rawValue) => {
     if (metricId === "penalties_yards") {
-      return { decimals: 0, averageDecimals: 0, suffix: " yd", axisSuffix: "" };
+      return { decimals: 0, suffix: " yd", axisSuffix: "" };
     }
     if (rawValue.includes("%")) {
-      return { decimals: 1, averageDecimals: 1, suffix: "%", axisSuffix: "%" };
+      return { decimals: 1, suffix: "%", axisSuffix: "%" };
     }
     if (rawValue.includes("pp")) {
-      return { decimals: 1, averageDecimals: 1, suffix: " pp", axisSuffix: "" };
+      return { decimals: 1, suffix: " pp", axisSuffix: "" };
     }
     if (rawValue.includes("sec/play")) {
-      return { decimals: 1, averageDecimals: 1, suffix: " sec/play", axisSuffix: "" };
+      return { decimals: 1, suffix: " sec/play", axisSuffix: "" };
     }
     if (metricId.includes("epa")) {
-      return { decimals: 3, averageDecimals: 3, suffix: "", axisSuffix: "" };
+      return { decimals: 3, suffix: "", axisSuffix: "" };
     }
     if (metricId === "turnover_margin") {
-      return { decimals: 0, averageDecimals: 1, suffix: "", axisSuffix: "" };
+      return { decimals: 0, suffix: "", axisSuffix: "" };
     }
-    return { decimals: 1, averageDecimals: 1, suffix: "", axisSuffix: "" };
+    return { decimals: 1, suffix: "", axisSuffix: "" };
   };
 
   const numericValue = (metricId, rawValue) => {
-    const source = metricId === "penalties_yards" ? rawValue.split("/")[1] : rawValue;
+    const text = String(rawValue);
+    const source = metricId === "penalties_yards" && text.includes("/")
+      ? text.split("/")[1]
+      : text;
     return Number.parseFloat(String(source).replace("−", "-").trim());
   };
 
@@ -50,29 +53,31 @@ document.addEventListener("DOMContentLoaded", () => {
     return point.display;
   };
 
-  const averageDisplay = (data) => (
-    `${formatNumber(data.average, data.meta.averageDecimals)}${data.meta.suffix}`
-  );
+  const parseSeries = (series, metricId) => series
+    .map((point) => {
+      const value = numericValue(metricId, point.value);
+      const penaltyDecimals = Number.isInteger(value) ? 0 : 1;
+      const display = metricId === "penalties_yards"
+        ? `${formatNumber(value, penaltyDecimals)} yd`
+        : point.value;
+      return { ...point, value, display };
+    })
+    .filter((point) => Number.isFinite(point.value));
 
   const parseButtonData = (button) => {
     let series = [];
+    let medianSeries = [];
     try {
       series = JSON.parse(button.dataset.series || "[]");
+      medianSeries = JSON.parse(button.dataset.medianSeries || "[]");
     } catch (_error) {
       return null;
     }
 
     const firstRawValue = series[0]?.value || "";
     const meta = metricMeta(button.dataset.metricId, firstRawValue);
-    const points = series
-      .map((point) => {
-        const value = numericValue(button.dataset.metricId, point.value);
-        const display = button.dataset.metricId === "penalties_yards"
-          ? `${formatNumber(value, 0)} yd`
-          : point.value;
-        return { ...point, value, display };
-      })
-      .filter((point) => Number.isFinite(point.value));
+    const points = parseSeries(series, button.dataset.metricId);
+    const medianPoints = parseSeries(medianSeries, button.dataset.metricId);
 
     if (!points.length) return null;
 
@@ -81,22 +86,23 @@ document.addEventListener("DOMContentLoaded", () => {
       label: button.dataset.metricLabel,
       meta,
       points,
-      average: points.reduce((sum, point) => sum + point.value, 0) / points.length,
+      medianPoints,
     };
   };
 
-  const chartGeometry = (points, average, width, height, padding) => {
-    const values = points.map((point) => point.value);
-    let minimum = Math.min(...values, average);
-    let maximum = Math.max(...values, average);
+  const chartGeometry = (points, medianPoints, width, height, padding) => {
+    const allPoints = [...points, ...medianPoints];
+    const values = allPoints.map((point) => point.value);
+    let minimum = Math.min(...values);
+    let maximum = Math.max(...values);
     const span = maximum - minimum;
     const buffer = span === 0 ? Math.max(Math.abs(maximum) * 0.12, 1) : span * 0.14;
     minimum -= buffer;
     maximum += buffer;
 
-    const firstWeek = points[0].week;
-    const lastWeek = points[points.length - 1].week;
-    const x = (week) => points.length === 1
+    const firstWeek = Math.min(...allPoints.map((point) => point.week));
+    const lastWeek = Math.max(...allPoints.map((point) => point.week));
+    const x = (week) => firstWeek === lastWeek
       ? width / 2
       : padding.left + ((week - firstWeek) / (lastWeek - firstWeek)) * (width - padding.left - padding.right);
     const y = (value) => padding.top + ((maximum - value) / (maximum - minimum)) * (height - padding.top - padding.bottom);
@@ -104,10 +110,32 @@ document.addEventListener("DOMContentLoaded", () => {
     return { minimum, maximum, x, y };
   };
 
+  const renderMedianSeries = (svg, data, geometry, pointRadius) => {
+    if (data.medianPoints.length > 1) {
+      svg.append(svgElement("polyline", {
+        class: "nfl-trend-median-line",
+        points: data.medianPoints.map((point) => `${geometry.x(point.week)},${geometry.y(point.value)}`).join(" "),
+      }));
+    }
+
+    data.medianPoints.forEach((point) => {
+      const circle = svgElement("circle", {
+        class: "nfl-trend-median-point",
+        cx: geometry.x(point.week),
+        cy: geometry.y(point.value),
+        r: pointRadius,
+      });
+      const title = svgElement("title");
+      title.textContent = `${point.label} NFL median: ${point.display}`;
+      circle.append(title);
+      svg.append(circle);
+    });
+  };
+
   const renderSparkline = (button, data) => {
     const width = 180;
     const height = 78;
-    const geometry = chartGeometry(data.points, data.average, width, height, {
+    const geometry = chartGeometry(data.points, data.medianPoints, width, height, {
       top: 20,
       right: 9,
       bottom: 20,
@@ -128,13 +156,7 @@ document.addEventListener("DOMContentLoaded", () => {
       y2: height - 17,
     }));
 
-    svg.append(svgElement("line", {
-      class: "nfl-trend-average",
-      x1: 4,
-      x2: width - 4,
-      y1: geometry.y(data.average),
-      y2: geometry.y(data.average),
-    }));
+    renderMedianSeries(svg, data, geometry, 2.4);
 
     if (data.points.length > 1) {
       svg.append(svgElement("polyline", {
@@ -203,12 +225,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const width = 760;
     const height = 390;
     const padding = { top: 38, right: 35, bottom: 58, left: 78 };
-    const geometry = chartGeometry(data.points, data.average, width, height, padding);
+    const geometry = chartGeometry(data.points, data.medianPoints, width, height, padding);
     const svg = svgElement("svg", {
       class: "nfl-trend-expanded",
       viewBox: `0 0 ${width} ${height}`,
       role: "img",
-      "aria-label": `${data.label} Packers trend`,
+      "aria-label": `${data.label} Packers and weekly NFL median trend`,
     });
 
     const tickCount = 5;
@@ -245,14 +267,7 @@ document.addEventListener("DOMContentLoaded", () => {
       svg.append(label);
     });
 
-    const averageY = geometry.y(data.average);
-    svg.append(svgElement("line", {
-      class: "nfl-trend-average",
-      x1: padding.left,
-      x2: width - padding.right,
-      y1: averageY,
-      y2: averageY,
-    }));
+    renderMedianSeries(svg, data, geometry, 3.4);
 
     if (data.points.length > 1) {
       svg.append(svgElement("polyline", {
@@ -280,15 +295,6 @@ document.addEventListener("DOMContentLoaded", () => {
       svg.append(valueLabel);
     });
 
-    const averageLabel = svgElement("text", {
-      class: "nfl-trend-average-label",
-      x: width - padding.right - 4,
-      y: averageY < 28 ? averageY + 18 : averageY - 9,
-      "text-anchor": "end",
-    });
-    averageLabel.textContent = `Average: ${averageDisplay(data)}`;
-    svg.append(averageLabel);
-
     chart.replaceChildren(svg);
   };
 
@@ -299,7 +305,11 @@ document.addEventListener("DOMContentLoaded", () => {
     button.addEventListener("click", () => {
       trigger = button;
       heading.textContent = data.label;
-      summary.textContent = `Packers game values through ${data.points.at(-1).label} · dashed line: weekly average ${averageDisplay(data)}`;
+      summary.textContent = `Packers game values through ${data.points.at(-1).label} · `;
+      const medianKey = document.createElement("span");
+      medianKey.className = "nfl-trend-median-key";
+      medianKey.textContent = "blue dashed line: weekly NFL median";
+      summary.append(medianKey);
       renderExpandedChart(data);
       dialog.showModal();
     });
