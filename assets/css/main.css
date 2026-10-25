@@ -3673,6 +3673,21 @@ body {
   vector-effect: non-scaling-stroke;
 }
 
+.nfl-trend-top-tier-zone {
+  fill: rgba(32, 55, 49, 0.09);
+  pointer-events: none;
+}
+
+.nfl-trend-top-tier-line {
+  fill: none;
+  stroke: var(--nfl-gold);
+  stroke-dasharray: 2 4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.6;
+  vector-effect: non-scaling-stroke;
+}
+
 .nfl-trend-point {
   fill: var(--nfl-green);
   stroke: #ffffff;
@@ -3727,6 +3742,11 @@ body {
 
 .nfl-trend-median-key {
   color: var(--nfl-blue);
+  font-weight: 700;
+}
+
+.nfl-trend-top-tier-key {
+  color: var(--nfl-green);
   font-weight: 700;
 }
 

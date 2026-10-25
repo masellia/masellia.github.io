@@ -175,9 +175,31 @@ tactical:
     the season. Two other touchdowns by MasSawn Lloyd for a gran total of 31 
     points, which could have been 38 if Smack had done his kicking job. 
 
+    More than the point, you could feel from the game Packerse 
+    ability (and the willing) to do whatever they wanted against Bears defense. 
+
+    Watson and Golden have both over one hundred yards of receptions, with 
+    the longest catches of 53 and 50 yards respectively.  
+    Just to give an example on how aggressive LaFleur and Love went - probably 
+    smelling the secondary deficiencies of the Bears, the first TD pass 
+    to Christian Watson is a bomb of 42 yards at first and ten from Chicago 
+    42. The second score is even more impressive. The drive had only 4 plays: 
+    pass to Watson for 31 yards, negative run, incompletion, 43 yards 
+    touchdown nullified by a penalty, and touchdown pass to Watson for 53 yards.
     
+    The Packers had an Offensive EPA/play of 0.259, the highest this season, 
+    with a massive completion percentage over expected of 16.2 points and 
+    an explosive-play rate of 13.8%, well above the league median over five 
+    weeks. 
 
+    As I said, Bears seconday made everything possible to help LaFleur to 
+    play his explosive game. But credits to the offensive line as 
+    well, who has show progresses in pass protection making Love more 
+    confortable on his favourite deep passing style. 
 
+    I have have to criticise the offensive performance, I'd find three aspects. 
+     
+  
 
   defense: |
     Four sacks, eight tackles for loss, ten QB hits, three interceptions and two 

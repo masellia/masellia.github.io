@@ -60,6 +60,18 @@
                   {%- endif -%}
                 {%- endfor -%}
               ]{% endcapture %}
+              {% capture nfl_top_tier_series %}[
+                {%- assign nfl_top_tier_separator = '' -%}
+                {%- for nfl_benchmark_week in nfl_benchmark_season.weeks -%}
+                  {%- if nfl_benchmark_week.week_order <= nfl_stats_post.week_order -%}
+                    {%- assign nfl_top_tier_value = nfl_benchmark_week.top_tier[stat.id] -%}
+                    {%- if nfl_top_tier_value != nil -%}
+                      {{- nfl_top_tier_separator -}}{"week":{{ nfl_benchmark_week.week_order | jsonify }},"label":{{ nfl_benchmark_week.week_order | prepend: 'Week ' | jsonify }},"value":{{ nfl_top_tier_value | jsonify }}}
+                      {%- assign nfl_top_tier_separator = ',' -%}
+                    {%- endif -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              ]{% endcapture %}
               <button
                 class="nfl-trend"
                 type="button"
@@ -67,6 +79,8 @@
                 data-metric-label="{{ stat.metric | escape }}"
                 data-series="{{ nfl_trend_series | strip_newlines | escape }}"
                 data-median-series="{{ nfl_median_series | strip_newlines | escape }}"
+                data-top-tier-series="{{ nfl_top_tier_series | strip_newlines | escape }}"
+                data-top-tier-direction="{{ nfl_benchmark_season.top_tier_directions[stat.id] | escape }}"
                 aria-label="Expand {{ stat.metric | escape }} trend through {{ nfl_stats_post.week_label | escape }}">
                 <span class="nfl-trend-fallback" aria-hidden="true">&mdash;</span>
               </button>

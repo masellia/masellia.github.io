@@ -67,9 +67,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const parseButtonData = (button) => {
     let series = [];
     let medianSeries = [];
+    let topTierSeries = [];
     try {
       series = JSON.parse(button.dataset.series || "[]");
       medianSeries = JSON.parse(button.dataset.medianSeries || "[]");
+      topTierSeries = JSON.parse(button.dataset.topTierSeries || "[]");
     } catch (_error) {
       return null;
     }
@@ -78,6 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const meta = metricMeta(button.dataset.metricId, firstRawValue);
     const points = parseSeries(series, button.dataset.metricId);
     const medianPoints = parseSeries(medianSeries, button.dataset.metricId);
+    const topTierPoints = parseSeries(topTierSeries, button.dataset.metricId);
 
     if (!points.length) return null;
 
@@ -87,11 +90,13 @@ document.addEventListener("DOMContentLoaded", () => {
       meta,
       points,
       medianPoints,
+      topTierPoints,
+      topTierDirection: button.dataset.topTierDirection || null,
     };
   };
 
-  const chartGeometry = (points, medianPoints, width, height, padding) => {
-    const allPoints = [...points, ...medianPoints];
+  const chartGeometry = (points, referencePoints, width, height, padding) => {
+    const allPoints = [...points, ...referencePoints];
     const values = allPoints.map((point) => point.value);
     let minimum = Math.min(...values);
     let maximum = Math.max(...values);
@@ -132,6 +137,43 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   };
 
+  const renderTopTierZone = (svg, data, geometry, width, height, padding) => {
+    if (!data.topTierDirection || !data.topTierPoints.length) return [];
+
+    const coordinates = data.topTierPoints.length === 1
+      ? [
+        { x: padding.left, y: geometry.y(data.topTierPoints[0].value) },
+        { x: width - padding.right, y: geometry.y(data.topTierPoints[0].value) },
+      ]
+      : data.topTierPoints.map((point) => ({
+        x: geometry.x(point.week),
+        y: geometry.y(point.value),
+      }));
+    const edgeY = data.topTierDirection === "higher" ? padding.top : height - padding.bottom;
+    const polygonPoints = [
+      `${coordinates[0].x},${edgeY}`,
+      `${coordinates.at(-1).x},${edgeY}`,
+      ...[...coordinates].reverse().map((point) => `${point.x},${point.y}`),
+    ];
+    svg.append(svgElement("polygon", {
+      class: "nfl-trend-top-tier-zone",
+      points: polygonPoints.join(" "),
+    }));
+    return coordinates;
+  };
+
+  const renderTopTierBoundary = (svg, coordinates) => {
+    if (!coordinates.length) return;
+    const boundary = svgElement("polyline", {
+      class: "nfl-trend-top-tier-line",
+      points: coordinates.map((point) => `${point.x},${point.y}`).join(" "),
+    });
+    const title = svgElement("title");
+    title.textContent = "NFL top 25% threshold";
+    boundary.append(title);
+    svg.append(boundary);
+  };
+
   const renderSparkline = (button, data) => {
     const width = 180;
     const height = 78;
@@ -156,14 +198,14 @@ document.addEventListener("DOMContentLoaded", () => {
       y2: height - 17,
     }));
 
-    renderMedianSeries(svg, data, geometry, 2.4);
-
     if (data.points.length > 1) {
       svg.append(svgElement("polyline", {
         class: "nfl-trend-line",
         points: data.points.map((point) => `${geometry.x(point.week)},${geometry.y(point.value)}`).join(" "),
       }));
     }
+
+    renderMedianSeries(svg, data, geometry, 2.4);
 
     data.points.forEach((point) => {
       const circle = svgElement("circle", {
@@ -225,13 +267,22 @@ document.addEventListener("DOMContentLoaded", () => {
     const width = 760;
     const height = 390;
     const padding = { top: 38, right: 35, bottom: 58, left: 78 };
-    const geometry = chartGeometry(data.points, data.medianPoints, width, height, padding);
+    const geometry = chartGeometry(
+      data.points,
+      [...data.medianPoints, ...data.topTierPoints],
+      width,
+      height,
+      padding,
+    );
     const svg = svgElement("svg", {
       class: "nfl-trend-expanded",
       viewBox: `0 0 ${width} ${height}`,
       role: "img",
-      "aria-label": `${data.label} Packers and weekly NFL median trend`,
+      "aria-label": data.topTierDirection
+        ? `${data.label} Packers, weekly NFL median, and top-quartile trend`
+        : `${data.label} Packers and weekly NFL median trend`,
     });
+    const topTierCoordinates = renderTopTierZone(svg, data, geometry, width, height, padding);
 
     const tickCount = 5;
     for (let index = 0; index < tickCount; index += 1) {
@@ -267,14 +318,15 @@ document.addEventListener("DOMContentLoaded", () => {
       svg.append(label);
     });
 
-    renderMedianSeries(svg, data, geometry, 3.4);
-
     if (data.points.length > 1) {
       svg.append(svgElement("polyline", {
         class: "nfl-trend-line",
         points: data.points.map((point) => `${geometry.x(point.week)},${geometry.y(point.value)}`).join(" "),
       }));
     }
+
+    renderMedianSeries(svg, data, geometry, 3.4);
+    renderTopTierBoundary(svg, topTierCoordinates);
 
     data.points.forEach((point) => {
       const x = geometry.x(point.week);
@@ -310,6 +362,13 @@ document.addEventListener("DOMContentLoaded", () => {
       medianKey.className = "nfl-trend-median-key";
       medianKey.textContent = "blue dashed line: weekly NFL median";
       summary.append(medianKey);
+      if (data.topTierDirection) {
+        summary.append(document.createTextNode(" · "));
+        const topTierKey = document.createElement("span");
+        topTierKey.className = "nfl-trend-top-tier-key";
+        topTierKey.textContent = "shaded area: NFL top 25%";
+        summary.append(topTierKey);
+      }
       renderExpandedChart(data);
       dialog.showModal();
     });

@@ -1,4 +1,22 @@
 - season: 2026
+  top_tier_directions:
+    offensive_epa_play: higher
+    defensive_epa_play: lower
+    offensive_success_rate: higher
+    defensive_success_rate: lower
+    dropback_epa_play: higher
+    rush_epa_play: higher
+    cpoe: higher
+    explosive_play_rate: higher
+    explosive_play_rate_allowed: lower
+    qb_hit_rate_allowed: lower
+    defensive_qb_hit_rate: higher
+    sack_rate_allowed: lower
+    defensive_sack_rate: higher
+    third_down_efficiency: higher
+    red_zone_efficiency: higher
+    turnover_margin: higher
+    penalties_yards: lower
   weeks:
     - week_order: 1
       stats:
@@ -21,6 +39,24 @@
         turnover_margin: "0"
         penalties_yards: "55"
         neutral_pace: "32.9 sec/play"
+      top_tier:
+        offensive_epa_play: "0.171"
+        defensive_epa_play: "-0.185"
+        offensive_success_rate: "47.4%"
+        defensive_success_rate: "40.1%"
+        dropback_epa_play: "0.295"
+        rush_epa_play: "0.099"
+        cpoe: "6.7 pp"
+        explosive_play_rate: "12.8%"
+        explosive_play_rate_allowed: "7.0%"
+        qb_hit_rate_allowed: "11.2%"
+        defensive_qb_hit_rate: "19.3%"
+        sack_rate_allowed: "2.8%"
+        defensive_sack_rate: "9.0%"
+        third_down_efficiency: "50.0%"
+        red_zone_efficiency: "100.0%"
+        turnover_margin: "1"
+        penalties_yards: "42.3"
     - week_order: 2
       stats:
         offensive_epa_play: "0.004"
@@ -42,6 +78,24 @@
         turnover_margin: "0"
         penalties_yards: "47"
         neutral_pace: "32.6 sec/play"
+      top_tier:
+        offensive_epa_play: "0.144"
+        defensive_epa_play: "-0.131"
+        offensive_success_rate: "48.3%"
+        defensive_success_rate: "35.4%"
+        dropback_epa_play: "0.281"
+        rush_epa_play: "0.063"
+        cpoe: "7.4 pp"
+        explosive_play_rate: "11.4%"
+        explosive_play_rate_allowed: "5.9%"
+        qb_hit_rate_allowed: "11.5%"
+        defensive_qb_hit_rate: "22.3%"
+        sack_rate_allowed: "5.7%"
+        defensive_sack_rate: "9.2%"
+        third_down_efficiency: "46.3%"
+        red_zone_efficiency: "75.0%"
+        turnover_margin: "1"
+        penalties_yards: "34.8"
     - week_order: 3
       stats:
         offensive_epa_play: "-0.014"
@@ -63,6 +117,24 @@
         turnover_margin: "0"
         penalties_yards: "59"
         neutral_pace: "30.8 sec/play"
+      top_tier:
+        offensive_epa_play: "0.135"
+        defensive_epa_play: "-0.114"
+        offensive_success_rate: "50.2%"
+        defensive_success_rate: "38.7%"
+        dropback_epa_play: "0.230"
+        rush_epa_play: "0.070"
+        cpoe: "6.4 pp"
+        explosive_play_rate: "11.1%"
+        explosive_play_rate_allowed: "6.3%"
+        qb_hit_rate_allowed: "10.8%"
+        defensive_qb_hit_rate: "19.4%"
+        sack_rate_allowed: "1.4%"
+        defensive_sack_rate: "8.1%"
+        third_down_efficiency: "50.0%"
+        red_zone_efficiency: "70.8%"
+        turnover_margin: "1"
+        penalties_yards: "41"
     - week_order: 4
       stats:
         offensive_epa_play: "0.053"
@@ -84,6 +156,24 @@
         turnover_margin: "0"
         penalties_yards: "58"
         neutral_pace: "31.1 sec/play"
+      top_tier:
+        offensive_epa_play: "0.134"
+        defensive_epa_play: "-0.085"
+        offensive_success_rate: "48.1%"
+        defensive_success_rate: "39.6%"
+        dropback_epa_play: "0.249"
+        rush_epa_play: "0.089"
+        cpoe: "7.0 pp"
+        explosive_play_rate: "11.7%"
+        explosive_play_rate_allowed: "6.5%"
+        qb_hit_rate_allowed: "12.0%"
+        defensive_qb_hit_rate: "20.8%"
+        sack_rate_allowed: "2.9%"
+        defensive_sack_rate: "10.1%"
+        third_down_efficiency: "43.9%"
+        red_zone_efficiency: "85.0%"
+        turnover_margin: "1"
+        penalties_yards: "41"
     - week_order: 5
       stats:
         offensive_epa_play: "-0.007"
@@ -105,6 +195,24 @@
         turnover_margin: "0"
         penalties_yards: "53.5"
         neutral_pace: "33.9 sec/play"
+      top_tier:
+        offensive_epa_play: "0.140"
+        defensive_epa_play: "-0.196"
+        offensive_success_rate: "47.6%"
+        defensive_success_rate: "38.0%"
+        dropback_epa_play: "0.252"
+        rush_epa_play: "0.080"
+        cpoe: "4.7 pp"
+        explosive_play_rate: "11.1%"
+        explosive_play_rate_allowed: "7.1%"
+        qb_hit_rate_allowed: "9.6%"
+        defensive_qb_hit_rate: "18.8%"
+        sack_rate_allowed: "3.6%"
+        defensive_sack_rate: "9.6%"
+        third_down_efficiency: "50.0%"
+        red_zone_efficiency: "100.0%"
+        turnover_margin: "1.75"
+        penalties_yards: "39.3"
     - week_order: 6
       stats:
         offensive_epa_play: "-0.070"
@@ -126,3 +234,21 @@
         turnover_margin: "0"
         penalties_yards: "60"
         neutral_pace: "32.7 sec/play"
+      top_tier:
+        offensive_epa_play: "0.037"
+        defensive_epa_play: "-0.146"
+        offensive_success_rate: "47.4%"
+        defensive_success_rate: "37.2%"
+        dropback_epa_play: "0.169"
+        rush_epa_play: "-0.016"
+        cpoe: "2.7 pp"
+        explosive_play_rate: "10.4%"
+        explosive_play_rate_allowed: "4.4%"
+        qb_hit_rate_allowed: "11.6%"
+        defensive_qb_hit_rate: "18.7%"
+        sack_rate_allowed: "0.0%"
+        defensive_sack_rate: "9.3%"
+        third_down_efficiency: "44.4%"
+        red_zone_efficiency: "71.3%"
+        turnover_margin: "1"
+        penalties_yards: "42.8"
