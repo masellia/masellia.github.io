@@ -169,37 +169,45 @@ tactical:
       remain open. For the time being, the Packers can prepare with less 
       pressure and more confidence for the Monday night showdown against the Cowboys.
   offense: |
-    If LaFleur could tell one of his offensive dream, I am pretty sure it 
-    would resemble the performance against the Bears. 367 yards for Love who 
-    completed 80% of his throws for 2 TD and the highest passer rating of 
-    the season. Two other touchdowns by MasSawn Lloyd for a gran total of 31 
-    points, which could have been 38 if Smack had done his kicking job. 
+    If LaFleur could describe one of his offensive dreams, I am pretty sure it 
+      would resemble the performance against the Bears. Love threw for 367 yards, 
+      completing 80% of his passes for 2 TDs and his highest passer rating of 
+      the season. Two more touchdowns by MarShawn Lloyd brought the total to 31 
+      points, which could have been 38 if Smack had done his kicking job. 
 
-    More than the point, you could feel from the game Packerse 
-    ability (and the willing) to do whatever they wanted against Bears defense. 
+      More than the points, you could feel throughout the game the Packers' 
+      ability (and willingness) to do whatever they wanted against the Bears' defense. 
 
-    Watson and Golden have both over one hundred yards of receptions, with 
-    the longest catches of 53 and 50 yards respectively.  
-    Just to give an example on how aggressive LaFleur and Love went - probably 
-    smelling the secondary deficiencies of the Bears, the first TD pass 
-    to Christian Watson is a bomb of 42 yards at first and ten from Chicago 
-    42. The second score is even more impressive. The drive had only 4 plays: 
-    pass to Watson for 31 yards, negative run, incompletion, 43 yards 
-    touchdown nullified by a penalty, and touchdown pass to Watson for 53 yards.
+      Watson and Golden both recorded over 100 receiving yards, with 
+      their longest receptions going for 53 and 50 yards, respectively.  
+      Just to give an example of how aggressive LaFleur and Love were — probably 
+      sensing the weaknesses in the Bears' secondary — the first TD pass 
+      to Christian Watson was a 42-yard bomb on first-and-10 from Chicago's 
+      42-yard line. The second score was even more impressive. The drive 
+      consisted of just of four plays: a 31-yard pass to Watson, a run 
+      for a loss, an incompletion, a 43-yard touchdown nullified by a penalty, 
+      and finally a 53-yard touchdown pass to Watson.
     
-    The Packers had an Offensive EPA/play of 0.259, the highest this season, 
-    with a massive completion percentage over expected of 16.2 points and 
-    an explosive-play rate of 13.8%, well above the league median over five 
-    weeks. 
+      The Packers recorded an offensive EPA/play of 0.259, their highest this season, 
+      with a massive Completion Percentage Over Expected of +16.2 percentage 
+      points and an explosive-play rate of 13.8%, well above the league median 
+      through five weeks. 
 
-    As I said, Bears seconday made everything possible to help LaFleur to 
-    play his explosive game. But credits to the offensive line as 
-    well, who has show progresses in pass protection making Love more 
-    confortable on his favourite deep passing style. 
+      As I said, the Bears' secondary did everything possible to help LaFleur 
+      play his explosive game. But credit also goes to the offensive line, 
+      which has shown progress in pass protection, making Love more comfortable 
+      with his preferred deep-passing style. 
 
-    I have have to criticise the offensive performance, I'd find three aspects. 
-     
-  
+      If I have to find something to criticize about the offensive performance, 
+      I'd point to two aspects. First, considering how dominant the offense was 
+      on the field, I believe we wasted opportunities to score even more, 
+      with four punts (and two missed field goals). 
+      Second, the running game. Yes, Lloyd scored his first NFL 
+      touchdown, and then added a second. But 70 total rushing yards on 26 carries 
+      is still poor for a team that wants to compete for a postseason spot. 
+      Rush EPA/play remains close to zero, but still negative, and a pass rate 
+      over expected of almost six percentage points signals an offense that 
+      remains largely one-dimensional.
 
   defense: |
     Four sacks, eight tackles for loss, ten QB hits, three interceptions and two 
