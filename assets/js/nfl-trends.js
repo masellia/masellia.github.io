@@ -360,7 +360,12 @@ document.addEventListener("DOMContentLoaded", () => {
       summary.textContent = `Packers game values through ${data.points.at(-1).label} · `;
       const medianKey = document.createElement("span");
       medianKey.className = "nfl-trend-median-key";
-      medianKey.textContent = "blue dashed line: weekly NFL median";
+      const medianThrough = data.medianPoints.at(-1)?.label;
+      medianKey.textContent = !medianThrough
+        ? "weekly NFL median pending"
+        : medianThrough === data.points.at(-1).label
+          ? "blue dashed line: weekly NFL median"
+          : `blue dashed line: weekly NFL median through ${medianThrough}`;
       summary.append(medianKey);
       if (data.topTierDirection) {
         summary.append(document.createTextNode(" · "));

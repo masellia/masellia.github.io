@@ -94,6 +94,10 @@
     {% elsif nfl_stats_post.stats_ready != true %}
       <p class="nfl-stats-note">Post-game values will be added after the final whistle.</p>
     {% endif %}
+    {% assign nfl_latest_benchmark_week = nfl_benchmark_season.weeks | last %}
+    {% if nfl_stats_post.stats_ready == true and nfl_latest_benchmark_week.week_order < nfl_stats_post.week_order %}
+      <p class="nfl-stats-note nfl-benchmark-note">NFL median and top-quartile benchmarks are available through Week {{ nfl_latest_benchmark_week.week_order }}. Week {{ nfl_stats_post.week_order }} benchmarks will be added after the full league week is complete.</p>
+    {% endif %}
     {% if nfl_stats_post.stats_sources and nfl_stats_post.stats_sources.size > 0 %}
       <p class="nfl-stats-sources">
         <span>Sources:</span>

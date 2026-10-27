@@ -3796,6 +3796,11 @@ body {
   text-align: left;
 }
 
+.nfl-benchmark-note {
+  color: var(--nfl-blue);
+  font-weight: 700;
+}
+
 .nfl-stats-sources {
   margin-top: 0.35rem !important;
   color: #777777;
