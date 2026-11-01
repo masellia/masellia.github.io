@@ -144,8 +144,17 @@ stats:
     opponent: "30.0 sec/play"
     season: "32.3 sec/play"
 tactical:
-  game_script:
-  offense:
+  game_script: |
+    America's game of the week, with Lions out of the bye. 193 meetings 
+    between the two teams with LaFleur having an 8-6 record against Detroit. 
+    Good news for the Packers who get Josh Jacobs back at rushing, 
+    hoping for a spark in a much needed running game. Premises seems 
+    to point to a great match with both teams looking to confirm their 
+    growth, and find stability. 
+    It ended up with the all internet ranting against a terrible officiating, 
+
+    It ended up with the web 
+  offense: |
   defense:
 key_moments_intro:
 key_moments: []

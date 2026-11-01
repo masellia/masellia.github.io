@@ -10,6 +10,17 @@
 #  link_label:
 
 - category: Events
+  date: "2026-10-26"
+  title: "Good luck Sara with new adventures!"
+  text: "Farewell dinner for Sara, who is leaving for her first potdoc in the group of Davide Gerosa at the University of Milano Bicocca. My spirit was there enjoying the company. It has been an intense four years journey, plenty of extreme (mass ratio) and enriching moments. Looking forward to meeting you as a colleague, I see a bright future. And don't forget to invite friends when you organize meetings in cool places! "
+  image: /assets/img/news/ciaoSara.jpg
+  image_alt: "Farewell dinner for Sara"
+  image_caption:
+  url:
+  link_label:
+
+
+- category: Events
   date: "2026-07-29"
   title: "The GSSI hosts the 2027 (first) LISA Consortium meeting"
   text: "L'Aquila and the Gran Sasso Science Institute will organize the 2027 LISA Consortium meeting, from the 5th - 8th of July 2027. As the first meeting, since the reboot of the whole Consortium, it will be a great occasion to discuss and plan the Consortium work all together. Stay tuned for further news!"
