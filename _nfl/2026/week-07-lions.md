@@ -70,7 +70,7 @@ stats:
     metric: Completion percentage over expected
     game: "-0.5 pp"
     opponent: "-1.0 pp"
-    season: "-3.1 pp"
+    season: "-3.0 pp"
   - id: proe
     group: Passing and rushing
     metric: Pass rate over expected
@@ -94,7 +94,7 @@ stats:
     metric: QB-hit rate allowed
     game: "13.0%"
     opponent: "3.0%"
-    season: "17.8%"
+    season: "18.1%"
   - id: defensive_qb_hit_rate
     group: Pressure
     metric: Defensive QB-hit rate
@@ -145,17 +145,38 @@ stats:
     season: "32.3 sec/play"
 tactical:
   game_script: |
-    America's game of the week, with Lions out of the bye. 193 meetings 
-    between the two teams with LaFleur having an 8-6 record against Detroit. 
-    Good news for the Packers who get Josh Jacobs back at rushing, 
-    hoping for a spark in a much needed running game. Premises seems 
-    to point to a great match with both teams looking to confirm their 
-    growth, and find stability. 
-    It ended up with the all internet ranting against a terrible officiating, 
+       America's Game of the Week, with the Lions coming off their bye. 193 meetings 
+       between the two teams, with LaFleur holding an 8-6 record against Detroit. 
+       Good news for the Packers, who get Josh Jacobs back in the backfield, 
+       hoping for a spark in a much-needed running game. The stage seemed 
+       set for a great matchup, with both teams looking to confirm their 
+       growth and find stability.
 
-    It ended up with the web 
+       Instead, it ended with widespread outrage over terrible officiating, 
+       which affected the Packers more than the Lions. Some roughing-the-passer 
+       calls were simply nonsensical, at least if we still want to distinguish 
+       football from flag football. An unnecessary roughness penalty called 
+       on Wyatt screams of complete incompetence by the officials, especially 
+       considering that, in the postgame report, they confirmed they had not 
+       officially blown the play dead before the action that led to the penalty.
+
+       That said, being 17-17, when Brandon Cisse pushed Williams out of the end zone 
+       on fourth-and-5 with one minute remaining in the third quarter, and Nixon 
+       tackled Gibbs on fourth-and-1 with five minutes left in the game, I 
+       thought the Packers would pull it off. Instead, the offense ran 
+       four plays: a run for no gain, a 5-yard completion, an incompletion, 
+       and a blocked field-goal attempt. The Lions went on the field 
+       holding the ball enough to secure a victory kick with zero seconds 
+       left on the clock.
+
+       The Packers and Lions had almost identical time of possession 
+       (29:59 vs. 30:01), total plays (65 vs. 66), and comparable passing 
+       yards (264 vs. 296), with Green Bay also holding a +1 turnover margin. 
+       What made the difference, beyond the usual inconsistent running game, 
+       was the complete inability to finish drives in the red zone 
+       and the missed field goals.
   offense: |
-  defense:
+  defense: |
 key_moments_intro:
 key_moments: []
 ---
