@@ -201,7 +201,9 @@ tactical:
       receivers dropped at least four passes (a recurring problem for the Packers 
       this year), contributing to a gap between his raw completion rate and 
       his 70.7% adjusted completion percentage. 
-      Some of Love's numbers honestly seem to contradict one another, 
+
+      I am trying to evaluate Love's performance(s) to understand how is playing 
+      and honeslty, some his numbers honestly seem to contradict one another, 
       perhaps distorted by the dysfunctional offense the Packers currently have. 
       Against the Lions, Love recorded an [average depth of target](https://www.acmepackingcompany.com/green-bay-packers-analysis/88710/packers-by-the-numbers-stats-from-the-week-7-loss-to-the-lions){:target="_blank" rel="noopener noreferrer"} of 10.9 yards, 
       a time to throw of 2.61 seconds, and faced pressure on 37% of his dropbacks.
@@ -220,7 +222,7 @@ tactical:
       numbers.
       Love seems to favor attacking the field vertically much more 
       aggressively than these other QBs, while operating with a relatively 
-      short pocket-time window (note that pocket time stops when pressure 
+      short pocket-time window, the [lowest](https://www.pro-football-reference.com/years/2026/passing_advanced.htm){:target="_blank" rel="noopener noreferrer"} in the league (note that pocket time stops when pressure 
       arrives or the ball is released, whichever comes first, while time 
       to throw measures the time elapsed from the snap to the actual release 
       of the ball).
