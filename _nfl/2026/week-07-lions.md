@@ -240,8 +240,20 @@ tactical:
       producing two more explosive plays than Detroit (6 vs. 4). The Packers 
       generated more explosive plays, but Goff and company were more efficient 
       and able to move the chains consistently throughout all four quarters.
-      
+
   defense: |
-key_moments_intro:
-key_moments: []
+key_moments_intro: 
+key_moments:  
+  - quarter: Q4
+    clock: "4:53"
+    title: Nixon stops the Lions on fourth down
+    text: |
+      I'll say it again. The play was ultimately useless for the Packers. Still, when
+      I saw Nixon tackle Gibbs on fourth down, I almost went to bed thinking, OK,
+      we did it. With less than five minutes remaining, instead of finding a way
+      to manage the clock and put points on the board, the Packers provided a
+      perfect example of everything wrong with the offense: a run for no gain,
+      a 5-yard pass to Jacobs in double coverage, with Love overlooking an easier
+      throw to Jonnu Smith at the first-down marker; a drop by Jacobs, covered
+      near the goal line; and a blocked field-goal attempt.
 ---
