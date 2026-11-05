@@ -175,7 +175,66 @@ tactical:
        What made the difference, beyond the usual inconsistent running game, 
        was the complete inability to finish drives in the red zone 
        and the missed field goals.
-  offense: |
+  offense: |    Let's start with the (very) ugly. I did not expect Jacobs 
+      to make a historic comeback. Rust can be heavy after 
+      such a prolonged and intense period of inactivity. Still, 
+      having him back alongside Love did not really change the outcome 
+      of the running game. A total of 60 yards on the ground 
+      (including 20 yards from Lloyd and 4 from Williams), for an average of 
+      3.2 yards per carry. Among the worst in the league. With a rush EPA/play 
+      of -0.238, the worst since Week 4, the offense seems incapable of 
+      posing any real ground threat to the Lions (116 yards for Jahmyr Gibbs...).
+      I am not sure how many times we can repeat this narrative each week, 
+      or how much this lack of productivity is affecting the team, particularly 
+      on red-zone drives. Jacobs did bring back a running style more focused 
+      on exploiting O-line gaps and breaking tackles, something that was missing 
+      in particular from Lloyd (who has a rather annoying tendency to bounce 
+      runs outside). Probably the biggest impact Jacobs had was in the passing game, 
+      as he ended the game with 55 receiving yards (second only to Christian Watson) 
+      and a TD.
+
+      Setting aside the brilliant performance against the Bears, the offense 
+      continues to hover around zero offensive EPA/play. A historically poor 
+      running game is surely dragging down LaFleur's passing offense. 
+      Love completed 60% of his passes, with 2 TDs and 1 interception, while 
+      receivers dropped at least four passes (a recurring problem for the Packers 
+      this year), contributing to a gap between his raw completion rate and 
+      his 70.7% adjusted completion percentage. 
+      Some of Love's numbers honestly seem to contradict one another, 
+      perhaps distorted by the dysfunctional offense the Packers currently have. 
+      Against the Lions, Love recorded an [average depth of target](https://www.acmepackingcompany.com/green-bay-packers-analysis/88710/packers-by-the-numbers-stats-from-the-week-7-loss-to-the-lions){:target="_blank" rel="noopener noreferrer"} of 10.9 yards, 
+      a time to throw of 2.61 seconds, and faced pressure on 37% of his dropbacks.
+      His [2026 season averages](https://sumersports.com/players/fa8e600/jordan-love/){:target="_blank" rel="noopener noreferrer"}
+      are 9.45 yards of aDOT and 2.46 seconds to throw the ball.
+
+      We can compare these numbers with other elite QBs in the league: 
+      [Purdy, Allen and Burrow](https://sumersports.com/players/quarterback/?plays=50){:target="_blank" rel="noopener noreferrer"}
+      have an aDOT of 8.00, 9.29 and 7.74 yards, respectively, with 
+      times to throw of 2.88, 2.85 and 2.57 seconds. 
+      Love also faces pressure, but not particularly often 
+      [compared](https://www.pro-football-reference.com/years/2026/passing_advanced.htm){:target="_blank" rel="noopener noreferrer"}
+      with the league average, while recording one of the lowest pocket times 
+      in the league.
+      I find it difficult to put together a coherent picture from these 
+      numbers.
+      Love seems to favor attacking the field vertically much more 
+      aggressively than these other QBs, while operating with a relatively 
+      short pocket-time window (note that pocket time stops when pressure 
+      arrives or the ball is released, whichever comes first, while time 
+      to throw measures the time elapsed from the snap to the actual release 
+      of the ball).
+
+      I am not sure whether a clear chain of logical statements can be constructed here. 
+      I am probably trying to find an explanation for an offense that lives 
+      off occasional highs and (many) lows, remaining inconsistent most of the time. 
+      But I believe LaFleur and Love are playing a game that, at the moment — 
+      maybe because of the O-line, the rushing game, drops, Love's decisions, 
+      or all of these combined — is not sustainable. 
+      In fact, GB recorded +0.151 dropback EPA/play (+0.279 for the Lions) 
+      and an offensive success rate of 33.8% (52.3% for the Lions), while 
+      producing two more explosive plays than Detroit (6 vs. 4). The Packers 
+      generated more explosive plays, but Goff and company were more efficient 
+      and able to move the chains consistently throughout all four quarters.
   defense: |
 key_moments_intro:
 key_moments: []
