@@ -175,7 +175,8 @@ tactical:
        What made the difference, beyond the usual inconsistent running game, 
        was the complete inability to finish drives in the red zone 
        and the missed field goals.
-  offense: |    Let's start with the (very) ugly. I did not expect Jacobs 
+  offense: |    
+      Let's start with the (very) ugly. I did not expect Jacobs 
       to make a historic comeback. Rust can be heavy after 
       such a prolonged and intense period of inactivity. Still, 
       having him back alongside Love did not really change the outcome 
