@@ -227,17 +227,20 @@ tactical:
       to throw measures the time elapsed from the snap to the actual release 
       of the ball).
 
-      I am not sure whether a clear chain of logical statements can be constructed here. 
-      I am probably trying to find an explanation for an offense that lives 
+      I am not sure whether a clear chain of logical statements can be constructed here. I am probably trying to find an explanation for an offense that lives 
       off occasional highs and (many) lows, remaining inconsistent most of the time. 
       But I believe LaFleur and Love are playing a game that, at the moment — 
       maybe because of the O-line, the rushing game, drops, Love's decisions, 
-      or all of these combined — is not sustainable. 
-      In fact, GB recorded +0.151 dropback EPA/play (+0.279 for the Lions) 
+      or all of these combined — is not sustainable. Resorting continuosly 
+      to deep balls lowers the catch rate, forces the offense to play too 
+      many third donws (15 vs 10 for the Lions), and most of all breaks 
+      continously the rythm.
+      Just to mention, GB recorded +0.151 dropback EPA/play (+0.279 for the Lions) 
       and an offensive success rate of 33.8% (52.3% for the Lions), while 
       producing two more explosive plays than Detroit (6 vs. 4). The Packers 
       generated more explosive plays, but Goff and company were more efficient 
       and able to move the chains consistently throughout all four quarters.
+      
   defense: |
 key_moments_intro:
 key_moments: []
