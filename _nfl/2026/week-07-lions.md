@@ -242,6 +242,23 @@ tactical:
       and able to move the chains consistently throughout all four quarters.
 
   defense: |
+      Two fumbles recovered, two fourth-down stops. Yes, Goff threw for two 
+      TDs and Gibbs rushed for 116 yards. Overall, however, I think the defense 
+      played a solid game, with a defensive EPA/play allowed of -0.063. What seems 
+      to be lacking is the ability to generate pressure on the QB from the 
+      defensive front. After good performances in Weeks 4 and 5, the QB-hit rate 
+      dropped to a season low of 3%. Same story for the sack rate, with only 
+      one sack recorded for the second week in a row.
+
+      What will probably be remembered most is the series of penalties that 
+      hurt the Packers over the final four drives of the game: unnecessary 
+      roughness by D. Wyatt for 12 yards, roughing the passer by B. Cox for 
+      15 yards, defensive pass interference by B. Cisse for 8 yards (and a 
+      nullified interception), roughing the passer by K. Brooks for 15 yards, 
+      and a neutral zone infraction, again by Brooks, for 5 yards. 
+      Correct calls or not, that's 55 yards in penalties over a quarter 
+      and a half, with a total of 81 penalty yards for the entire game.
+
 key_moments_intro: 
 key_moments:  
   - quarter: Q4
