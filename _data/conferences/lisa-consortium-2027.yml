@@ -59,6 +59,21 @@ venue_map:
           image:
           image_alt:
           caption: Photo coming soon
+
+# Dining options are independent of the meeting buildings.
+dining:
+  zoom: 17
+  places:
+    - id: mensa-consiglio-regionale
+      marker_label: "1"
+      name: "Mensa del Consiglio Regionale d'Abruzzo"
+      address: "Via Michele Iacobucci, 4"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3449204
+      longitude: 13.3984854
+      directions_url: https://www.openstreetmap.org/?mlat=42.3449204&mlon=13.3984854#map=19/42.3449204/13.3984854
+      note:
+
 # Restricted content (talk titles, abstracts, slides) lives on Indico and is
 # never committed here. Registration and Indico links will be added once available.
 contacts:

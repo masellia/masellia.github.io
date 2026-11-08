@@ -120,7 +120,7 @@ Use the NFL season year for `season`, including playoff games played in January 
 
 ## Conference subsites
 
-Small conference websites live under `/meetings/<slug>/` and use the standalone `conference` layout. Each event has one data file under `_data/conferences/` and lightweight pages for Home, Timetable, and Participants under `pages/meetings/<slug>/`; events with several buildings may also add a Venue page.
+Small conference websites live under `/meetings/<slug>/` and use the standalone `conference` layout. Each event has one data file under `_data/conferences/` and lightweight pages for Home, Timetable, and Participants under `pages/meetings/<slug>/`; events with several buildings may also add a Venue page, and events with dining recommendations may add a Dining page.
 
 The page front matter identifies the shared data and active local-navigation item:
 
@@ -138,7 +138,9 @@ Use `conference_page: timetable` and `conference_page: participants` on the othe
 
 Add `website: /meetings/<slug>/` to the corresponding `_data/meetings.yml` entry to display a Conference website link from the main Meetings page. Conference-specific styles belong in `assets/css/conference.css` and use the `.conference-*` namespace.
 
-For a multi-building Leaflet map, add a page with `conference_page: venue`, `venue_map: true`, and a `/meetings/<slug>/venue/` permalink, then define `venue_map.venues` in the conference data file. Each venue needs an `id`, marker label, name, address, latitude, longitude, directions URL, and a `rooms` list. Room entries may include `name`, `floor`, `capacity`, `image`, `image_alt`, and `caption`; leaving `image` empty renders the standard photo placeholder. The map is backed by the same accessible building directory, so venue details remain available if JavaScript or map tiles fail.
+For a multi-building Leaflet map, add a page with `conference_page: venue`, `conference_map: true`, `map_script: conference-map.js`, and a `/meetings/<slug>/venue/` permalink, then define `venue_map.venues` in the conference data file. Each venue needs an `id`, marker label, name, address, latitude, longitude, directions URL, and a `rooms` list. Room entries may include `name`, `floor`, `capacity`, `image`, `image_alt`, and `caption`; leaving `image` empty renders the standard photo placeholder. The map is backed by the same accessible building directory, so venue details remain available if JavaScript or map tiles fail.
+
+For a dining map, add a page with `conference_page: dining`, `conference_map: true`, `map_script: conference-dining-map.js`, and a `/meetings/<slug>/dining/` permalink, then define `dining.places` in the conference data file. Each place needs an `id`, marker label, name, address, postal code, latitude, longitude, and directions URL; an optional `note` is shown in both the list and the marker popup. Dining options are independent of the meeting buildings, and the accessible list below the map keeps every address available without JavaScript.
 
 Timetable talk slots may include a `topic` matching an ID in the conference's `talk_topics` list. The timetable then displays the corresponding colour marker automatically:
 

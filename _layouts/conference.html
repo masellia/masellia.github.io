@@ -6,13 +6,13 @@
     {% seo %}
     {% assign conference = site.data.conferences[page.conference] %}
     <link rel="icon" href="{{ '/assets/img/home/Hole_emoji.svg' | relative_url }}" type="image/svg+xml">
-    {% if page.venue_map %}
+    {% if page.conference_map %}
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/conference.css' | relative_url }}">
-    {% if page.venue_map %}
+    {% if page.conference_map %}
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
-    <script src="{{ '/assets/js/conference-map.js' | relative_url }}" defer></script>
+    <script src="{{ '/assets/js/' | append: page.map_script | relative_url }}" defer></script>
     {% endif %}
     {% if conference.accent %}
     <style>:root { --conference-accent: {{ conference.accent }}; }</style>

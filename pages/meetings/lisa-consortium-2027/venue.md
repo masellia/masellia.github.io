@@ -5,7 +5,8 @@ description: Buildings, rooms, and directions for the LISA Consortium Meeting 20
 permalink: /meetings/lisa-consortium-2027/venue/
 conference: lisa-consortium-2027
 conference_page: venue
-venue_map: true
+conference_map: true
+map_script: conference-map.js
 ---
 
 {% assign conference = site.data.conferences[page.conference] %}

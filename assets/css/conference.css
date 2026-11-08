@@ -86,6 +86,7 @@ body.conference-site {
 
 .conference-nav {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: clamp(1rem, 3vw, 2.5rem);
 }
@@ -524,6 +525,13 @@ body.conference-site {
   text-transform: uppercase;
 }
 
+.conference-map-popup-note {
+  margin: 0.8rem 0 0;
+  color: var(--conference-ink);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
 .conference-venue-directory {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -660,6 +668,91 @@ body.conference-site {
 }
 
 .conference-venue-actions a {
+  text-underline-offset: 0.2em;
+}
+
+.conference-dining-page .conference-map-frame {
+  margin-top: 0;
+}
+
+.conference-dining-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  margin-top: 1.25rem;
+  border: 1px solid var(--conference-line);
+  background: var(--conference-line);
+}
+
+.conference-dining-card {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 0.9rem;
+  align-items: start;
+  padding: 1.15rem;
+  background: var(--conference-paper);
+}
+
+.conference-dining-number {
+  display: grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  background: var(--conference-accent);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.conference-dining-copy h2 {
+  margin: 0;
+  font-family: var(--conference-serif);
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.conference-dining-address {
+  margin: 0.3rem 0 0;
+  color: var(--conference-muted);
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.conference-dining-note {
+  margin: 0.4rem 0 0;
+  color: var(--conference-ink);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.conference-dining-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  align-items: center;
+  margin-top: 0.8rem;
+}
+
+.conference-dining-actions button,
+.conference-dining-actions a {
+  color: var(--conference-accent);
+  font-family: var(--conference-sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.conference-dining-actions button {
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid currentColor;
+  background: transparent;
+  cursor: pointer;
+}
+
+.conference-dining-actions a {
   text-underline-offset: 0.2em;
 }
 
@@ -1152,8 +1245,8 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
 
   .conference-nav {
     width: 100%;
-    justify-content: space-between;
-    gap: 0.7rem;
+    justify-content: flex-start;
+    gap: 0.55rem 1.1rem;
   }
 
   .conference-hero,
@@ -1190,6 +1283,7 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
   .conference-committees-with-poster,
   .conference-about-grid,
   .conference-placeholder-grid,
+  .conference-dining-list,
   .conference-day,
   .conference-participant-list {
     grid-template-columns: 1fr;
