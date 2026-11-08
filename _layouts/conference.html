@@ -6,7 +6,14 @@
     {% seo %}
     {% assign conference = site.data.conferences[page.conference] %}
     <link rel="icon" href="{{ '/assets/img/home/Hole_emoji.svg' | relative_url }}" type="image/svg+xml">
+    {% if page.venue_map %}
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/conference.css' | relative_url }}">
+    {% if page.venue_map %}
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+    <script src="{{ '/assets/js/conference-map.js' | relative_url }}" defer></script>
+    {% endif %}
     {% if conference.accent %}
     <style>:root { --conference-accent: {{ conference.accent }}; }</style>
     {% endif %}
@@ -22,7 +29,27 @@
           "eventStatus": "https://schema.org/EventScheduled",
           "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
           "url": {{ page.url | absolute_url | jsonify }},
-          "location": {
+          "location": {% if conference.venue_map.venues and conference.venue_map.venues.size > 0 %}[
+            {% for venue in conference.venue_map.venues %}
+            {
+              "@type": "Place",
+              "name": {{ venue.name | jsonify }},
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": {{ venue.address | jsonify }},
+                "postalCode": "67100",
+                "addressLocality": "L'Aquila",
+                "addressRegion": "AQ",
+                "addressCountry": "IT"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": {{ venue.latitude | jsonify }},
+                "longitude": {{ venue.longitude | jsonify }}
+              }
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ]{% else %}{
             "@type": "Place",
             "name": {{ conference.venue_room | append: ', ' | append: conference.venue | jsonify }},
             "address": {
@@ -33,7 +60,7 @@
               "addressRegion": "AQ",
               "addressCountry": "IT"
             }
-          },
+          }{% endif %},
           "organizer": {
             "@type": "CollegeOrUniversity",
             "name": {{ conference.venue | jsonify }},

@@ -138,6 +138,8 @@ Use `conference_page: timetable` and `conference_page: participants` on the othe
 
 Add `website: /meetings/<slug>/` to the corresponding `_data/meetings.yml` entry to display a Conference website link from the main Meetings page. Conference-specific styles belong in `assets/css/conference.css` and use the `.conference-*` namespace.
 
+For a multi-building Leaflet map, add `venue_map: true` to the conference home page and define `venue_map.venues` in its data file. Each venue needs an `id`, marker label, name, address, latitude, longitude, directions URL, and a `rooms` list. Room entries may include `name`, `floor`, `capacity`, `image`, `image_alt`, and `caption`; leaving `image` empty renders the standard photo placeholder. The map is backed by the same accessible building directory, so venue details remain available if JavaScript or map tiles fail.
+
 Timetable talk slots may include a `topic` matching an ID in the conference's `talk_topics` list. The timetable then displays the corresponding colour marker automatically:
 
 ```yaml

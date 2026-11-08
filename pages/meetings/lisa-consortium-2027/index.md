@@ -5,11 +5,15 @@ description: LISA Consortium Meeting 2027 at the Gran Sasso Science Institute, 5
 permalink: /meetings/lisa-consortium-2027/
 conference: lisa-consortium-2027
 conference_page: home
+venue_map: true
 ---
 
 {% assign conference = site.data.conferences[page.conference] %}
 
 <section class="conference-hero">
+  {% if conference.hero_image %}
+    <img class="conference-hero-art" src="{{ conference.hero_image | relative_url }}" alt="" aria-hidden="true">
+  {% endif %}
   <div class="conference-hero-inner">
     <p class="conference-eyebrow">{{ conference.date_display }}</p>
     <h1>LISA Consortium Meeting <span>2027</span></h1>
@@ -33,14 +37,78 @@ conference_page: home
   </div>
 </section>
 
+<section class="conference-section conference-venues" id="meeting-venues" aria-labelledby="meeting-venues-title">
+  <div class="conference-venues-intro">
+    <div>
+      <p class="conference-section-kicker">Three buildings / one campus</p>
+      <h2 id="meeting-venues-title">Meeting venues</h2>
+    </div>
+    <p>Sessions will take place in three GSSI buildings around the Rectorate. Select a marker for room information, or use the building directory below the map.</p>
+  </div>
+
+  <div class="conference-map-frame">
+    <div
+      class="conference-map"
+      id="conference-venue-map"
+      role="region"
+      aria-label="Interactive map of LISA Consortium Meeting buildings"
+      data-map-zoom="{{ conference.venue_map.zoom | default: 17 }}">
+      <p class="conference-map-status">Interactive venue map loading&hellip;</p>
+    </div>
+    <noscript><p class="conference-map-noscript">The interactive map requires JavaScript. All venue information is available in the building directory below.</p></noscript>
+  </div>
+
+  <script type="application/json" id="conference-venue-data">{{ conference.venue_map.venues | jsonify }}</script>
+
+  <div class="conference-venue-directory" aria-label="Meeting building directory">
+    {% for venue in conference.venue_map.venues %}
+      <details class="conference-venue-card" id="venue-{{ venue.id }}">
+        <summary>
+          <span class="conference-venue-number" aria-hidden="true">{{ venue.marker_label }}</span>
+          <span>
+            <strong>{{ venue.name }}</strong>
+            <small>{{ venue.address }}</small>
+          </span>
+          <span class="conference-venue-chevron" aria-hidden="true"></span>
+        </summary>
+        <div class="conference-venue-card-body">
+          <p class="conference-venue-address">{{ venue.address }}<br>{{ venue.postal }}</p>
+          <div class="conference-room-list">
+            {% for room in venue.rooms %}
+              <article class="conference-room-card">
+                {% if room.image %}
+                  <img src="{{ room.image | relative_url }}" alt="{{ room.image_alt | default: room.name | escape }}" loading="lazy">
+                {% else %}
+                  <div class="conference-room-placeholder" role="img" aria-label="Room photo coming soon">
+                    <span>{{ room.caption | default: 'Photo coming soon' }}</span>
+                  </div>
+                {% endif %}
+                <div>
+                  <h3>{{ room.name }}</h3>
+                  {% if room.floor %}<p>{{ room.floor }}</p>{% endif %}
+                  {% if room.capacity %}<p>Capacity: {{ room.capacity }}</p>{% endif %}
+                </div>
+              </article>
+            {% endfor %}
+          </div>
+          <div class="conference-venue-actions">
+            <button type="button" class="conference-show-on-map" data-venue-id="{{ venue.id }}" hidden>Show on map</button>
+            <a href="{{ venue.directions_url }}" target="_blank" rel="noopener noreferrer">Open directions</a>
+          </div>
+        </div>
+      </details>
+    {% endfor %}
+  </div>
+</section>
+
 <section class="conference-section conference-practical">
   <h2>What to know</h2>
 
   <div class="conference-placeholder-grid">
     <article class="conference-placeholder-card">
       <span>01 / Venue</span>
-      <h3>Meeting room</h3>
-      <p><a class="conference-address" href="{{ conference.venue_map_url }}" target="_blank" rel="noopener noreferrer">{{ conference.venue_room }}<br>{{ conference.venue_address }}<br>{{ conference.venue_postal }}</a></p>
+      <h3>Meeting buildings</h3>
+      <p><a class="conference-address" href="{{ conference.venue_map_url }}">{{ conference.venue_room }}<br>{{ conference.venue_address }}<br>{{ conference.venue_postal }}</a></p>
     </article>
     <article class="conference-placeholder-card">
       <span>02 / Travel</span>

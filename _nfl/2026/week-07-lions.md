@@ -203,7 +203,7 @@ tactical:
       his 70.7% adjusted completion percentage. 
 
       I am trying to evaluate Love's performance(s) to understand how is playing 
-      and honeslty, some his numbers honestly seem to contradict one another, 
+      and honeslty, some his numbers seem to contradict one another, 
       perhaps distorted by the dysfunctional offense the Packers currently have. 
       Against the Lions, Love recorded an [average depth of target](https://www.acmepackingcompany.com/green-bay-packers-analysis/88710/packers-by-the-numbers-stats-from-the-week-7-loss-to-the-lions){:target="_blank" rel="noopener noreferrer"} of 10.9 yards, 
       a time to throw of 2.61 seconds, and faced pressure on 37% of his dropbacks.

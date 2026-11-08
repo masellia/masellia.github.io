@@ -195,10 +195,25 @@ body.conference-site {
 
 .conference-lisa-consortium-2027 .conference-hero::before {
   background:
+    linear-gradient(180deg, rgba(10, 28, 61, 0.88) 0%, rgba(10, 28, 61, 0.28) 58%, rgba(10, 28, 61, 0.08) 100%),
     radial-gradient(ellipse 55% 45% at 80% 18%, rgba(169, 193, 236, 0.28), transparent 70%),
     radial-gradient(ellipse 40% 35% at 12% 88%, rgba(169, 193, 236, 0.12), transparent 70%),
     repeating-radial-gradient(circle at 82% 28%, transparent 0 34px, rgba(169, 193, 236, 0.09) 34px 35px);
   opacity: 1;
+  z-index: 1;
+}
+
+.conference-lisa-consortium-2027 .conference-hero-art {
+  position: absolute;
+  z-index: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: auto;
+  opacity: 0.88;
+  pointer-events: none;
 }
 
 .conference-lisa-consortium-2027 .conference-hero-inner {
@@ -305,6 +320,343 @@ body.conference-site {
   display: block;
   width: 100%;
   height: auto;
+}
+
+.conference-venues-intro {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.7fr) minmax(0, 1fr);
+  gap: clamp(2rem, 7vw, 7rem);
+  align-items: end;
+}
+
+.conference-section-kicker {
+  margin: 0 0 0.8rem;
+  color: var(--conference-accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.conference-venues-intro > p {
+  max-width: 620px;
+  margin: 0;
+  color: var(--conference-muted);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.conference-map-frame {
+  position: relative;
+  margin-top: 2.25rem;
+  overflow: hidden;
+  border: 1px solid var(--conference-line);
+  background: #edf1f5;
+}
+
+.conference-map {
+  min-height: 520px;
+  background: #edf1f5;
+}
+
+.conference-map:not(.is-ready),
+.conference-map.is-unavailable {
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+}
+
+.conference-map-status,
+.conference-map-noscript {
+  margin: 0;
+  color: var(--conference-muted);
+  text-align: center;
+}
+
+.conference-map-noscript {
+  padding: 1rem;
+  border-top: 1px solid var(--conference-line);
+  background: var(--conference-paper);
+}
+
+.conference-map .leaflet-control-attribution {
+  font-family: var(--conference-sans);
+  font-size: 0.65rem;
+}
+
+.conference-map .leaflet-control-attribution a {
+  color: #245b91;
+}
+
+.conference-map-marker-shell {
+  border: 0;
+  background: transparent;
+}
+
+.conference-map-marker {
+  display: grid;
+  width: 40px;
+  height: 40px;
+  place-items: center;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  background: var(--conference-accent);
+  box-shadow: 0 6px 18px rgba(10, 28, 61, 0.34);
+  color: #ffffff;
+  font-family: var(--conference-sans);
+  font-size: 0.82rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.conference-map-marker b {
+  color: #ffffff;
+  font: inherit;
+}
+
+.conference-map-popup .leaflet-popup-content-wrapper {
+  border-radius: 0;
+  box-shadow: 0 12px 35px rgba(10, 28, 61, 0.28);
+}
+
+.conference-map-popup .leaflet-popup-content {
+  width: auto !important;
+  margin: 1.15rem;
+  font-family: var(--conference-sans);
+}
+
+.conference-map-popup-content header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.8rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--conference-line);
+}
+
+.conference-map-popup-number,
+.conference-venue-number {
+  display: grid;
+  flex: none;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  background: var(--conference-accent);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.conference-map-popup-content h3 {
+  margin: 0;
+  color: var(--conference-ink);
+  font-family: var(--conference-serif);
+  font-size: 1.35rem;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.conference-map-popup-content header p {
+  margin: 0.15rem 0 0;
+  color: var(--conference-muted);
+  font-size: 0.76rem;
+}
+
+.conference-map-rooms {
+  margin-top: 0.85rem;
+}
+
+.conference-map-room {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.conference-map-room img,
+.conference-map-room-placeholder {
+  display: block;
+  width: 92px;
+  height: 68px;
+  object-fit: cover;
+}
+
+.conference-map-room-placeholder,
+.conference-room-placeholder {
+  display: grid;
+  place-items: center;
+  padding: 0.6rem;
+  background:
+    linear-gradient(135deg, rgba(30, 58, 110, 0.08), rgba(30, 58, 110, 0.2)),
+    var(--conference-paper);
+  color: var(--conference-muted);
+  font-size: 0.68rem;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.conference-map-room h4 {
+  margin: 0;
+  color: var(--conference-ink);
+  font-family: var(--conference-serif);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.conference-map-room p {
+  margin: 0.15rem 0 0;
+  color: var(--conference-muted);
+  font-size: 0.72rem;
+}
+
+.conference-map-directions {
+  display: inline-block;
+  margin-top: 0.9rem;
+  color: var(--conference-accent) !important;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-underline-offset: 0.2em;
+  text-transform: uppercase;
+}
+
+.conference-venue-directory {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  margin-top: 1.25rem;
+  border: 1px solid var(--conference-line);
+  background: var(--conference-line);
+}
+
+.conference-venue-card {
+  background: var(--conference-paper);
+}
+
+.conference-venue-card summary {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 0.85rem;
+  align-items: center;
+  min-height: 92px;
+  padding: 1rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.conference-venue-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.conference-venue-card summary::marker {
+  content: "";
+}
+
+.conference-venue-card summary strong,
+.conference-venue-card summary small {
+  display: block;
+}
+
+.conference-venue-card summary strong {
+  font-family: var(--conference-serif);
+  font-size: 1.15rem;
+  font-weight: 400;
+}
+
+.conference-venue-card summary small {
+  margin-top: 0.15rem;
+  color: var(--conference-muted);
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.conference-venue-chevron {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid var(--conference-accent);
+  border-bottom: 2px solid var(--conference-accent);
+  transform: rotate(45deg) translateY(-2px);
+  transition: transform 180ms ease;
+}
+
+.conference-venue-card[open] .conference-venue-chevron {
+  transform: rotate(225deg) translateY(-2px);
+}
+
+.conference-venue-card-body {
+  padding: 0 1rem 1rem;
+  border-top: 1px solid var(--conference-line);
+}
+
+.conference-venue-address {
+  margin: 0;
+  padding: 0.8rem 0;
+  color: var(--conference-muted);
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.conference-room-list {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.conference-room-card {
+  display: grid;
+  grid-template-columns: 96px minmax(0, 1fr);
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.conference-room-card img,
+.conference-room-placeholder {
+  width: 96px;
+  height: 72px;
+  object-fit: cover;
+}
+
+.conference-room-card h3 {
+  margin: 0;
+  font-family: var(--conference-serif);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.conference-room-card p {
+  margin: 0.15rem 0 0;
+  color: var(--conference-muted);
+  font-size: 0.75rem;
+}
+
+.conference-venue-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.conference-venue-actions button,
+.conference-venue-actions a {
+  color: var(--conference-accent);
+  font-family: var(--conference-sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.conference-venue-actions button {
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid currentColor;
+  background: transparent;
+  cursor: pointer;
+}
+
+.conference-venue-actions a {
+  text-underline-offset: 0.2em;
 }
 
 .conference-committees {
@@ -805,6 +1157,15 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
     font-size: 3.8rem;
   }
 
+  .conference-lisa-consortium-2027 .conference-hero-art {
+    right: auto;
+    left: 50%;
+    width: auto;
+    max-width: none;
+    height: 48%;
+    transform: translateX(-50%);
+  }
+
   .conference-hero::before {
     background-position: center;
     background-size: auto 90%;
@@ -824,6 +1185,19 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
   .conference-day,
   .conference-participant-list {
     grid-template-columns: 1fr;
+  }
+
+  .conference-venues-intro,
+  .conference-venue-directory {
+    grid-template-columns: 1fr;
+  }
+
+  .conference-venues-intro {
+    gap: 1.4rem;
+  }
+
+  .conference-map {
+    min-height: 440px;
   }
 
   .conference-poster-thumb {
@@ -892,6 +1266,24 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
 
   .conference-block-meta {
     white-space: normal;
+  }
+
+  .conference-map {
+    min-height: 360px;
+  }
+
+  .conference-map-popup .leaflet-popup-content {
+    margin: 0.85rem;
+  }
+
+  .conference-map-room {
+    grid-template-columns: 76px minmax(0, 1fr);
+  }
+
+  .conference-map-room img,
+  .conference-map-room-placeholder {
+    width: 76px;
+    height: 58px;
   }
 }
 
