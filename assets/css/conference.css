@@ -354,6 +354,10 @@ body.conference-site {
   background: #edf1f5;
 }
 
+.conference-venue-page .conference-map-frame {
+  margin-top: 0;
+}
+
 .conference-map {
   min-height: 520px;
   background: #edf1f5;
@@ -757,6 +761,10 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
   margin-top: 2rem;
   background: var(--conference-line);
   border: 1px solid var(--conference-line);
+}
+
+.conference-placeholder-grid-three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .conference-placeholder-card {

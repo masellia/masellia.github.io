@@ -9,6 +9,9 @@
 
     <nav class="conference-nav" aria-label="Conference navigation">
       <a href="{{ conference_root | relative_url }}"{% if page.conference_page == 'home' %} aria-current="page"{% endif %}>Home</a>
+      {% if conference.venue_map.venues and conference.venue_map.venues.size > 0 %}
+        <a href="{{ conference_root | append: 'venue/' | relative_url }}"{% if page.conference_page == 'venue' %} aria-current="page"{% endif %}>Venue</a>
+      {% endif %}
       <a href="{{ conference_root | append: 'timetable/' | relative_url }}"{% if page.conference_page == 'timetable' %} aria-current="page"{% endif %}>Timetable</a>
       <a href="{{ conference_root | append: 'participants/' | relative_url }}"{% if page.conference_page == 'participants' %} aria-current="page"{% endif %}>Participants</a>
     </nav>
