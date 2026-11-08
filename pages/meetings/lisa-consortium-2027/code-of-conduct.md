@@ -15,7 +15,8 @@ conference_page: code-of-conduct
   <p>All participants should feel welcome and safe. Harassment and discrimination of any kind are taken seriously, and reports are handled by the organizing committee.</p>
 </section>
 
-<section class="conference-page-body conference-prose" aria-label="Code of Conduct">
+<section class="conference-page-body" aria-label="Code of Conduct">
+  <div class="conference-prose">
   <p>Everyone attending the LISA Consortium Meeting 2027 is expected to treat others with respect and without prejudice. This applies in person, online, and at all meeting-related events.</p>
 
   <h2>Expected behaviour</h2>
@@ -66,5 +67,6 @@ conference_page: code-of-conduct
         <li><a href="mailto:{{ contact.email }}">{{ contact.name }}</a></li>
       {% endfor %}
     </ul>
+  </div>
   </div>
 </section>
