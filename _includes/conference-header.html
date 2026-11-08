@@ -17,6 +17,9 @@
       {% endif %}
       <a href="{{ conference_root | append: 'timetable/' | relative_url }}"{% if page.conference_page == 'timetable' %} aria-current="page"{% endif %}>Timetable</a>
       <a href="{{ conference_root | append: 'participants/' | relative_url }}"{% if page.conference_page == 'participants' %} aria-current="page"{% endif %}>Participants</a>
+      {% if conference.code_of_conduct %}
+        <a href="{{ conference_root | append: 'code-of-conduct/' | relative_url }}"{% if page.conference_page == 'code-of-conduct' %} aria-current="page"{% endif %}>Code of Conduct</a>
+      {% endif %}
     </nav>
   </div>
 </header>

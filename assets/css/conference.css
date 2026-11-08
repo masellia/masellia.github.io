@@ -948,6 +948,72 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
   padding-bottom: 8rem;
 }
 
+.conference-prose {
+  max-width: 820px;
+  padding-top: 1rem;
+}
+
+.conference-prose h2 {
+  margin: 2.8rem 0 1rem;
+  font-family: var(--conference-serif);
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+.conference-prose h2:first-child {
+  margin-top: 0;
+}
+
+.conference-prose p,
+.conference-prose li {
+  color: var(--conference-ink);
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.conference-prose p {
+  margin: 0 0 1.25rem;
+}
+
+.conference-prose ul {
+  margin: 0 0 1.25rem;
+  padding-left: 1.2rem;
+}
+
+.conference-prose li {
+  margin-bottom: 0.3rem;
+}
+
+.conference-prose a {
+  color: var(--conference-accent);
+  text-underline-offset: 0.2em;
+}
+
+.conference-conduct-contact {
+  margin-top: 1.75rem;
+  padding: 1.5rem;
+  border: 1px solid var(--conference-line);
+  background: var(--conference-paper);
+}
+
+.conference-conduct-contact strong {
+  font-family: var(--conference-serif);
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.conference-conduct-contact ul {
+  margin: 0.75rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.conference-conduct-contact li {
+  font-size: 0.92rem;
+  line-height: 1.7;
+}
+
 .conference-day {
   display: grid;
   grid-template-columns: minmax(180px, 0.35fr) minmax(0, 1fr);
@@ -1256,6 +1322,10 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
 
   .conference-hero h1 {
     font-size: 3.8rem;
+  }
+
+  .conference-page-code-of-conduct .conference-page-intro h1 {
+    font-size: 3rem;
   }
 
   .conference-lisa-consortium-2027 .conference-hero-art {

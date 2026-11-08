@@ -81,6 +81,16 @@ contacts:
   - riccardo.buscicchio@gssi.it
   - manuel.arcasedda@gssi.it
 
+code_of_conduct:
+  policy_url: https://aas.org/policies/anti-harassment-policy
+  contacts:
+    - name: Andrea Maselli
+      email: andrea.maselli@gssi.it
+    - name: Riccardo Buscicchio
+      email: riccardo.buscicchio@gssi.it
+    - name: Manuel Arca Sedda
+      email: manuel.arcasedda@gssi.it
+
 about:
   - The 2027 meeting of the <a class="conference-address" href="https://www.lisamission.org/" target="_blank" rel="noopener">LISA Consortium</a> will take place at the Gran Sasso Science Institute in L'Aquila from 5 to 8 July 2027.
   - This page collects public information about the meeting. The detailed scientific programme, talk abstracts and slides are reserved to LISA members and will be published on the meeting Indico page.
