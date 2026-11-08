@@ -425,7 +425,6 @@ body.conference-site {
 }
 
 .conference-map-popup .leaflet-popup-content {
-  width: auto !important;
   margin: 1.15rem;
   font-family: var(--conference-sans);
 }
