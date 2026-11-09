@@ -44,6 +44,7 @@ conference_page: home
       <span>01 / Travel</span>
       <h3>Getting to GSSI</h3>
       <p><a class="conference-address" href="https://www.gssi.it/images/GSSI_how_to_get.pdf" target="_blank" rel="noopener noreferrer">How to reach L&rsquo;Aquila and the GSSI</a></p>
+      <p>For practical information about L&rsquo;Aquila and life in the city, visit the <a class="conference-address" href="https://gssistudents.notion.site" target="_blank" rel="noopener noreferrer">guide created by GSSI students</a>.</p>
     </article>
     <article class="conference-placeholder-card">
       <span>02 / Registration</span>
