@@ -37,6 +37,18 @@ venue_map:
           floor: Floor -1
           image: /assets/img/meetings/LISA_27/Aurora_library.jpg
           image_alt: Library Room in the Aurora Building
+        - name: Room A
+          floor: Floor -1
+          caption: Photo coming soon
+        - name: Room B
+          floor: Floor -1
+          caption: Photo coming soon
+        - name: Room C
+          floor: Floor -1
+          caption: Photo coming soon
+        - name: Room D
+          floor: Floor -1
+          caption: Photo coming soon
         - name: Fish Room
           floor: First floor
           image: /assets/img/meetings/LISA_27/Aurora_fishroom.jpg

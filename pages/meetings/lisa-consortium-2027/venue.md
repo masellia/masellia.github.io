@@ -14,7 +14,7 @@ map_script: conference-map.js
 <section class="conference-page-intro">
   <p class="conference-section-kicker">Three buildings / one campus</p>
   <h1>Meeting venues</h1>
-  <p>Sessions will take place in three GSSI buildings around the Rectorate. Select a marker for room information, or use the building directory below the map.</p>
+  <p>Sessions will take place in three GSSI buildings: Aurora, Zenith, and Polaris. Their locations are shown on the map below, together with the rooms where the meeting will take place.</p>
 </section>
 
 <section class="conference-page-body conference-venue-page" aria-label="Meeting venue map and building directory">

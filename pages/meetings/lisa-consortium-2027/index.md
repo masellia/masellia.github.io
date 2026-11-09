@@ -47,8 +47,8 @@ conference_page: home
     </article>
     <article class="conference-placeholder-card">
       <span>02 / Registration</span>
-      <h3>How to register</h3>
-      <p>{% if conference.registration_url %}<a class="conference-address" href="{{ conference.registration_url }}" target="_blank" rel="noopener noreferrer">Registration is open &mdash; register here.</a>{% else %}Registration details will be announced shortly.{% endif %}</p>
+      <h3>Expression of Interest</h3>
+      <p>If you are willing or expected to participate in this meeting, please fill out the form at this <a class="conference-address" href="https://docs.google.com/forms/d/1eXjVuQi2xarfBENJAw-BzBsRY-mcRBRvmoxS897kKiQ/edit" target="_blank" rel="noopener noreferrer">link</a>.</p>
     </article>
     <article class="conference-placeholder-card">
       <span>03 / Contact</span>

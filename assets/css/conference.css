@@ -467,6 +467,11 @@ body.conference-site {
 
 .conference-map-rooms {
   margin-top: 0.85rem;
+  max-height: min(280px, 45vh);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 0.35rem;
+  scrollbar-gutter: stable;
 }
 
 .conference-map-room {

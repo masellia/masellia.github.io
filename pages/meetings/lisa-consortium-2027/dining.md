@@ -14,7 +14,7 @@ map_script: conference-dining-map.js
 <section class="conference-page-intro">
   <p class="conference-section-kicker">Food around the city</p>
   <h1>Dining in L&rsquo;Aquila</h1>
-  <p>Suggestions about pllaces to eat during the meeting..</p>
+  <p>Suggestions for places to eat during the meeting.</p>
 </section>
 
 <section class="conference-page-body conference-dining-page" aria-label="Dining map and list">
