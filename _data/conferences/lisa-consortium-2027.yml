@@ -300,9 +300,27 @@ about:
   - The 2027 meeting of the <a class="conference-address" href="https://www.lisamission.org/" target="_blank" rel="noopener">LISA Consortium</a> will take place at the Gran Sasso Science Institute in L'Aquila from 5 to 8 July 2027.
   - The meeting features a programme dedicated to discussing the gravitational wave science of the LISA Consortium, and allows members of the Working Groups to interact and share their research results.
 
-# Same people as the TEONGRAV 2027 local committee (placeholder until confirmed).
 scientific_committee:
-  - To be announced
+  - name: Daniele Vetrugno
+    affiliation: Max Planck Institute for Gravitational Physics / Leibniz University Hannover - Albert Einstein Institute
+  - name: Gianluca Calcagni
+    affiliation: IEM-CSIC
+  - name: John Regan
+    affiliation: Maynooth University
+  - name: Jonathan Gair
+    affiliation: Max Planck Institute for Gravitational Physics (Potsdam)
+  - name: Richard Brito
+    affiliation: CENTRA, Instituto Superior Técnico
+  - name: Shane Larson
+    affiliation: Clarkson University
+  - name: Susanne Milde
+    affiliation: Milde Science Comms / AEI
+  - name: Tamara Bogdanovic
+    affiliation: Georgia Institute of Technology
+  - name: Kelly Holley-Bockelmann
+    affiliation: Fisk University and Vanderbilt University
+  - name: Niels Warburton
+    affiliation: University College Dublin
 
 local_committee:
   - M. Arca Sedda

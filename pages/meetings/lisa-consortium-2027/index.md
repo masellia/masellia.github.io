@@ -81,7 +81,14 @@ conference_page: home
         <h3 id="scientific-committee-title">Scientific Organizing Committee</h3>
         <ul>
           {% for member in conference.scientific_committee %}
-            <li>{{ member }}</li>
+            <li{% if member.name %} class="conference-committee-member"{% endif %}>
+              {% if member.name %}
+                <strong class="conference-committee-member-name">{{ member.name }}</strong>
+                <span class="conference-committee-member-affiliation">{{ member.affiliation }}</span>
+              {% else %}
+                {{ member }}
+              {% endif %}
+            </li>
           {% endfor %}
         </ul>
       </section>

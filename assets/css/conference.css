@@ -805,6 +805,25 @@ body.conference-site {
   line-height: 1.55;
 }
 
+.conference-committee li.conference-committee-member {
+  padding: 0.4rem 0;
+}
+
+.conference-committee-member-name,
+.conference-committee-member-affiliation {
+  display: block;
+}
+
+.conference-committee-member-name {
+  font-weight: 600;
+}
+
+.conference-committee-member-affiliation {
+  color: var(--conference-muted);
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+
 .conference-committees-with-poster {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 150px;
