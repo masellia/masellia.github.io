@@ -29,10 +29,18 @@ venue_map:
       longitude: 13.3966180
       directions_url: https://www.openstreetmap.org/?mlat=42.3446971&mlon=13.3966180#map=19/42.3446971/13.3966180
       rooms:
-        - name: Room to be announced
-          image:
-          image_alt:
-          caption: Photo coming soon
+        - name: Main Lecture Hall
+          floor: Ground floor
+          image: /assets/img/meetings/LISA_27/Aurora_mainlecture.jpg
+          image_alt: Main Lecture Hall in the Aurora Building
+        - name: Library Room
+          floor: Floor -1
+          image: /assets/img/meetings/LISA_27/Aurora_library.jpg
+          image_alt: Library Room in the Aurora Building
+        - name: Fish Room
+          floor: First floor
+          image: /assets/img/meetings/LISA_27/Aurora_fishroom.jpg
+          image_alt: Fish Room in the Aurora Building
     - id: polaris
       marker_label: "2"
       name: Polaris Building
@@ -42,10 +50,10 @@ venue_map:
       longitude: 13.3978007
       directions_url: https://www.openstreetmap.org/?mlat=42.3443895&mlon=13.3978007#map=19/42.3443895/13.3978007
       rooms:
-        - name: Room to be announced
-          image:
-          image_alt:
-          caption: Photo coming soon
+        - name: Main Auditorium
+          floor: Floor -1
+          image: /assets/img/meetings/LISA_27/polaris_mainauditorium.jpg
+          image_alt: Main Auditorium in the Polaris Building
     - id: zenith
       marker_label: "3"
       name: Zenith Building
@@ -55,10 +63,10 @@ venue_map:
       longitude: 13.4002667
       directions_url: https://www.openstreetmap.org/?mlat=42.3455223&mlon=13.4002667#map=19/42.3455223/13.4002667
       rooms:
-        - name: Room to be announced
-          image:
-          image_alt:
-          caption: Photo coming soon
+        - name: Conference Room
+          floor: Floor -1
+          image: /assets/img/meetings/LISA_27/Zenith_conferenceroom.jpg
+          image_alt: Conference Room in the Zenith Building
 
 # Dining options are independent of the meeting buildings.
 dining:
