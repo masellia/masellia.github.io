@@ -539,13 +539,13 @@ body.conference-site {
 .conference-venue-directory {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1px;
+  gap: 1rem;
+  align-items: start;
   margin-top: 1.25rem;
-  border: 1px solid var(--conference-line);
-  background: var(--conference-line);
 }
 
 .conference-venue-card {
+  border: 1px solid var(--conference-line);
   background: var(--conference-paper);
 }
 
