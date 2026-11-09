@@ -44,6 +44,9 @@ document.addEventListener("DOMContentLoaded", () => {
     heading.append(headingCopy);
     popup.append(heading);
 
+    if (place.type) {
+      popup.append(textElement("p", "conference-map-popup-type", place.type));
+    }
     if (place.note) {
       popup.append(textElement("p", "conference-map-popup-note", place.note));
     }
@@ -70,6 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
   window.L.control.scale({ imperial: false }).addTo(map);
 
   const bounds = [];
+  const allBounds = [];
   const markers = new Map();
   places.forEach((place, index) => {
     const latitude = Number(place.latitude);
@@ -97,19 +101,21 @@ document.addEventListener("DOMContentLoaded", () => {
       minWidth: 220,
     });
     markers.set(place.id, marker);
-    bounds.push([latitude, longitude]);
+    allBounds.push([latitude, longitude]);
+    if (place.include_in_bounds !== false) bounds.push([latitude, longitude]);
   });
 
-  if (!bounds.length) {
+  if (!allBounds.length) {
     map.remove();
     showUnavailable();
     return;
   }
 
-  if (bounds.length === 1) {
-    map.setView(bounds[0], Number(mapElement.dataset.mapZoom) || 17);
+  const initialBounds = bounds.length ? bounds : allBounds;
+  if (initialBounds.length === 1) {
+    map.setView(initialBounds[0], Number(mapElement.dataset.mapZoom) || 17);
   } else {
-    map.fitBounds(bounds, {
+    map.fitBounds(initialBounds, {
       maxZoom: Number(mapElement.dataset.mapZoom) || 17,
       padding: [45, 45],
     });

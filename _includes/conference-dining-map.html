@@ -18,6 +18,7 @@
       <span class="conference-dining-number" aria-hidden="true">{{ place.marker_label }}</span>
       <div class="conference-dining-copy">
         <h2>{{ place.name }}</h2>
+        {% if place.type %}<p class="conference-dining-type">{{ place.type }}</p>{% endif %}
         <p class="conference-dining-address">{{ place.address }}<br>{{ place.postal }}</p>
         {% if place.note %}<p class="conference-dining-note">{{ place.note }}</p>{% endif %}
         <div class="conference-dining-actions">

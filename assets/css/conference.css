@@ -716,6 +716,23 @@ body.conference-site {
   line-height: 1.2;
 }
 
+.conference-dining-type,
+.conference-map-popup-type {
+  color: var(--conference-accent);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.conference-dining-type {
+  margin: 0.35rem 0 0;
+}
+
+.conference-map-popup-type {
+  margin: 0.8rem 0 0;
+}
+
 .conference-dining-address {
   margin: 0.3rem 0 0;
   color: var(--conference-muted);
@@ -887,6 +904,10 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
 .conference-placeholder-card p {
   margin: 0;
   color: var(--conference-muted);
+}
+
+.conference-placeholder-card p + p {
+  margin-top: 1rem;
 }
 
 .conference-address {

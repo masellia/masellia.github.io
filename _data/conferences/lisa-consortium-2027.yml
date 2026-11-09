@@ -99,12 +99,185 @@ dining:
     - id: mensa-consiglio-regionale
       marker_label: "1"
       name: "Mensa del Consiglio Regionale d'Abruzzo"
+      type: Canteen
       address: "Via Michele Iacobucci, 4"
       postal: "67100 L'Aquila (AQ), Italy"
       latitude: 42.3449204
       longitude: 13.3984854
       directions_url: https://www.openstreetmap.org/?mlat=42.3449204&mlon=13.3984854#map=19/42.3449204/13.3984854
-      note:
+    - id: forma-bakery
+      marker_label: "2"
+      name: Forma Bakery
+      type: Bakery
+      address: "Via Fortebraccio, 63"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3486365
+      longitude: 13.4018275
+      directions_url: https://www.openstreetmap.org/?mlat=42.3486365&mlon=13.4018275#map=19/42.3486365/13.4018275
+    - id: il-pane-di-collemaggio
+      marker_label: "3"
+      name: Il Pane di Collemaggio
+      type: Bakery
+      address: Via Amleto Cencioni
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3473892
+      longitude: 13.4114769
+      directions_url: https://www.openstreetmap.org/?mlat=42.3473892&mlon=13.4114769#map=19/42.3473892/13.4114769
+    - id: forno-storico-placidi
+      marker_label: "4"
+      name: Forno Storico Cav. Giulio Placidi
+      type: Bakery
+      address: "Via Monte Guelfi, 4"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3469863
+      longitude: 13.3976712
+      directions_url: https://www.openstreetmap.org/?mlat=42.3469863&mlon=13.3976712#map=19/42.3469863/13.3976712
+    - id: agriforno-la-spiga
+      marker_label: "5"
+      name: Agriforno La Spiga
+      type: Bakery
+      address: "Viale Corrado IV, 92"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3597970
+      longitude: 13.3794621
+      directions_url: https://www.openstreetmap.org/?mlat=42.3597970&mlon=13.3794621#map=19/42.3597970/13.3794621
+    - id: bar-pasticceria-eugenio-rauco
+      marker_label: "6"
+      name: Bar Pasticceria Eugenio Rauco
+      type: Cafe
+      address: "Corso Federico II, 30"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3473694
+      longitude: 13.3983066
+      directions_url: https://www.openstreetmap.org/?mlat=42.3473694&mlon=13.3983066#map=19/42.3473694/13.3983066
+    - id: ro-by-caesar
+      marker_label: "7"
+      name: Rò by Caesar
+      type: Cafe
+      address: Piazza Battaglione degli Alpini
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3539642
+      longitude: 13.4014857
+      directions_url: https://www.openstreetmap.org/?mlat=42.3539642&mlon=13.4014857#map=19/42.3539642/13.4014857
+    - id: carpe-diem-pizzeria
+      marker_label: "8"
+      name: Carpe Diem Pizzeria
+      type: Pizzeria
+      address: "Via Fontesecco, 6"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3507805
+      longitude: 13.3938750
+      directions_url: https://www.openstreetmap.org/?mlat=42.3507805&mlon=13.3938750#map=19/42.3507805/13.3938750
+    - id: antica-trattoria-dei-gemelli
+      marker_label: "9"
+      name: Antica Trattoria dei Gemelli
+      type: Restaurant
+      address: "Via Rosso Guelfaglione, 29"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3477628
+      longitude: 13.3988596
+      directions_url: https://www.openstreetmap.org/?mlat=42.3477628&mlon=13.3988596#map=19/42.3477628/13.3988596
+    - id: bufalarium-strinella
+      marker_label: "10"
+      name: Pizzeria Bufalarium
+      type: Pizzeria
+      address: "Via Strinella, 64"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3481183
+      longitude: 13.4052003
+      directions_url: https://www.openstreetmap.org/?mlat=42.3481183&mlon=13.4052003#map=19/42.3481183/13.4052003
+    - id: bufalarium-ix-martiri
+      marker_label: "11"
+      name: Pizzeria Bufalarium
+      type: Pizzeria
+      address: Piazza IX Martiri
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3497915
+      longitude: 13.4005795
+      directions_url: https://www.openstreetmap.org/?mlat=42.3497915&mlon=13.4005795#map=19/42.3497915/13.4005795
+    - id: mordi-e-fuggi
+      marker_label: "12"
+      name: Mordi E Fuggi
+      type: Restaurant
+      address: "Via dell'Indipendenza, 5"
+      postal: "67028 San Demetrio ne' Vestini (AQ), Italy"
+      latitude: 42.2877559
+      longitude: 13.5574397
+      directions_url: https://www.openstreetmap.org/?mlat=42.2877559&mlon=13.5574397#map=19/42.2877559/13.5574397
+      note: Outside central L'Aquila
+      include_in_bounds: false
+    - id: ristorante-corso-stretto
+      marker_label: "13"
+      name: Ristorante Corso Stretto
+      type: Restaurant
+      address: "Corso Vittorio Emanuele, 118"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3513336
+      longitude: 13.4001250
+      directions_url: https://www.openstreetmap.org/?mlat=42.3513336&mlon=13.4001250#map=19/42.3513336/13.4001250
+    - id: ristorante-ernesto
+      marker_label: "14"
+      name: Ristorante Ernesto
+      type: Restaurant
+      address: "Piazza della Repubblica, 7"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3474905
+      longitude: 13.3968106
+      directions_url: https://www.openstreetmap.org/?mlat=42.3474905&mlon=13.3968106#map=19/42.3474905/13.3968106
+    - id: paria-pizzeria-partenopea
+      marker_label: "15"
+      name: Parià Pizzeria Partenopea
+      type: Pizzeria
+      address: "Piazza della Repubblica, 16"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3477073
+      longitude: 13.3970872
+      directions_url: https://www.openstreetmap.org/?mlat=42.3477073&mlon=13.3970872#map=19/42.3477073/13.3970872
+    - id: antologie-ristorante
+      marker_label: "16"
+      name: Antologie Ristorante
+      type: Restaurant
+      address: "Via Vetusti, 15"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3483493
+      longitude: 13.3962235
+      directions_url: https://www.openstreetmap.org/?mlat=42.3483493&mlon=13.3962235#map=19/42.3483493/13.3962235
+    - id: lunico-posto
+      marker_label: "17"
+      name: L'Unico Posto
+      type: Restaurant
+      address: "Viale Giacomo Caldora, 14"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3456763
+      longitude: 13.4023207
+      directions_url: https://www.openstreetmap.org/?mlat=42.3456763&mlon=13.4023207#map=19/42.3456763/13.4023207
+    - id: bar-trattoria-marcocci
+      marker_label: "18"
+      name: Bar Trattoria Marcocci
+      type: Restaurant
+      address: "Viale Giacomo Caldora, 14"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3456618
+      longitude: 13.4022651
+      directions_url: https://www.openstreetmap.org/?mlat=42.3456618&mlon=13.4022651#map=19/42.3456618/13.4022651
+    - id: arrosticini-divini
+      marker_label: "19"
+      name: Arrosticini Divini
+      type: Restaurant
+      address: "Via Castello, 13/15"
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3526961
+      longitude: 13.4016748
+      directions_url: https://www.openstreetmap.org/?mlat=42.3526961&mlon=13.4016748#map=19/42.3526961/13.4016748
+    - id: tutti-a-pecora
+      marker_label: "20"
+      name: Tutti a Pecora
+      type: Restaurant
+      address: Piazza San Biagio
+      postal: "67100 L'Aquila (AQ), Italy"
+      latitude: 42.3500107
+      longitude: 13.3971378
+      directions_url: https://www.openstreetmap.org/?mlat=42.3500107&mlon=13.3971378#map=19/42.3500107/13.3971378
 
 # Restricted content (talk titles, abstracts, slides) lives on Indico and is
 # never committed here. Registration and Indico links will be added once available.
