@@ -323,16 +323,15 @@ scientific_committee:
     affiliation: University College Dublin
 
 local_committee:
-  - M. Arca Sedda
-  - R. Buscicchio
-  - N. Grillo
-  - M. Mariano
-  - A. Maselli
-  - A. Mittal
-  - L. Nagni
-  - L. Pezzella
-  - C. Rizo-Crastes
-  - J. Son
+  - Manuel Arca Sedda
+  - Riccardo Buscicchio
+  - Nicole Grillo
+  - Andrea Maselli
+  - Akshita Mittal
+  - Luca Nagni
+  - Laura Pezzella
+  - Charlotte Rizo-Crastes
+  - Juhoon Son
 
 # Public-safe skeleton only: session blocks and times. No talk titles, speakers
 # or abstracts (restricted to LISA members via Indico).
@@ -464,23 +463,21 @@ timetable:
 
 # Public participant list (names and affiliations only; no emails).
 participants:
-  - name: M. Arca Sedda
+  - name: Manuel Arca Sedda
     affiliation: GSSI
-  - name: R. Buscicchio
+  - name: Riccardo Buscicchio
     affiliation: GSSI
-  - name: N. Grillo
+  - name: Nicole Grillo
     affiliation: GSSI
-  - name: M. Mariano
+  - name: Andrea Maselli
     affiliation: GSSI
-  - name: A. Maselli
+  - name: Akshita Mittal
     affiliation: GSSI
-  - name: A. Mittal
+  - name: Luca Nagni
     affiliation: GSSI
-  - name: L. Nagni
+  - name: Laura Pezzella
     affiliation: GSSI
-  - name: L. Pezzella
+  - name: Charlotte Rizo-Crastes
     affiliation: GSSI
-  - name: C. Rizo-Crastes
-    affiliation: GSSI
-  - name: J. Son
+  - name: Juhoon Son
     affiliation: GSSI
