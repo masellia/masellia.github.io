@@ -1444,6 +1444,10 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
     min-height: 360px;
   }
 
+  .conference-page-venue .conference-map {
+    min-height: 480px;
+  }
+
   .conference-map-popup .leaflet-popup-content {
     margin: 0.85rem;
   }

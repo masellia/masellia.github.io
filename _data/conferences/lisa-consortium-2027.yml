@@ -67,6 +67,18 @@ venue_map:
           floor: Floor -1
           image: /assets/img/meetings/LISA_27/Zenith_conferenceroom.jpg
           image_alt: Conference Room in the Zenith Building
+        - name: Meeting Room 1
+          floor: First floor
+          image: /assets/img/meetings/LISA_27/Zenith_meetingroom1.jpg
+          image_alt: Meeting Room 1 in the Zenith Building
+        - name: Meeting Room 2
+          floor: Second floor
+          image: /assets/img/meetings/LISA_27/Zenith_meetingroom2.jpg
+          image_alt: Meeting Room 2 in the Zenith Building
+        - name: Meeting Room 3
+          floor: Second floor
+          image: /assets/img/meetings/LISA_27/Zenith_meetingroom3.jpg
+          image_alt: Meeting Room 3 in the Zenith Building
 
 # Dining options are independent of the meeting buildings.
 dining:
