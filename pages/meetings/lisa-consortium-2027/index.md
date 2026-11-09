@@ -83,7 +83,7 @@ conference_page: home
           {% for member in conference.scientific_committee %}
             <li{% if member.name %} class="conference-committee-member"{% endif %}>
               {% if member.name %}
-                <strong class="conference-committee-member-name">{{ member.name }}</strong>
+                <span class="conference-committee-member-name">{{ member.name }}</span>
                 <span class="conference-committee-member-affiliation">{{ member.affiliation }}</span>
               {% else %}
                 {{ member }}
