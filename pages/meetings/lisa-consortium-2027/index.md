@@ -66,10 +66,12 @@ conference_page: home
   </div>
 </section>
 
+{% comment %}
 <section class="conference-section conference-members">
   <h2>For LISA members</h2>
   <p>The detailed scientific programme, talk abstracts and slides are reserved to LISA members and will be published on the meeting Indico page. The link will appear here once available.</p>
 </section>
+{% endcomment %}
 
 <section class="conference-section conference-committee-section">
   <div class="conference-committees-with-poster">

@@ -271,4 +271,25 @@ timetable:
             title: Sessions to be announced
             speaker: Full timetable on Indico (LISA members)
 
-# Participant list will be published closer to the meeting (names only, no emails).
+# Public participant list (names and affiliations only; no emails).
+participants:
+  - name: M. Arca Sedda
+    affiliation: GSSI
+  - name: R. Buscicchio
+    affiliation: GSSI
+  - name: N. Grillo
+    affiliation: GSSI
+  - name: M. Mariano
+    affiliation: GSSI
+  - name: A. Maselli
+    affiliation: GSSI
+  - name: A. Mittal
+    affiliation: GSSI
+  - name: L. Nagni
+    affiliation: GSSI
+  - name: L. Pezzella
+    affiliation: GSSI
+  - name: C. Rizo-Crastes
+    affiliation: GSSI
+  - name: J. Son
+    affiliation: GSSI
