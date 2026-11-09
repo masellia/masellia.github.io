@@ -11,7 +11,7 @@ conference_page: timetable
 
 <header class="conference-page-intro">
   <h1>Timetable</h1>
-  <p>Session blocks and times only. The detailed programme with talk titles and abstracts is reserved to LISA members and will be published on the meeting Indico page.</p>
+  <p>Under construction.</p>
 </header>
 
 <div class="conference-page-body">
