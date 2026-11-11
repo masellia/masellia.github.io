@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>Redirecting to {{ include.title }}</title>
+    <link rel="canonical" href="{{ include.target }}">
+    <meta http-equiv="refresh" content="0; url={{ include.target }}">
+  </head>
+  <body>
+    <p>This page has moved to <a href="{{ include.target }}">{{ include.title }}</a>.</p>
+  </body>
+</html>

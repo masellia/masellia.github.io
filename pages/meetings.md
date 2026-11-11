@@ -30,7 +30,12 @@ permalink: /meetings/
           <p>{{ meeting.details }}</p>
           <span>{{ meeting.role }}</span>
           {% if meeting.website %}
-            <a class="meeting-website" href="{{ meeting.website | relative_url }}" target="_blank" rel="noopener noreferrer">Conference website <span aria-hidden="true">&rarr;</span></a>
+            {% if meeting.website contains '://' %}
+              {% assign website_url = meeting.website %}
+            {% else %}
+              {% assign website_url = meeting.website | relative_url %}
+            {% endif %}
+            <a class="meeting-website" href="{{ website_url }}" target="_blank" rel="noopener noreferrer">Conference website <span aria-hidden="true">&rarr;</span></a>
           {% endif %}
         </div>
       </article>
