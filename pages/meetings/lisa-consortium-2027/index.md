@@ -77,10 +77,10 @@ conference_page: home
 <section class="conference-section conference-committee-section">
   <div class="conference-committees-with-poster">
     <div class="conference-committees">
-      <section class="conference-committee" aria-labelledby="scientific-committee-title">
-        <h3 id="scientific-committee-title">Scientific Organizing Committee</h3>
+      <section class="conference-committee" aria-labelledby="working-group-chairs-title">
+        <h3 id="working-group-chairs-title">Working Group Chairs</h3>
         <ul>
-          {% for member in conference.scientific_committee %}
+          {% for member in conference.working_group_chairs %}
             <li{% if member.name %} class="conference-committee-member"{% endif %}>
               {% if member.name %}
                 <span class="conference-committee-member-name">{{ member.name }}</span>
@@ -93,10 +93,10 @@ conference_page: home
         </ul>
       </section>
 
-      <section class="conference-committee" aria-labelledby="working-group-chairs-title">
-        <h3 id="working-group-chairs-title">Working Group Chairs</h3>
+      <section class="conference-committee" aria-labelledby="local-committee-title">
+        <h3 id="local-committee-title">Local Organizing Committee</h3>
         <ul>
-          {% for member in conference.working_group_chairs %}
+          {% for member in conference.local_committee %}
             <li>{{ member }}</li>
           {% endfor %}
         </ul>
