@@ -17,8 +17,16 @@
       {% endif %}
       <a href="{{ conference_root | append: 'timetable/' | relative_url }}"{% if page.conference_page == 'timetable' %} aria-current="page"{% endif %}>Timetable</a>
       <a href="{{ conference_root | append: 'participants/' | relative_url }}"{% if page.conference_page == 'participants' %} aria-current="page"{% endif %}>Participants</a>
-      {% if conference.code_of_conduct %}
-        <a href="{{ conference_root | append: 'code-of-conduct/' | relative_url }}"{% if page.conference_page == 'code-of-conduct' %} aria-current="page"{% endif %}>Code of Conduct</a>
+      {% if conference.information_pages %}
+        <details class="conference-nav-dropdown">
+          <summary{% if page.conference_section == 'information' %} aria-current="page"{% endif %}>Information</summary>
+          <div class="conference-nav-submenu">
+            <a href="{{ conference_root | append: 'information/' | relative_url }}"{% if page.conference_page == 'information' %} aria-current="page"{% endif %}>Overview</a>
+            {% for information_page in conference.information_pages %}
+              <a href="{{ conference_root | append: information_page.path | relative_url }}"{% if page.conference_page == information_page.id %} aria-current="page"{% endif %}>{{ information_page.label }}</a>
+            {% endfor %}
+          </div>
+        </details>
       {% endif %}
     </nav>
   </div>

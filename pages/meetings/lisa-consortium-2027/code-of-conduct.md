@@ -5,6 +5,7 @@ description: Code of Conduct for the LISA Consortium Meeting 2027 in L'Aquila.
 permalink: /meetings/lisa-consortium-2027/code-of-conduct/
 conference: lisa-consortium-2027
 conference_page: code-of-conduct
+conference_section: information
 ---
 
 {% assign conference = site.data.conferences[page.conference] %}

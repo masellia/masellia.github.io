@@ -76,7 +76,7 @@ conference_page: home
 
 <section class="conference-section conference-committee-section">
   <div class="conference-committees-with-poster">
-    <div class="conference-committees">
+    <div class="conference-committees conference-committees-single">
       <section class="conference-committee" aria-labelledby="working-group-chairs-title">
         <h3 id="working-group-chairs-title">Working Group Chairs</h3>
         <ul>
@@ -93,14 +93,6 @@ conference_page: home
         </ul>
       </section>
 
-      <section class="conference-committee" aria-labelledby="local-committee-title">
-        <h3 id="local-committee-title">Local Organizing Committee</h3>
-        <ul>
-          {% for member in conference.local_committee %}
-            <li>{{ member }}</li>
-          {% endfor %}
-        </ul>
-      </section>
     </div>
     <aside class="conference-poster-thumb" aria-label="Event poster">
       {% if conference.poster_thumbnail %}

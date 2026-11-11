@@ -120,7 +120,7 @@ Use the NFL season year for `season`, including playoff games played in January 
 
 ## Conference subsites
 
-Small conference websites live under `/meetings/<slug>/` and use the standalone `conference` layout. Each event has one data file under `_data/conferences/` and lightweight pages for Home, Timetable, and Participants under `pages/meetings/<slug>/`; events with several buildings may also add a Venue page, events with dining recommendations may add a Dining page, and events with a `code_of_conduct` block get a Code of Conduct page.
+Small conference websites live under `/meetings/<slug>/` and use the standalone `conference` layout. Each event has one data file under `_data/conferences/` and lightweight pages for Home, Timetable, and Participants under `pages/meetings/<slug>/`; events may also add Venue, Dining, Code of Conduct, and Information pages.
 
 The page front matter identifies the shared data and active local-navigation item:
 
@@ -142,7 +142,11 @@ For a multi-building Leaflet map, add a page with `conference_page: venue`, `con
 
 For a dining map, add a page with `conference_page: dining`, `conference_map: true`, `map_script: conference-dining-map.js`, and a `/meetings/<slug>/dining/` permalink, then define `dining.places` in the conference data file. Each place needs an `id`, marker label, name, type, address, postal code, latitude, longitude, and directions URL; an optional `note` is shown in both the list and the marker popup. Set `include_in_bounds: false` for a distant location that should remain available without zooming the initial map away from the main group. Dining options are independent of the meeting buildings, and the accessible list below the map keeps every address available without JavaScript.
 
-For a Code of Conduct page, add a page with `conference_page: code-of-conduct` and a `/meetings/<slug>/code-of-conduct/` permalink, then define `code_of_conduct` in the conference data file with an optional `policy_url` and a `contacts` list of `name` and `email` entries. The navigation item is shown automatically when the block exists, and the contacts render as mailto links in the reporting section.
+For a Code of Conduct page, add a page with `conference_page: code-of-conduct` and a `/meetings/<slug>/code-of-conduct/` permalink, then define `code_of_conduct` in the conference data file with an optional `policy_url` and a `contacts` list of `name` and `email` entries. The contacts render as mailto links in the reporting section.
+
+Define `information_pages` in the conference data to render the Information dropdown. Each entry needs an `id`, `label`, and path relative to `/meetings/<slug>/`; matching pages use `conference_section: information` so the parent navigation item receives its active state. The Information landing page should link to each child page for users who do not use dropdown navigation.
+
+Local committee portrait entries use `name`, `initials`, `image`, and `image_alt`. Empty image fields render the standard 4:5 initials placeholder. Store approved portraits under `assets/img/meetings/<event>/loc/`, then add the public image path and descriptive alt text without changing page markup.
 
 Timetable talk slots may include a `topic` matching an ID in the conference's `talk_topics` list. The timetable then displays the corresponding colour marker automatically:
 
