@@ -93,10 +93,10 @@ conference_page: home
         </ul>
       </section>
 
-      <section class="conference-committee" aria-labelledby="local-committee-title">
-        <h3 id="local-committee-title">Local Organizing Committee</h3>
+      <section class="conference-committee" aria-labelledby="working-group-chairs-title">
+        <h3 id="working-group-chairs-title">Working Group Chairs</h3>
         <ul>
-          {% for member in conference.local_committee %}
+          {% for member in conference.working_group_chairs %}
             <li>{{ member }}</li>
           {% endfor %}
         </ul>

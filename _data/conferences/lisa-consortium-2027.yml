@@ -322,16 +322,8 @@ scientific_committee:
   - name: Niels Warburton
     affiliation: University College Dublin
 
-local_committee:
-  - Manuel Arca Sedda
-  - Riccardo Buscicchio
-  - Nicole Grillo
-  - Andrea Maselli
-  - Akshita Mittal
-  - Luca Nagni
-  - Laura Pezzella
-  - Charlotte Rizo-Crastes
-  - Juhoon Son
+working_group_chairs:
+  - To be announced
 
 # Public-safe skeleton only: session blocks and times. No talk titles, speakers
 # or abstracts (restricted to LISA members via Indico).
