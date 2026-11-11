@@ -241,56 +241,6 @@ body.conference-site {
   font-size: 1.4rem;
 }
 
-/* The LISA artwork supplies its own navy background and orbit motif. */
-.conference-lisa-consortium-2027 .conference-hero {
-  background: #143549;
-  border-bottom-color: #0a1c3d;
-}
-
-.conference-lisa-consortium-2027 .conference-hero::before {
-  display: none;
-}
-
-.conference-lisa-consortium-2027 .conference-hero-art {
-  position: absolute;
-  z-index: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  display: block;
-  width: 100%;
-  height: auto;
-  opacity: 1;
-  pointer-events: none;
-}
-
-.conference-lisa-consortium-2027 .conference-hero-inner {
-  color: #ffffff;
-}
-
-.conference-lisa-consortium-2027 .conference-eyebrow {
-  color: #a9c1ec;
-  transform: translate(clamp(-2rem, -2vw, -1rem), -3rem);
-}
-
-.conference-lisa-consortium-2027 .conference-hero h1 {
-  color: #ffffff;
-  transform: translate(clamp(-2rem, -2vw, -1rem), -3rem);
-}
-
-.conference-lisa-consortium-2027 .conference-hero h1 span {
-  color: #a9c1ec;
-}
-
-.conference-lisa-consortium-2027 .conference-hero-location {
-  position: absolute;
-  right: clamp(-2rem, -2vw, -1rem);
-  bottom: 1rem;
-  margin: 0;
-  color: rgba(255, 255, 255, 0.85);
-  text-align: right;
-}
-
 .conference-section,
 .conference-page-intro {
   width: min(1180px, calc(100% - 3rem));
@@ -1542,15 +1492,6 @@ a.conference-poster-thumb-frame.has-image:focus-visible {
 
   .conference-page-code-of-conduct .conference-page-intro h1 {
     font-size: 3rem;
-  }
-
-  .conference-lisa-consortium-2027 .conference-hero-art {
-    right: auto;
-    left: 50%;
-    width: auto;
-    max-width: none;
-    height: 48%;
-    transform: translateX(-50%);
   }
 
   .conference-hero::before {
